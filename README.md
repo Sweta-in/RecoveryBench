@@ -52,7 +52,10 @@ RecoveryBench is a six-stage evaluation pipeline for AI agents operating in debt
 ![RecoveryBench Landing Page](docs/screenshots/landing.png)
 
 ### Live Evaluation — Text Analysis
-![Text Analysis with Radar Chart](docs/screenshots/evaluation.png)
+![Text Analysis with Radar Chart](<img width="1918" height="1033" alt="Screenshot 2026-06-20 140944" src="https://github.com/user-attachments/assets/99b7ccb0-0f39-40e8-b03e-44d4bfa0ebae" />
+)
+<img width="1918" height="1031" alt="Screenshot 2026-06-20 140928" src="https://github.com/user-attachments/assets/facce73c-9e70-42ab-972c-7cf1bd6c8b8a" />
+
 
 ### Benchmark Results
 ![RecoveryBench-100 Accuracy Chart](docs/screenshots/benchmark.png)
