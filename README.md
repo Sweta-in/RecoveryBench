@@ -146,11 +146,13 @@ uvicorn api.main:app --port 8000
 # API docs at http://localhost:8000/docs
 ```
 
-### Run the Gradio Demo
+### Run the Frontend
 
 ```bash
-python demo/app.py
-# Opens at http://localhost:7860
+# Serve the custom frontend
+cd frontend
+python -m http.server 8080
+# Opens at http://localhost:8080
 ```
 
 ### Docker
@@ -329,11 +331,22 @@ Core pipeline requires zero paid APIs.
 | Agent Evaluation | LLM-as-judge (Groq / Ollama / Claude) |
 | Voice Pipeline | Whisper + pyannote |
 | API | FastAPI + Pydantic |
-| Demo | Gradio |
+| Frontend	Vanilla HTML/CSS/JS (custom, no framework) |
+| Demo (legacy)	Gradio (demo/app.py, still functional) |
 | Testing | pytest |
 | Deployment | Docker + docker-compose |
 
 ---
+
+The frontend is a custom HTML/CSS/JS single-page application that 
+calls the FastAPI backend. No framework required — open 
+`frontend/index.html` directly or serve with any static file server.
+
+| Tab | Description |
+|-----|-------------|
+| **Text Analysis** | Analyze borrower messages — pipeline trace, risk gauge, radar chart |
+| **Audio Analysis** | Upload .wav/.mp3 → Whisper transcription → full analysis |
+| **Agent Leaderboard** | Score multiple conversations, rank by quality, export CSV |
 
 ## License
 
