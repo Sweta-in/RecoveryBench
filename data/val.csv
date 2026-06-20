@@ -1,0 +1,568 @@
+text,label,language,split
+Dekha jak ki hoy,VAGUE,Bengali,val
+Salary ashle tukni korbo,LIKELY_PAY,Bengali,val
+"Bhai mera bonus aaya hai, paying today",LIKELY_PAY,Hinglish,val
+"Payment receipt is with me, shall I share?",ALREADY_PAID,English,val
+Ok so we'll see,VAGUE,English,val
+boLte paRbO nA ShotTi thx,VAGUE,Bengali,val
+"kabhi nahi dunga, dunga, deal with it!!",HIGH_RISK,Hindi,val
+Tomar loan niye ami care kori na,HIGH_RISK,Bengali,val
+Bola mushkil,VAGUE,Bengali,val
+"tHodA aur TIme DO, monTh end tak taK DE DuNga",LIKELY_PAY,Hindi,val
+Bhebhe dekhbo,VAGUE,Bengali,val
+"Yaar eta fraud, police e jabo plz",HIGH_RISK,Bengali,val
+Hidden charges keno yaar,DISPUTE,Bengali,val
+See sITUATION IS COMPLICATED 💰!!,VAGUE,English,val
+Poora paisa ek saath de dunga,LIKELY_PAY,Hindi,val
+Madam mushkil hai situation 💰,VAGUE,Hindi,val
+Acha hidden charges kyun hain?,DISPUTE,Hindi,val
+Boss jibon mushkil cholche!!,VAGUE,Bengali,val
+Ok plz,VAGUE,English,val
+Full amount amount diya tha last month ko!!,ALREADY_PAID,Hindi,val
+Eta add up hochhe na bro???,DISPUTE,Bengali,val
+Well kITNE DIN OVERDUE HAI,NEEDS_REMINDER,Hindi,val
+rePutAtION rePutAtION BArBAad kAr DunGa TuMHari,HIGH_RISK,Hindi,val
+Dude auto-debit se cover ho gayi thi emi 😡,ALREADY_PAID,Hindi,val
+"Look records records dekho, itna nahi banta mera",DISPUTE,Hinglish,val
+Why calling? Already paid hai,ALREADY_PAID,Hinglish,val
+Ho sakta hai,VAGUE,Hindi,val
+"Ok fine, take the payment by Friday",LIKELY_PAY,English,val
+"Ek aur chance chance do, is weekend guaranteed",LIKELY_PAY,Hinglish,val
+RTGS se transfer kar diya tha,ALREADY_PAID,Hindi,val
+Due date date kokhon chhilo?!!,NEEDS_REMINDER,Bengali,val
+Well lEAVE ME ALONE OR I'LL TAKE LEGAL ACTION ...???,HIGH_RISK,English,val
+Acha ho sakta sakta hai,VAGUE,Hindi,val
+I'll get back to you,NEEDS_REMINDER,Hinglish,val
+Bhai bill dobara bhej do bro,NEEDS_REMINDER,Hindi,val
+"haan haan karunga, is weekend tak pakka???",LIKELY_PAY,Hinglish,val
+Ho sakta hai 😭!!,VAGUE,Hindi,val
+Honestly notification miss hoye geche mone hoy,NEEDS_REMINDER,Bengali,val
+"SYSTEM SYSTEM CHECK KARO, MERA PAYMENT HO GAYA plz",ALREADY_PAID,Hinglish,val
+"Listen check please, my payment was successful plz",ALREADY_PAID,Hinglish,val
+Bhebhe dekhbo ok?,VAGUE,Bengali,val
+Listen sOcIal mEdIa pe expOSe kaRunga???,HIGH_RISK,Hindi,val
+Yaar dekhi,VAGUE,Bengali,val
+"Ok noted, check karta hun",NEEDS_REMINDER,Hindi,val
+"See i already paid this EMI, check karo ok?",DISPUTE,Hinglish,val
+Kuch aisa hi,VAGUE,Hindi,val
+Acha auto-debit on tha na?!!,NEEDS_REMINDER,Hindi,val
+"Acha haan jani, ek shoptahe e korbo",LIKELY_PAY,Bengali,val
+"I did the NEFT within a week, it should reflect",ALREADY_PAID,English,val
+decide karne mein mein time do 😡,VAGUE,Hindi,val
+i MaDe pArTial payment On 25Th And ReSt on 25TH ok?,ALREADY_PAID,English,val
+Listen i'll try,VAGUE,English,val
+Haan number block kar raha hun 🙏🙏,HIGH_RISK,Hindi,val
+Yaar eMI ka paisa alag set hai,LIKELY_PAY,Hinglish,val
+Suno situation check karna padega,VAGUE,Hinglish,val
+"Honestly ekhon taka taka nei, agle shoptahe porjonto wait koro boss",LIKELY_PAY,Bengali,val
+Haan i PAID THIS OFF MONTHS AGO,ALREADY_PAID,English,val
+"I ALREADY PAID THIS EMI, CHECK KARO na????",DISPUTE,Hinglish,val
+who knows 💰,VAGUE,English,val
+Bhai time chahiye merko,VAGUE,Hinglish,val
+Listen tum tum mera kuch nahi kar sakte ...,HIGH_RISK,Hindi,val
+Suno Suno kORTE PARBO HOYTO 🙏🙏,VAGUE,Bengali,val
+"Half abhi de deta hun, baaki kal",LIKELY_PAY,Hindi,val
+Sir pAYMENT FIX HAI SOMVAAR KO 😢,LIKELY_PAY,Hindi,val
+Ekhon na thx???,VAGUE,Bengali,val
+"EMI amount ready hai, bhej raha hun",LIKELY_PAY,Hindi,val
+Well aUTO-DEBIT ON CHHILO NA?!!,NEEDS_REMINDER,Bengali,val
+Number block korchi,HIGH_RISK,Bengali,val
+I don't know 🙏🙏,VAGUE,English,val
+Arey don't test me,HIGH_RISK,Hinglish,val
+PACHTAOGE MUJHE CALL KARKE bro!!,HIGH_RISK,Hindi,val
+Today raat tak ho jayega guarantee,LIKELY_PAY,Hinglish,val
+Complicated hai hai plz,VAGUE,Hindi,val
+"UPI se paid already, recheck please",DISPUTE,Hinglish,val
+Let me check and I'll tell you,NEEDS_REMINDER,Hinglish,val
+"Bhai bHai bHai ALready traNsfer kar dIYa thA, chEck karo",ALREADY_PAID,Hinglish,val
+"Bhai mONE ACHE PAY KORECHILEM, STATEMENT DEKHCHI ...",ALREADY_PAID,Bengali,val
+"Your system system not updated, I paid already bro 🙏",ALREADY_PAID,Hinglish,val
+Listen iS THERE THERE A GRACE PERIOD????,NEEDS_REMINDER,English,val
+"Just busy with work, will handle soon",NEEDS_REMINDER,English,val
+paymnt confirmed for monday,LIKELY_PAY,English,val
+aMI AgE-I diye diYEchi 🤷!!,ALREADY_PAID,Bengali,val
+Haan this is not my loan yaar 🙂!!,DISPUTE,Hinglish,val
+My payment went through on 20th,ALREADY_PAID,English,val
+"UPI pathao, ekhon e kori boss",LIKELY_PAY,Bengali,val
+Dekho sochunga sochunga iske baare mein???,VAGUE,Hindi,val
+"Well check your records, I don't owe this much !!",DISPUTE,English,val
+"I recall paying this, let me check my statement",ALREADY_PAID,English,val
+Arey ami ei call record korchi 💰,HIGH_RISK,Bengali,val
+door ho jao.???,HIGH_RISK,Hindi,val
+hidden charges kyun hain plz,DISPUTE,Hindi,val
+"Ok so i PAID THROUGH BANK TRANSFER, CHECK AGAIN",DISPUTE,English,val
+TIME TIME CHAI AMAKE,VAGUE,Bengali,val
+Yaar salarY aatE Hi tURaNt kaRUngA 👍,LIKELY_PAY,Hindi,val
+Look banking ombudsman er kache jabo!!,HIGH_RISK,Bengali,val
+Basically bhai notification nahi aaya 🙂,NEEDS_REMINDER,Hinglish,val
+Number block block korchi 🙏🙏,HIGH_RISK,Bengali,val
+"i'Ve kept the Money aSidE, wiLL pAy within a week.",LIKELY_PAY,English,val
+Social media pe viral karunga,HIGH_RISK,Hinglish,val
+Basically wORKING ON IT HUN,VAGUE,Hinglish,val
+Pata hi nahi chala late ho gaya,NEEDS_REMINDER,Hindi,val
+Ekhon na,VAGUE,Bengali,val
+MAINE 1ST KO PAY KIYA THA,ALREADY_PAID,Hindi,val
+Well taka pathacchi ektu pore,LIKELY_PAY,Bengali,val
+"Sab pay kar diya, kuch pending nahi",ALREADY_PAID,Hindi,val
+Give me 2 days to sort this,NEEDS_REMINDER,Hinglish,val
+Ami taka already transfer kore diyechi,ALREADY_PAID,Bengali,val
+Kal call kar lena is baare mein,NEEDS_REMINDER,Hindi,val
+bank transfer diye pathiye diyechi taka,ALREADY_PAID,Bengali,val
+Basically mushkil obostha,VAGUE,Bengali,val
+"Receipt hai mere paas, want to see?",ALREADY_PAID,Hinglish,val
+"Hey payment payment proof is in my email, can forward!!",ALREADY_PAID,English,val
+Where do do I pay? What's the link 🙏,NEEDS_REMINDER,English,val
+Maybe!!,VAGUE,English,val
+Suno nEFt se 25Th ko TrANSfer kiyA Tha ...,ALREADY_PAID,Hindi,val
+This amount is wrong,DISPUTE,English,val
+Bhai pore bolbo ami,NEEDS_REMINDER,Bengali,val
+Recording this call FYI,HIGH_RISK,Hinglish,val
+Interest rate kyun badla?,DISPUTE,Hindi,val
+Basically maybE ho jAYega!!,VAGUE,Hinglish,val
+"Kabhi nahi dunga, deal with it",HIGH_RISK,Hindi,val
+Dekho shesh bar bar bolchi tomaKe,HIGH_RISK,Bengali,val
+"Pakka pay korechi, screenshot ache",ALREADY_PAID,Bengali,val
+"Sorry bhai, missed earlier calls",NEEDS_REMINDER,Hinglish,val
+Bas salary ka wait hai,LIKELY_PAY,Hindi,val
+"Madam ok bhai, I'll pay within a week 🙏🙏",LIKELY_PAY,Hinglish,val
+i'lL clear tHe dUes tHiS weekEnD!!,LIKELY_PAY,English,val
+Listen mera patience mat check karo 💰,HIGH_RISK,Hindi,val
+Look check karke batata hun ok?,NEEDS_REMINDER,Hindi,val
+"Did prepaymt, not showing in system asap",DISPUTE,Hinglish,val
+Abhi can't say,VAGUE,Hinglish,val
+I think koi mistake hai,DISPUTE,Hinglish,val
+Dekho life is tough right now,VAGUE,English,val
+"Let me check balance, is weekend mein done 👍???",LIKELY_PAY,Hinglish,val
+"Bhai already transfer kar diya tha, check karo",ALREADY_PAID,Hinglish,val
+"Actually janano r jonno dhonnobad, check korbo",NEEDS_REMINDER,Bengali,val
+"Poora pay kiya hai, tumhe mil gaya hoga",ALREADY_PAID,Hindi,val
+Suno dui dIn dao sORt koRar jonno!!,NEEDS_REMINDER,Bengali,val
+Actually next week yaad dilana please thanks,NEEDS_REMINDER,Hinglish,val
+Bhai i don't know yaar,VAGUE,Hinglish,val
+"Age clarification dao, tarpor payment",DISPUTE,Bengali,val
+Look number block kar raha hun 🙏,HIGH_RISK,Hindi,val
+"Ek aur chance do, kal guaranteed yaar",LIKELY_PAY,Hinglish,val
+Where can I check my outstanding?,NEEDS_REMINDER,English,val
+Sir neft se paisa bheja hai,ALREADY_PAID,Hinglish,val
+Nijer kaj kaj koro,HIGH_RISK,Bengali,val
+Calculation mein kuch gadbad hai,DISPUTE,Hindi,val
+"promise korchi, ek shoptahe e.",LIKELY_PAY,Bengali,val
+Yaar ye kaun si EMI hai?,NEEDS_REMINDER,Hindi,val
+Aur options sochne do sir,VAGUE,Hindi,val
+Already due? I thought next month hai,NEEDS_REMINDER,Hinglish,val
+Give me some time to decide,VAGUE,English,val
+Look leave me alone ya legal action lunga 🤷,HIGH_RISK,Hinglish,val
+Sir dEKHTE HAIN,VAGUE,Hindi,val
+I'll I'll look into it bro,VAGUE,English,val
+Arey how much is it exactly?,NEEDS_REMINDER,English,val
+"Busy tha, dekh lunga plz",NEEDS_REMINDER,Hindi,val
+Try karunga,VAGUE,Hinglish,val
+issues ache 🤷???,VAGUE,Bengali,val
+"CoNsIder it done, payiNg by fRIDaY sir",LIKELY_PAY,Hinglish,val
+Last Last time bol raha hun,HIGH_RISK,Hinglish,val
+"You will receive payment this weekend, guaranteed 😢",LIKELY_PAY,English,val
+taka ber hoye geche account theke na?!!,ALREADY_PAID,Bengali,val
+phonepe se paisa bheja hai,ALREADY_PAID,Hinglish,val
+I transferred via PhonePe on 25th,ALREADY_PAID,English,val
+Actually amnt bhej raha hun thodi der mein,LIKELY_PAY,Hindi,val
+Dekhe nii,VAGUE,Bengali,val
+Your agent said different amount last time,DISPUTE,Hinglish,val
+Boss eta add up hochhe na !!,DISPUTE,Bengali,val
+Basically my side side se transaction successful!!,ALREADY_PAID,Hinglish,val
+"Kokhono debo na, deal with it",HIGH_RISK,Bengali,val
+Hard to say honestly,VAGUE,Hinglish,val
+Amount e discrepancy ache,DISPUTE,Bengali,val
+Ok???,VAGUE,English,val
+Don't call me again or I'll file a complaint,HIGH_RISK,English,val
+Paytm diye 20th e transfer korechilem,ALREADY_PAID,Bengali,val
+MUJHE 5 5 DIN AUR CHAHIYE BAS thx,LIKELY_PAY,Hindi,val
+"Arey i've already spoken to my bank, transfer will come within a week",LIKELY_PAY,English,val
+Case karo agar himmat hai thanks,HIGH_RISK,Hindi,val
+"Haan bhai, Shukravaar Shukravaar tak tak kar dunga",LIKELY_PAY,Hindi,val
+"Boss travel pe tha, abhi aaya hun",NEEDS_REMINDER,Hindi,val
+Look eXACT AMOUNT BATA DO???,NEEDS_REMINDER,Hinglish,val
+Email e details pathao plz!!,NEEDS_REMINDER,Bengali,val
+Didn't know it was overdue yaar,NEEDS_REMINDER,Hinglish,val
+"Work mein busy, busy, will sort soon",NEEDS_REMINDER,Hinglish,val
+Yaar wOrKiNG oN it Hun,VAGUE,Hinglish,val
+Who knows,VAGUE,English,val
+"Ektu somoy dao, Shukrobar er moddhe diye debo",LIKELY_PAY,Bengali,val
+"Basically salry aa jayegi Ravivaar ko, uske baad turant 😭???",LIKELY_PAY,Hindi,val
+Suno salary ashle tukni korbo,LIKELY_PAY,Bengali,val
+Look i have other priorities 🤷,VAGUE,English,val
+Amake overcharge kora hoyeche,DISPUTE,Bengali,val
+"Arey Arey account details do, abhi karta hun thx",LIKELY_PAY,Hinglish,val
+Bhai samajh leta hun main,NEEDS_REMINDER,Hindi,val
+"Yes I know, will transfer tomorrow",LIKELY_PAY,English,val
+Bank e debit dekhacche,ALREADY_PAID,Bengali,val
+Full amount de dunga by Friday,LIKELY_PAY,Hinglish,val
+Your threats are useless on me,HIGH_RISK,Hinglish,val
+Finances Finances check karke batata hun 😢,NEEDS_REMINDER,Hindi,val
+Baad mein bataunga,VAGUE,Hindi,val
+I made the payment within a week,ALREADY_PAID,English,val
+I wasn't aware it was overdue ok?!!,NEEDS_REMINDER,English,val
+"Actually system mein check karo, payment hua hai",ALREADY_PAID,Hindi,val
+Co-applicant already paid this asap,DISPUTE,Hinglish,val
+Dekhte hain kuch hota hai,VAGUE,Hindi,val
+Taratari handle korbo 😢!!,NEEDS_REMINDER,Bengali,val
+Actually onek hoyeche tomar harassment???,HIGH_RISK,Bengali,val
+Poora taka taka ekbare diye debo 💰!!,LIKELY_PAY,Bengali,val
+Actually this is a billing error on your end 🤷,DISPUTE,English,val
+"half abhi de deta hun, baaki is weekend",LIKELY_PAY,Hindi,val
+Well aaj raater moddhe hoye jabe,LIKELY_PAY,Bengali,val
+Sir my payment was deducted but you're showing pending yaar,DISPUTE,English,val
+Final answer: answer: no payment,HIGH_RISK,Hinglish,val
+NEFT kar dunga month end tak 🙏,LIKELY_PAY,Hindi,val
+OnE OnE morE Call = fIr,HIGH_RISK,Hinglish,val
+I thought auto-debit was on,NEEDS_REMINDER,English,val
+Abhi commit nahi kar sakta,VAGUE,Hindi,val
+Listen statement pawa jabe?!!,NEEDS_REMINDER,Bengali,val
+I have have nothing to give,HIGH_RISK,Hinglish,val
+I have other priorities asap,VAGUE,English,val
+Media mein jaunga jaunga with proof!!,HIGH_RISK,Hinglish,val
+"Listen eta fraud, fraud, police e jabo",HIGH_RISK,Bengali,val
+Bujhte hobe,VAGUE,Bengali,val
+"Check karo please, payment successful tha",ALREADY_PAID,Hindi,val
+Dekho this Is the laSt tiME i'm telliNg you 🙂!!,HIGH_RISK,English,val
+Full amount diyechilam 25th e,ALREADY_PAID,Bengali,val
+Ek aur call aaya to report karunga,HIGH_RISK,Hindi,val
+Suno will get back to you later,VAGUE,Hinglish,val
+Well cOnSuMeR CouRt E jabo toMar biRUDdhe 💰???,HIGH_RISK,Bengali,val
+YOU CAN'T DO DO ANYTHING TO ME 🙂,HIGH_RISK,English,val
+Sir shayad ho jaye,VAGUE,Hindi,val
+I made partial payement on 20th and rest on 20th,ALREADY_PAID,English,val
+Boss tiMe wasTe wasTe mat kAro ApNa,HIGH_RISK,Hinglish,val
+Suno eMI TAKA ALAG REKHECHI,LIKELY_PAY,Bengali,val
+Yaar Yaar koto taka exactly?,NEEDS_REMINDER,Bengali,val
+Ok so tum logon ko sharam nahi 😢,HIGH_RISK,Hinglish,val
+I have nothing to pay with yaar!!,HIGH_RISK,English,val
+"Paying today itself, please wait",LIKELY_PAY,English,val
+"I promise bhai, 3 din mein tak",LIKELY_PAY,Hinglish,val
+"Ok noted, check korchi",NEEDS_REMINDER,Bengali,val
+See i think notification miss ho gayi ...,NEEDS_REMINDER,Hinglish,val
+"Receipt hai, bhejun kya bro",ALREADY_PAID,Hindi,val
+payment fix hai mangalvaar ko,LIKELY_PAY,Hindi,val
+Dude i have to think,VAGUE,English,val
+Yaar i have have no obligation to pay this ok,HIGH_RISK,English,val
+"i'm not running away, will pay in 3 days 💰!!",LIKELY_PAY,Hinglish,val
+"Ok so rECEIPT ACHE AMAR KACHE, PATHABO?",DISPUTE,Bengali,val
+Haan 5th er transaction check koro,DISPUTE,Bengali,val
+I paid paid this off months ago thanks,ALREADY_PAID,English,val
+THeek hai 🙏🙏 🙏🙏,VAGUE,Hindi,val
+"Suno go aheAd And sUe me, i don'T Care 😡",HIGH_RISK,English,val
+Taka pathacchi ektu pore,LIKELY_PAY,Bengali,val
+"Main kar raha hun arrange, is weekend tak ho jayega 💰",LIKELY_PAY,Hindi,val
+Actually abar call korle complaint korbo 🙏🙏???,HIGH_RISK,Bengali,val
+Yaar bahut hua tumhara harassment,HIGH_RISK,Hindi,val
+"Ye fraud hai, police mein jaaunga",HIGH_RISK,Hindi,val
+"De dunga, chinta mat karo thanks",LIKELY_PAY,Hindi,val
+"Transaction reference number hai, check system",ALREADY_PAID,Hinglish,val
+Arey stop calling me,HIGH_RISK,English,val
+Bahut pehle pehle pay kar diya tha plz,ALREADY_PAID,Hindi,val
+I got the confirmation message after paying,ALREADY_PAID,English,val
+Situation complicated hai,VAGUE,Hinglish,val
+Boss ei additional charges ke authorize koreche thx,DISPUTE,Bengali,val
+Ok so aMI JANTAM NA OVERDUE HOYECHE,NEEDS_REMINDER,Bengali,val
+Actually ye additional charges kisne authorize kiye?!!,DISPUTE,Hindi,val
+Listen mAINE YE EMI ALREADY PAY KI HAI,DISPUTE,Hindi,val
+Mind your business business bro,HIGH_RISK,Hinglish,val
+Ok so abhi tak unpaid kyun hai?,DISPUTE,Hindi,val
+Arey soch raha hun,VAGUE,Hindi,val
+PhonePe se bhej diya paisa sir,ALREADY_PAID,Hindi,val
+Tumhara system galat data dikha raha hai,DISPUTE,Hindi,val
+"Money is is ready, will transfer by end of month yaar",LIKELY_PAY,English,val
+i just need 15 more days ok?!!,LIKELY_PAY,English,val
+Ok so i'll consider it 👍,VAGUE,English,val
+"Ami payment korbo, tension nio na",LIKELY_PAY,Bengali,val
+"Ekdin aro please, pakka debo",LIKELY_PAY,Bengali,val
+You people are scammers asap,HIGH_RISK,English,val
+ARO EKTA CALL CALL ASHLE REPORT KORBO???,HIGH_RISK,Bengali,val
+"Actually amar CA dekhe ei shob, take jigges kori",NEEDS_REMINDER,Bengali,val
+Wrong person ko call kar rahe ho,HIGH_RISK,Hinglish,val
+Let me figure this out 👍,NEEDS_REMINDER,Hinglish,val
+"Bhai mera mera bonus aaya hai, paying today 🙏🙏",LIKELY_PAY,Hinglish,val
+Sir jA KORCHO ILLEGAL 🙏🙏,HIGH_RISK,Bengali,val
+"Go ahead and sue me, I don't care",HIGH_RISK,English,val
+"I'm serious about this, will pay tomorrow",LIKELY_PAY,Hinglish,val
+"Payment ho gaya hai, 1st ko kiya tha",ALREADY_PAID,Hinglish,val
+"Acha bank mein debit hai, payment done 🙏",ALREADY_PAID,Hinglish,val
+Yaar email e details pathao thanks,NEEDS_REMINDER,Bengali,val
+Basically lagta hai koi mistake hai!!,DISPUTE,Hindi,val
+"Haan thik ache, diye dii",LIKELY_PAY,Bengali,val
+Haan check the 10th transaction,DISPUTE,English,val
+Well onno option bhabte dao.???,VAGUE,Bengali,val
+"Basically system system mein check karo, payment hua hai",ALREADY_PAID,Hindi,val
+NEFT kar dunga ek hafte mein,LIKELY_PAY,Hindi,val
+Dude bhai notification nahi aaya,NEEDS_REMINDER,Hinglish,val
+"Honestly ami neft diye pay korechi, abar check koro 🙏🙏",DISPUTE,Bengali,val
+Honestly i need to talk to my spouse first,NEEDS_REMINDER,English,val
+remind me later plz,NEEDS_REMINDER,Hinglish,val
+Actually onno priorities ache???,VAGUE,Bengali,val
+Can you email me the details?,NEEDS_REMINDER,English,val
+Mera payment 10th ko go through hua,ALREADY_PAID,Hinglish,val
+Well hoyto hoye jabe 😭,VAGUE,Bengali,val
+Amar side theke arrangement hoye geche,LIKELY_PAY,Bengali,val
+Madam paytm diye 25th e transfer korechilem na?,ALREADY_PAID,Bengali,val
+Whatever,VAGUE,English,val
+My lawyer lawyer will handle this,HIGH_RISK,English,val
+i'm thinking thinking about it abhi???,VAGUE,Hinglish,val
+Honestly thiS Is ILlEgal What yoU're doing,HIGH_RISK,English,val
+UPI se pay kiya already,ALREADY_PAID,Hinglish,val
+Dude Dude it's not that simple yaar bro,VAGUE,Hinglish,val
+Late fee koto lagbe?,NEEDS_REMINDER,Bengali,val
+last month er transaction check koro,DISPUTE,Bengali,val
+Madam processing fee waive honi thi,DISPUTE,Hinglish,val
+Abhi tak unpaid kyun hai?,DISPUTE,Hindi,val
+"Dekho payment ho gaya hai, 25th ko kiya tha",ALREADY_PAID,Hinglish,val
+"Jo karna hai karo, main nahi dunga",HIGH_RISK,Hindi,val
+fir KORbo TomAr naMe ...,HIGH_RISK,Bengali,val
+Amar bank successful successful payment dekhacche plz,DISPUTE,Bengali,val
+Grace period milta hai kya ok?!!,NEEDS_REMINDER,Hindi,val
+"Sue me if you want, I don't care",HIGH_RISK,Hinglish,val
+Dekhi,VAGUE,Bengali,val
+Look ok Let me figure tHis oUt,NEEDS_REMINDER,English,val
+"Dude paid and done, update your records plz!!",ALREADY_PAID,English,val
+dubara contact mat karna boss,HIGH_RISK,Hindi,val
+Mujhe 10 din aur chahiye bas,LIKELY_PAY,Hindi,val
+Send me the details again please,NEEDS_REMINDER,English,val
+Arey auto-debit hua tha 20th ko,ALREADY_PAID,Hinglish,val
+Sir abhi nahi bata sakta,VAGUE,Hindi,val
+"Ami kokhono mana korini, payment korbo",LIKELY_PAY,Bengali,val
+Madam cheque deposit deposit korechilem goto shoptahe,ALREADY_PAID,Bengali,val
+Dekho why is this still showing as unpaid,DISPUTE,English,val
+Kothai pay korte hobe? Link dao,NEEDS_REMINDER,Bengali,val
+Will get back to you later,VAGUE,Hinglish,val
+Months age pay kore diyechilem,ALREADY_PAID,Bengali,val
+Case koro jodi shahos thake,HIGH_RISK,Bengali,val
+Was there an SMS? I didn't see it,NEEDS_REMINDER,English,val
+Let me get back to you on this thanks,NEEDS_REMINDER,English,val
+"I am serious about paying, give me 3 days",LIKELY_PAY,English,val
+Late fee kitni lagegi?,NEEDS_REMINDER,Hindi,val
+Basically ok,VAGUE,English,val
+PROMISE KORTE KORTE PARBO NA yaar,VAGUE,Bengali,val
+"Haan jani, ek shoptahe e korbo ok?",LIKELY_PAY,Bengali,val
+Can't commit right now,VAGUE,English,val
+"Bonus aaya hai, abhi de deta hun",LIKELY_PAY,Hindi,val
+How much is it exactly?,NEEDS_REMINDER,English,val
+Amake aro 7 din dao 😢,LIKELY_PAY,Bengali,val
+You will regret this,HIGH_RISK,Hinglish,val
+"Madam haan haan karunga, agle hafte tak pakka",LIKELY_PAY,Hinglish,val
+"I'm not running running away, will pay by end of month",LIKELY_PAY,Hinglish,val
+EMI account theke kete geche,ALREADY_PAID,Bengali,val
+Ei additional charges ke authorize koreche?,DISPUTE,Bengali,val
+"Basically account number dao, ekhon transfer kori!!",LIKELY_PAY,Bengali,val
+Haan kuch aisa hi,VAGUE,Hindi,val
+Basically auto-debit 1st e hoyechhilo 👍,ALREADY_PAID,Bengali,val
+Sir late late pay karne pe kitni penalty?!!,NEEDS_REMINDER,Hinglish,val
+Payment proof email e ache,ALREADY_PAID,Bengali,val
+"I'm arranging the money, will pay tomorrow",LIKELY_PAY,English,val
+Honestly sal aate hi turant karunga boss,LIKELY_PAY,Hindi,val
+Whatever jo bhi,VAGUE,Hinglish,val
+TimE CHaI aMakE 😢!!,VAGUE,Bengali,val
+"Listen i rEMEmber Now, Let me PaY quicKlY thx",LIKELY_PAY,English,val
+Yaar will clear clear the pending amount before Tuesday!!,LIKELY_PAY,English,val
+"Pay karke khatam khatam kiya, update karo",ALREADY_PAID,Hindi,val
+Tora shob scammer,HIGH_RISK,Bengali,val
+"Balance zero hona chahiye, all paid",DISPUTE,Hinglish,val
+"Haan ok noted, check korchi",NEEDS_REMINDER,Bengali,val
+Stop calling me,HIGH_RISK,English,val
+I need to verify this with my bank,DISPUTE,English,val
+Complicated Complicated byapar bro,VAGUE,Bengali,val
+I'll go to the media about this,HIGH_RISK,English,val
+Exact amount bata bata do,NEEDS_REMINDER,Hinglish,val
+"I'm not running away, will pay by Friday",LIKELY_PAY,Hinglish,val
+Mind your own business sir,HIGH_RISK,English,val
+exActlY KITna haI thx,NEEDS_REMINDER,Hinglish,val
+I already paid this EMI,DISPUTE,English,val
+which emi is this for thx!!,NEEDS_REMINDER,English,val
+"Bhai poora pay kiya hai, tumhe mil gaya hoga asap",ALREADY_PAID,Hindi,val
+Honestly charges er complete breakdown pathao 🙂???,DISPUTE,Bengali,val
+Transfer kiya tha PhonePe se on 5th,ALREADY_PAID,Hinglish,val
+Hey theek hai ok ...!!,VAGUE,Hinglish,val
+Decide karne mein time do,VAGUE,Hindi,val
+Never contact me again,HIGH_RISK,Hinglish,val
+Madam transaction reference number check koro,ALREADY_PAID,Bengali,val
+"Boss government e chinchi lokjon, shambhale 😭???",HIGH_RISK,Bengali,val
+15th er credit check koro,ALREADY_PAID,Bengali,val
+Dekho amount mein mismatch hai,DISPUTE,Hinglish,val
+Listen i want a detailed audit of my account,DISPUTE,English,val
+Bill dobara bhej do,NEEDS_REMINDER,Hindi,val
+Dui bar pay korechi actually,ALREADY_PAID,Bengali,val
+Oh yaar forgot about this one,NEEDS_REMINDER,Hinglish,val
+Listen lost track of dates yaar,NEEDS_REMINDER,Hinglish,val
+possIBly !!,VAGUE,English,val
+bAnK SE SE verIFy kArNa paDega mUjHE???,DISPUTE,Hindi,val
+Amake onno interest rate promise kora hoyechhilo,DISPUTE,Bengali,val
+Hey maine ye loan nahi liya hai !!,DISPUTE,Hinglish,val
+"Acha let me pay in installments, first one in 3 days!!",LIKELY_PAY,Hinglish,val
+AMAR PLAN ACHE SHOMBAR DITE thx!!,LIKELY_PAY,Bengali,val
+Well i need to verify this with my bank 😡!!,DISPUTE,English,val
+Madam it's not that simple yaar 💰,VAGUE,Hinglish,val
+Look maybe ho jayega,VAGUE,Hinglish,val
+I I never agreed to these terms yaar,DISPUTE,Hinglish,val
+Yaar i PROMISE TO PAY BY FRIDAY FOR SURE,LIKELY_PAY,English,val
+Yaar bank se verify karna padega mujhe 🙏🙏,DISPUTE,Hindi,val
+Aage se mere lawyer se baat karo,HIGH_RISK,Hindi,val
+Sochunga iske baare mein boss,VAGUE,Hindi,val
+Basically which loan ki baat ho rahi hai?!!,NEEDS_REMINDER,Hinglish,val
+amount meiN mismatch haI asap,DISPUTE,Hinglish,val
+"Don't worry, payment is on the way",LIKELY_PAY,English,val
+Bhai i'll clear the dues tomorrow,LIKELY_PAY,English,val
+Haan social media te expose korbo thx,HIGH_RISK,Bengali,val
+Payment fix hai Shukravaar ko 🙂,LIKELY_PAY,Hindi,val
+Outstanding kothay check check korbo?!!,NEEDS_REMINDER,Bengali,val
+The penalty charges are too high,DISPUTE,English,val
+Send Send me a complete breakdown of charges 😭,DISPUTE,English,val
+Not sure,VAGUE,English,val
+Tomar company bhalo lokeder harrass kore,HIGH_RISK,Bengali,val
+"Actually tHIS WAS PAID AGES AGO, CHECK PROPERLY",ALREADY_PAID,English,val
+Actually mera plan hai Shukravaar ko dene ka,LIKELY_PAY,Hindi,val
+Ok so will clear the pending amount before Sunday,LIKELY_PAY,English,val
+Auto-pay kibhabe set korte hoy?,NEEDS_REMINDER,Bengali,val
+dekha jabe 😡,VAGUE,Bengali,val
+Ekhon e due hoye geche? Ami bhebechilam porer mash,NEEDS_REMINDER,Bengali,val
+Maybe shayad,VAGUE,Hinglish,val
+"Honestly please check, payment was successful",ALREADY_PAID,English,val
+Look my LAwyeR wiLl hANdle thiS???,HIGH_RISK,English,val
+RTGS RTGS diye pathiye diyechi taka!!,ALREADY_PAID,Bengali,val
+"Do whatever, not paying",HIGH_RISK,Hinglish,val
+"Don't Don't worry, payment is on the way 😡",LIKELY_PAY,English,val
+Poora taka ekbare diye debo,LIKELY_PAY,Bengali,val
+"Honestly my bank shows the debit, payment is done",ALREADY_PAID,English,val
+Manager se baat karao mujhe,DISPUTE,Hindi,val
+Pore bolbo ami ami ...,NEEDS_REMINDER,Bengali,val
+ETa josULI 😭,HIGH_RISK,Bengali,val
+"NEFT kar diya tha is weekend, should reflect now!!",ALREADY_PAID,Hinglish,val
+"Basically my balance should be zero, I completed all payments 😢",DISPUTE,English,val
+Hmm ok,VAGUE,Hinglish,val
+Actually sms aaya tha kya? nahi dekha,NEEDS_REMINDER,Hinglish,val
+"Salary credited nahi hui, but jaise hi aaye payment done",LIKELY_PAY,Hinglish,val
+Ok so sochunga iske baare mein asap,VAGUE,Hindi,val
+nEft diYE trAnSFEr Kore diYEchi 😭,ALREADY_PAID,Bengali,val
+Basically ami ei loan niini,DISPUTE,Bengali,val
+Madam jo bhi bro???,VAGUE,Hindi,val
+Auto-debit Auto-debit theke kete geche,ALREADY_PAID,Bengali,val
+Haan maine pehle hi kar diya,ALREADY_PAID,Hindi,val
+"I need an escalation, this amount is disputed",DISPUTE,English,val
+Well last time bol raha hun,HIGH_RISK,Hinglish,val
+Mera Mera lawyer dekhega ye sab thx,HIGH_RISK,Hindi,val
+Let me check my situation,VAGUE,English,val
+BANK STATEMENT STATEMENT SHOWS THE PAYMENT CLEARLY,ALREADY_PAID,English,val
+"The transaction was completed, check your end",ALREADY_PAID,English,val
+Koshish karunga,VAGUE,Hindi,val
+Well theek hai ok plz,VAGUE,Hinglish,val
+"Actually bhai paise rakh diye hain, just need to transfer",LIKELY_PAY,Hinglish,val
+See penalty charges charges too much hai,DISPUTE,Hinglish,val
+Listen i'll consider it sochunga 🙂,VAGUE,Hinglish,val
+What you're doing is illegal bhai,HIGH_RISK,Hinglish,val
+Hey oh oh bhool gaya tha,NEEDS_REMINDER,Hindi,val
+Maine pehle hi kar diya,ALREADY_PAID,Hindi,val
+Boss onno priorities ache,VAGUE,Bengali,val
+"Ami arrange korchi, ek shoptahe hoye jabe",LIKELY_PAY,Bengali,val
+"Fine, I will pay. How much exactly?",LIKELY_PAY,English,val
+Kaun sa loan hai?,NEEDS_REMINDER,Hindi,val
+Haan kya bolun samajh nahi aa raha???,VAGUE,Hindi,val
+Bhai email e details pathao,NEEDS_REMINDER,Bengali,val
+Complete Complete breakdown of charges bhejo,DISPUTE,Hinglish,val
+Madam i i already paid this EMI ok?,DISPUTE,English,val
+"UPI ID share karo, abhi bhejta hun",LIKELY_PAY,Hinglish,val
+Bhai no no comment 👍,VAGUE,Bengali,val
+Kya bolun pata nahi sir,VAGUE,Hinglish,val
+Pata nahi,VAGUE,Hindi,val
+Google Pay se paisa bheja hai,ALREADY_PAID,Hinglish,val
+payment hoye geche boss,ALREADY_PAID,Bengali,val
+"I am not avoiding payment, I will pay in 3 days",LIKELY_PAY,English,val
+EMI taka alag rekhechi,LIKELY_PAY,Bengali,val
+The amount doesn't match what I signed for,DISPUTE,English,val
+Honestly hmm,VAGUE,Bengali,val
+"Amar bank e contact koro, issue tomar dik e",DISPUTE,Bengali,val
+Your system shows wrong data thanks,DISPUTE,English,val
+"Basically yaaR 3 din auR de Do, PakkA paymeNT",LIKELY_PAY,Hinglish,val
+Maine in in terms pe agree nahi kiya tha asap,DISPUTE,Hindi,val
+Arey send send Me thE detAilS again PLeaSE thanks,NEEDS_REMINDER,English,val
+Basically fir fir fiLe KarUnga TUm pe,HIGH_RISK,Hinglish,val
+"Ja khoushi koro, ami debo na",HIGH_RISK,Bengali,val
+Send Send details again please???,NEEDS_REMINDER,Hinglish,val
+"Actually this is fraud, I'm going to the police",HIGH_RISK,English,val
+Was Was there an SMS? I didn't see it 😭,NEEDS_REMINDER,English,val
+Dates ka track track nahi raha!!,NEEDS_REMINDER,Hindi,val
+OVERCHARGE KIYA HAI HAI MUJHE 😡,DISPUTE,Hindi,val
+Basically yE ADD UP NAHI HO RAHA,DISPUTE,Hindi,val
+Door ho jao boss,HIGH_RISK,Hindi,val
+I'll report you for harassment,HIGH_RISK,English,val
+Dekho kyA Bolun samajH nAhI aA rAHa yaar,VAGUE,Hindi,val
+Actually i didn't realize it was already late na?,NEEDS_REMINDER,English,val
+Haan sochna padega mujhe,VAGUE,Hinglish,val
+"Ok i uNDersTand, PAYInG nexT weeK 😭",LIKELY_PAY,English,val
+Well i'LL HANDLE IT SOON,NEEDS_REMINDER,English,val
+Weekend e dekhchi,NEEDS_REMINDER,Bengali,val
+Ki korbo bujhte parchi na,VAGUE,Bengali,val
+"Ok I understand, paying by Friday",LIKELY_PAY,English,val
+Grace period milta hai kya?,NEEDS_REMINDER,Hindi,val
+Listen possibly,VAGUE,English,val
+Haan i'll look into it,VAGUE,English,val
+Ekhon commit korte parbo na,VAGUE,Bengali,val
+"Abhi paisa nahi nahi hai, ek hafte mein tak pakka",LIKELY_PAY,Hindi,val
+Madam send details again please,NEEDS_REMINDER,Hinglish,val
+mErA payMenT 1st ko GAYa thA,ALREADY_PAID,Hindi,val
+"Haan jani, ei weekend e korbo",LIKELY_PAY,Bengali,val
+Basically interest rate keno bodlano holo?,DISPUTE,Bengali,val
+PORSHUDINO PORJONTO PORJONTO PAKKA DIYE DEBO,LIKELY_PAY,Bengali,val
+Maybe sir,VAGUE,English,val
+Auto-debit theke kete geche asap,ALREADY_PAID,Bengali,val
+One more call and I'm reporting you,HIGH_RISK,English,val
+Kya bolun pata nahi,VAGUE,Hinglish,val
+"Actually i FORGOT SORRY, WILL DO IT NOW sir",LIKELY_PAY,Hinglish,val
+Bhai time time do decide karne ke liye.,VAGUE,Hinglish,val
+Abhi jawab nahi de sakta,VAGUE,Hindi,val
+"Adha ekhon, baki ta tin din e",LIKELY_PAY,Bengali,val
+Dekhte hain kya hota hai,VAGUE,Hindi,val
+Jotokkhon calculation thik na korbe totokkhon debo na,DISPUTE,Bengali,val
+Bank mein debit dikha raha hai thanks,ALREADY_PAID,Hindi,val
+Hard to say,VAGUE,English,val
+Suno situation complicated hai,VAGUE,Hinglish,val
+1st ka transaction check karo,DISPUTE,Hindi,val
+"Fix the calculation first, then I'll pay",DISPUTE,Hinglish,val
+Hey why was the interest rate changed 🙏,DISPUTE,English,val
+The amount will be credited in 2 days!!,LIKELY_PAY,English,val
+Shayad ho jaye,VAGUE,Hindi,val
+Bhai debo na ar eta final asap!!,HIGH_RISK,Bengali,val
+Transaction Transaction reference number check karo ok,ALREADY_PAID,Hindi,val
+Actually emi KA paisA alag rAKhA haI,LIKELY_PAY,Hindi,val
+"Haan main koshish kar raha hun, agle hafte tak",LIKELY_PAY,Hindi,val
+Madam jaNi Na,VAGUE,Bengali,val
+"Salary coming on last month, will pay immediately after",LIKELY_PAY,English,val
+Basically i think koi mistake hai ...,DISPUTE,Hinglish,val
+"Dekho eta onyo karo loan, amar na",DISPUTE,Bengali,val
+Boss 25th ko credit check karo,ALREADY_PAID,Hindi,val
+"Please check, payment was successful",ALREADY_PAID,English,val
+Dude partial on 25th kiya tha and rest on 25th,ALREADY_PAID,Hinglish,val
+Dekhe nii!!,VAGUE,Bengali,val
+aMar paYMENt paYMENt 15th e gEcHilo,ALREADY_PAID,Bengali,val
+"Actually sab pay kar diya, kuch pending nahi yaar",ALREADY_PAID,Hindi,val
+Arey pehle bank balance check karna padega 😢,NEEDS_REMINDER,Hindi,val
+"Ok so yes I know, will transfer tomorrow",LIKELY_PAY,English,val
+Honestly is there a grace period?,NEEDS_REMINDER,English,val
+"Sir bro let me arrange, is weekend tak done",LIKELY_PAY,Hinglish,val
+"Well main main bhool gaya tha, abhi karta hun!!",LIKELY_PAY,Hindi,val
+"Apne records check karo, itna nahi banta",DISPUTE,Hindi,val
+"Late fee wrong wrong hai, I paid on time",DISPUTE,Hinglish,val
+Honestly things are difficult,VAGUE,English,val
+Agle Agle hafte yaad dilana fir se!!,NEEDS_REMINDER,Hindi,val
+Actually it's not that simple 🙂,VAGUE,English,val
+Hoyto,VAGUE,Bengali,val
+"Bhai salary nahi aayi abhi, 3 din mein mein pakka kar dunga",LIKELY_PAY,Hinglish,val
+Bujhte hobe yaar,VAGUE,Bengali,val
+Madam iT'S NOT THAT SIMPLE,VAGUE,English,val
+Amar bank successful payment dekhacche,DISPUTE,Bengali,val
+Dekh leta hun,VAGUE,Hindi,val
+My lawyer will deal with this,HIGH_RISK,Hinglish,val
+I'll clear the dues in 3 days,LIKELY_PAY,English,val
+MY PAYMENT IS SCHEDULED FOR MONDAY,LIKELY_PAY,English,val
+Basically my bank shows payment successful,DISPUTE,Hinglish,val
+"Diye debo, dhairyo dhoro plz???",LIKELY_PAY,Bengali,val
+Nahi dunga aur ye final hai,HIGH_RISK,Hindi,val
+UPI se paisa bheja hai !!!!,ALREADY_PAID,Hinglish,val
+Overcharge kiya kiya hai mujhe,DISPUTE,Hindi,val
+I'll look into it dekhta hun,VAGUE,Hinglish,val
+Suno i need time,VAGUE,English,val

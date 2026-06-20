@@ -1,0 +1,180 @@
+{
+  "scored_examples": [
+    {
+      "label": "LIKELY_PAY #1 (Good agent response)",
+      "borrower_message": "Bhai salary nahi aayi abhi, next week kar dunga",
+      "intent": "LIKELY_PAY",
+      "confidence": 0.88,
+      "agent_response": "Thank you for confirming your commitment. We've noted your plan to pay next week after salary. Your outstanding EMI is Rs 5,000. We'll follow up then.",
+      "scores": {
+        "intent_accuracy": 9.0,
+        "tone_score": 5.5,
+        "compliance_score": 10.0,
+        "escalation_score": 9.0,
+        "overall_score": 8.42,
+        "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+      }
+    },
+    {
+      "label": "LIKELY_PAY #2 (Bad agent response)",
+      "borrower_message": "I will pay by next Friday for sure",
+      "intent": "LIKELY_PAY",
+      "confidence": 0.92,
+      "agent_response": "This is your FINAL warning. Pay immediately or legal action will be taken against you. We will arrest you.",
+      "scores": {
+        "intent_accuracy": 1.0,
+        "tone_score": 3.0,
+        "compliance_score": 1.5,
+        "escalation_score": 6.0,
+        "overall_score": 2.4,
+        "suggested_improvement": "Remove all threats of legal action, police, or arrest \u2014 these violate RBI Fair Practices Code and should be replaced with constructive alternatives like offering a revised payment plan."
+      }
+    },
+    {
+      "label": "NEEDS_REMINDER #1 (Good agent response)",
+      "borrower_message": "haan yaad hai, kitna dena hai?",
+      "intent": "NEEDS_REMINDER",
+      "confidence": 0.82,
+      "agent_response": "Your outstanding EMI amount is Rs 3,500. The due date was June 1st. You can pay via UPI, NEFT, or visit our website. Would you like help setting up a payment?",
+      "scores": {
+        "intent_accuracy": 9.0,
+        "tone_score": 7.0,
+        "compliance_score": 10.0,
+        "escalation_score": 7.0,
+        "overall_score": 8.5,
+        "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+      }
+    },
+    {
+      "label": "NEEDS_REMINDER #2 (Bad agent response)",
+      "borrower_message": "bhool gaya tha, remind karo",
+      "intent": "NEEDS_REMINDER",
+      "confidence": 0.78,
+      "agent_response": "You always forget! We will tell your employer about your loan default. Don't test our patience.",
+      "scores": {
+        "intent_accuracy": 5.0,
+        "tone_score": 2.5,
+        "compliance_score": 3.0,
+        "escalation_score": 7.0,
+        "overall_score": 4.08,
+        "suggested_improvement": "Remove references to contacting family, employer, or using shame tactics. Focus the response on the borrower's account and available options."
+      }
+    },
+    {
+      "label": "DISPUTE #1 (Good agent response)",
+      "borrower_message": "Amount galat hai, mera loan toh isse kam tha",
+      "intent": "DISPUTE",
+      "confidence": 0.78,
+      "agent_response": "We take your concern seriously. Let us review your records and verify the amount. Our team will investigate and get back to you within 48 hours.",
+      "scores": {
+        "intent_accuracy": 9.0,
+        "tone_score": 6.0,
+        "compliance_score": 10.0,
+        "escalation_score": 8.0,
+        "overall_score": 8.4,
+        "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+      }
+    },
+    {
+      "label": "DISPUTE #2 (Bad agent response)",
+      "borrower_message": "Yeh amount wrong hai check karo",
+      "intent": "DISPUTE",
+      "confidence": 0.75,
+      "agent_response": "Pay now or we will file a case against you. No disputes accepted. Must pay now.",
+      "scores": {
+        "intent_accuracy": 1.0,
+        "tone_score": 2.5,
+        "compliance_score": 3.5,
+        "escalation_score": 8.0,
+        "overall_score": 3.17,
+        "suggested_improvement": "Remove coercive language that pressures the borrower unduly. Offer flexible payment options instead of demanding immediate payment."
+      }
+    },
+    {
+      "label": "HIGH_RISK #1 (Good agent response)",
+      "borrower_message": "STOP CALLING ME!! I will file complaint against you!",
+      "intent": "HIGH_RISK",
+      "confidence": 0.95,
+      "agent_response": "I understand your frustration, and I sincerely apologize for any inconvenience. Let me connect you with our senior resolution specialist who can better address your concerns directly.",
+      "scores": {
+        "intent_accuracy": 9.0,
+        "tone_score": 7.5,
+        "compliance_score": 10.0,
+        "escalation_score": 9.0,
+        "overall_score": 8.92,
+        "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+      }
+    },
+    {
+      "label": "HIGH_RISK #2 (Bad agent response)",
+      "borrower_message": "band karo phone! harass mat karo mujhe!",
+      "intent": "HIGH_RISK",
+      "confidence": 0.92,
+      "agent_response": "If you don't pay by tomorrow, police will come to your house. We will arrest you. You have no choice.",
+      "scores": {
+        "intent_accuracy": 5.0,
+        "tone_score": 2.5,
+        "compliance_score": 1.5,
+        "escalation_score": 4.0,
+        "overall_score": 3.18,
+        "suggested_improvement": "Remove all threats of legal action, police, or arrest \u2014 these violate RBI Fair Practices Code and should be replaced with constructive alternatives like offering a revised payment plan."
+      }
+    },
+    {
+      "label": "VAGUE #1 (Good agent response)",
+      "borrower_message": "dekhte hain kya hota hai",
+      "intent": "VAGUE",
+      "confidence": 0.55,
+      "agent_response": "We'd like to help you find a solution. Could you let us know your current situation? We have flexible payment plans that may work for you.",
+      "scores": {
+        "intent_accuracy": 9.0,
+        "tone_score": 9.0,
+        "compliance_score": 10.0,
+        "escalation_score": 6.0,
+        "overall_score": 8.85,
+        "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+      }
+    },
+    {
+      "label": "VAGUE #2 (Bad agent response)",
+      "borrower_message": "pata nahi, baad mein baat karte hain",
+      "intent": "VAGUE",
+      "confidence": 0.5,
+      "agent_response": "You are a fraud and a cheat. Borrow from your relatives to pay us back immediately or face consequences.",
+      "scores": {
+        "intent_accuracy": 5.0,
+        "tone_score": 2.5,
+        "compliance_score": 2.5,
+        "escalation_score": 6.0,
+        "overall_score": 3.77,
+        "suggested_improvement": "Remove coercive language that pressures the borrower unduly. Offer flexible payment options instead of demanding immediate payment."
+      }
+    }
+  ],
+  "edge_cases": {
+    "empty_response": {
+      "intent_accuracy": 1.0,
+      "tone_score": 1.0,
+      "compliance_score": 1.0,
+      "escalation_score": 1.0,
+      "overall_score": 1.0,
+      "suggested_improvement": "Agent response is empty. Provide a substantive response addressing the borrower's message."
+    },
+    "language_mismatch": {
+      "intent_accuracy": 6.0,
+      "tone_score": 5.5,
+      "compliance_score": 10.0,
+      "escalation_score": 6.0,
+      "overall_score": 7.07,
+      "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+    },
+    "one_word": {
+      "intent_accuracy": 2.0,
+      "tone_score": 2.0,
+      "compliance_score": 5.0,
+      "escalation_score": 2.0,
+      "overall_score": 2.9,
+      "suggested_improvement": "One-word responses are insufficient. Provide a detailed, empathetic response that addresses the borrower's specific situation."
+    }
+  }
+}

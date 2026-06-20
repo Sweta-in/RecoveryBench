@@ -1,0 +1,13 @@
+# RecoveryBench — Requirements
+# Phase 1: Dataset Generation
+pandas>=1.5.0
+matplotlib>=3.5.0
+langdetect>=1.0.9
+# Phase 2: Intent Classifier
+scikit-learn>=1.0.0
+# Phase 3: Promise Parser
+dateparser>=1.0.0
+# Phase 6B: Groq LLM Evaluator (optional — free tier)
+groq>=1.0.0
+# Testing
+pytest>=7.0.0

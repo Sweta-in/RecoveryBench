@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-06-13T03:51:17.686952",
+  "summary": {
+    "total_traces": 73,
+    "success_count": 73,
+    "error_count": 0,
+    "error_rate": 0.0,
+    "avg_latency_ms": 282.31,
+    "min_latency_ms": 8.59,
+    "max_latency_ms": 2767.32,
+    "p95_latency_ms": 2371.41,
+    "endpoints": {
+      "/analyze/text": {
+        "count": 73,
+        "avg_latency_ms": 282.31
+      }
+    }
+  },
+  "pipeline_analysis": {
+    "intent_distribution": {
+      "LIKELY_PAY": 65,
+      "VAGUE": 7,
+      "DISPUTE": 1
+    },
+    "risk_score_stats": {
+      "count": 73,
+      "mean": 0.1393,
+      "min": 0.0566,
+      "max": 0.7677
+    },
+    "compliance_breakdown": {
+      "compliant": 73,
+      "non_compliant": 0
+    },
+    "language_distribution": {
+      "Hinglish": 68,
+      "English": 5
+    },
+    "promise_breakdown": {
+      "with_promise": 65,
+      "without_promise": 8
+    }
+  }
+}

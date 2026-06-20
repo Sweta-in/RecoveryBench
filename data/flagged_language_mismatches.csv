@@ -1,0 +1,2205 @@
+text,label,language,detected_language
+I am transferring today evening,LIKELY_PAY,English,da
+I can do partial payment today,LIKELY_PAY,English,es
+"I got my bonus, paying in 2 days",LIKELY_PAY,English,tl
+"I remember now, let me pay quickly",LIKELY_PAY,English,fr
+"Ok I understand, paying this weekend",LIKELY_PAY,English,af
+"SORRY FOR DELAY, PAYING NEXT WEEK DEFINITELY 😢",LIKELY_PAY,English,de
+"moNey Is rEAdY, wilL trANsfeR in 3 days yaar",LIKELY_PAY,English,so
+"Ok i uNDersTand, PAYInG nexT weeK 😭",LIKELY_PAY,English,de
+Yaar i PROMISE TO PAY BY FRIDAY FOR SURE,LIKELY_PAY,English,tr
+"Yaar yOU WILL RECEIVE PAYMENT WITHIN A WEEK, GUARANTEED!!",LIKELY_PAY,English,so
+MY PAYMENT IS SCHEDULED FOR MONDAY,LIKELY_PAY,English,de
+"Haan Haan ok fine, take the payment this weekend",LIKELY_PAY,English,nl
+"Look yOU WILL RECEIVE PAYMENT NEXT WEEK, GUARANTEED yaar",LIKELY_PAY,English,so
+i just need 15 more days ok?!!,LIKELY_PAY,English,no
+Kal payment kar dunga,LIKELY_PAY,Hindi,id
+"Haan bhai, month end tak tak kar dunga",LIKELY_PAY,Hindi,id
+"Paisa arrange ho raha hai, Shukravaar tak mein de dunga",LIKELY_PAY,Hindi,id
+"Salary aa jayegi Somvaar ko, uske baad turant",LIKELY_PAY,Hindi,so
+"Main payment karunga, tension mat lo",LIKELY_PAY,Hindi,id
+"Abhi paisa nahi hai, Shukravaar tak tak pakka",LIKELY_PAY,Hindi,id
+"Haan mujhe pata hai, ek hafte mein kar dunga",LIKELY_PAY,Hindi,id
+NEFT kar dunga agle hafte,LIKELY_PAY,Hindi,id
+Pura amount de dunga Shukravaar tak,LIKELY_PAY,Hindi,id
+"Do hisson mein de sakta hun, pehla ek hafte mein",LIKELY_PAY,Hindi,de
+Mujhe 10 din aur chahiye bas,LIKELY_PAY,Hindi,so
+Aaj shaam tak transfer kar dunga,LIKELY_PAY,Hindi,id
+Payment fix hai Budhvaar ko,LIKELY_PAY,Hindi,nl
+"UPI bhej do, abhi kar deta hun",LIKELY_PAY,Hindi,id
+Aaj hi payment ho jayega,LIKELY_PAY,Hindi,sq
+"Main kar raha hun arrange, kal tak ho jayega",LIKELY_PAY,Hindi,id
+"Half abhi de deta hun, baaki Shukravaar tak",LIKELY_PAY,Hindi,id
+"Main serious hun, month end tak tak pakka",LIKELY_PAY,Hindi,id
+Bilkul karunga payment,LIKELY_PAY,Hindi,id
+"Thoda aur time do, Shukravaar tak tak de dunga",LIKELY_PAY,Hindi,id
+"Paise ready hain, transfer kar raha hun",LIKELY_PAY,Hindi,id
+"Bhai promise karta hun, 2 din mein tak",LIKELY_PAY,Hindi,id
+Maine apne side se arrangement kar liya hai,LIKELY_PAY,Hindi,no
+Amount bhej raha hun thodi der mein,LIKELY_PAY,Hindi,id
+Salary aate hi turant karunga,LIKELY_PAY,Hindi,id
+Abhi process mein hai payment,LIKELY_PAY,Hindi,en
+Ek-do ghante mein ho jayega,LIKELY_PAY,Hindi,nl
+Parso tak pakka de dunga,LIKELY_PAY,Hindi,id
+"Main bhool gaya tha, abhi karta hun",LIKELY_PAY,Hindi,so
+"Account number do, abhi transfer karta hun",LIKELY_PAY,Hindi,en
+Poora paisa ek saath de dunga,LIKELY_PAY,Hindi,id
+"Main kabhi mana nahi kiya, payment karunga",LIKELY_PAY,Hindi,tl
+Bas thoda sa wait karo,LIKELY_PAY,Hindi,tl
+Aaj raat tak ho jayega,LIKELY_PAY,Hindi,so
+"Main koshish kar raha hun, month end tak tak",LIKELY_PAY,Hindi,id
+Online payment kar deta hun abhi,LIKELY_PAY,Hindi,id
+"EMI amount ready hai, bhej raha hun",LIKELY_PAY,Hindi,id
+Mera plan hai Shukravaar ko dene ka,LIKELY_PAY,Hindi,id
+"Bonus aaya hai, abhi de deta hun",LIKELY_PAY,Hindi,id
+Transaction start kar diya hai,LIKELY_PAY,Hindi,id
+"De dunga, chinta mat karo",LIKELY_PAY,Hindi,id
+"Ek din aur please, pakka dunga",LIKELY_PAY,Hindi,id
+Bhai time pe de dunga,LIKELY_PAY,Hindi,id
+"Main zimmedar hun, payment karunga",LIKELY_PAY,Hindi,id
+EMI ka paisa alag rakha hai,LIKELY_PAY,Hindi,tl
+Bas salary ka wait hai,LIKELY_PAY,Hindi,tl
+"De raha hun, patience rakho",LIKELY_PAY,Hindi,id
+Koshish karunga jaldi se jaldi,LIKELY_PAY,Hindi,et
+"Haan theek hai, de deta hun",LIKELY_PAY,Hindi,nl
+"Payment ho jayega, guarantee deta hun",LIKELY_PAY,Hindi,id
+"haan bhai, 2 din mein tak kar dunga",LIKELY_PAY,Hindi,id
+"Do hisson mein de sakta hun, pehla 3 din mein???",LIKELY_PAY,Hindi,de
+NEFT kar dunga 3 din mein,LIKELY_PAY,Hindi,id
+"Look haan haan bhai, is weekend tak kar dunga",LIKELY_PAY,Hindi,id
+paYment fix hAi sHaniVaar ko sir,LIKELY_PAY,Hindi,sq
+Mera plan hai Shanivaar ko dene ka 🤷,LIKELY_PAY,Hindi,id
+Dekho mera plan hai Budhvaar ko dene ka plz,LIKELY_PAY,Hindi,nl
+"Honestly haan bhai, Shukravaar tak tak kar dunga",LIKELY_PAY,Hindi,id
+"Actually de dunga, chinta mat karo",LIKELY_PAY,Hindi,id
+Well parso tak pakka de dunga,LIKELY_PAY,Hindi,id
+"Bhai de dunga, chinta mat karo",LIKELY_PAY,Hindi,id
+"bonus aaya hai, abhi de deta hun asap!!",LIKELY_PAY,Hindi,id
+Yaar salarY aatE Hi tURaNt kaRUngA 👍,LIKELY_PAY,Hindi,so
+"Account Account number do, abhi transfer karta hun",LIKELY_PAY,Hindi,en
+"Thoda aur time do, agle hafte tak de dunga ...",LIKELY_PAY,Hindi,id
+"Abhi Abhi paisa nahi hai, Shukravaar tak tak pakka???",LIKELY_PAY,Hindi,id
+Well bas thodA sa waIT kArO 😡,LIKELY_PAY,Hindi,en
+Actually emi KA paisA alag rAKhA haI,LIKELY_PAY,Hindi,hu
+Suno ek-do ghante mein ho jayega thx!!,LIKELY_PAY,Hindi,pt
+AAJ HI PAYMENT HO JAYEGA yaar,LIKELY_PAY,Hindi,so
+"Haan mujhe pata hai, agle hafte kar dunga sir",LIKELY_PAY,Hindi,id
+Arey bilkul karunga payment,LIKELY_PAY,Hindi,id
+"Haan bhai, Shukravaar Shukravaar tak tak kar dunga",LIKELY_PAY,Hindi,id
+Pura amnt de dunga kal,LIKELY_PAY,Hindi,id
+Bhai time pe pe de dunga 👍,LIKELY_PAY,Hindi,ro
+"Bonus Bonus aaya hai, abhi de deta hun",LIKELY_PAY,Hindi,id
+"Main zimmedar zimmedar hun, payment karunga",LIKELY_PAY,Hindi,id
+"See salary aa jayegi Budhvaar ko, uske baad turant",LIKELY_PAY,Hindi,so
+Dude pURA AMOUNT DE DUNGA 2 DIN MEIN,LIKELY_PAY,Hindi,nl
+Honestly pura amount de dunga 3 din mein,LIKELY_PAY,Hindi,id
+"Main kar raha hun arrange, is weekend tak ho jayega 💰",LIKELY_PAY,Hindi,id
+"See hALF ABHI DE DETA HUN, BAAKI 2 DIN MEIN",LIKELY_PAY,Hindi,de
+"Abhi paisa nahi nahi hai, ek hafte mein tak pakka",LIKELY_PAY,Hindi,id
+"Well main main bhool gaya tha, abhi karta hun!!",LIKELY_PAY,Hindi,so
+"Do hisson mein de sakta hun, pehla kal",LIKELY_PAY,Hindi,fi
+"Actually main bhool gaya tha, abhi karta hun",LIKELY_PAY,Hindi,so
+"dO HissOn mEin De sakTa hun, PEhlA Month enD Tak",LIKELY_PAY,Hindi,de
+Dekho Dekho poora paisa ek saath de dunga asap,LIKELY_PAY,Hindi,id
+Mera plan hai Guruvaar ko dene ka,LIKELY_PAY,Hindi,id
+"Half abhi de deta hun, baaki kal",LIKELY_PAY,Hindi,id
+Arey mujhe 5 din aur chahiye bas boss,LIKELY_PAY,Hindi,en
+Actually ek-do ghante mein ho jayega,LIKELY_PAY,Hindi,en
+NEFT kar dunga month end tak 🙏,LIKELY_PAY,Hindi,id
+"half abhi de deta hun, baaki is weekend",LIKELY_PAY,Hindi,nl
+MUJHE 5 5 DIN AUR CHAHIYE BAS thx,LIKELY_PAY,Hindi,en
+"haan theek hai, de deta hun yaar!!",LIKELY_PAY,Hindi,id
+Listen bHAI TIME TIME PE DE DUNGA,LIKELY_PAY,Hindi,de
+Honestly eMI ka paisa alag rakha hai,LIKELY_PAY,Hindi,tl
+"Paisa arrange ho raha hai, agle hafte mein de dunga",LIKELY_PAY,Hindi,pt
+"Main serious hun, agle hafte tak pakka!!",LIKELY_PAY,Hindi,id
+MUJHE 4 DIN AUR CHAHIYE BAS yaar,LIKELY_PAY,Hindi,so
+AAJ HI PAYMENT HO JAYEGA bro!!,LIKELY_PAY,Hindi,pt
+Suno paymnt fix hai mangalvaar ko,LIKELY_PAY,Hindi,tl
+"Acha mAIN ZIMMEDAR HUN, PAYMENT KARUNGA 🙂!!",LIKELY_PAY,Hindi,sw
+"Half abhi de deta hun, baaki month end tak",LIKELY_PAY,Hindi,id
+Pura amount de dunga is weekend,LIKELY_PAY,Hindi,nl
+Dude mujhe mujhe 15 din aur chahiye bas,LIKELY_PAY,Hindi,sw
+"Half abhi de deta hun, baaki 2 din mein plz",LIKELY_PAY,Hindi,id
+salry aate hi turant karunga ok?,LIKELY_PAY,Hindi,id
+"abhi paisa nahi hai, is weekend tak pakka 🙏🙏",LIKELY_PAY,Hindi,id
+Dekho nEft kar kar DungA aglE HAFTe,LIKELY_PAY,Hindi,sv
+Actually amnt bhej raha hun thodi der mein,LIKELY_PAY,Hindi,cy
+Pura amount amount de dunga month end tak,LIKELY_PAY,Hindi,en
+"Listen ek din aur please, pakka dunga",LIKELY_PAY,Hindi,id
+Sir pAYMENT FIX HAI SOMVAAR KO 😢,LIKELY_PAY,Hindi,en
+Suno bilkul karunga payment,LIKELY_PAY,Hindi,tl
+Madam maine apne side se arrangement kar liya hai 🙏,LIKELY_PAY,Hindi,id
+"half abhi de deta hun, baaki ek hafte mein",LIKELY_PAY,Hindi,da
+NEFT kar dunga ek hafte mein,LIKELY_PAY,Hindi,id
+Sir aAJ Shaam TAk transfer kAR DUNga 🙂???,LIKELY_PAY,Hindi,id
+"ABHI PAISA NAHI HAI, MONTH END TAK TAK PAKKA 🙂",LIKELY_PAY,Hindi,en
+Ok so koshish karunga jaldi se jaldi,LIKELY_PAY,Hindi,et
+"Ek din aur plz, pakka dunga",LIKELY_PAY,Hindi,id
+MeRA plaN hAi mangaLVaar ko dene Ka,LIKELY_PAY,Hindi,id
+"Paisa arrange ho raha hai, 2 din mein mein de dunga",LIKELY_PAY,Hindi,id
+Dekho payment fix hai Guruvaar ko,LIKELY_PAY,Hindi,nl
+Mujhe 5 din aur chahiye bas ok?,LIKELY_PAY,Hindi,en
+Kal payment kar dunga plz,LIKELY_PAY,Hindi,id
+Bhai bas thoda sa wait karo 😢!!,LIKELY_PAY,Hindi,so
+"Thoda aur time do, ek hafte mein tak de dunga",LIKELY_PAY,Hindi,id
+"do hisson mein mein de sakta hun, pehla shukravaar tak!!",LIKELY_PAY,Hindi,id
+"Honestly main bhool gaya tha, abhi karta hun",LIKELY_PAY,Hindi,so
+"Main kabhi kabhi mana nahi kiya, payment karunga plz",LIKELY_PAY,Hindi,tl
+"Main koshish kar raha hun, Shukravaar tak tak",LIKELY_PAY,Hindi,id
+"Salary aa jayegi Guruvaar ko, uske baad turant na?",LIKELY_PAY,Hindi,so
+Salary Salary aate hi turant karunga 🤷,LIKELY_PAY,Hindi,tl
+"tHodA aur TIme DO, monTh end tak taK DE DuNga",LIKELY_PAY,Hindi,en
+"Look half abhi de deta hun, baaki kal 🙏",LIKELY_PAY,Hindi,id
+"Main payment payment karunga, tension mat lo",LIKELY_PAY,Hindi,id
+"maiN Serious huN, SHUkraVAaR tAk taK PaKka",LIKELY_PAY,Hindi,id
+Madam pURA AMOUNT AMOUNT DE DUNGA 3 DIN MEIN.,LIKELY_PAY,Hindi,so
+Madam aaj hi payment ho jayega,LIKELY_PAY,Hindi,so
+Honestly kAl pAymEnt KAr DunGA,LIKELY_PAY,Hindi,en
+"THODA AUR TIME DO, 2 DIN MEIN TAK DE DUNGA",LIKELY_PAY,Hindi,en
+"Main kar raha hun arrange, 3 din mein tak ho jayega 😢",LIKELY_PAY,Hindi,id
+"Honestly do hisson mein de sakta hun, pehla is weekend",LIKELY_PAY,Hindi,nl
+Pura amount de dunga kal!!,LIKELY_PAY,Hindi,id
+"Bhai promise karta hun, is weekend tak",LIKELY_PAY,Hindi,af
+Honestly sal aate hi turant karunga boss,LIKELY_PAY,Hindi,id
+"Dude salary aa jayegi Shukravaar ko, uske baad turant",LIKELY_PAY,Hindi,so
+"Paisa arrange ho raha hai, kal mein de dunga",LIKELY_PAY,Hindi,id
+"Paisa arrange ho raha hai, is weekend mein de dunga",LIKELY_PAY,Hindi,id
+Payment fix hai Shukravaar ko 🙂,LIKELY_PAY,Hindi,fi
+"maiN payment kaRunGA, teNsIoN Mat lo thx???",LIKELY_PAY,Hindi,tl
+"Acha thoda aur time do, ek hafte mein tak de dunga asap",LIKELY_PAY,Hindi,id
+Payment fix hai Ravivaar ko!!,LIKELY_PAY,Hindi,fi
+"Listen mAIN ZIMMEDAR HUN, PAYMENT KARUNGA",LIKELY_PAY,Hindi,de
+"Half abhi de de deta hun, baaki kal na?",LIKELY_PAY,Hindi,id
+"Madam aBHi paisA NahI HAi, Ek hafte Mein taK pakkA",LIKELY_PAY,Hindi,id
+"Haan main koshish kar raha hun, agle hafte tak",LIKELY_PAY,Hindi,id
+Boss abhi prOcess MeIN hai pAYmeNT!!,LIKELY_PAY,Hindi,en
+payment fix hai mangalvaar ko,LIKELY_PAY,Hindi,id
+NEFT kar dunga is weekend,LIKELY_PAY,Hindi,af
+"De dunga, chinta mat karo boss",LIKELY_PAY,Hindi,id
+"Main kar raha hun arrange, agle hafte tak ho jayega plz",LIKELY_PAY,Hindi,id
+"De dunga, chinta mat karo thanks",LIKELY_PAY,Hindi,id
+Mera plan hai Budhvaar ko dene ka,LIKELY_PAY,Hindi,id
+Honestly aaj raat tak ho jayega,LIKELY_PAY,Hindi,et
+"Basically salry aa jayegi Ravivaar ko, uske baad turant 😭???",LIKELY_PAY,Hindi,et
+neft kar dunGa ShukRavAar tak,LIKELY_PAY,Hindi,id
+"haan mujhe pata hai, 3 din mein kar dunga",LIKELY_PAY,Hindi,id
+Actually mera plan hai Shukravaar ko dene ka,LIKELY_PAY,Hindi,id
+"HAAN BHAI, EK HAFTE MEIN TAK KAR DUNGA",LIKELY_PAY,Hindi,de
+"Abhi paisa nahi hai, agle hafte tak pakka",LIKELY_PAY,Hindi,tl
+Kaal payment kore debo,LIKELY_PAY,Bengali,af
+"Haan bhai, mash sheshe er moddhe kore debo",LIKELY_PAY,Bengali,sq
+"Ami payment korbo, tension nio na",LIKELY_PAY,Bengali,tl
+"Ekhon taka nei, dui din e porjonto wait koro",LIKELY_PAY,Bengali,fi
+"Haan jani, ei weekend e korbo",LIKELY_PAY,Bengali,af
+Transfer kore debo kaal,LIKELY_PAY,Bengali,af
+Pura taka diye debo agle shoptahe,LIKELY_PAY,Bengali,id
+"Dui bhage dite pari, prothom ta tin din e",LIKELY_PAY,Bengali,ro
+Amake aro 5 din dao,LIKELY_PAY,Bengali,id
+Aaj bikale transfer kore debo,LIKELY_PAY,Bengali,da
+"UPI pathao, ekhon e kori",LIKELY_PAY,Bengali,sq
+Aaj e payment hoye jabe,LIKELY_PAY,Bengali,sq
+"Ami arrange korchi, ek shoptahe hoye jabe",LIKELY_PAY,Bengali,sq
+"Adha ekhon, baki ta tin din e",LIKELY_PAY,Bengali,id
+"Ami serious, dui din e porjonto pakka",LIKELY_PAY,Bengali,fi
+Nishchoi payment korbo,LIKELY_PAY,Bengali,sq
+"Ektu somoy dao, agle shoptahe diye debo",LIKELY_PAY,Bengali,so
+"Taka ready, transfer korchi",LIKELY_PAY,Bengali,sv
+"Promise korchi, Shukrobar er moddhe e",LIKELY_PAY,Bengali,sq
+Amar side theke arrangement hoye geche,LIKELY_PAY,Bengali,nl
+Taka pathacchi ektu pore,LIKELY_PAY,Bengali,sw
+Salary ashle tukni korbo,LIKELY_PAY,Bengali,id
+Ek-dui ghontar moddhe hoye jabe,LIKELY_PAY,Bengali,sq
+Porshudino porjonto pakka diye debo,LIKELY_PAY,Bengali,sl
+"Bhule gechilam, ekhon korchi",LIKELY_PAY,Bengali,de
+"Account number dao, ekhon transfer kori",LIKELY_PAY,Bengali,sv
+Poora taka ekbare diye debo,LIKELY_PAY,Bengali,tr
+"Ami kokhono mana korini, payment korbo",LIKELY_PAY,Bengali,hr
+Bas ektu wait koro,LIKELY_PAY,Bengali,af
+Aaj raater moddhe hoye jabe,LIKELY_PAY,Bengali,so
+"Ami cheshta korchi, tin din e e",LIKELY_PAY,Bengali,sq
+Online payment kore dii ekhon,LIKELY_PAY,Bengali,no
+"Bonus peyechi, ekhon e dei",LIKELY_PAY,Bengali,nl
+"Diye debo, chinta koro na",LIKELY_PAY,Bengali,sw
+"Ekdin aro please, pakka debo",LIKELY_PAY,Bengali,sl
+Bhai time e diye debo,LIKELY_PAY,Bengali,tr
+"Ami responsible, payment korbo",LIKELY_PAY,Bengali,fr
+EMI taka alag rekhechi,LIKELY_PAY,Bengali,hu
+"Diye debo, dhairyo dhoro",LIKELY_PAY,Bengali,so
+Cheshta korbo taratari,LIKELY_PAY,Bengali,sq
+"Haan thik ache, diye dii",LIKELY_PAY,Bengali,so
+"Payment hoye jabe, guarantee dichhi",LIKELY_PAY,Bengali,nl
+Amar Amar plan ache Shukrobar dite,LIKELY_PAY,Bengali,nl
+"Madam bhule gechilam, ekhon korchi 🤷",LIKELY_PAY,Bengali,nl
+"Ektu somoy dao, Shukrobar er moddhe diye debo",LIKELY_PAY,Bengali,so
+"Ekhon taka nei, ei weekend porjonto wait koro!!",LIKELY_PAY,Bengali,af
+"UPI pathao, ekhon e kori boss",LIKELY_PAY,Bengali,sq
+"promise korchi, ek shoptahe e.",LIKELY_PAY,Bengali,sq
+"Bhai ami kokhono mana korini, payment korbo!!",LIKELY_PAY,Bengali,hr
+Pura taka diye debo ek shoptahe 😭,LIKELY_PAY,Bengali,id
+"Payment hoye hoye jabe, guarantee dichhi 🙏",LIKELY_PAY,Bengali,nl
+Salary Salary ashle tukni korbo boss,LIKELY_PAY,Bengali,tl
+Suno salary ashle tukni korbo,LIKELY_PAY,Bengali,tl
+"Well bhule gechilam, ekhon korchi!!",LIKELY_PAY,Bengali,de
+Cheshta korbo taratari 😢!!,LIKELY_PAY,Bengali,sq
+"Boss amI pAyment koRBo, teNsIon nio na yaar",LIKELY_PAY,Bengali,tl
+Transfer kore debo agle shoptahe,LIKELY_PAY,Bengali,da
+"Promise korchi, dui din e e 😡",LIKELY_PAY,Bengali,sq
+Hey porSHUDinO porSHUDinO porjonTO PakKA diye DEbO!!,LIKELY_PAY,Bengali,pt
+"Diye debo, chinta koro na boss",LIKELY_PAY,Bengali,so
+"Madam adha ekhON, BaKi tA AgLE ShoPtahe",LIKELY_PAY,Bengali,so
+Madam taka pathacchi ektu pore,LIKELY_PAY,Bengali,id
+"Sir diye debo, debo, dhairyo dhoro",LIKELY_PAY,Bengali,so
+Ok so online payment kore dii ekhon,LIKELY_PAY,Bengali,no
+"Bhai haan bhai, ek shoptahe er moddhe kore debo",LIKELY_PAY,Bengali,sq
+Well taka pathacchi ektu pore,LIKELY_PAY,Bengali,id
+"ADHA EKHON, BAKI TA AGLE SHOPTAHE",LIKELY_PAY,Bengali,hu
+"Taka arrange hocche, dui din e diye debo.!!",LIKELY_PAY,Bengali,it
+"ektu somoy dao, kaal diye debo",LIKELY_PAY,Bengali,so
+"Taka arrange hocche, Shukrobar er moddhe diye debo",LIKELY_PAY,Bengali,da
+"Adha ekhon, baki ta Shukrobar er moddhe",LIKELY_PAY,Bengali,so
+"Dude aMi aMi arRange koRchi, masH SheSHe hOYe jaBe!!",LIKELY_PAY,Bengali,nl
+"Dekho account number dao, ekhon transfer kori boss",LIKELY_PAY,Bengali,sv
+Porshudino porjonto pakka diye debo bro???,LIKELY_PAY,Bengali,sl
+bhai time e diye debo na?,LIKELY_PAY,Bengali,tr
+Bhai bas ekTU waIt korO,LIKELY_PAY,Bengali,id
+"ami koKhoNo manA korini, paymenT korbO thanks!!",LIKELY_PAY,Bengali,hr
+"ami serious, kaal porjonto pakka!!",LIKELY_PAY,Bengali,fi
+"Honestly ekhon taka taka nei, agle shoptahe porjonto wait koro boss",LIKELY_PAY,Bengali,fi
+"EKTU SOMOY DAO, MASH SHESHE DIYE DEBO",LIKELY_PAY,Bengali,de
+"Ami payment korbo, tension nio na thanks",LIKELY_PAY,Bengali,fi
+"EKHON TAKA NEI, SHUKROBAR ER MODDHE PORJONTO WAIT KORO",LIKELY_PAY,Bengali,de
+Aaj bikale transfr kore debo plz,LIKELY_PAY,Bengali,sl
+"Honestly ekdin aro pls, pakka debo",LIKELY_PAY,Bengali,nl
+"Basically ektu somoy dao, kaal diye debo",LIKELY_PAY,Bengali,so
+"Ami arrange korchi, Shukrobar er moddhe hoye jabe",LIKELY_PAY,Bengali,sq
+Poora taka taka ekbare diye debo 💰!!,LIKELY_PAY,Bengali,so
+"Dekho promise korchi, dui din e e",LIKELY_PAY,Bengali,nl
+"ektu somoy dao, dui din e diye debo!!",LIKELY_PAY,Bengali,af
+Suno eMI TAKA ALAG REKHECHI,LIKELY_PAY,Bengali,es
+"Bhai salary ashbe Robibar, tarpor e diye debo",LIKELY_PAY,Bengali,so
+Boss kaal payment kore debo,LIKELY_PAY,Bengali,nl
+"Ekhon taka nei, kaal porjonto wait koro boss",LIKELY_PAY,Bengali,fi
+"Ami serious, ei weekend porjonto pakka",LIKELY_PAY,Bengali,af
+Listen bhai time e diye debo,LIKELY_PAY,Bengali,af
+"Boss dUI dUI BHAGE DITE PARI, PROTHOM TA MASH SHESHE",LIKELY_PAY,Bengali,de
+"Dude diye debo, chinta koro na",LIKELY_PAY,Bengali,pt
+"ami serious, agle shoptahe porjonto pakka bro",LIKELY_PAY,Bengali,sq
+Arey bhai time e diye debo 😢,LIKELY_PAY,Bengali,tr
+Listen online payment kore dii ekhon asap,LIKELY_PAY,Bengali,fi
+Salary ashle tukni korbo asap,LIKELY_PAY,Bengali,tl
+"Haan jani, tin din e e korbo",LIKELY_PAY,Bengali,sq
+Amake aro 7 din dao 🙏🙏!!,LIKELY_PAY,Bengali,hr
+"Promise korchi, tin din e e!!",LIKELY_PAY,Bengali,sq
+Cheshta korbo korbo taratari thx!!,LIKELY_PAY,Bengali,sq
+Look aaj e payment hoye jabe!!,LIKELY_PAY,Bengali,nl
+"TAKA ARRANGE HOCCHE, AGLE SHOPTAHE DIYE DEBO",LIKELY_PAY,Bengali,so
+Aaj e paymt hoye jabe yaar!!,LIKELY_PAY,Bengali,sq
+"Payment hoye jabe, jabe, guarantee dichhi!!",LIKELY_PAY,Bengali,nl
+"ekdin ekdin aro please, pakka debo",LIKELY_PAY,Bengali,af
+Well aaj raater moddhe hoye jabe,LIKELY_PAY,Bengali,so
+Aaj raater moddhe moddhe hoye jabe,LIKELY_PAY,Bengali,sq
+"Promise korchi, mash sheshe e 💰???",LIKELY_PAY,Bengali,sq
+"Haan bhai, ei weekend er moddhe kore debo",LIKELY_PAY,Bengali,af
+"haan jani, shukrobar er moddhe e korbo",LIKELY_PAY,Bengali,sq
+"Ami Ami arrange korchi, kaal hoye jabe 🙂",LIKELY_PAY,Bengali,et
+"Yaar payment hoye jabe, guarantee dichhi 😭",LIKELY_PAY,Bengali,nl
+Dekho salary ashle tukni korbo yaar,LIKELY_PAY,Bengali,so
+Amake aro 3 din dao sir,LIKELY_PAY,Bengali,id
+"Diye debo, dhairyo dhoro plz???",LIKELY_PAY,Bengali,so
+"Haan thik ache, diye dii thanks",LIKELY_PAY,Bengali,so
+Haan ekhon process e ache payment na?,LIKELY_PAY,Bengali,nl
+Amake aro 7 din dao 😢,LIKELY_PAY,Bengali,hr
+"Ami arrange korchi, korchi, mash sheshe hoye jabe",LIKELY_PAY,Bengali,sq
+Dude taka pathacchi ektu pore,LIKELY_PAY,Bengali,id
+"Haan jani, ek shoptahe e korbo ok?",LIKELY_PAY,Bengali,sq
+"Promise korchi, kaal e!!",LIKELY_PAY,Bengali,et
+"Promise korchi, tin din e e yaar",LIKELY_PAY,Bengali,nl
+"salary ashbe shombar, tarpor e diye debo 🙏🙏!!",LIKELY_PAY,Bengali,so
+"Haan taka arrange hocche, ek shoptahe diye debo",LIKELY_PAY,Bengali,nl
+"Ami cheshta korchi, ek shoptahe e!!",LIKELY_PAY,Bengali,sq
+"Haan Haan bhai, agle shoptahe er moddhe kore debo!!",LIKELY_PAY,Bengali,so
+"Promise korchi, agle shoptahe e",LIKELY_PAY,Bengali,sq
+"AMI SERIOUS, MASH SHESHE PORJONTO PAKKA",LIKELY_PAY,Bengali,de
+"Haan jani, agle agle shoptahe e korbo",LIKELY_PAY,Bengali,et
+KAAL PAYMENT KORE DEBO plz!!,LIKELY_PAY,Bengali,pl
+"Suno ami cheshta korchi, kaal e",LIKELY_PAY,Bengali,sw
+"Honestly haan jani, mash sheshe e korbo",LIKELY_PAY,Bengali,sq
+Poora taka ekbare ekbare diye debo,LIKELY_PAY,Bengali,tr
+Arey aaj raater moddhe hoye jabe,LIKELY_PAY,Bengali,so
+Bhai amake amake aro 2 din dao,LIKELY_PAY,Bengali,id
+"Haan ekdin aro plss, pakka debo ...",LIKELY_PAY,Bengali,nl
+Look salaRY asHLe TUknI korBo,LIKELY_PAY,Bengali,et
+"Dui bhage dite pari, prothom ta kaal yaar!!",LIKELY_PAY,Bengali,id
+Bhai time e diye debo plz,LIKELY_PAY,Bengali,pt
+Boss bas ektu wait koro!!,LIKELY_PAY,Bengali,lv
+"Ekdin aro please, please, pakka debo",LIKELY_PAY,Bengali,sl
+EMI taka alag rekhechi boss,LIKELY_PAY,Bengali,hu
+"Haan ami serious, ei weekend porjonto pakka 💰???",LIKELY_PAY,Bengali,fi
+"Well dui bhage dite pari, prothom ta ei weekend",LIKELY_PAY,Bengali,af
+Online payment payment kore dii ekhon,LIKELY_PAY,Bengali,no
+"Dekho payment hoye jabe, guarantee dichhi???",LIKELY_PAY,Bengali,nl
+"Acha haan jani, ek shoptahe e korbo",LIKELY_PAY,Bengali,sq
+"Madam Madam taka arrange hocche, ek shoptahe diye debo",LIKELY_PAY,Bengali,id
+Honestly aaj e payment hoye jabe,LIKELY_PAY,Bengali,nl
+Dekho aaj raater raater moddhe hoye jabe,LIKELY_PAY,Bengali,nl
+"AMI ARRANGE KORCHI, TIN DIN E HOYE JABE",LIKELY_PAY,Bengali,de
+"Ok Ok so bonus peyechi, ekhon e dei",LIKELY_PAY,Bengali,nl
+"Hey ami serious, ei weekend porjonto pakka 🙏🙏",LIKELY_PAY,Bengali,af
+Poora Poora taka ekbare diye debo,LIKELY_PAY,Bengali,af
+PORSHUDINO PORJONTO PORJONTO PAKKA DIYE DEBO,LIKELY_PAY,Bengali,pt
+"ektu somoy somoy dao, kaal diye debo",LIKELY_PAY,Bengali,so
+"Acha uPI uPI pathao, ekhon e kori???",LIKELY_PAY,Bengali,sq
+"Hey haaN jAni, kaal e kOrBo",LIKELY_PAY,Bengali,so
+"Bhai salary nahi aayi abhi, 3 din mein mein pakka kar dunga",LIKELY_PAY,Hinglish,id
+Kal se pehle kar dunga definitely,LIKELY_PAY,Hinglish,id
+"Bro let me arrange, month end tak tak done",LIKELY_PAY,Hinglish,no
+I will do NEFT kal mein,LIKELY_PAY,Hinglish,id
+Salary aate hi immediately karunga,LIKELY_PAY,Hinglish,id
+"Yaar 4 din aur de do, pakka payment",LIKELY_PAY,Hinglish,id
+Transfer initiate kar diya hai already,LIKELY_PAY,Hinglish,id
+Aaj evening ko payment kar deta hun,LIKELY_PAY,Hinglish,sv
+"I promise bhai, 3 din mein tak",LIKELY_PAY,Hinglish,id
+"UPI ID share karo, abhi bhejta hun",LIKELY_PAY,Hinglish,sw
+"Let me check balance, kal mein done",LIKELY_PAY,Hinglish,nl
+"Bhai mera bonus aaya hai, paying today",LIKELY_PAY,Hinglish,id
+"Paisa arrange ho gaya, aaj transfer",LIKELY_PAY,Hinglish,tl
+"Haan haan karunga, 3 din mein tak pakka",LIKELY_PAY,Hinglish,id
+Meri side se confirmed hai payment,LIKELY_PAY,Hinglish,it
+"Main kabhi avoid nahi karta, will pay",LIKELY_PAY,Hinglish,sw
+"Salary credited nahi hui, but jaise hi aaye payment done",LIKELY_PAY,Hinglish,id
+"Don't worry yaar, karke dunga",LIKELY_PAY,Hinglish,id
+Today raat tak ho jayega guarantee,LIKELY_PAY,Hinglish,so
+EMI ka paisa alag set hai,LIKELY_PAY,Hinglish,tl
+"Account details do, abhi karta hun",LIKELY_PAY,Hinglish,id
+"Boss ne salary hold ki thi, ab aayi, de dunga",LIKELY_PAY,Hinglish,id
+Bhai mera plan hai Thursday ko clear karna,LIKELY_PAY,Hinglish,id
+Koshish karunga within 5 days,LIKELY_PAY,Hinglish,so
+"Meri taraf se pakka, no tension",LIKELY_PAY,Hinglish,id
+Abhi tight hai but ek hafte mein tak karunga,LIKELY_PAY,Hinglish,id
+"Let me do partial now, rest later",LIKELY_PAY,Hinglish,fr
+"Payment guaranteed, just 5 more days",LIKELY_PAY,Hinglish,fr
+Haan bHAi mEra plan hAi wedNesday kO cLear Karna,LIKELY_PAY,Hinglish,id
+Koshish Koshish karunga within 2 days,LIKELY_PAY,Hinglish,sq
+"Ok Bhai, i'lL pay BY Friday",LIKELY_PAY,Hinglish,tl
+"account details details do, abhi karta hun",LIKELY_PAY,Hinglish,ca
+"HAAN HAAN KARUNGA, AGLE HAFTE TAK PAKKA 🙂",LIKELY_PAY,Hinglish,vi
+full AmOunT de DuNgA thIs Weekend 🙏🙏,LIKELY_PAY,Hinglish,af
+Haan trnsfr initiate initiate kar diya hai already,LIKELY_PAY,Hinglish,id
+"let me check check balance, shukravaar tak mein done!!",LIKELY_PAY,Hinglish,nl
+"Honestly bro let me arrange, 2 din mein tak done",LIKELY_PAY,Hinglish,nl
+Koshish karunga within 3 days plz,LIKELY_PAY,Hinglish,sq
+Haan bhai mera plan hai thursday ko clear karna yaar,LIKELY_PAY,Hinglish,id
+"bRo lET lET me aRrange, aGle hAFTe tak done 💰",LIKELY_PAY,Hinglish,af
+Dekho eMI ka paisa alag set hai,LIKELY_PAY,Hinglish,tl
+Madam eMI ka paisa alag set hai,LIKELY_PAY,Hinglish,id
+"Ek aur chance do, 2 din mein guaranteed!!",LIKELY_PAY,Hinglish,nl
+koshish karunga karunga within 2 days plz,LIKELY_PAY,Hinglish,id
+"haan haan karunga, is weekend tak pakka???",LIKELY_PAY,Hinglish,id
+"Bhai Bhai paisa arrange ho gaya, aaj transfer",LIKELY_PAY,Hinglish,id
+"Arey Arey account details do, abhi karta hun thx",LIKELY_PAY,Hinglish,ca
+"Well uPI ID share karo, abhi bhejta hun!!",LIKELY_PAY,Hinglish,so
+Full amount de dunga in 2 days,LIKELY_PAY,Hinglish,de
+bhai mera plan hai monday ko clear karna,LIKELY_PAY,Hinglish,id
+"Madam haan haan karunga, agle hafte tak pakka",LIKELY_PAY,Hinglish,id
+"Boss bro let me arrange, 3 din mein tak done",LIKELY_PAY,Hinglish,nl
+"Arey bhai salary nahi aayi abhi, is weekend mein pakka kar dunga 💰",LIKELY_PAY,Hinglish,id
+"Listen bhai salry nahi aayi abhi, Shukravaar tak mein pakka kar dunga",LIKELY_PAY,Hinglish,id
+"Let me check balance, is weekend mein done 👍???",LIKELY_PAY,Hinglish,nl
+aaJ aaJ eveninG Ko pAYmeNT kar DEta huN plz,LIKELY_PAY,Hinglish,nl
+Yaar eMI ka paisa alag set hai,LIKELY_PAY,Hinglish,id
+Abhi tight hai but 2 din mein tak karunga!!,LIKELY_PAY,Hinglish,id
+"Let me do do partial now, rest later.???",LIKELY_PAY,Hinglish,fr
+Boss i will do NEFT Shukravaar tak mein,LIKELY_PAY,Hinglish,af
+"Let me check balance, is weekend mein done asap",LIKELY_PAY,Hinglish,nl
+"Don't Don't worry yaar, karke dunga",LIKELY_PAY,Hinglish,id
+"i'm not running away, will pay in 3 days 💰!!",LIKELY_PAY,Hinglish,tl
+"Don't worry worry yaar, karke dunga",LIKELY_PAY,Hinglish,af
+Ok so meri side se confirmed hai payment,LIKELY_PAY,Hinglish,it
+Basically eMI ka paisa alag set hai,LIKELY_PAY,Hinglish,tl
+Half now baaki in 2 days boss,LIKELY_PAY,Hinglish,so
+"payment guaranteed, just 7 more days thx!!",LIKELY_PAY,Hinglish,fr
+"bhai salary nahi nahi aayi abhi, ek hafte mein mein pakka kar dunga",LIKELY_PAY,Hinglish,id
+"Madam let Me cheCk bAlancE, 2 dIn MeiN mein DonE",LIKELY_PAY,Hinglish,de
+"Bhai mera mera bonus aaya hai, paying today 🙏🙏",LIKELY_PAY,Hinglish,id
+"Ek aur chance chance do, is weekend guaranteed",LIKELY_PAY,Hinglish,nl
+I will do NEFT 2 din mein mein,LIKELY_PAY,Hinglish,de
+"Meri taraf taraf se pakka, no tension",LIKELY_PAY,Hinglish,id
+"Sir bro let me arrange, is weekend tak done",LIKELY_PAY,Hinglish,nl
+Look i will do NEFT is weekend mein!!,LIKELY_PAY,Hinglish,af
+"ek aur cHance Do, ek Hafte mein gUARAnteed asap",LIKELY_PAY,Hinglish,nl
+Koshish Koshish karunga within 15 days asap,LIKELY_PAY,Hinglish,sq
+Madam meri side se confirmed hai payment,LIKELY_PAY,Hinglish,pt
+"Honestly meri taraf se pakka, no tension",LIKELY_PAY,Hinglish,id
+"Ek aur chance do, kal guaranteed yaar",LIKELY_PAY,Hinglish,so
+Dude aaj evening ko payment kar deta hun ...,LIKELY_PAY,Hinglish,nl
+I will do NEFT agle hafte mein,LIKELY_PAY,Hinglish,cy
+"meri taraf se pakka, no tension plz???",LIKELY_PAY,Hinglish,id
+Honestly bhai mera plan hai Sunday ko clear karna,LIKELY_PAY,Hinglish,id
+"Ok so so uPI ID share karo, abhi bhejta hun",LIKELY_PAY,Hinglish,so
+Suno payment ho jayega by Monday,LIKELY_PAY,Hinglish,tl
+"Arey paisa arrange ho gaya, aaj transfer !!",LIKELY_PAY,Hinglish,tl
+Ok so aaj evening ko paymnt kar deta hun,LIKELY_PAY,Hinglish,sv
+"Haan haan karunga, karunga, ek hafte mein tak pakka",LIKELY_PAY,Hinglish,id
+"Arey ek aur chance do, 3 din mein guaranteed 💰",LIKELY_PAY,Hinglish,nl
+"See ek aur chance do, kal guaranteed 🙏🙏",LIKELY_PAY,Hinglish,nl
+"Bhai salary nahi nahi aayi abhi, 2 din mein mein pakka kar dunga yaar",LIKELY_PAY,Hinglish,id
+"Look i promise bhai, Shukravaar tak tak.",LIKELY_PAY,Hinglish,et
+"I changed my number, didn't get reminders",NEEDS_REMINDER,English,da
+Ok I'll look into it this weekend,NEEDS_REMINDER,English,af
+Can I get a statement?,NEEDS_REMINDER,English,nl
+"Honestly I just forgot, sorry",NEEDS_REMINDER,English,no
+Look ok Let me figure tHis oUt,NEEDS_REMINDER,English,nl
+Madam can I get a statement 💰,NEEDS_REMINDER,English,ca
+"Look ok noted, let me cheCk",NEEDS_REMINDER,English,nl
+Can you Email me THe detaiLs yaar!!,NEEDS_REMINDER,English,id
+Madam i'LL HANDLE IT SOON,NEEDS_REMINDER,English,so
+Suno hOW MANY DAYS OVERDUE IS IT?,NEEDS_REMINDER,English,pt
+Can Can I get a statement?,NEEDS_REMINDER,English,nl
+WHICH LOAN ARE WE TALKING ABOUT 🙏🙏!!,NEEDS_REMINDER,English,so
+"Madam i changed changed my number, didn't get reminders 🙂",NEEDS_REMINDER,English,nl
+Well i'LL HANDLE IT SOON,NEEDS_REMINDER,English,no
+Listen iS THERE THERE A GRACE PERIOD????,NEEDS_REMINDER,English,de
+"Dude i changed changed my number, didn't get reminders",NEEDS_REMINDER,English,nl
+"HONESTLY I JUST FORGOT, SORRY bro!!",NEEDS_REMINDER,English,pt
+Oh bhool gaya tha,NEEDS_REMINDER,Hindi,so
+Due date kab thi?,NEEDS_REMINDER,Hindi,id
+Notification nahi aaya mujhe,NEEDS_REMINDER,Hindi,sw
+Baad mein yaad dilana please,NEEDS_REMINDER,Hindi,so
+Abhi due ho gaya? Mujhe laga next month hai,NEEDS_REMINDER,Hindi,so
+Kitna hai exactly?,NEEDS_REMINDER,Hindi,en
+Check karke batata hun,NEEDS_REMINDER,Hindi,id
+Payment ka account number kya hai?,NEEDS_REMINDER,Hindi,en
+"Busy tha, dekh lunga",NEEDS_REMINDER,Hindi,id
+Pehle bank balance check karna padega,NEEDS_REMINDER,Hindi,id
+Details fir se bhejo,NEEDS_REMINDER,Hindi,no
+Kal call kar lena is baare mein,NEEDS_REMINDER,Hindi,so
+Mujhe pata nahi tha overdue hai,NEEDS_REMINDER,Hindi,en
+Main baad mein batata hun,NEEDS_REMINDER,Hindi,id
+Kitne din overdue hai?,NEEDS_REMINDER,Hindi,no
+Notification miss ho gayi lagta hai,NEEDS_REMINDER,Hindi,en
+SMS aaya tha kya? Nahi dekha,NEEDS_REMINDER,Hindi,so
+"Ok noted, check karta hun",NEEDS_REMINDER,Hindi,sv
+Jaldi handle karunga,NEEDS_REMINDER,Hindi,id
+Ye kaun si EMI hai?,NEEDS_REMINDER,Hindi,fi
+Agle hafte yaad dilana fir se,NEEDS_REMINDER,Hindi,so
+Dates ka track nahi raha,NEEDS_REMINDER,Hindi,id
+"Number change kiya tha, reminder nahi aaya",NEEDS_REMINDER,Hindi,id
+Kahan pay karna hai? Link bhejo,NEEDS_REMINDER,Hindi,id
+Auto-debit on tha na?,NEEDS_REMINDER,Hindi,en
+Weekend mein dekhta hun,NEEDS_REMINDER,Hindi,nl
+"Batane ke liye shukriya, check karunga",NEEDS_REMINDER,Hindi,sw
+"Mera CA dekhta hai ye sab, usse puchta hun",NEEDS_REMINDER,Hindi,id
+Bill dobara bhej do,NEEDS_REMINDER,Hindi,so
+Amount verify karna padega,NEEDS_REMINDER,Hindi,sv
+Do din do sort karne ke liye,NEEDS_REMINDER,Hindi,tr
+"Travel pe tha, abhi aaya hun",NEEDS_REMINDER,Hindi,id
+Pichli calls miss ho gayi sorry,NEEDS_REMINDER,Hindi,en
+Auto-pay kaise set karna hai?,NEEDS_REMINDER,Hindi,tl
+Samajh leta hun main,NEEDS_REMINDER,Hindi,id
+"Bank change kiya recently, update karna hai",NEEDS_REMINDER,Hindi,en
+Kaun sa loan hai?,NEEDS_REMINDER,Hindi,id
+Statement mil sakta hai?,NEEDS_REMINDER,Hindi,id
+Pehle wife se baat karna padega,NEEDS_REMINDER,Hindi,id
+Finances check karke batata hun,NEEDS_REMINDER,Hindi,id
+"Sach mein bhool gaya tha, sorry",NEEDS_REMINDER,Hindi,en
+Email pe details bhej do,NEEDS_REMINDER,Hindi,fr
+Late fee kitni lagegi?,NEEDS_REMINDER,Hindi,et
+Grace period milta hai kya?,NEEDS_REMINDER,Hindi,id
+"Karunga, baar baar call mat karo",NEEDS_REMINDER,Hindi,id
+"Kaam mein busy hun, jaldi karunga",NEEDS_REMINDER,Hindi,id
+Outstanding kahan check karun?,NEEDS_REMINDER,Hindi,id
+"Samajh gaya, kuch karunga",NEEDS_REMINDER,Hindi,id
+Exact due amount batao,NEEDS_REMINDER,Hindi,ca
+Pata hi nahi chala late ho gaya,NEEDS_REMINDER,Hindi,sw
+Actually kitna hai exactly?,NEEDS_REMINDER,Hindi,en
+Well kITNE DIN OVERDUE HAI,NEEDS_REMINDER,Hindi,de
+Actually email pe details bhej do,NEEDS_REMINDER,Hindi,ca
+Kitne din overdue overdue hai?,NEEDS_REMINDER,Hindi,no
+Madam exact due amount batao 🤷,NEEDS_REMINDER,Hindi,ca
+"Samajh gaya, kuch karunga thanks???",NEEDS_REMINDER,Hindi,id
+Bhai auto-pay auto-pay kaise set karna hai,NEEDS_REMINDER,Hindi,tl
+Yaar ye kaun si EMI hai?,NEEDS_REMINDER,Hindi,fi
+Boss pichli calls miss ho gayi sorry 🙏🙏,NEEDS_REMINDER,Hindi,en
+"Basically bank change kiya recently, update karna hai",NEEDS_REMINDER,Hindi,en
+"OK NOTED, CHECK CHECK KARTA HUN ...",NEEDS_REMINDER,Hindi,en
+"tRAveL tRAveL pe thA, aBHi aayA hUn yaar",NEEDS_REMINDER,Hindi,en
+Listen mujhe pata nahi tha overdue hai,NEEDS_REMINDER,Hindi,en
+Hey finances check karke batata hun 👍,NEEDS_REMINDER,Hindi,id
+"Listen travel pe tha, abhi aaya hun 👍",NEEDS_REMINDER,Hindi,id
+"Suno bank change kiya recently, update karna hai plz",NEEDS_REMINDER,Hindi,tl
+"kaam mein mein busy hun, jaldi karunga???",NEEDS_REMINDER,Hindi,id
+Bhai ye kaun si EMI hai?,NEEDS_REMINDER,Hindi,fi
+Pichli calls miss ho gayi sorry thx!!,NEEDS_REMINDER,Hindi,en
+Email pe details bhej do plz!!,NEEDS_REMINDER,Hindi,pt
+Honestly pEHLE WIFE SE BAAT KARNA PADEGA asap,NEEDS_REMINDER,Hindi,en
+Sir kitne din overdue hai boss,NEEDS_REMINDER,Hindi,no
+Suno statement mil sakta hai?,NEEDS_REMINDER,Hindi,id
+Boss email pe details bhej do,NEEDS_REMINDER,Hindi,fr
+Hey oh oh bhool gaya tha,NEEDS_REMINDER,Hindi,so
+"Suno ok noted, check karta hun",NEEDS_REMINDER,Hindi,sk
+Listen bill dobara bhej do,NEEDS_REMINDER,Hindi,sv
+SMS aaya aaya tha kya? Nahi dekha,NEEDS_REMINDER,Hindi,so
+Dekho pata pata hi nahi chala late ho gaya 😭,NEEDS_REMINDER,Hindi,sw
+Yaar grace period milta hai kya?,NEEDS_REMINDER,Hindi,id
+Kal call kar kar lena is baare mein thanks,NEEDS_REMINDER,Hindi,so
+Honestly jALDI HANDLE KARUNGA,NEEDS_REMINDER,Hindi,en
+Agle Agle hafte yaad dilana fir se!!,NEEDS_REMINDER,Hindi,so
+"Dekho Dekho busy tha, dekh lunga!!",NEEDS_REMINDER,Hindi,so
+Bhai bill dobara bhej do bro,NEEDS_REMINDER,Hindi,pt
+"Sach mein bhool bhool gaya tha, sorry",NEEDS_REMINDER,Hindi,en
+Email pe details bhej do asap,NEEDS_REMINDER,Hindi,pt
+late fee kitni kitni lagegi?,NEEDS_REMINDER,Hindi,et
+Basically lATE FEE KITNI LAGEGI?,NEEDS_REMINDER,Hindi,en
+Finances Finances check karke batata hun 😢,NEEDS_REMINDER,Hindi,en
+Ok so statement mil sakta hai thanks,NEEDS_REMINDER,Hindi,id
+Listen gRACE PERIOD MILTA HAI KYA?,NEEDS_REMINDER,Hindi,de
+Haan pata hi nahi chala late ho gaya boss!!,NEEDS_REMINDER,Hindi,tl
+Weekend mein dekhta hun thx!!,NEEDS_REMINDER,Hindi,af
+Payment ka account number kya hai boss,NEEDS_REMINDER,Hindi,en
+Details fir se bhejo asap,NEEDS_REMINDER,Hindi,lt
+Finances check check karke batata hun,NEEDS_REMINDER,Hindi,en
+Look finances check karke batata hun ok?,NEEDS_REMINDER,Hindi,id
+"Samajh gaya, gaya, kuch karunga",NEEDS_REMINDER,Hindi,so
+"Travel pe tha, abhi aaya hun ok????",NEEDS_REMINDER,Hindi,id
+See cHECK KARKE BATATA HUN 💰!!,NEEDS_REMINDER,Hindi,en
+Samajh leta hun hun main,NEEDS_REMINDER,Hindi,id
+Hey due date kab thi asap,NEEDS_REMINDER,Hindi,id
+"Karunga, baar baar baar call mat karo thanks!!",NEEDS_REMINDER,Hindi,so
+Kaun sa loan hai bro,NEEDS_REMINDER,Hindi,id
+Arey pehle bank balance check karna padega 😢,NEEDS_REMINDER,Hindi,id
+Well ye kaun si EMI hai?,NEEDS_REMINDER,Hindi,fi
+Boss due date kab thi?,NEEDS_REMINDER,Hindi,id
+Dekho outstanding kahan check karun?,NEEDS_REMINDER,Hindi,id
+Grace period milta hai kya ok?!!,NEEDS_REMINDER,Hindi,id
+Ok so kAHAN PAY KARNA HAI? LINK BHEJO,NEEDS_REMINDER,Hindi,tl
+Arey jaldi handle karunga,NEEDS_REMINDER,Hindi,id
+Kitne din din overdue hai?,NEEDS_REMINDER,Hindi,af
+Bhai statement mil sakta hai?,NEEDS_REMINDER,Hindi,id
+Auto-pay kaise set karna hai ...,NEEDS_REMINDER,Hindi,tl
+JALDI HANDLE KARUNGA thx,NEEDS_REMINDER,Hindi,en
+Bhai main baad mein batata hun 🙏🙏,NEEDS_REMINDER,Hindi,id
+Madam piCHli CAlls misS ho gayi soRRY,NEEDS_REMINDER,Hindi,so
+"Boss bank change kiya recently, update karna hai !!",NEEDS_REMINDER,Hindi,en
+Basically notification miss ho gayi lagta hai!!,NEEDS_REMINDER,Hindi,en
+Oh bhool gaya tha ok?!!,NEEDS_REMINDER,Hindi,so
+PEHLE PEHLE WIFE SE BAAT KARNA PADEGA!!,NEEDS_REMINDER,Hindi,en
+Bill dobara bhej do na?,NEEDS_REMINDER,Hindi,pt
+"Ok so sAMAJH GAYA, KUCH KARUNGA???",NEEDS_REMINDER,Hindi,sl
+"Sir sach mein bhool gaya tha, sorry 🤷",NEEDS_REMINDER,Hindi,en
+Weekend mein mein dekhta hun,NEEDS_REMINDER,Hindi,de
+Look check karke batata hun ok?,NEEDS_REMINDER,Hindi,id
+Dude baad mein yaad dilana please,NEEDS_REMINDER,Hindi,so
+Arey duE datE kaB thi 🤷,NEEDS_REMINDER,Hindi,so
+abHi abHi DUe ho gaya? mUJHe laga NexT MONth haI plz,NEEDS_REMINDER,Hindi,so
+Arey oh bhool gaya tha,NEEDS_REMINDER,Hindi,so
+Bhai samajh leta hun main,NEEDS_REMINDER,Hindi,id
+Boss mAIN BAAD MEIN BATATA HUN,NEEDS_REMINDER,Hindi,en
+Suno ye kauN si Emi hai?!!,NEEDS_REMINDER,Hindi,fi
+Details fir se bhejo ...,NEEDS_REMINDER,Hindi,no
+Boss samajh leta hun main,NEEDS_REMINDER,Hindi,id
+"Busy tha, dekh lunga plz",NEEDS_REMINDER,Hindi,tl
+Due date kab thi yaar,NEEDS_REMINDER,Hindi,so
+SMS SMS aaya tha kya? Nahi dekha!!,NEEDS_REMINDER,Hindi,so
+"Boss travel pe tha, abhi aaya hun",NEEDS_REMINDER,Hindi,en
+Ok so abhi due ho gaya? mujhe laga next month hai 💰!!,NEEDS_REMINDER,Hindi,so
+Acha auto-debit on tha na?!!,NEEDS_REMINDER,Hindi,en
+Hey sAMAjH letA hun Main,NEEDS_REMINDER,Hindi,fr
+Kaun sa loan hai 🙂,NEEDS_REMINDER,Hindi,fi
+Arey notification nahi aaya mujhe,NEEDS_REMINDER,Hindi,so
+Dates ka track track nahi raha!!,NEEDS_REMINDER,Hindi,id
+Oh bhule gechilam,NEEDS_REMINDER,Bengali,de
+Due date kokhon chhilo?,NEEDS_REMINDER,Bengali,nl
+Pore mone koriye dio please,NEEDS_REMINDER,Bengali,hr
+Check kore janabo,NEEDS_REMINDER,Bengali,hr
+"Busy chhilam, dekhbo",NEEDS_REMINDER,Bengali,id
+Age bank balance check korte hobe,NEEDS_REMINDER,Bengali,nl
+Details ta abar pathao,NEEDS_REMINDER,Bengali,id
+Ami jantam na overdue hoyeche,NEEDS_REMINDER,Bengali,nl
+Pore bolbo ami,NEEDS_REMINDER,Bengali,sk
+SMS eshechhilo ki? Dekhini to,NEEDS_REMINDER,Bengali,sw
+Taratari handle korbo,NEEDS_REMINDER,Bengali,id
+Eta kon EMI?,NEEDS_REMINDER,Bengali,fi
+Agle shoptahe mone koriyo,NEEDS_REMINDER,Bengali,sq
+"Number change korechi, reminder asheni",NEEDS_REMINDER,Bengali,de
+Kothai pay korte hobe? Link dao,NEEDS_REMINDER,Bengali,id
+Auto-debit on chhilo na?,NEEDS_REMINDER,Bengali,it
+Weekend e dekhchi,NEEDS_REMINDER,Bengali,nl
+"Janano r jonno dhonnobad, check korbo",NEEDS_REMINDER,Bengali,sl
+"Amar CA dekhe ei shob, take jigges kori",NEEDS_REMINDER,Bengali,no
+Bill ta abar pathao,NEEDS_REMINDER,Bengali,tl
+Amount verify korte hobe,NEEDS_REMINDER,Bengali,no
+Dui din dao sort korar jonno,NEEDS_REMINDER,Bengali,af
+Auto-pay kibhabe set korte hoy?,NEEDS_REMINDER,Bengali,tl
+Bujhe nii ami,NEEDS_REMINDER,Bengali,sw
+Statement pawa jabe?,NEEDS_REMINDER,Bengali,id
+Finance check kore janabo,NEEDS_REMINDER,Bengali,sk
+Email e details pathao,NEEDS_REMINDER,Bengali,fr
+Late fee koto lagbe?,NEEDS_REMINDER,Bengali,af
+"Korbo, bar bar call koro na",NEEDS_REMINDER,Bengali,so
+"Kaje busy, jholdi korbo",NEEDS_REMINDER,Bengali,cs
+Outstanding kothay check korbo?,NEEDS_REMINDER,Bengali,tl
+"Bujhechi, kichu ekta korbo",NEEDS_REMINDER,Bengali,sk
+Exact due amount bolo,NEEDS_REMINDER,Bengali,ca
+Bujhtei parlam na je late hoye geche,NEEDS_REMINDER,Bengali,nl
+Yaar Yaar outstandInG kOthay ChECk korbo,NEEDS_REMINDER,Bengali,so
+Pore bolbo ami ami ...,NEEDS_REMINDER,Bengali,sk
+See weekend e dekhchi???,NEEDS_REMINDER,Bengali,nl
+Yaar exact due amount bolo,NEEDS_REMINDER,Bengali,ca
+Eta kon EMI ok?,NEEDS_REMINDER,Bengali,fi
+Bhai pore mone koriye dio please,NEEDS_REMINDER,Bengali,hr
+Bhai weekend e dekhchi,NEEDS_REMINDER,Bengali,nl
+Yaar Yaar dUI DIN DAO SORT KORAR JONNO 👍,NEEDS_REMINDER,Bengali,so
+Bhai email e details pathao,NEEDS_REMINDER,Bengali,fr
+Listen exact due amount bolo,NEEDS_REMINDER,Bengali,fr
+Dui din dao sort korar jonno thanks,NEEDS_REMINDER,Bengali,af
+Yaar Yaar koto taka exactly?,NEEDS_REMINDER,Bengali,so
+Agle shoptahe mone mone koriyo,NEEDS_REMINDER,Bengali,sq
+oh bhule gechilam???,NEEDS_REMINDER,Bengali,de
+Dekho weekend e dekhchi 🙏,NEEDS_REMINDER,Bengali,nl
+"Kaje busy, busy, jholdi korbo",NEEDS_REMINDER,Bengali,cs
+"Korbo, bar bar call koro na thanks!!",NEEDS_REMINDER,Bengali,so
+Suno details ta abar pathao,NEEDS_REMINDER,Bengali,ca
+Suno late fee koto lagbe?,NEEDS_REMINDER,Bengali,it
+Haan bill ta abar pathao,NEEDS_REMINDER,Bengali,tl
+Haan agle shoptahe mone koriyo,NEEDS_REMINDER,Bengali,tl
+Arey eta kon EMI?,NEEDS_REMINDER,Bengali,fi
+Koto taka taka exactly?,NEEDS_REMINDER,Bengali,sw
+Taratari handle korbo 😢!!,NEEDS_REMINDER,Bengali,id
+Auto-debit on chhilo chhilo na?,NEEDS_REMINDER,Bengali,it
+kaal call koro ei byapare ...!!,NEEDS_REMINDER,Bengali,no
+bill bill ta abar pathao,NEEDS_REMINDER,Bengali,tl
+Suno porE bOlbo ami,NEEDS_REMINDER,Bengali,pt
+Statement pawa pawa jabe????,NEEDS_REMINDER,Bengali,id
+Haan due date kokhon chhilo?,NEEDS_REMINDER,Bengali,nl
+"Yaar kaje busy, jholdi korbo plz",NEEDS_REMINDER,Bengali,sl
+Oh bhule gechilam plz,NEEDS_REMINDER,Bengali,nl
+Auto-pay Auto-pay kibhabe set korte hoy?,NEEDS_REMINDER,Bengali,tl
+Bujhe nii ami???,NEEDS_REMINDER,Bengali,sw
+Email e details pathao plz!!,NEEDS_REMINDER,Bengali,fr
+"Haan ok noted, check korchi",NEEDS_REMINDER,Bengali,nl
+Bhai exact due amount bolo,NEEDS_REMINDER,Bengali,ca
+oh bhule gechilam asap,NEEDS_REMINDER,Bengali,id
+Sir check kore janabo,NEEDS_REMINDER,Bengali,sk
+Ok so agle shoptahe mone koriyo,NEEDS_REMINDER,Bengali,tl
+Madam oUTStanDInG KotHay ChEcK korBo?,NEEDS_REMINDER,Bengali,id
+Arey taRatari handle koRbO,NEEDS_REMINDER,Bengali,tr
+Check kore janabo???,NEEDS_REMINDER,Bengali,sk
+Dekho koto taka exactly?,NEEDS_REMINDER,Bengali,so
+Oh bhule gechilam gechilam,NEEDS_REMINDER,Bengali,de
+"Yaar amar CA CA dekhe ei shob, take jigges kori asap",NEEDS_REMINDER,Bengali,no
+Haan check kore janabo,NEEDS_REMINDER,Bengali,nl
+Acha bill ta ta abar pathao,NEEDS_REMINDER,Bengali,tl
+Dude Dude kon loan er kotha bolcho?!!,NEEDS_REMINDER,Bengali,nl
+oh bhule gechilam bro,NEEDS_REMINDER,Bengali,cy
+Bhai pore bolbo ami,NEEDS_REMINDER,Bengali,sk
+Eta kon EMI EMI 🤷,NEEDS_REMINDER,Bengali,fi
+Well due date kokhon chhilo?,NEEDS_REMINDER,Bengali,it
+Hey email e details pathao,NEEDS_REMINDER,Bengali,fr
+Haan weekend e dekhchi???,NEEDS_REMINDER,Bengali,nl
+Bujhe nii ami thx,NEEDS_REMINDER,Bengali,sq
+"Actually amar CA dekhe ei shob, take jigges kori",NEEDS_REMINDER,Bengali,no
+Bhai dui din dao sort korar jonno,NEEDS_REMINDER,Bengali,fr
+"Actually janano r jonno dhonnobad, check korbo",NEEDS_REMINDER,Bengali,sl
+Auto-debit on chhilo na plz,NEEDS_REMINDER,Bengali,it
+See taratari handle korbo,NEEDS_REMINDER,Bengali,et
+Boss pORE BOLBO AMI,NEEDS_REMINDER,Bengali,pt
+LATE LATE FEE KOTO LAGBE,NEEDS_REMINDER,Bengali,vi
+Well auto-debit auto-debit on chhilo na?,NEEDS_REMINDER,Bengali,it
+"Madam Madam amar CA dekhe ei shob, take jigges kori",NEEDS_REMINDER,Bengali,so
+Listen kaal call koro ei byapare,NEEDS_REMINDER,Bengali,no
+Suno bujhe nii ami 👍,NEEDS_REMINDER,Bengali,sw
+detAils ta AbAr pathaO yaar,NEEDS_REMINDER,Bengali,id
+Listen statement pawa jabe?!!,NEEDS_REMINDER,Bengali,nl
+"Listen korbo, bar bar bar call koro na",NEEDS_REMINDER,Bengali,no
+"Bujhechi, kichu ekta ekta korbo",NEEDS_REMINDER,Bengali,sk
+Ok Ok so pore bolbo ami,NEEDS_REMINDER,Bengali,sk
+BILL TA ABAR PATHAO yaar,NEEDS_REMINDER,Bengali,so
+Due date date kokhon chhilo?!!,NEEDS_REMINDER,Bengali,nl
+See aGe Bank BAlaNcE CHeCk KORTe hobe 💰???,NEEDS_REMINDER,Bengali,de
+Suno dui dIn dao sORt koRar jonno!!,NEEDS_REMINDER,Bengali,hr
+outstanding kothay kothay check korbo????,NEEDS_REMINDER,Bengali,tl
+Exact Exact due amt bolo???,NEEDS_REMINDER,Bengali,ca
+Due date kab thi again?,NEEDS_REMINDER,Hinglish,id
+Bhai notification nahi aaya,NEEDS_REMINDER,Hinglish,tl
+Handle karunga jaldi,NEEDS_REMINDER,Hinglish,et
+Next week yaad dilana please,NEEDS_REMINDER,Hinglish,so
+"Number change kiya, didn't get reminders",NEEDS_REMINDER,Hinglish,da
+Weekend mein dekhunga,NEEDS_REMINDER,Hinglish,de
+Bill dubara bhejo please,NEEDS_REMINDER,Hinglish,es
+Amount verify karna hai mujhe,NEEDS_REMINDER,Hinglish,fi
+Which loan ki baat ho rahi hai?,NEEDS_REMINDER,Hinglish,so
+Statement milega kya?,NEEDS_REMINDER,Hinglish,id
+Wife se puchna padega pehle,NEEDS_REMINDER,Hinglish,id
+Finances check karke bataunga,NEEDS_REMINDER,Hinglish,id
+Email karo details please,NEEDS_REMINDER,Hinglish,et
+Late pay karne pe kitni penalty?,NEEDS_REMINDER,Hinglish,tl
+Any grace period available?,NEEDS_REMINDER,Hinglish,fr
+Exact amount bata do,NEEDS_REMINDER,Hinglish,ca
+Realize hi nahi hua it was late,NEEDS_REMINDER,Hinglish,sw
+Bill dubara bhejo please yaar,NEEDS_REMINDER,Hinglish,so
+Ok so exact amount bata do,NEEDS_REMINDER,Hinglish,ca
+Amount verify verify karna hai mujhe,NEEDS_REMINDER,Hinglish,no
+Dekho email karo details please,NEEDS_REMINDER,Hinglish,et
+Exact amount bata bata do,NEEDS_REMINDER,Hinglish,ca
+Exact amount bata do plz,NEEDS_REMINDER,Hinglish,ca
+Ok so next week yaad dilana please,NEEDS_REMINDER,Hinglish,af
+Hey bhai notification nahi aaya.,NEEDS_REMINDER,Hinglish,tl
+Sir late late pay karne pe kitni penalty?!!,NEEDS_REMINDER,Hinglish,id
+remind me later plz,NEEDS_REMINDER,Hinglish,da
+Boss late late pay karne pe kitni penalty?,NEEDS_REMINDER,Hinglish,no
+Madam amount verify karna hai mujhe bro,NEEDS_REMINDER,Hinglish,sv
+Look eXACT AMOUNT BATA DO???,NEEDS_REMINDER,Hinglish,af
+Arey bill dubara bhejo please,NEEDS_REMINDER,Hinglish,es
+Listen handle karunga jaldi,NEEDS_REMINDER,Hinglish,et
+hOw MANY dayS oVerDUe hai ...,NEEDS_REMINDER,Hinglish,cy
+Due date kab thi again bro,NEEDS_REMINDER,Hinglish,id
+Listen send details again please,NEEDS_REMINDER,Hinglish,fr
+Arey Arey oUTSTANDING KAHAN CHECK KARUN 🤷,NEEDS_REMINDER,Hinglish,so
+Which loan ki baat ho rahi hai bro!!,NEEDS_REMINDER,Hinglish,so
+See neXT week yaad dilanA Please thanks,NEEDS_REMINDER,Hinglish,af
+Pehle balance check karna padega 🙏🙏,NEEDS_REMINDER,Hinglish,id
+Next week yaad dilana plss???,NEEDS_REMINDER,Hinglish,so
+I'll get get back to you,NEEDS_REMINDER,Hinglish,da
+Due Due date kab thi again ok?,NEEDS_REMINDER,Hinglish,id
+ANY GRACE PERIOD AVAILABLE bro,NEEDS_REMINDER,Hinglish,pt
+Let me figure this out 👍,NEEDS_REMINDER,Hinglish,fr
+"Haan tHANKS FOR LETTING ME KNOW, CHECKING NOW yaar",NEEDS_REMINDER,Hinglish,so
+Outstanding Outstanding kahan check karun?,NEEDS_REMINDER,Hinglish,id
+Actually sms aaya tha kya? nahi dekha,NEEDS_REMINDER,Hinglish,so
+EMAIL KARO DETAILS PLEASE ok????,NEEDS_REMINDER,Hinglish,hr
+Haan wife se puchna padega pehle???,NEEDS_REMINDER,Hinglish,id
+Sir pehle balance check karna padega,NEEDS_REMINDER,Hinglish,id
+EXACTLY KITNA HAI 😡,NEEDS_REMINDER,Hinglish,de
+Pehle balance check karna padega boss???,NEEDS_REMINDER,Hinglish,id
+Bill dubara bhejo bhejo please,NEEDS_REMINDER,Hinglish,sl
+WIFE SE PUCHNA PADEGA PEHLE ok?!!,NEEDS_REMINDER,Hinglish,pl
+Madam mera auto-debit on tha na?!!,NEEDS_REMINDER,Hinglish,pt
+Weekend mein dekhunga ...,NEEDS_REMINDER,Hinglish,de
+MERA MERA AUTO-DEBIT ON THA NA 👍,NEEDS_REMINDER,Hinglish,pt
+Acha Acha late pay karne pe kitni penalty?,NEEDS_REMINDER,Hinglish,id
+I've been overcharged,DISPUTE,English,nl
+Dude Dude i don't AgRee wITH tHE outstanding amount,DISPUTE,English,nl
+CHECK THE 20TH TRANSACTION,DISPUTE,English,vi
+mY paYment ON lasT montH WAs noT CreDitEd,DISPUTE,English,fr
+i've been overcharged??? overcharged???,DISPUTE,English,nl
+"Acha i made made a prepayment, it's not reflected!!",DISPUTE,English,ca
+This doesn't add add up,DISPUTE,English,cy
+Ye amount galat hai,DISPUTE,Hindi,en
+Maine ye EMI already pay ki hai,DISPUTE,Hindi,sw
+"Apne records check karo, itna nahi banta",DISPUTE,Hindi,it
+Interest calculation galat hai,DISPUTE,Hindi,en
+Maine ye loan nahi liya,DISPUTE,Hindi,sw
+"Ye kisi aur ka loan hai, mera nahi",DISPUTE,Hindi,id
+"Statement chahiye detailed, tab tak kuch nahi dunga",DISPUTE,Hindi,id
+Penalty charges bahut zyada hain,DISPUTE,Hindi,id
+Mujhe alag interest rate promise kiya tha,DISPUTE,Hindi,en
+Payment kata tha lekin pending dikha raha hai,DISPUTE,Hindi,id
+"Receipt hai mere paas, bhejun?",DISPUTE,Hindi,ro
+Amount mein discrepancy hai,DISPUTE,Hindi,en
+"Maine cheque se pay kiya, check karo",DISPUTE,Hindi,sw
+Tumhara system galat data dikha raha hai,DISPUTE,Hindi,id
+Manager se baat karao mujhe,DISPUTE,Hindi,sw
+Ye tumhari galti hai billing mein,DISPUTE,Hindi,id
+Main ye charge dispute karta hun,DISPUTE,Hindi,id
+Amount wo nahi hai jo sign kiya tha,DISPUTE,Hindi,sw
+Overcharge kiya hai mujhe,DISPUTE,Hindi,sw
+Charges ka complete breakdown bhejo,DISPUTE,Hindi,en
+"Mera balance zero hona chahiye, sab pay kiya",DISPUTE,Hindi,tl
+Ye loan pichle saal band kiya tha,DISPUTE,Hindi,so
+Hidden charges kyun hain?,DISPUTE,Hindi,nl
+"Late fee valid nahi hai, time pe pay kiya tha",DISPUTE,Hindi,et
+Bank se verify karna padega mujhe,DISPUTE,Hindi,sl
+Loan agreement mein alag terms hain,DISPUTE,Hindi,nl
+Tumhare agent ne alag amount bataya tha last time,DISPUTE,Hindi,tl
+Mera account audit karo,DISPUTE,Hindi,en
+Calculation mein kuch gadbad hai,DISPUTE,Hindi,so
+Outstanding amount se agree nahi hun main,DISPUTE,Hindi,en
+Lagta hai koi mistake hai,DISPUTE,Hindi,fi
+Ye additional charges kisne authorize kiye?,DISPUTE,Hindi,en
+Mere co-applicant ne pay kar diya hai,DISPUTE,Hindi,tl
+"Prepayment kiya tha, reflect nahi ho raha",DISPUTE,Hindi,tl
+Foreclosure amount galat hai,DISPUTE,Hindi,en
+Interest rate kyun badla?,DISPUTE,Hindi,id
+Written proof do kitna banta hai,DISPUTE,Hindi,en
+"5th ko payment kiya tha, credit nahi hua",DISPUTE,Hindi,tl
+"Escalation chahiye, amount disputed hai",DISPUTE,Hindi,en
+Jab tak calculation fix nahi karoge tab tak nahi dunga,DISPUTE,Hindi,id
+Ye add up nahi ho raha,DISPUTE,Hindi,cy
+Loan agreement copy share karo,DISPUTE,Hindi,en
+Maine in terms pe agree nahi kiya tha,DISPUTE,Hindi,en
+Processing fee waive honi thi,DISPUTE,Hindi,en
+1st ka transaction check karo,DISPUTE,Hindi,sv
+Formal complaint kar raha hun,DISPUTE,Hindi,id
+Meri bank successful payment dikha rahi hai,DISPUTE,Hindi,id
+Abhi tak unpaid kyun hai?,DISPUTE,Hindi,id
+"Pehle clarification do, phir payment",DISPUTE,Hindi,en
+"Meri bank se contact karo, issue tumhara hai",DISPUTE,Hindi,en
+ye add UP NahI HO RAHa thanks???,DISPUTE,Hindi,en
+See mera account audit karo asap,DISPUTE,Hindi,en
+Basically maine in terms pe agree nahi kiya tha,DISPUTE,Hindi,en
+AMOUNT WO NAHI HAI JO SIGN KIYA THA thanks,DISPUTE,Hindi,en
+Actually overChArGE kiya hAi mujhE???,DISPUTE,Hindi,en
+hidden charges kyun hain thanks,DISPUTE,Hindi,en
+"Basically 20th ko payment kiya tha, credit nahi hua",DISPUTE,Hindi,en
+Ye Ye amount galat hai 💰!!,DISPUTE,Hindi,en
+Payment Payment kata tha lekin pending dikha raha hai,DISPUTE,Hindi,id
+"Madam receipt hai mere paas, bhejun?",DISPUTE,Hindi,id
+Abhi tak unpaid kyun hai boss,DISPUTE,Hindi,id
+Suno Suno written proof do kitna banta hai plz,DISPUTE,Hindi,it
+Acha managEr se bAaT KarAo mUjHe ok????,DISPUTE,Hindi,tl
+"mainE uPi se pay KIya, cHeCk kArO thanks",DISPUTE,Hindi,tl
+Hey pAymeNt katA thA lEKIN PENding dikhA rAha Hai 👍!!,DISPUTE,Hindi,id
+Acha hidden charges kyun hain?,DISPUTE,Hindi,cy
+Bhai manager se baat karao mujhe,DISPUTE,Hindi,id
+Listen 20th ka transaction check karo,DISPUTE,Hindi,sv
+Well interest calculation galat hai 🤷,DISPUTE,Hindi,en
+Honestly tumhara system galat data dikha raha hai thanks,DISPUTE,Hindi,id
+"Honestly apne records check karo, itna nahi banta",DISPUTE,Hindi,en
+Basically Basically written proof do kitna banta hai!!,DISPUTE,Hindi,en
+Overcharge kiya kiya hai mujhe,DISPUTE,Hindi,sw
+Dekho lagta hai koi mistake hai 😡,DISPUTE,Hindi,fi
+OVERCHARGE KIYA HAI HAI MUJHE 😡,DISPUTE,Hindi,en
+Mere Mere co-applicant ne pay kar diya hai yaar,DISPUTE,Hindi,tl
+"Honestly statement chahiye detailed, tab tak kuch nahi dunga",DISPUTE,Hindi,id
+Maine Maine in terms pe agree nahi kiya tha 😡,DISPUTE,Hindi,en
+See interest rate kyun badla,DISPUTE,Hindi,no
+Suno ye additional charges kisne authorize kiye 😢,DISPUTE,Hindi,en
+last month ka transaction check karo,DISPUTE,Hindi,en
+"Well yE kiSi aur Ka lOaN hAi, mera nahi plz",DISPUTE,Hindi,id
+Interest rate kyun badla asap???,DISPUTE,Hindi,id
+Listen penalty charges bahut zyada hain 😡,DISPUTE,Hindi,id
+Suno iNTEREST RATE KYUN BADLA 😢,DISPUTE,Hindi,tl
+"Maine Google Pay se pay kiya, check karo",DISPUTE,Hindi,tl
+Suno Suno maine ye loan nahi liya,DISPUTE,Hindi,tl
+Basically prOCessiNG fee Waive honI THi 💰,DISPUTE,Hindi,en
+Well Well loan agreement mein alag terms hain,DISPUTE,Hindi,nl
+INTEREST RATE RATE KYUN BADLA?,DISPUTE,Hindi,en
+Basically yE ADD UP NAHI HO RAHA,DISPUTE,Hindi,en
+"Maine bank transfer se pay kiya, check karo!!",DISPUTE,Hindi,tl
+Formal Formal complaint kar raha hun,DISPUTE,Hindi,id
+Look written written proof do kitna banta hai,DISPUTE,Hindi,en
+Listen mAINE YE EMI ALREADY PAY KI HAI,DISPUTE,Hindi,de
+"Well statement statement chahiye detailed, tab tak kuch nahi dunga",DISPUTE,Hindi,id
+"20TH KO PAYMENT KIYA THA, CREDIT NAHI HUA plz",DISPUTE,Hindi,en
+Ye add up nahi ho raha ...,DISPUTE,Hindi,so
+Listen tUMHARE AGENT NE ALAG AMOUNT BATAYA THA LAST TIME na?!!,DISPUTE,Hindi,en
+Well mere co-applicant ne pay kar diya hai boss,DISPUTE,Hindi,it
+"Madam ye kisi aur ka loan hai, mera nahi",DISPUTE,Hindi,id
+hidden charges kyun hain plz,DISPUTE,Hindi,nl
+manager manager se baat karao mujhe 🙂,DISPUTE,Hindi,id
+Basically maine ye loan nahi liya,DISPUTE,Hindi,so
+overcharge overcharge kiya hai mujhe,DISPUTE,Hindi,en
+Look ye add up nahi ho raha!!,DISPUTE,Hindi,so
+Actually amount mein discrepancy hai,DISPUTE,Hindi,en
+"last month ko payment kiya tha, credit nahi hua",DISPUTE,Hindi,tl
+MAINE YE LOAN NAHI LIYA !!???,DISPUTE,Hindi,vi
+Ok so manager se baat karao mujhe 👍,DISPUTE,Hindi,tl
+25th ka transaction check karo 😭,DISPUTE,Hindi,en
+"Actually apne records check karo, itna nahi banta",DISPUTE,Hindi,en
+ye amount galat hai boss,DISPUTE,Hindi,en
+Maine in in terms pe agree nahi kiya tha asap,DISPUTE,Hindi,tl
+Yaar bank se verify karna padega mujhe 🙏🙏,DISPUTE,Hindi,id
+Ok so abhi tak unpaid kyun hai?,DISPUTE,Hindi,id
+Ok so main ye charge dispute karta hun 🙏,DISPUTE,Hindi,id
+Arey ye tumhari tumhari galti hai billing mein!!,DISPUTE,Hindi,tr
+Hey mera mera account audit karo,DISPUTE,Hindi,en
+Amount Amount wo nahi hai jo sign kiya tha plz,DISPUTE,Hindi,en
+Actually ye additional charges kisne authorize kiye?!!,DISPUTE,Hindi,en
+"Dekho stateMeNt chahiYe chahiYe DEtAILEd, tab tAK kucH nahi dunga???",DISPUTE,Hindi,id
+Abhi tak unpaid kyun hai thanks!!,DISPUTE,Hindi,id
+"Listen maine maine cheque se pay kiya, check karo!!",DISPUTE,Hindi,fr
+15th ka transAcTioN cHECk karo sir,DISPUTE,Hindi,id
+Maine ye loan nahi liya boss,DISPUTE,Hindi,sw
+Actually maiN ye chARge disPute kArta hun thanks,DISPUTE,Hindi,en
+Basically lagta hai koi mistake hai!!,DISPUTE,Hindi,fi
+mera account account audit karo 👍,DISPUTE,Hindi,en
+hidden charges charges kyun hain?,DISPUTE,Hindi,en
+bAnK SE SE verIFy kArNa paDega mUjHE???,DISPUTE,Hindi,sl
+Lagta hai koi mistake hai boss,DISPUTE,Hindi,fi
+Ami ei EMI already diyechi,DISPUTE,Bengali,cy
+Interest calculation bhul ache,DISPUTE,Bengali,ro
+Ami ei loan niini,DISPUTE,Bengali,fi
+"Eta onyo karo loan, amar na",DISPUTE,Bengali,tl
+Payment kata hoyechhilo kintu pending dekhacche,DISPUTE,Bengali,id
+Tomar system bhul data dekhacche,DISPUTE,Bengali,sv
+Eta tomar billing er bhul,DISPUTE,Bengali,no
+Ami ei charge dispute korchi,DISPUTE,Bengali,de
+Amount ota na jeta sign kora hoyechhilo,DISPUTE,Bengali,fi
+Amake overcharge kora hoyeche,DISPUTE,Bengali,nl
+Hidden charges keno?,DISPUTE,Bengali,nl
+"Late fee valid na, time e pay korechi",DISPUTE,Bengali,nl
+Bank theke verify korte hobe amake,DISPUTE,Bengali,af
+Loan agreement e onno terms ache,DISPUTE,Bengali,nl
+Mone hoy kono mistake hoyeche,DISPUTE,Bengali,sk
+Interest rate keno bodlano holo?,DISPUTE,Bengali,sl
+Written proof dao koto taka baki,DISPUTE,Bengali,hr
+Eta add up hochhe na,DISPUTE,Bengali,cy
+Ami ei terms e agree korini,DISPUTE,Bengali,af
+Ekhono unpaid keno?,DISPUTE,Bengali,sl
+"Amar bank e contact koro, issue tomar dik e",DISPUTE,Bengali,nl
+"Ok so rECEIPT ACHE AMAR KACHE, PATHABO?",DISPUTE,Bengali,sl
+Eta add up up hochhe na !!,DISPUTE,Bengali,sv
+Haan aMAR aMAR CO-APPLICANT PAY KORE DIYECHE 🤷,DISPUTE,Bengali,so
+"Listen late fee valid na, time e pay korechi!!",DISPUTE,Bengali,nl
+Bhai ami ei terms e agree korini 👍,DISPUTE,Bengali,et
+"Acha ami bank transfer diye pay korechi, abar check koro",DISPUTE,Bengali,id
+Well amar bank successful payment dekhacche na?,DISPUTE,Bengali,it
+Look eta tomar billing er bhul,DISPUTE,Bengali,no
+"Well late fee valid na, time e pay korechi ok?",DISPUTE,Bengali,nl
+Ami ei EMI already diyechi boss,DISPUTE,Bengali,cy
+"Dekho eta onyo karo loan, amar na",DISPUTE,Bengali,so
+Bhai Bhai ekhono unpaid keno?,DISPUTE,Bengali,id
+Yaar payment kata kata hoyechhilo kintu pending dekhacche,DISPUTE,Bengali,id
+Arey amnt ota na jeta sign kora hoyechhilo ok?,DISPUTE,Bengali,sk
+Yaar loan agreement copy share koro,DISPUTE,Bengali,nl
+Basically ami ei loan niini,DISPUTE,Bengali,ro
+Eta add up hochhe na bro???,DISPUTE,Bengali,cy
+"Listen aGE CLARIFICATION DAO, TARPOR PAYMENT",DISPUTE,Bengali,de
+Hidden charges keno ...,DISPUTE,Bengali,nl
+Acha ami ei terms e agree korini na?,DISPUTE,Bengali,et
+"Ami NEFT diye pay korechi, abar check koro",DISPUTE,Bengali,tr
+Listen ami ei LOaN niInI,DISPUTE,Bengali,de
+Hidden charges keno yaar,DISPUTE,Bengali,nl
+Ami ei ei charge dispute korchi plz,DISPUTE,Bengali,de
+bank bank theke verify korte hobe amake 🙏🙏,DISPUTE,Bengali,af
+Acha ami ei loan niini,DISPUTE,Bengali,sw
+"etA onYo onYo karO Loan, AMAr na",DISPUTE,Bengali,fi
+Boss eta add up hochhe na !!,DISPUTE,Bengali,sv
+Eta tomar billing er bhul ...!!,DISPUTE,Bengali,no
+Look ami ei loan niini???,DISPUTE,Bengali,et
+Suno hidden charges keno?,DISPUTE,Bengali,nl
+Dude ami ei loan niini,DISPUTE,Bengali,ro
+"Sir aMI PAYTM DIYE PAY KORECHI, ABAR CHECK KORO",DISPUTE,Bengali,id
+"Boss eta onyo karo loan, amar na ...!!",DISPUTE,Bengali,tl
+loan agreement agreement e onno terms ache 🙂!!,DISPUTE,Bengali,nl
+"Eta onyo karo loan, amar na boss",DISPUTE,Bengali,tl
+Ami ei terms e agree korini na?!!,DISPUTE,Bengali,et
+Hey ami ei loan niini,DISPUTE,Bengali,fi
+Hey ekhono unpaid keno?,DISPUTE,Bengali,sv
+Bhai ye amount galat hai,DISPUTE,Hinglish,id
+"Records dekho, itna nahi banta mera",DISPUTE,Hinglish,id
+"Detailed statement do, tab tak nahi dunga",DISPUTE,Hinglish,id
+Amount jo sign kiya tha wo nahi hai,DISPUTE,Hinglish,sw
+Why hidden charges bhai?,DISPUTE,Hinglish,cy
+Your agent said different amount last time,DISPUTE,Hinglish,fr
+I think koi mistake hai,DISPUTE,Hinglish,fi
+Numbers don't add up yaar,DISPUTE,Hinglish,id
+"DETAILED STATEMENT DO, DO, TAB TAK NAHI DUNGA yaar",DISPUTE,Hinglish,so
+i think koi koi mistake hai 😭,DISPUTE,Hinglish,fi
+Bhai ye amt galat hai 🤷,DISPUTE,Hinglish,id
+Yaar i THINK KOI MISTAKE HAI,DISPUTE,Hinglish,tr
+Why hidden charges charges bhai?,DISPUTE,Hinglish,cy
+Boss maine ye loan nahi liya hai,DISPUTE,Hinglish,sw
+Basically i think koi mistake hai ...,DISPUTE,Hinglish,fi
+Madam why hidden charges bhai?,DISPUTE,Hinglish,cy
+Payment cut hua hua but showing pending ...,DISPUTE,Hinglish,id
+Maine ye loan loan nahi liya hai asap,DISPUTE,Hinglish,tl
+maine ye ye loan nahi liya hai,DISPUTE,Hinglish,sw
+pls pls audit my account sir,DISPUTE,Hinglish,ca
+"I ALREADY PAID THIS EMI, CHECK KARO na????",DISPUTE,Hinglish,tl
+Suno Suno your agent said different amnt last time,DISPUTE,Hinglish,fr
+Listen yOUR SYSTEM DATA IS WRONG BHAI,DISPUTE,Hinglish,de
+AMOUNT JO SIGN SIGN KIYA THA WO NAHI HAI na?,DISPUTE,Hinglish,tl
+Suno numbers don't add up yaar,DISPUTE,Hinglish,id
+wHY hIdden hIdden chaRges bHaI?,DISPUTE,Hinglish,nl
+Bhai Bhai ye amount galat hai,DISPUTE,Hinglish,id
+Numbers don't add up yaar thanks,DISPUTE,Hinglish,id
+Maine ye loan nahi liya hai???,DISPUTE,Hinglish,sw
+Agreement mein different terms the yaar???,DISPUTE,Hinglish,nl
+Dekho maine ye loan nahi liya hai,DISPUTE,Hinglish,sw
+Written proof do amt ka 👍,DISPUTE,Hinglish,af
+Hey maine ye loan nahi liya hai !!,DISPUTE,Hinglish,sw
+I DON'T AGREE WITH OUTSTANDING AMOUNT yaar,DISPUTE,Hinglish,so
+Bhai ye amnt galat hai 😢???,DISPUTE,Hinglish,id
+I don't care about your loan,HIGH_RISK,English,fr
+I'll report you for harassment,HIGH_RISK,English,ca
+You people are scammers,HIGH_RISK,English,fr
+Don't call me again or I'll file a complaint,HIGH_RISK,English,it
+File a case if you dare,HIGH_RISK,English,fr
+You'll regret calling me,HIGH_RISK,English,ca
+Get lost,HIGH_RISK,English,fr
+I'll destroy your reputation,HIGH_RISK,English,fr
+Don't test my patience,HIGH_RISK,English,fr
+Suno get lost 🙏,HIGH_RISK,English,es
+Well don't test my patience,HIGH_RISK,English,fr
+MY LAWYER WILL HANDLE THIS yaar,HIGH_RISK,English,so
+i'll i'll handle this my way,HIGH_RISK,English,cy
+Don't test my patience yaar,HIGH_RISK,English,fr
+Haan eNOUGH OF YOUR HARASSMENT,HIGH_RISK,English,nl
+"Suno go aheAd And sUe me, i don'T Care 😡",HIGH_RISK,English,it
+Acha i'll file an fir against you yaar,HIGH_RISK,English,cy
+You people are scammers asap,HIGH_RISK,English,fr
+My lawyer lawyer will handle this,HIGH_RISK,English,cy
+don't don't ever contact me again,HIGH_RISK,English,fr
+Madam file a case if you dare yaar,HIGH_RISK,English,so
+Actually leAVe Me AlOne Or i'lL taKe lEgal actiOn 🤷,HIGH_RISK,English,ca
+Well you people are scammers,HIGH_RISK,English,fr
+Dekho you'll regret calling me,HIGH_RISK,English,no
+don't test my patience na?,HIGH_RISK,English,fr
+Madam i DoN't owe AnyThiNG AnD wOn't paY,HIGH_RISK,English,tl
+Hey get lost,HIGH_RISK,English,nl
+Mujhe call karna band karo,HIGH_RISK,Hindi,so
+Tumhare loan ki koi parwah nahi hai mujhe,HIGH_RISK,Hindi,sw
+"Jo karna hai karo, main nahi dunga",HIGH_RISK,Hindi,tl
+Harassment ke liye report karunga tumko,HIGH_RISK,Hindi,no
+"Ye fraud hai, police mein jaaunga",HIGH_RISK,Hindi,ro
+Mujhe akela chodo nahi to legal action lunga,HIGH_RISK,Hindi,en
+Tum log scammer ho,HIGH_RISK,Hindi,da
+Number block kar raha hun,HIGH_RISK,Hindi,id
+Dubara call kiya to complaint karunga,HIGH_RISK,Hindi,id
+"Case karo, mujhe fark nahi padta",HIGH_RISK,Hindi,sw
+Mere paas kuch nahi hai dene ko,HIGH_RISK,Hindi,id
+Tum mera kuch nahi kar sakte,HIGH_RISK,Hindi,id
+"Mujhe apne rights pata hain, dhamki dena band karo",HIGH_RISK,Hindi,id
+Consumer court jaaunga tumhare khilaf,HIGH_RISK,Hindi,id
+Tumhari company fraud hai,HIGH_RISK,Hindi,ca
+Main ye call record kar raha hun,HIGH_RISK,Hindi,en
+Mera lawyer dekhega ye sab,HIGH_RISK,Hindi,id
+Nahi dunga aur ye final hai,HIGH_RISK,Hindi,id
+"Jo karna hai karo, mujhe darr nahi",HIGH_RISK,Hindi,sw
+Aakhri baar bol raha hun tumhe,HIGH_RISK,Hindi,so
+Bahut hua tumhara harassment,HIGH_RISK,Hindi,id
+RBI mein complaint kar chuka hun,HIGH_RISK,Hindi,id
+Dubara contact mat karna,HIGH_RISK,Hindi,id
+Social media pe expose karunga,HIGH_RISK,Hindi,ro
+Tumhari dhamkiyan kaam nahi karti mujh pe,HIGH_RISK,Hindi,sw
+Main wo insaan nahi hun jisko dhundh rahe ho,HIGH_RISK,Hindi,so
+Kuch bhi nahi dena hai mujhe,HIGH_RISK,Hindi,sw
+"Call karte raho, dekh lena kya hota hai",HIGH_RISK,Hindi,so
+Case karo agar himmat hai,HIGH_RISK,Hindi,tl
+Company band karwa dunga tumhari,HIGH_RISK,Hindi,id
+Tum logon se baat khatam,HIGH_RISK,Hindi,id
+Ye vasuli hai,HIGH_RISK,Hindi,et
+Media mein jaaunga,HIGH_RISK,Hindi,id
+Tumhari company seedhe logon ko pareshan karti hai,HIGH_RISK,Hindi,sq
+"Government mein jaanta hun logon ko, sambhal ke",HIGH_RISK,Hindi,id
+Ek aur call aaya to report karunga,HIGH_RISK,Hindi,id
+FIR karunga tumhare naam pe,HIGH_RISK,Hindi,id
+Apna kaam karo,HIGH_RISK,Hindi,so
+Pachtaoge mujhe call karke,HIGH_RISK,Hindi,en
+Koi obligation nahi hai mera ye dene ka,HIGH_RISK,Hindi,id
+Door ho jao,HIGH_RISK,Hindi,nl
+Jo kar rahe ho illegal hai,HIGH_RISK,Hindi,so
+Reputation barbaad kar dunga tumhari,HIGH_RISK,Hindi,id
+"Kabhi nahi dunga, deal with it",HIGH_RISK,Hindi,id
+Apna time waste kar rahe ho,HIGH_RISK,Hindi,en
+Mera patience mat check karo,HIGH_RISK,Hindi,en
+Apne tarike se handle karunga,HIGH_RISK,Hindi,id
+Tum logon ko sharam nahi aati,HIGH_RISK,Hindi,tl
+Banking ombudsman ke paas jaaunga,HIGH_RISK,Hindi,id
+Aage se mere lawyer se baat karo,HIGH_RISK,Hindi,af
+Suno tumhari company seedhe logon ko pareshan karti hai thanks!!,HIGH_RISK,Hindi,en
+Hey mEra PAtIENCe PAtIENCe mat check KaRo 😢,HIGH_RISK,Hindi,en
+PACHTAOGE MUJHE CALL KARKE bro!!,HIGH_RISK,Hindi,pt
+Yaar jo kAR rAHE ho ILlEGal hai,HIGH_RISK,Hindi,so
+Suno Suno apNE TArIke se HandLE KarungA,HIGH_RISK,Hindi,id
+Listen dubara call kiya to complaint karunga 😢,HIGH_RISK,Hindi,id
+Well ek ek aur call aaya to report karunga bro,HIGH_RISK,Hindi,id
+Apna Apna time waste kar rahe ho,HIGH_RISK,Hindi,en
+rePutAtION rePutAtION BArBAad kAr DunGa TuMHari,HIGH_RISK,Hindi,en
+Look number block kar raha hun 🙏,HIGH_RISK,Hindi,id
+Dekho tumhari company fraud hai,HIGH_RISK,Hindi,en
+Arey fIr karungA tuMhare Naam Pe ...,HIGH_RISK,Hindi,id
+Honestly kuch bhi nahi dena hai mujhe,HIGH_RISK,Hindi,sw
+Jo kaR raHe ho ilLEGAL haI asap,HIGH_RISK,Hindi,sw
+Basically jo kar kar rahe ho illegal hai,HIGH_RISK,Hindi,so
+Honestly case karo agar himmat hai 😡,HIGH_RISK,Hindi,en
+Mera Mera patience mat check karo,HIGH_RISK,Hindi,id
+Social media pe pe expose karunga sir,HIGH_RISK,Hindi,id
+See tumhari dhamkiyan kaam nahi karti mujh pe plz,HIGH_RISK,Hindi,so
+Door ho jao sir,HIGH_RISK,Hindi,pt
+Suno tum log scammer ho,HIGH_RISK,Hindi,no
+Yaar bahut hua tumhara harassment,HIGH_RISK,Hindi,id
+Acha mera lawyer dekhega ye sab yaar,HIGH_RISK,Hindi,so
+"Government Government mein jaanta hun logon ko, sambhal ke",HIGH_RISK,Hindi,nl
+Consumer court jaaunga tumhare khilaf thanks,HIGH_RISK,Hindi,en
+Tum log log scammer ho,HIGH_RISK,Hindi,da
+Hey apna time waste kar rahe ho 😢!!,HIGH_RISK,Hindi,en
+Boss fIr karUngA TuMhAre nAaM pe,HIGH_RISK,Hindi,sv
+door ho jao.???,HIGH_RISK,Hindi,pt
+Listen mERA LAWYER LAWYER DEKHEGA YE SAB,HIGH_RISK,Hindi,de
+Madam number block kar raha hun 💰,HIGH_RISK,Hindi,id
+Acha rBI mein complaint kar chuka hun 💰???,HIGH_RISK,Hindi,id
+Ye vasuli hai hai,HIGH_RISK,Hindi,fi
+See tum logon se baat khatam 🤷,HIGH_RISK,Hindi,id
+"Boss jo karna hai karo, mujhe darr nahi 😢",HIGH_RISK,Hindi,so
+Madam main ye call record kar rAha hun 🤷,HIGH_RISK,Hindi,so
+Bhai ye vasuli hai,HIGH_RISK,Hindi,fi
+Madam company band karwa dunga tumhari???,HIGH_RISK,Hindi,id
+Haan mujhe calL kArNA bAnd kAro!!,HIGH_RISK,Hindi,so
+Listen mera patience mat check karo 💰,HIGH_RISK,Hindi,nl
+Listen case karo agar himmat hai,HIGH_RISK,Hindi,id
+Look tumhari dhamkiyan kaam nahi karti mujh pe asap,HIGH_RISK,Hindi,id
+dubara contact mat karna boss,HIGH_RISK,Hindi,ca
+Ok so tumhari company fraud hai,HIGH_RISK,Hindi,en
+Jo kar rahe ho illegal hai thx!!,HIGH_RISK,Hindi,so
+Dude case karo agar himmat hai,HIGH_RISK,Hindi,so
+Listen tum tum mera kuch nahi kar sakte ...,HIGH_RISK,Hindi,id
+Well paChtAoGe mujHe cAlL KArKe bro,HIGH_RISK,Hindi,en
+Listen sOcIal mEdIa pe expOSe kaRunga???,HIGH_RISK,Hindi,id
+Dubara contact contact mat karna,HIGH_RISK,Hindi,ca
+Basically dUBARA CONTACT MAT KARNA!!,HIGH_RISK,Hindi,en
+Haan number block kar raha hun 🙏🙏,HIGH_RISK,Hindi,id
+Actually tUM LOGON KO SHARAM NAHI AATI,HIGH_RISK,Hindi,en
+Aakhri baar bol raha hun tumhe thanks,HIGH_RISK,Hindi,so
+tum log scammer ho 💰!!,HIGH_RISK,Hindi,en
+Honestly tuM mera kuch NahI KAr saktE 🤷,HIGH_RISK,Hindi,id
+Apna kaam karo ...,HIGH_RISK,Hindi,so
+See aage se mere lawyer se baat karo asap,HIGH_RISK,Hindi,af
+"Ok so jo karna hai karo, main nahi dunga 😭",HIGH_RISK,Hindi,id
+Apna kaam karo sir,HIGH_RISK,Hindi,so
+Nahi dunga aur ye final hai thanks,HIGH_RISK,Hindi,id
+Apna time waste kar rahe ho asap,HIGH_RISK,Hindi,en
+Apna kaam karo 💰???,HIGH_RISK,Hindi,so
+Haan Haan tum logon se baat khatam,HIGH_RISK,Hindi,id
+Dekho pachtaoge mujhe call karke plz???,HIGH_RISK,Hindi,nl
+Door ho jao boss,HIGH_RISK,Hindi,sk
+Arey nahi dunga aur ye final hai 🙂,HIGH_RISK,Hindi,id
+Arey Arey koi obligation nahi hai mera ye dene ka,HIGH_RISK,Hindi,id
+See tum log scammer ho,HIGH_RISK,Hindi,en
+See dOOR HO JAO???,HIGH_RISK,Hindi,de
+Boss tumhari company fraud hai,HIGH_RISK,Hindi,ca
+Bahut hua tumhara harassment asap!!,HIGH_RISK,Hindi,id
+"kabhi nahi dunga, dunga, deal with it!!",HIGH_RISK,Hindi,id
+Case karo agar himmat hai thanks,HIGH_RISK,Hindi,tl
+Bhai dooR ho JAO,HIGH_RISK,Hindi,so
+"Government mein mein jaanta hun logon ko, sambhal ke ...",HIGH_RISK,Hindi,fi
+Dekho nahI dUNga Aur yE fInal haI 🙏🙏???,HIGH_RISK,Hindi,id
+Mera lawyer dekhega dekhega ye sab,HIGH_RISK,Hindi,id
+Yaar koi obligation nahi hai mera ye dene ka 👍,HIGH_RISK,Hindi,id
+"Honestly government mein jaanta hun logon ko, sambhal ke",HIGH_RISK,Hindi,fi
+YE VASULI HAI boss,HIGH_RISK,Hindi,en
+Mera Mera lawyer dekhega ye sab thx,HIGH_RISK,Hindi,id
+"Yaar case case karo, mujhe fark nahi padta",HIGH_RISK,Hindi,so
+Actually dubara contact mat karna,HIGH_RISK,Hindi,ca
+Amake call kora bondho koro,HIGH_RISK,Bengali,hr
+Tomar loan niye ami care kori na,HIGH_RISK,Bengali,so
+"Ja khoushi koro, ami debo na",HIGH_RISK,Bengali,cs
+Harassment er jonno report korbo tomake,HIGH_RISK,Bengali,no
+"Eta fraud, police e jabo",HIGH_RISK,Bengali,es
+Number block korchi,HIGH_RISK,Bengali,sv
+"Case koro, amar kichu jai ashe na",HIGH_RISK,Bengali,sq
+Amar kache kichu nei debar,HIGH_RISK,Bengali,de
+Tumi amar kichu korte parbe na,HIGH_RISK,Bengali,sq
+"Amar rights jana ache, dhamki dewa bondho koro",HIGH_RISK,Bengali,nl
+Tomar company fraud,HIGH_RISK,Bengali,ca
+Ami ei call record korchi,HIGH_RISK,Bengali,it
+Amar lawyer dekhbe,HIGH_RISK,Bengali,id
+Debo na ar eta final,HIGH_RISK,Bengali,sv
+"Ja korte chao koro, dar nei amar",HIGH_RISK,Bengali,pt
+Shesh bar bolchi tomake,HIGH_RISK,Bengali,sq
+RBI te complaint kore diyechi,HIGH_RISK,Bengali,fr
+Abar contact koro na,HIGH_RISK,Bengali,pt
+Social media te expose korbo,HIGH_RISK,Bengali,pt
+Tomar dhamki kaje ashe na amar upor,HIGH_RISK,Bengali,so
+Ami shei lok na jake khujcho,HIGH_RISK,Bengali,sw
+Kichu debar nei amar,HIGH_RISK,Bengali,de
+"Call korte thako, dekhe neo ki hoy",HIGH_RISK,Bengali,sl
+Case koro jodi shahos thake,HIGH_RISK,Bengali,sq
+Company bondho koriye debo tomar,HIGH_RISK,Bengali,sk
+Toder shathe kotha shesh,HIGH_RISK,Bengali,sq
+Eta josuli,HIGH_RISK,Bengali,fi
+Media te jabo,HIGH_RISK,Bengali,et
+Aro ekta call ashle report korbo,HIGH_RISK,Bengali,no
+FIR korbo tomar name,HIGH_RISK,Bengali,sk
+Nijer kaj koro,HIGH_RISK,Bengali,hr
+Pashtabe amake call kore,HIGH_RISK,Bengali,sq
+Kono obligation nei amar eta debar,HIGH_RISK,Bengali,it
+Dure jao,HIGH_RISK,Bengali,hr
+Ja korcho illegal,HIGH_RISK,Bengali,et
+Reputation noshto kore debo tomar,HIGH_RISK,Bengali,sq
+Nijer time noshto korcho,HIGH_RISK,Bengali,sq
+Amar patience test koro na,HIGH_RISK,Bengali,fr
+Nijer moto handle korbo,HIGH_RISK,Bengali,no
+Toder lojja nei,HIGH_RISK,Bengali,sl
+Banking ombudsman er kache jabo,HIGH_RISK,Bengali,da
+Case koro jodi jodi shahos thake,HIGH_RISK,Bengali,hr
+Basically nijer kaj koro,HIGH_RISK,Bengali,hr
+debo debo na ar eta final thanks,HIGH_RISK,Bengali,pt
+"Call korte korte thako, dekhe neo ki hoy",HIGH_RISK,Bengali,no
+"Suno eTa frauD, poliCE e jabo",HIGH_RISK,Bengali,es
+Sir jA KORCHO ILLEGAL 🙏🙏,HIGH_RISK,Bengali,id
+"Look eta fraud, police e jabo 👍",HIGH_RISK,Bengali,sl
+Suno kichu debar nei amar,HIGH_RISK,Bengali,id
+Kichu Kichu debar nei amar,HIGH_RISK,Bengali,de
+AMAR AMAR LAWYER DEKHBE 😭,HIGH_RISK,Bengali,de
+Sir toder lojja nei,HIGH_RISK,Bengali,lv
+DURE JAO!!,HIGH_RISK,Bengali,so
+Honestly kono obligation nei amar eta debar,HIGH_RISK,Bengali,no
+Social media te expose korbo asap,HIGH_RISK,Bengali,pt
+AmaR lawyer dekhbE sir???,HIGH_RISK,Bengali,so
+amake call call kora bondho koro plz,HIGH_RISK,Bengali,hr
+Dure jao ...???,HIGH_RISK,Bengali,hr
+Ami ei call record korchi asap,HIGH_RISK,Bengali,it
+Amake Amake call kora bondho koro 👍,HIGH_RISK,Bengali,hr
+Dude fir korbo tomar name,HIGH_RISK,Bengali,af
+Boss aMAR KACHE KICHU NEI DEBAR 😭,HIGH_RISK,Bengali,de
+"Listen eta fraud, fraud, police e jabo",HIGH_RISK,Bengali,fr
+Dekho shesh bar bar bolchi tomaKe,HIGH_RISK,Bengali,so
+Actually debo na ar eta final,HIGH_RISK,Bengali,ca
+Listen case koro jodi shahos thake,HIGH_RISK,Bengali,sq
+Hey nijer time noshto korcho!!,HIGH_RISK,Bengali,sq
+Suno media te jabo thanks,HIGH_RISK,Bengali,id
+Well company bondho koriye debo tomar 🙏🙏!!,HIGH_RISK,Bengali,so
+Acha toder lojja neI,HIGH_RISK,Bengali,es
+Dude toder lojja nei,HIGH_RISK,Bengali,sl
+Look jA KORCHO ILLEGAL,HIGH_RISK,Bengali,et
+Dure jao 😡,HIGH_RISK,Bengali,hr
+"Yaar eta fraud, police e jabo plz",HIGH_RISK,Bengali,sl
+Look nijer time noshto korcho 🙏,HIGH_RISK,Bengali,sq
+Boss tomar company fraud,HIGH_RISK,Bengali,ca
+Boss eta josuli!!,HIGH_RISK,Bengali,fi
+Ok so social media te expose korbo 💰!!,HIGH_RISK,Bengali,pt
+Haan Haan tomar loan niye ami care kori na,HIGH_RISK,Bengali,so
+Kichu debar nei amar yaar???,HIGH_RISK,Bengali,so
+Toder lojja lojja nei 🙏,HIGH_RISK,Bengali,hr
+Media te jabo yaar,HIGH_RISK,Bengali,sw
+Bhai social media te expose korbo,HIGH_RISK,Bengali,pt
+Madam social media te expose korbo,HIGH_RISK,Bengali,pt
+amar Lawyer dEkhbe plz,HIGH_RISK,Bengali,id
+"Look ja khoushi koro, ami debo na",HIGH_RISK,Bengali,sk
+Arey ami ei call record korchi 💰,HIGH_RISK,Bengali,it
+Case Case koro jodi shahos thake,HIGH_RISK,Bengali,hr
+"Boss ja khoushi koro, ami debo na",HIGH_RISK,Bengali,sk
+Abar contact koro na na?,HIGH_RISK,Bengali,pt
+Bhai tOMAR COMPANY FRAUD,HIGH_RISK,Bengali,cy
+number number block korchi,HIGH_RISK,Bengali,sv
+Boss abar contact koro na sir,HIGH_RISK,Bengali,pt
+Sir nUmber BlOCk kOrchi 😡,HIGH_RISK,Bengali,de
+Nijer kaj kaj koro,HIGH_RISK,Bengali,hr
+media te jabO jabO 💰,HIGH_RISK,Bengali,et
+Bhai debo na ar eta final asap!!,HIGH_RISK,Bengali,id
+Ok Ok so dure jao !!???,HIGH_RISK,Bengali,sl
+TODER LOJJA NEI NEI,HIGH_RISK,Bengali,vi
+Listen media te jabo,HIGH_RISK,Bengali,et
+ETa josULI 😭,HIGH_RISK,Bengali,fi
+Bhai abar contact koro na,HIGH_RISK,Bengali,pt
+Suno Suno dure jao,HIGH_RISK,Bengali,es
+Look banking ombudsman er kache jabo!!,HIGH_RISK,Bengali,nl
+Dekho dEBO NA AR ETA FINAL,HIGH_RISK,Bengali,so
+Suno case koro jodi shahos thake 💰,HIGH_RISK,Bengali,hr
+tomar company fraud na????,HIGH_RISK,Bengali,ca
+Debo na ar eta final ok?,HIGH_RISK,Bengali,sv
+"Suno case koro, amar kichu jai ashe na na?",HIGH_RISK,Bengali,hr
+Listen toder shathe kotha shesh,HIGH_RISK,Bengali,sq
+Case koro jodi shahos thake yaar,HIGH_RISK,Bengali,so
+Basically debo na ar eta final,HIGH_RISK,Bengali,it
+Tomar company fraud plz,HIGH_RISK,Bengali,ca
+Look amI ei calL rEcoRd kOrchi yaar!!,HIGH_RISK,Bengali,so
+Sir aMAR LAWYER DEKHBE!!,HIGH_RISK,Bengali,de
+Media te jabo???,HIGH_RISK,Bengali,sk
+Dude ami shei lok na jake khujcho,HIGH_RISK,Bengali,et
+Madam toder lojja nei,HIGH_RISK,Bengali,sl
+Nijer time noshto noshto korcho,HIGH_RISK,Bengali,sq
+Boss harassment er jonno report korbo tomake asap,HIGH_RISK,Bengali,no
+Number block block korchi 🙏🙏,HIGH_RISK,Bengali,sv
+Suno abar contact koro na ...,HIGH_RISK,Bengali,es
+Media te jabo sir,HIGH_RISK,Bengali,es
+Dekho ami ei call record korchi asap,HIGH_RISK,Bengali,it
+"Dekho jA Korte ChaO koro, DAr Nei AmAr",HIGH_RISK,Bengali,nl
+"Listen Listen ja khoushi koro, ami debo na",HIGH_RISK,Bengali,fi
+Well nijer moto handle korbo,HIGH_RISK,Bengali,no
+Reputation noshto noshto kore debo tomar,HIGH_RISK,Bengali,sq
+Listen aMAR PATIENCE TEST KORO NA,HIGH_RISK,Bengali,de
+Bhai nijer moto handle korbo.,HIGH_RISK,Bengali,hr
+I don't care tumhare loan ke baare mein,HIGH_RISK,Hinglish,ro
+Leave me alone ya legal action lunga,HIGH_RISK,Hinglish,fr
+You guys are scammers,HIGH_RISK,Hinglish,fr
+Consumer court jaaunga against you,HIGH_RISK,Hinglish,id
+Last time bol raha hun,HIGH_RISK,Hinglish,id
+Social media pe viral karunga,HIGH_RISK,Hinglish,id
+Wrong person ko call kar rahe ho,HIGH_RISK,Hinglish,id
+Case karo if you dare,HIGH_RISK,Hinglish,so
+Main tumhari company band karwa dunga,HIGH_RISK,Hinglish,id
+Media mein jaunga with proof,HIGH_RISK,Hinglish,id
+One more call = FIR,HIGH_RISK,Hinglish,it
+FIR file karunga tum pe,HIGH_RISK,Hinglish,id
+Get lost yaar,HIGH_RISK,Hinglish,nl
+Time waste mat karo apna,HIGH_RISK,Hinglish,tl
+Don't test me,HIGH_RISK,Hinglish,nl
+Tum logon ko sharam nahi,HIGH_RISK,Hinglish,tl
+Banking ombudsman se baat karunga,HIGH_RISK,Hinglish,id
+"Haan keep keep calling, achha nahi hoga",HIGH_RISK,Hinglish,id
+Talk Talk to my lawyer aage se,HIGH_RISK,Hinglish,so
+Listen leave me alone ya legal action lunga,HIGH_RISK,Hinglish,fr
+Well last time bol raha hun,HIGH_RISK,Hinglish,et
+Yaar mAIN TUMHARI COMPANY BAND KARWA DUNGA !!,HIGH_RISK,Hinglish,so
+Madam oNE MORE CALL = FIR 💰,HIGH_RISK,Hinglish,so
+Ok so tum logon ko sharam nahi 😢,HIGH_RISK,Hinglish,tl
+last time bol raha hun na?,HIGH_RISK,Hinglish,id
+Arey main tumhari company band karwa dunga boss,HIGH_RISK,Hinglish,id
+DON'T TEST TEST ME!!,HIGH_RISK,Hinglish,vi
+Sir oNE MORE CALL = FIR na?,HIGH_RISK,Hinglish,tl
+Dude i'll ruin your company reputation!!,HIGH_RISK,Hinglish,ca
+I'll report you for harassment bro!!,HIGH_RISK,Hinglish,ca
+Bhai fir FilE kARuNgA tuM pe,HIGH_RISK,Hinglish,id
+One more more call = FIR???,HIGH_RISK,Hinglish,it
+Dude social media media pe viral karunga thanks!!,HIGH_RISK,Hinglish,id
+Ok so fIR file karunga tum pe,HIGH_RISK,Hinglish,id
+Case karo if you dare ok?!!,HIGH_RISK,Hinglish,tr
+Sir bANKING OMBUDSMAN SE BAAT KARUNGA 👍???,HIGH_RISK,Hinglish,de
+Tum logon ko sharam nahi thanks,HIGH_RISK,Hinglish,tl
+case karo if you dare boss,HIGH_RISK,Hinglish,so
+Bhai Bhai sociaL mEdIa Pe virAl kaRunGa,HIGH_RISK,Hinglish,id
+Ok so yOU GUYS ARE SCAMMERS!!,HIGH_RISK,Hinglish,so
+Honestly consumer court jaaunga against you!!,HIGH_RISK,Hinglish,fr
+don't test test me boss,HIGH_RISK,Hinglish,fr
+Get lost yaar sir,HIGH_RISK,Hinglish,fr
+Get lost yaar bro,HIGH_RISK,Hinglish,nl
+Dude Dude fINAL ANSWER: NO PAYMENT,HIGH_RISK,Hinglish,nl
+Sir tUm lOgOn lOgOn kO ShArAm Nahi!!,HIGH_RISK,Hinglish,id
+Acha banking ombudsman se baat karunga ok?,HIGH_RISK,Hinglish,id
+Yaar tum logon ko sharam nahi,HIGH_RISK,Hinglish,tl
+Last Last time bol raha hun,HIGH_RISK,Hinglish,et
+Listen aLREADY COMPLAINED TO RBI ABOUT YOU GUYS,HIGH_RISK,Hinglish,de
+Bhai tIME WASTE MAT KARO APNA,HIGH_RISK,Hinglish,sw
+Media mein jaunga jaunga with proof!!,HIGH_RISK,Hinglish,id
+Yaar get lost yaar sir,HIGH_RISK,Hinglish,af
+Get Get lost yaar.,HIGH_RISK,Hinglish,nl
+you guys guys are scammers,HIGH_RISK,Hinglish,fr
+Don't test me 🙏🙏,HIGH_RISK,Hinglish,fr
+Case karo if you dare plz,HIGH_RISK,Hinglish,hr
+FIR file karunga tum pe boss,HIGH_RISK,Hinglish,id
+Leave me alone alone ya legal action lunga 🤷,HIGH_RISK,Hinglish,fr
+doN'T tesT me bro,HIGH_RISK,Hinglish,pt
+Ok so one more call = FIR???,HIGH_RISK,Hinglish,it
+One more call = FIR ...,HIGH_RISK,Hinglish,it
+Dekho yOUR HARASSMENT IS ENOUGH na?,HIGH_RISK,Hinglish,so
+Acha Acha fIR file karunga tum pe,HIGH_RISK,Hinglish,id
+Dekho social media pe viral karunga!!,HIGH_RISK,Hinglish,id
+i'll ruiN ruiN YOur CoMpanY RePutaTion 💰???,HIGH_RISK,Hinglish,ca
+Yaar consumer court jaaunga against you asap,HIGH_RISK,Hinglish,id
+Hmm,VAGUE,English,da
+Let me see,VAGUE,English,nl
+Maybe,VAGUE,English,so
+We'll see,VAGUE,English,af
+Not sure,VAGUE,English,fr
+Let me think,VAGUE,English,sq
+I'll try,VAGUE,English,cy
+Depends,VAGUE,English,nl
+Yeah maybe,VAGUE,English,so
+I'll look into it,VAGUE,English,it
+No comment,VAGUE,English,fr
+Let's see what happens,VAGUE,English,nl
+We'll figure it out,VAGUE,English,fr
+Uncertain,VAGUE,English,fr
+I'm working on it,VAGUE,English,af
+Give me some time to decide,VAGUE,English,it
+I'll consider it,VAGUE,English,it
+I'm trying my best,VAGUE,English,no
+maybe later 😢,VAGUE,English,da
+I'll consider it plz,VAGUE,English,ca
+i need time 😡,VAGUE,English,it
+Bhai i have issues,VAGUE,English,no
+Yaar maybe,VAGUE,English,so
+I'LL CONSIDER CONSIDER IT sir,VAGUE,English,it
+Bhai i'll consider it 🤷,VAGUE,English,ca
+DEPENDS!!,VAGUE,English,de
+Listen possibly,VAGUE,English,fr
+Not sure sir,VAGUE,English,fr
+Haan uncertain,VAGUE,English,id
+not sure???,VAGUE,English,fr
+Hey not sure sure yaar,VAGUE,English,fr
+Haan yEAH MAYBE,VAGUE,English,so
+Ok???,VAGUE,English,af
+Hmm 🙏🙏,VAGUE,English,sv
+UNCERTAIN sir,VAGUE,English,lt
+Listen i'll try,VAGUE,English,no
+Ok so hmm !!,VAGUE,English,no
+Ok so we'll see,VAGUE,English,af
+Ok plz,VAGUE,English,sl
+Arey i'll consider it,VAGUE,English,ca
+Basically i'll consider consider it,VAGUE,English,ca
+Suno i i don't know,VAGUE,English,hr
+Hey i'll consider it 😡,VAGUE,English,ca
+Boss depends,VAGUE,English,nl
+Haan caN't say rIght NoW!!,VAGUE,English,tl
+Madam iT'S NOT THAT SIMPLE,VAGUE,English,id
+Ok so i'll consider it 👍,VAGUE,English,it
+Suno iT'S COMPLICATED bro,VAGUE,English,pt
+Suno i need time,VAGUE,English,it
+WHO KNOWS!!,VAGUE,English,de
+Maybe sir,VAGUE,English,so
+Suno i NEED TIME 🙏🙏,VAGUE,English,it
+Bhai maybe later na?,VAGUE,English,id
+i'll try???,VAGUE,English,cy
+Maybe!!,VAGUE,English,so
+I'll look look into it yaar!!,VAGUE,English,so
+Well i'll consider it,VAGUE,English,it
+Listen i need time,VAGUE,English,no
+Hmm!!,VAGUE,English,sv
+Not sure !!,VAGUE,English,fr
+Let's Let's see what happens???,VAGUE,English,nl
+who knows yaar,VAGUE,English,so
+I DON'T KNOW sir,VAGUE,English,id
+Haan i'll look into it,VAGUE,English,it
+Dekho i'll try,VAGUE,English,sv
+Haan mAYBE!!,VAGUE,English,so
+Dekho i nEeD TIMe,VAGUE,English,no
+Not sure sure 💰,VAGUE,English,fr
+Hey i'Ll look into iT na?,VAGUE,English,tl
+Listen lIFE IS TOUGH RIGHT NOW!!,VAGUE,English,de
+not sure 🙂,VAGUE,English,fr
+I'll I'll look into it bro,VAGUE,English,it
+I'm working working on it,VAGUE,English,af
+Boss i'll look into it,VAGUE,English,it
+Haan depends 😢 😢,VAGUE,English,nl
+Dekho maybe,VAGUE,English,so
+maybe later na?,VAGUE,English,tl
+let me see 😢,VAGUE,English,af
+I'll look into into it!!,VAGUE,English,it
+lEt Me sEe na?,VAGUE,English,ca
+Yaar i'll look into it na?,VAGUE,English,tl
+Theek hai,VAGUE,Hindi,en
+Dekh leta hun,VAGUE,Hindi,id
+Pata nahi,VAGUE,Hindi,tl
+Shayad,VAGUE,Hindi,so
+Dekhte hain,VAGUE,Hindi,nl
+Soch raha hun,VAGUE,Hindi,id
+Abhi nahi bata sakta,VAGUE,Hindi,tl
+Sure nahi hun,VAGUE,Hindi,id
+Sochne do,VAGUE,Hindi,de
+Koshish karunga,VAGUE,Hindi,sq
+Ho sakta hai,VAGUE,Hindi,fi
+Depend karta hai,VAGUE,Hindi,id
+Time chahiye mujhe,VAGUE,Hindi,sw
+Sochunga,VAGUE,Hindi,de
+Promise nahi kar sakta,VAGUE,Hindi,tl
+Samajh nahi aa raha kya karun,VAGUE,Hindi,so
+Shayad ho jaye,VAGUE,Hindi,so
+Kuch aisa hi,VAGUE,Hindi,sw
+Haan shayad,VAGUE,Hindi,so
+Dekhunga main,VAGUE,Hindi,id
+Batana mushkil hai,VAGUE,Hindi,sw
+Kaun jaane,VAGUE,Hindi,fi
+Kar paunga shayad,VAGUE,Hindi,tl
+Koi comment nahi,VAGUE,Hindi,fr
+Sochna padega,VAGUE,Hindi,pl
+Dekhte hain kya hota hai,VAGUE,Hindi,fi
+Abhi commit nahi kar sakta,VAGUE,Hindi,tl
+Baad mein bataunga,VAGUE,Hindi,id
+Samajhna padega,VAGUE,Hindi,id
+Complicated hai,VAGUE,Hindi,en
+Abhi jawab nahi de sakta,VAGUE,Hindi,id
+Baad mein shayad,VAGUE,Hindi,so
+Dekhte hain kuch hota hai,VAGUE,Hindi,fi
+Aur options sochne do,VAGUE,Hindi,fr
+Kuch kar raha hun,VAGUE,Hindi,id
+Decide karne mein time do,VAGUE,Hindi,nl
+Aur priorities hain,VAGUE,Hindi,en
+Abhi nahi,VAGUE,Hindi,tl
+Sochunga iske baare mein,VAGUE,Hindi,de
+Mushkil hai situation,VAGUE,Hindi,sq
+Nahi bata sakta sach mein,VAGUE,Hindi,id
+Itna simple nahi hai,VAGUE,Hindi,tl
+Kya bolun samajh nahi aa raha,VAGUE,Hindi,so
+Situation dekhni padegi,VAGUE,Hindi,id
+Zindagi mushkil chal rahi hai,VAGUE,Hindi,sw
+Koshish kar raha hun apni taraf se,VAGUE,Hindi,sq
+Haalat kharab hain,VAGUE,Hindi,so
+Issues hain,VAGUE,Hindi,fr
+Jo bhi,VAGUE,Hindi,en
+Basically dekhte hain hain kya hota hai,VAGUE,Hindi,fi
+dekhte hain hain kya hota hai,VAGUE,Hindi,fi
+Madam jo bhi,VAGUE,Hindi,so
+See aUR PRIORITIES PRIORITIES HAIN,VAGUE,Hindi,de
+BATANA MUSHKIL HAI HAI 😢,VAGUE,Hindi,en
+Suno pata nahi,VAGUE,Hindi,tl
+Madam jo bhi bro???,VAGUE,Hindi,so
+Acha promise nahi kar sakta,VAGUE,Hindi,id
+Actually dekhunga main,VAGUE,Hindi,id
+sochne do 😢,VAGUE,Hindi,sk
+Abhi Abhi nahi ok?,VAGUE,Hindi,tl
+Yaar abhi jawab nahi de sakta,VAGUE,Hindi,so
+Zindagi mushkil mushkil chal rahi hai,VAGUE,Hindi,et
+Mushkil hai situation ...,VAGUE,Hindi,fi
+Haan aur options sochne do,VAGUE,Hindi,fr
+kya bolun bolun samajh nahi aa raha 👍???,VAGUE,Hindi,so
+Hey Hey decide karne mein time do,VAGUE,Hindi,nl
+Sochunga ...,VAGUE,Hindi,id
+Bhai samajhna padega!!,VAGUE,Hindi,id
+Pata nahi???,VAGUE,Hindi,tl
+Sir shayad ho jaye,VAGUE,Hindi,so
+Dekhunga main 😢!!,VAGUE,Hindi,id
+Acha ho sakta sakta hai,VAGUE,Hindi,sw
+Dekho kyA Bolun samajH nAhI aA rAHa yaar,VAGUE,Hindi,so
+Dekhte hain kuch hota hai asap,VAGUE,Hindi,fi
+Sir Sir kar paunga shayad???,VAGUE,Hindi,tl
+Dude sochunga thx,VAGUE,Hindi,sv
+Koi comment nahi 🙏🙏,VAGUE,Hindi,fr
+Well ho sakta hai !!,VAGUE,Hindi,fi
+Listen aur priorities hain!!,VAGUE,Hindi,fr
+Dekho time chahiye mujhe,VAGUE,Hindi,sw
+Yaar abhi nahi bata sakta,VAGUE,Hindi,id
+Situation dekhni padegi yaar,VAGUE,Hindi,id
+decide karne mein time do yaar,VAGUE,Hindi,es
+Aur options sochne do sir,VAGUE,Hindi,fr
+Dekhte Dekhte hain kya hota hai !!,VAGUE,Hindi,nl
+THeek hai 🙏🙏 🙏🙏,VAGUE,Hindi,hu
+Ok so time chahiye mujhe 🙂,VAGUE,Hindi,sw
+Suno samajhna padega padega,VAGUE,Hindi,id
+Honestly dekhunga main,VAGUE,Hindi,id
+Ok so so dekhunga main,VAGUE,Hindi,tl
+Haan kuch aisa hi,VAGUE,Hindi,sw
+Madam batana mushkil hai sir,VAGUE,Hindi,id
+COMPLICATED HAI???,VAGUE,Hindi,en
+Look sochunga plz,VAGUE,Hindi,sv
+KAUN JAANE!!,VAGUE,Hindi,sw
+THEEK THEEK HAI plz,VAGUE,Hindi,en
+Madam koshish karunga,VAGUE,Hindi,id
+Honestly kaUn JaaNe bro,VAGUE,Hindi,en
+Boss kuch aisa hi,VAGUE,Hindi,fi
+decide karne mein mein time do 😡,VAGUE,Hindi,nl
+Soch raha hun???,VAGUE,Hindi,id
+Madam aur options sochne do,VAGUE,Hindi,fr
+Sir socHna padEGA!!,VAGUE,Hindi,pt
+Sochna padega na?,VAGUE,Hindi,sl
+pata nahi!!,VAGUE,Hindi,tl
+Situation dekhni dekhni padegi,VAGUE,Hindi,id
+abhi abhi nahi bata sakta,VAGUE,Hindi,tl
+Sochne do???,VAGUE,Hindi,de
+Dude koshish karunga,VAGUE,Hindi,sq
+Sochne do ok?,VAGUE,Hindi,sk
+Actually haalat kharab hain,VAGUE,Hindi,so
+issues hain 🙏🙏,VAGUE,Hindi,en
+Ok so sochunga iske baare mein asap,VAGUE,Hindi,sv
+Hey sochunga,VAGUE,Hindi,sv
+Yaar haalat kharab hain,VAGUE,Hindi,so
+Haan kya bolun samajh nahi aa raha???,VAGUE,Hindi,so
+Dekho kUCh aiSa HI!!,VAGUE,Hindi,so
+Acha abhi jawab jawab nahi de sakta 😭,VAGUE,Hindi,sw
+dekhte hain!!,VAGUE,Hindi,nl
+Honestly kOI COMMENT NAHI,VAGUE,Hindi,en
+Kar paunga shayad shayad,VAGUE,Hindi,tl
+Bhai aur priorities hain,VAGUE,Hindi,fr
+SOCHNE DO sir,VAGUE,Hindi,so
+theek hai 😭,VAGUE,Hindi,en
+Dekh leta hun asap,VAGUE,Hindi,id
+Honestly depend karta hai 😭,VAGUE,Hindi,id
+Dekho cOmPLicaTEd hAi,VAGUE,Hindi,en
+Madam mushkil hai situation 💰,VAGUE,Hindi,id
+Sochunga !!,VAGUE,Hindi,de
+Baad mein shayad ...,VAGUE,Hindi,so
+Bhai abhi nahi,VAGUE,Hindi,sw
+kaun jaane 👍,VAGUE,Hindi,fi
+Yaar samajh nahi aa raha kya karun !!,VAGUE,Hindi,so
+Dekho Dekho shayad ho jaye,VAGUE,Hindi,so
+See aUR optioNS SOchne Do,VAGUE,Hindi,en
+Acha hmm,VAGUE,Hindi,sw
+Madam depend karta hai 🙏,VAGUE,Hindi,id
+kaun jaane???,VAGUE,Hindi,fi
+Listen samajh nahi aa raha kya karun,VAGUE,Hindi,id
+Look dEKHTE HAIN KUCH HOTA HAI,VAGUE,Hindi,nl
+Dekho samajhna padega,VAGUE,Hindi,id
+Abhi nahi 🙏,VAGUE,Hindi,tl
+Arey dekhte hain kya hota hai,VAGUE,Hindi,fi
+Bhai patA naHI 🙂,VAGUE,Hindi,tl
+Ho sakta hai 😭!!,VAGUE,Hindi,fi
+itna simple nahi hai yaar,VAGUE,Hindi,tl
+Mushkil hai hai situation,VAGUE,Hindi,sw
+Dude abhi jawab nahi de sakta!!,VAGUE,Hindi,id
+Bhai abhi jawab nahi de sakta bro,VAGUE,Hindi,id
+Haan abhi commit nahi kar sakta,VAGUE,Hindi,tl
+shAYaD 😭,VAGUE,Hindi,so
+Sochunga asap!!,VAGUE,Hindi,tl
+Complicated hai hai plz,VAGUE,Hindi,en
+Pata nahi 🤷,VAGUE,Hindi,tl
+Kuch Kuch kar raha hun,VAGUE,Hindi,sw
+Kuch aisa hi yaar,VAGUE,Hindi,sw
+Dekhte hain !!!!,VAGUE,Hindi,nl
+Dekhunga main yaar,VAGUE,Hindi,id
+Koi comment nahi 😡!!,VAGUE,Hindi,fr
+Samajhna padega thx,VAGUE,Hindi,id
+Bhai baad mein bataunga,VAGUE,Hindi,id
+Ok so shayad,VAGUE,Hindi,so
+auR Priorities hAin thx,VAGUE,Hindi,en
+Sir depend karta hai 🙏,VAGUE,Hindi,id
+Listen itna simple nahi hai,VAGUE,Hindi,tl
+Arey soch raha hun,VAGUE,Hindi,so
+Basically sAMAJHNA PADEGA 🙏🙏!!,VAGUE,Hindi,en
+Shayad yaar,VAGUE,Hindi,so
+Honestly aur priorities hain,VAGUE,Hindi,en
+Yaar batana mushkil mushkil hai 🙏🙏,VAGUE,Hindi,id
+Dekh leta hun plz,VAGUE,Hindi,id
+Sochunga 😡,VAGUE,Hindi,sv
+Sir abhi nahi bata sakta,VAGUE,Hindi,tl
+Look abhi nahi bro,VAGUE,Hindi,tl
+Baad mein shayad yaar,VAGUE,Hindi,so
+Ok so depend karta hai???,VAGUE,Hindi,id
+Theek hai!!,VAGUE,Hindi,en
+Bhai soch raha hun ...,VAGUE,Hindi,id
+Boss kya bolun samajh nahi aa raha !!,VAGUE,Hindi,so
+Pata nahi 👍,VAGUE,Hindi,tl
+Look dekhte hain kya hota hai 🙂,VAGUE,Hindi,fi
+Haan sochne do,VAGUE,Hindi,nl
+Nahi bata bata sakta sach mein,VAGUE,Hindi,id
+Boss kaun jaane jaane,VAGUE,Hindi,fi
+Arey hmM,VAGUE,Hindi,so
+complicated hai yaar,VAGUE,Hindi,en
+Sir dEKHTE HAIN,VAGUE,Hindi,tr
+Dekhunga main???,VAGUE,Hindi,id
+Sochunga iske baare mein boss,VAGUE,Hindi,sv
+Well theek hai,VAGUE,Hindi,en
+Hey promise nahi kar sakta 💰,VAGUE,Hindi,tl
+Abhi commit nahi kar sakta sir???,VAGUE,Hindi,tl
+Actually dekh LetA huN,VAGUE,Hindi,en
+Promise nahi kar sakta 🙂!!,VAGUE,Hindi,id
+Well sochunga iske baare mein yaar,VAGUE,Hindi,sv
+abhi nahi thx,VAGUE,Hindi,sw
+Batana mushkil hai plz!!,VAGUE,Hindi,sw
+Kaun jaane yaar,VAGUE,Hindi,so
+Sir kuch aisa hi!!,VAGUE,Hindi,sw
+Abhi nahi!!,VAGUE,Hindi,tl
+Dekho sochunga sochunga iske baare mein???,VAGUE,Hindi,sv
+Kuch kar raha hun???,VAGUE,Hindi,id
+Listen situation dekhni padegi,VAGUE,Hindi,it
+Hey Hey baad mein bataunga,VAGUE,Hindi,id
+Dekhi,VAGUE,Bengali,nl
+Jani na,VAGUE,Bengali,sw
+Dekha jabe,VAGUE,Bengali,so
+Bhebhe dekhchi,VAGUE,Bengali,de
+Ekhon bolte parbo na,VAGUE,Bengali,tl
+Sure na,VAGUE,Bengali,af
+Bhabte dao,VAGUE,Bengali,pt
+Cheshta korbo,VAGUE,Bengali,sq
+Hote pare,VAGUE,Bengali,ro
+Depend kore,VAGUE,Bengali,no
+Time chai amake,VAGUE,Bengali,sw
+Bhebhe dekhbo,VAGUE,Bengali,de
+Promise korte parbo na,VAGUE,Bengali,sl
+Ki korbo bujhte parchi na,VAGUE,Bengali,sq
+Hoyto hoye jabe,VAGUE,Bengali,so
+Kichu ekta,VAGUE,Bengali,de
+Haan hoyto,VAGUE,Bengali,so
+Dekhe nii,VAGUE,Bengali,nl
+Bola mushkil,VAGUE,Bengali,sw
+Ke jane,VAGUE,Bengali,et
+Korte parbo hoyto,VAGUE,Bengali,lt
+Bhabte hobe,VAGUE,Bengali,so
+Dekha jak ki hoy,VAGUE,Bengali,so
+Ekhon commit korte parbo na,VAGUE,Bengali,tl
+Pore janabo,VAGUE,Bengali,sl
+Bujhte hobe,VAGUE,Bengali,sq
+Ekhon uttor dite parbo na,VAGUE,Bengali,it
+Pore hoyto,VAGUE,Bengali,sk
+Dekha jak kichu hoy ki na,VAGUE,Bengali,sw
+Onno option bhabte dao,VAGUE,Bengali,fr
+Kichu ekta korchi,VAGUE,Bengali,sk
+Decide korte time dao,VAGUE,Bengali,pt
+Onno priorities ache,VAGUE,Bengali,it
+Ekhon na,VAGUE,Bengali,tl
+Bhabbo ei niye,VAGUE,Bengali,sw
+Mushkil obostha,VAGUE,Bengali,sq
+Bolte parbo na shotti,VAGUE,Bengali,it
+Eto simple na,VAGUE,Bengali,it
+Situation dekhte hobe,VAGUE,Bengali,de
+Cheshta korchi nijer dik theke,VAGUE,Bengali,sq
+Obostha kharap,VAGUE,Bengali,tl
+Issues ache,VAGUE,Bengali,fr
+Ja bhi,VAGUE,Bengali,so
+Ke jane???,VAGUE,Bengali,et
+hmm sir,VAGUE,Bengali,sq
+No comment!!,VAGUE,Bengali,fr
+Ok so bujhte hobe,VAGUE,Bengali,sk
+Sir ekhon na,VAGUE,Bengali,tl
+PROMISE KORTE KORTE PARBO NA yaar,VAGUE,Bengali,so
+Ke jane 🙂,VAGUE,Bengali,et
+Dekha Dekha jak kichu hoy ki na,VAGUE,Bengali,sw
+TimE CHaI aMakE 😢!!,VAGUE,Bengali,id
+hote pare plz,VAGUE,Bengali,fr
+Hoyto hoye jabe jabe,VAGUE,Bengali,so
+Ekhon uttor dite dite parbo na yaar???,VAGUE,Bengali,it
+Bhebhe dekhbo asap,VAGUE,Bengali,id
+Listen bOlte bOlte parBo NA shotTi,VAGUE,Bengali,de
+Dude ki korbo bujhte parchi na,VAGUE,Bengali,sl
+Hmm 👍,VAGUE,Bengali,sv
+Cheshta korbo asap,VAGUE,Bengali,sq
+Situation dekhte hobe ...,VAGUE,Bengali,de
+Ekhon uttor dite parbo na asap,VAGUE,Bengali,it
+Haan dekhe nii,VAGUE,Bengali,nl
+Dekha jak jak kichu hoy ki na na?,VAGUE,Bengali,sw
+Suno pore hoyto,VAGUE,Bengali,es
+Hey dekhi!!,VAGUE,Bengali,tr
+Pore janabo sir,VAGUE,Bengali,sl
+obostha kharap yaar,VAGUE,Bengali,so
+Arey deKha jak ki Hoy sir???,VAGUE,Bengali,so
+Dekhi asap,VAGUE,Bengali,id
+Suno onNO pRioritIes aChe asap,VAGUE,Bengali,pt
+Yaar promise korte parbo na,VAGUE,Bengali,sl
+Dude eKHON COMMIT KORTE PARBO NA,VAGUE,Bengali,nl
+Bhebhe dekhchi boss,VAGUE,Bengali,de
+Ki bolbo bujhte parchi na 🙏,VAGUE,Bengali,sk
+See dECIDE KORTE KORTE TIME DAO,VAGUE,Bengali,de
+promise korte parbo na boss,VAGUE,Bengali,sl
+Acha pore janabo,VAGUE,Bengali,hr
+Ok so hoyto hoye jabe,VAGUE,Bengali,so
+Yaar ekhon uttor dite parbo na,VAGUE,Bengali,af
+bolte bolte parbo na shotti,VAGUE,Bengali,it
+Acha kichu ekta 👍!!,VAGUE,Bengali,sw
+bhebhe dekhchi ...,VAGUE,Bengali,de
+Ekhon na ok?,VAGUE,Bengali,tl
+Ekhon bolte bolte parbo na!!,VAGUE,Bengali,sl
+Basically cheshta korbo,VAGUE,Bengali,sq
+Dekho no comment 💰,VAGUE,Bengali,pt
+Well mushkil obostha!!,VAGUE,Bengali,et
+Haan ki korbo bujhte parchi na,VAGUE,Bengali,sw
+Kichu ekta !!,VAGUE,Bengali,sw
+Well onno option bhabte dao.???,VAGUE,Bengali,it
+Listen ja bhi!!,VAGUE,Bengali,fi
+Korte parbo hoyto hoyto,VAGUE,Bengali,cs
+Haan muShkIl oBOstha,VAGUE,Bengali,fi
+Haan Haan bhebhe dekhbo,VAGUE,Bengali,nl
+Ok so cheshta korchi nijer dik theke,VAGUE,Bengali,sq
+Ekhon na thx???,VAGUE,Bengali,vi
+Pore janabo 🙂,VAGUE,Bengali,sl
+Yaar jA BHI 💰,VAGUE,Bengali,so
+bhebhe dekhbo plz,VAGUE,Bengali,nl
+Arey hOYTO !!!!,VAGUE,Bengali,so
+Bhai no no comment 👍,VAGUE,Bengali,it
+bhABte HOBe!!,VAGUE,Bengali,nl
+Yaar no cOmmENT,VAGUE,Bengali,so
+Look decide korte time dao,VAGUE,Bengali,nl
+Madam cheshta korchi nijer dik theke,VAGUE,Bengali,sq
+haan hOyTO sir,VAGUE,Bengali,so
+Eto simple simple na,VAGUE,Bengali,it
+Promise Promise korte parbo na,VAGUE,Bengali,et
+Look ekhon na,VAGUE,Bengali,af
+Yaar dekhi,VAGUE,Bengali,so
+Dekha jabe!!,VAGUE,Bengali,so
+Bolte parbo na shotti na?,VAGUE,Bengali,it
+Ekhon Ekhon commit korte parbo na yaar,VAGUE,Bengali,tl
+Dekho kichu ekta korchi,VAGUE,Bengali,sk
+Bhabte dAo yaar,VAGUE,Bengali,so
+Ke jane!!,VAGUE,Bengali,et
+bujhte hobe na?,VAGUE,Bengali,sk
+Dekhe nii thx,VAGUE,Bengali,vi
+Madam jaNi Na,VAGUE,Bengali,id
+Dude issues issues ache 👍,VAGUE,Bengali,fr
+Yaar mushkil obostha,VAGUE,Bengali,et
+Yaar kichu ekta korchi thanks,VAGUE,Bengali,sw
+Yaar sure na,VAGUE,Bengali,af
+Pore hoyto plz,VAGUE,Bengali,sk
+Promise korte korte parbo na,VAGUE,Bengali,no
+Acha depend kore,VAGUE,Bengali,nl
+Look sure na,VAGUE,Bengali,af
+Ekhon na???,VAGUE,Bengali,tl
+Arey bhebhe dekhchi.,VAGUE,Bengali,de
+No comment na?,VAGUE,Bengali,fr
+Dekhi!!,VAGUE,Bengali,id
+Acha jani na???,VAGUE,Bengali,sw
+Yaar ki korbo bujhte parchi na asap!!,VAGUE,Bengali,id
+Boss korte parbo hoyto,VAGUE,Bengali,no
+Bhebhe dekhbo ok?,VAGUE,Bengali,nl
+Ok so cheshta korbo,VAGUE,Bengali,sq
+Time chai amake plz,VAGUE,Bengali,sw
+Bujhte hobe yaar,VAGUE,Bengali,so
+Well dekha jabe,VAGUE,Bengali,so
+Hey bola mushkil,VAGUE,Bengali,so
+Sir no comment???,VAGUE,Bengali,fr
+Well hoyto hoye jabe 😭,VAGUE,Bengali,so
+Jani na asap!!,VAGUE,Bengali,tl
+KICHU KICHU EKTA 🙂,VAGUE,Bengali,de
+bhebhe dekhbo???,VAGUE,Bengali,nl
+Look jibon mushkil cholche,VAGUE,Bengali,sw
+dekha jabe 😡,VAGUE,Bengali,so
+Jani na asap???,VAGUE,Bengali,tl
+Bhebhe dekhbo yaar,VAGUE,Bengali,so
+Yaar situation dekHTe hobe,VAGUE,Bengali,id
+Haan ekhon ekhon na 🙏!!,VAGUE,Bengali,tl
+DepENd Kore???,VAGUE,Bengali,da
+Depend kore asap,VAGUE,Bengali,af
+Ekhon commit commit korte parbo na,VAGUE,Bengali,fr
+TIME TIME CHAI AMAKE,VAGUE,Bengali,vi
+Acha jiBOn mUsHKIl cholCHe 😢???,VAGUE,Bengali,sw
+Suno Suno kORTE PARBO HOYTO 🙏🙏,VAGUE,Bengali,pt
+Time chai amake sir,VAGUE,Bengali,sw
+Dekho ja bhi,VAGUE,Bengali,so
+Basically dekHa dekHa jAk ki HOy 😭,VAGUE,Bengali,tr
+Suno ke jane 🙏🙏,VAGUE,Bengali,sl
+Eto simple na??? na???,VAGUE,Bengali,it
+Dekho ke jane,VAGUE,Bengali,sl
+Bhabte dao!!,VAGUE,Bengali,pt
+Suno eto simple simple na,VAGUE,Bengali,it
+Onno option bhabte dao ...,VAGUE,Bengali,pt
+DEKHE NII 🙏,VAGUE,Bengali,af
+Dekha jabe???,VAGUE,Bengali,so
+Dekhe nii!!,VAGUE,Bengali,so
+Listen eto simple na,VAGUE,Bengali,it
+Well ke jane???,VAGUE,Bengali,et
+Dekho mushkil obostha yaar,VAGUE,Bengali,so
+Theek hai ok,VAGUE,Hinglish,hu
+Hmm ok,VAGUE,Hinglish,sv
+Let me dekh leta hun,VAGUE,Hinglish,id
+I don't know yaar,VAGUE,Hinglish,so
+Maybe ho jayega,VAGUE,Hinglish,so
+Dekhte hain bhai,VAGUE,Hinglish,nl
+Abhi can't say,VAGUE,Hinglish,tl
+Sochne do mujhe,VAGUE,Hinglish,pl
+Try karunga,VAGUE,Hinglish,id
+Possibly ho sakta hai,VAGUE,Hinglish,fi
+It depends yaar,VAGUE,Hinglish,nl
+Time chahiye merko,VAGUE,Hinglish,tr
+Samajh nahi aa raha what to do,VAGUE,Hinglish,so
+Maybe shayad,VAGUE,Hinglish,so
+Yeah probably,VAGUE,Hinglish,id
+I'll look into it dekhta hun,VAGUE,Hinglish,it
+Might kar paunga,VAGUE,Hinglish,tl
+No comment bhai,VAGUE,Hinglish,fr
+Sochna padega mujhe,VAGUE,Hinglish,pl
+Let's see kya hota hai,VAGUE,Hinglish,fi
+Abhi answer nahi hai mere paas,VAGUE,Hinglish,id
+Maybe later sometime,VAGUE,Hinglish,da
+Uncertain hun main,VAGUE,Hinglish,fr
+Time do decide karne ke liye,VAGUE,Hinglish,tr
+I'll consider it sochunga,VAGUE,Hinglish,it
+Kya bolun pata nahi,VAGUE,Hinglish,tl
+Situation check karna padega,VAGUE,Hinglish,id
+I'm trying apni taraf se,VAGUE,Hinglish,id
+See sochne do mujhe,VAGUE,Hinglish,sk
+Maybe shayad yaar,VAGUE,Hinglish,so
+Whatever jo bhi bro!!,VAGUE,Hinglish,sl
+Suno situation check karna padega,VAGUE,Hinglish,it
+Suno situation complicated hai,VAGUE,Hinglish,it
+Theek hai ok plz!!,VAGUE,Hinglish,hu
+Maybe shayad boss,VAGUE,Hinglish,so
+Listen maybe ho jayega,VAGUE,Hinglish,so
+Dekho kya bolun pata nahi,VAGUE,Hinglish,tl
+Time Time chahiye merko!!,VAGUE,Hinglish,id
+Basically maybE ho jAYega!!,VAGUE,Hinglish,so
+Let's see kya hota hai boss,VAGUE,Hinglish,fi
+Listen wORKING ON IT HUN 😭,VAGUE,Hinglish,de
+Suno maybe later sometime,VAGUE,Hinglish,it
+Sir Sir sochna padega mujhe!!,VAGUE,Hinglish,id
+Theek hai hai ok 🙂,VAGUE,Hinglish,hu
+No comment bhai???,VAGUE,Hinglish,fr
+Dude i'm trying apni taraf se sir,VAGUE,Hinglish,da
+Bhai i'll look into it dekhta hun,VAGUE,Hinglish,sq
+try karunga???,VAGUE,Hinglish,id
+Look maybe ho jayega,VAGUE,Hinglish,so
+abhi can't say bro,VAGUE,Hinglish,tl
+ABHI CAN'T CAN'T SAY 🙏🙏,VAGUE,Hinglish,vi
+Acha hMM OK,VAGUE,Hinglish,sw
+Possibly ho sakta hai thx,VAGUE,Hinglish,fi
+Dekho i'll look into it dekhta hun!!,VAGUE,Hinglish,nl
+Yaar samajh nahi aa raha what to do 😡,VAGUE,Hinglish,so
+Listen Listen i'm trying apni taraf se,VAGUE,Hinglish,no
+Abhi answer answer nahi hai mere paas 😢,VAGUE,Hinglish,id
+Madam maybe later sometime,VAGUE,Hinglish,da
+Yaar wOrKiNG oN it Hun,VAGUE,Hinglish,af
+Listen i'll consider it sochunga 🙂,VAGUE,Hinglish,sv
+Try karunga na?!!,VAGUE,Hinglish,tl
+i'll i'll look inTo iT dEkHtA hun 😢,VAGUE,Hinglish,no
+It depends yaar asap!!,VAGUE,Hinglish,id
+Dekho let's see kya hota hai,VAGUE,Hinglish,so
+can't commit abhi yaar,VAGUE,Hinglish,so
+Suno uncertain hun main,VAGUE,Hinglish,id
+I don't know know yaar,VAGUE,Hinglish,so
+Sir nOT RIGHT NOW BHAI ok,VAGUE,Hinglish,tr
+MAYBE LATER LATER SOMETIME,VAGUE,Hinglish,de
+Well theek hai ok plz,VAGUE,Hinglish,nl
+Dude who knows yaar???,VAGUE,Hinglish,so
+Maybe shayad 🙏???,VAGUE,Hinglish,so
+Maybe shayad thx,VAGUE,Hinglish,so
+Dude uncertain hun main,VAGUE,Hinglish,fr
+Listen tRY KARUNGA,VAGUE,Hinglish,de
+Samajh nahi aa raha what to do thanks,VAGUE,Hinglish,so
+Ok so pOsSIbly Ho SaktA HaI 🙏🙏,VAGUE,Hinglish,tl
+Bhai i don't know yaar,VAGUE,Hinglish,so
+Boss situation check karna padega 🙏🙏,VAGUE,Hinglish,it
+LIFE TOUGH TOUGH HAI ABHI 😡,VAGUE,Hinglish,vi
+Try karunga bro,VAGUE,Hinglish,tl
+SITUATION COMPLICATED HAI asap,VAGUE,Hinglish,tl
+Theek hai ok ok?,VAGUE,Hinglish,hu
+Who knows yaar sir,VAGUE,Hinglish,so
+Listen might kar paunga!!,VAGUE,Hinglish,id
+Look mIGHT KAR PAUNGA,VAGUE,Hinglish,et
+Haan sochna padega mujhe,VAGUE,Hinglish,id
+Boss i don't know yaar!!,VAGUE,Hinglish,so
+Bhai time time do decide karne ke liye.,VAGUE,Hinglish,tr
+Madam samajh nahi aa raha what to do,VAGUE,Hinglish,so
+Bhai time chahiye merko,VAGUE,Hinglish,sw
+Kya bolun pata nahi sir,VAGUE,Hinglish,tl
+Arey time chahiye merko,VAGUE,Hinglish,tr
+i'll coNsider it soChunga plz!!,VAGUE,Hinglish,ca
+Maybe ho jayega???,VAGUE,Hinglish,so
+it's comPlicatEd hai na?,VAGUE,Hinglish,ca
+See it depends yaar,VAGUE,Hinglish,nl
+Boss it depends yaar,VAGUE,Hinglish,nl
+Dude i'LL CONSIDER IT SOCHUNGA 🙂,VAGUE,Hinglish,ca
+Listen uncertain hun main,VAGUE,Hinglish,fr
+Well uncertain hun main,VAGUE,Hinglish,fr
+Suno i'm trying trying apni taraf se 😢???,VAGUE,Hinglish,no
+Hmm ok???,VAGUE,Hinglish,sk
+Try karunga plz!!,VAGUE,Hinglish,tl
+Suno it depends yaar!!,VAGUE,Hinglish,nl
+uncertain hun main plz,VAGUE,Hinglish,fr
+Sir can't promise kuch bhi asap???,VAGUE,Hinglish,id
+Might kar paunga thx,VAGUE,Hinglish,tl
+Well pAYMENT WAS ALREADY TRANSFERRED VIA UPI,ALREADY_PAID,English,de
+Haan i PAID THIS OFF MONTHS AGO,ALREADY_PAID,English,id
+Maine pehle hi kar diya,ALREADY_PAID,Hindi,tr
+Payment ho chuka hai,ALREADY_PAID,Hindi,sw
+Maine 25th ko pay kiya tha,ALREADY_PAID,Hindi,tl
+NEFT se transfer kar diya tha,ALREADY_PAID,Hindi,id
+"Paise bhej diye the, check karo",ALREADY_PAID,Hindi,en
+Mera payment already ho gaya hai,ALREADY_PAID,Hindi,en
+EMI already kat gayi hai,ALREADY_PAID,Hindi,tl
+"System mein check karo, payment hua hai",ALREADY_PAID,Hindi,de
+Bank mein debit dikha raha hai,ALREADY_PAID,Hindi,id
+Maine paisa already transfer kar diya,ALREADY_PAID,Hindi,id
+"Check karo please, payment successful tha",ALREADY_PAID,Hindi,en
+Full amount diya tha 25th ko,ALREADY_PAID,Hindi,en
+Transaction complete ho gaya tha,ALREADY_PAID,Hindi,en
+UTR number hai mere paas,ALREADY_PAID,Hindi,id
+"Receipt hai, bhejun kya?",ALREADY_PAID,Hindi,id
+"NEFT kiya tha agle hafte, reflect hona chahiye",ALREADY_PAID,Hindi,en
+"Clear kar diya tha, dubara mat call karo",ALREADY_PAID,Hindi,so
+Bahut pehle pay kar diya tha,ALREADY_PAID,Hindi,id
+Mera payment 20th ko gaya tha,ALREADY_PAID,Hindi,tl
+Auto-debit se kat gaya hai,ALREADY_PAID,Hindi,tl
+Meri taraf se transaction successful hai,ALREADY_PAID,Hindi,en
+Paisa nikal gaya account se,ALREADY_PAID,Hindi,tl
+Confirmation message aaya tha pay karne ke baad,ALREADY_PAID,Hindi,tl
+"Poora pay kiya hai, tumhe mil gaya hoga",ALREADY_PAID,Hindi,so
+Due date se pehle hi kar diya tha,ALREADY_PAID,Hindi,id
+"Ho gaya hai, records update karo",ALREADY_PAID,Hindi,en
+PhonePe se 20th ko transfer kiya tha,ALREADY_PAID,Hindi,en
+"System update nahi hua, pay kar diya hai",ALREADY_PAID,Hindi,id
+Do baar pay kiya hai actually,ALREADY_PAID,Hindi,tl
+Cheque deposit kiya tha pichle hafte,ALREADY_PAID,Hindi,en
+"Proof hai payment ka, bhejun?",ALREADY_PAID,Hindi,id
+Auto-debit 10th ko hua tha,ALREADY_PAID,Hindi,sq
+"App se pay kiya, transaction ID hai",ALREADY_PAID,Hindi,tl
+Account settle kar diya hai,ALREADY_PAID,Hindi,en
+Kyun call kar rahe ho? Already pay kiya,ALREADY_PAID,Hindi,so
+"Ye solve ho gaya hai, payment hua",ALREADY_PAID,Hindi,en
+Months pehle pay kar diya tha,ALREADY_PAID,Hindi,tl
+EMI account se kat gayi,ALREADY_PAID,Hindi,en
+1st ko credit check karo,ALREADY_PAID,Hindi,cs
+"Online payment kar diya, confirmation ka wait hai",ALREADY_PAID,Hindi,en
+RTGS se bhej diya paisa,ALREADY_PAID,Hindi,id
+Bank statement mein clear hai payment,ALREADY_PAID,Hindi,en
+"Sab pay kar diya, kuch pending nahi",ALREADY_PAID,Hindi,tl
+Payment proof email mein hai,ALREADY_PAID,Hindi,en
+Transaction reference number check karo,ALREADY_PAID,Hindi,en
+Partial 5th ko kiya tha aur baaki 5th ko,ALREADY_PAID,Hindi,id
+Auto-debit se cover ho gayi thi EMI,ALREADY_PAID,Hindi,en
+"Pay karke khatam kiya, update karo",ALREADY_PAID,Hindi,id
+"Yaad hai pay kiya tha, statement dekhta hun",ALREADY_PAID,Hindi,id
+"Pakka pay kiya hai, screenshot hai",ALREADY_PAID,Hindi,tl
+Actually months months pehle pay kar diya tha,ALREADY_PAID,Hindi,en
+bank transfer se bhej diya paisa,ALREADY_PAID,Hindi,id
+Ok so mera payment already ho gaya hai 🙏,ALREADY_PAID,Hindi,id
+NEFT se 25th ko transfer kiya tha!!,ALREADY_PAID,Hindi,en
+"Actually system mein check karo, payment hua hai",ALREADY_PAID,Hindi,en
+PAYMENT HO CHUKA HAI bro,ALREADY_PAID,Hindi,pt
+Auto-debit last month ko hua tha,ALREADY_PAID,Hindi,en
+Yaar bank mein debit dikha raha hai ok?!!,ALREADY_PAID,Hindi,id
+"Actually proof hai payment ka, bhejun?",ALREADY_PAID,Hindi,en
+Haan Haan rTGS se transfer kar diya tha yaar,ALREADY_PAID,Hindi,so
+MAINE 1ST KO PAY KIYA THA,ALREADY_PAID,Hindi,id
+RTGS se transfer kar diya tha,ALREADY_PAID,Hindi,tr
+Mera payment 15th ko gaya tha 🤷,ALREADY_PAID,Hindi,id
+EMI ALREADY ALREADY KAT GAYI HAI!!,ALREADY_PAID,Hindi,de
+Ok so bahut pehle pay kar diya tha,ALREADY_PAID,Hindi,id
+Partial Partial 20th ko kiya tha aur baaki 20th ko,ALREADY_PAID,Hindi,id
+Suno mERA PAYMENT ALREADY HO GAYA HAI plz,ALREADY_PAID,Hindi,pt
+Maine last month ko pay kiya tha,ALREADY_PAID,Hindi,tl
+Full Full amount diya tha 20th ko!!,ALREADY_PAID,Hindi,en
+Haan maine pehle hi kar diya,ALREADY_PAID,Hindi,id
+"Proof hai payment ka, bhejun sir",ALREADY_PAID,Hindi,id
+Basically utr number hai mere paas,ALREADY_PAID,Hindi,en
+"NEFT kiya tha tha 3 din mein, reflect hona chahiye",ALREADY_PAID,Hindi,en
+Arey pAYMENT PROOF EMAIL MEIN HAI 💰,ALREADY_PAID,Hindi,en
+"Boss receipt hai, bhejun kya?",ALREADY_PAID,Hindi,id
+Haan payment ho chuka hai,ALREADY_PAID,Hindi,sw
+"Dekho ye solve ho gaya hai, payment hua",ALREADY_PAID,Hindi,sw
+"Haan receipt hai, bhejun kya",ALREADY_PAID,Hindi,id
+Months Months pehle pay kar diya tha,ALREADY_PAID,Hindi,en
+"Actually nEFT kiya tha agle hafte, reflect hona chahiye",ALREADY_PAID,Hindi,en
+Bank mein debit dikha raha hai thanks,ALREADY_PAID,Hindi,id
+"Pay karke khatam khatam kiya, update karo",ALREADY_PAID,Hindi,id
+Hey maine paisa already transfer kar diya thanks,ALREADY_PAID,Hindi,id
+Haan auto-debit se kat gaya hai,ALREADY_PAID,Hindi,tl
+Bahut pehle pehle pay kar diya tha plz,ALREADY_PAID,Hindi,id
+Haan mAINE 20TH KO PAY KIYA THA,ALREADY_PAID,Hindi,id
+mErA payMenT 1st ko GAYa thA,ALREADY_PAID,Hindi,tl
+See payement proof email mein hai,ALREADY_PAID,Hindi,en
+Bhai aCCOUNT SETTLE KAR DIYA HAI,ALREADY_PAID,Hindi,id
+Listen auto-debit 20th ko hua tha 👍,ALREADY_PAID,Hindi,en
+"Basically system system mein check karo, payment hua hai",ALREADY_PAID,Hindi,en
+Hey confirmation message message aaya tha pay karne ke baad,ALREADY_PAID,Hindi,en
+Transaction Transaction reference number check karo ok,ALREADY_PAID,Hindi,en
+PhonePe se bhej diya paisa sir,ALREADY_PAID,Hindi,id
+Ok so maine 1st ko pay kiya tha,ALREADY_PAID,Hindi,tl
+"Poora Poora pay kiya hai, tumhe mil gaya hoga 🙂",ALREADY_PAID,Hindi,tl
+UPI se 25th ko transfer kiya tha 😡,ALREADY_PAID,Hindi,en
+"NEFT kiya tha ek hafte mein, reflect hona chahiye",ALREADY_PAID,Hindi,en
+Actually auTO-debIT sE CoVEr hO gaYi ThI Emi 🙏,ALREADY_PAID,Hindi,en
+"Haan clear kar diya tha, dubara mat call karo !!",ALREADY_PAID,Hindi,so
+Acha fulL fulL amount diYa thA 5th kO,ALREADY_PAID,Hindi,en
+GOOGLE PAY SE BHEJ DIYA PAISA,ALREADY_PAID,Hindi,de
+bank statement mein clear hai payment thanks,ALREADY_PAID,Hindi,en
+EMI already kat gayi hai thanks,ALREADY_PAID,Hindi,so
+EMI account account se kat gayi,ALREADY_PAID,Hindi,en
+Transaction Transaction complete ho gaya tha,ALREADY_PAID,Hindi,en
+Acha utr number hai mere paas,ALREADY_PAID,Hindi,id
+Boss bank statement mein clear hai payment ...,ALREADY_PAID,Hindi,en
+"NEFT kiya tha is weekend, reflect hona chahiye ...!!",ALREADY_PAID,Hindi,en
+transaction complete ho gaya tha boss!!,ALREADY_PAID,Hindi,en
+Yaar bank mein debit dikha raha hai???,ALREADY_PAID,Hindi,id
+Auto-debit se se kat gaya hai!!,ALREADY_PAID,Hindi,id
+Basically payement ho chuka hai 💰,ALREADY_PAID,Hindi,en
+Hey uTR number hai mere paas!!,ALREADY_PAID,Hindi,en
+Boss transaction reference number check karo bro???,ALREADY_PAID,Hindi,en
+"Bhai poora pay kiya hai, tumhe mil gaya hoga asap",ALREADY_PAID,Hindi,tl
+Full amount amount diya tha last month ko!!,ALREADY_PAID,Hindi,en
+Partial 25th ko ko kiya tha aur baaki 25th ko!!,ALREADY_PAID,Hindi,id
+Well transaction reference number check karo thx,ALREADY_PAID,Hindi,en
+Mera payment last month ko gaya tha,ALREADY_PAID,Hindi,tl
+"Receipt hai, bhejun kya bro",ALREADY_PAID,Hindi,id
+Well auto-debit 10th ko hua tha!!,ALREADY_PAID,Hindi,en
+Suno auto-debit se kat gaya hai plz,ALREADY_PAID,Hindi,tl
+"Dekho system mein check karo, payment hua hai 😡",ALREADY_PAID,Hindi,sv
+MERA MERA PAYMENT 1ST KO GAYA THA ok,ALREADY_PAID,Hindi,hu
+20th ko credit check karo,ALREADY_PAID,Hindi,en
+Paytm se bhej diya paisa 🙂,ALREADY_PAID,Hindi,tl
+Listen payment ho chuka hai yaar,ALREADY_PAID,Hindi,fi
+"Pakka pay kiya hai, screenshot hai ...!!",ALREADY_PAID,Hindi,sw
+Arey paisa nikal gaya account se sir,ALREADY_PAID,Hindi,tl
+Acha due date se pehle hi kar diya tha!!,ALREADY_PAID,Hindi,id
+Dekho pAYMENT HO CHUKA HAI,ALREADY_PAID,Hindi,en
+Do baar pay kiya hai actually plz!!,ALREADY_PAID,Hindi,tl
+"NEFT kiya tha kal, reflect hona chahiye asap",ALREADY_PAID,Hindi,so
+Ok so rTGS SE BHEJ DIYA PAISA,ALREADY_PAID,Hindi,sl
+Listen meri taraf se transaction successful hai,ALREADY_PAID,Hindi,en
+5th ko credit check karo 👍,ALREADY_PAID,Hindi,en
+Boss 25th ko credit check karo,ALREADY_PAID,Hindi,en
+Auto-debit se kat gaya hai thanks,ALREADY_PAID,Hindi,id
+Dude auto-debit se cover ho gayi thi emi 😡,ALREADY_PAID,Hindi,en
+Suno nEFt se 25Th ko TrANSfer kiyA Tha ...,ALREADY_PAID,Hindi,en
+"PAISE BHEJ DIYE THE, CHECK KARO plz???",ALREADY_PAID,Hindi,en
+Maine 10th ko pay kiya tha!!,ALREADY_PAID,Hindi,tl
+Full amount diya tha 15th ko???,ALREADY_PAID,Hindi,en
+Dekho Dekho transaction reference number check karo,ALREADY_PAID,Hindi,en
+UPI se last MONth ko transfer kiya tha,ALREADY_PAID,Hindi,en
+PaiSa nikaL gayA gayA AccouNT SE,ALREADY_PAID,Hindi,tl
+Listen pArTIal 5th ko kiya tHa aur BaakI 5tH ko,ALREADY_PAID,Hindi,id
+NEFT se bhej diya paisa,ALREADY_PAID,Hindi,id
+"Actually sab pay kar diya, kuch pending nahi yaar",ALREADY_PAID,Hindi,id
+GOogle pay sE 15th ko TrAnSfEr KiYa tHa,ALREADY_PAID,Hindi,tl
+"Well ye solve ho gaya hai, payment hua boss",ALREADY_PAID,Hindi,en
+cheque se bhej diya paisa 🙏🙏,ALREADY_PAID,Hindi,es
+Ami age-i diye diyechi,ALREADY_PAID,Bengali,tr
+Payment hoye geche,ALREADY_PAID,Bengali,nl
+bank transfer diye transfer kore diyechi,ALREADY_PAID,Bengali,tr
+"Taka pathiye diyechi, check koro",ALREADY_PAID,Bengali,sw
+"System e check koro, payment hoyeche",ALREADY_PAID,Bengali,cs
+Bank e debit dekhacche,ALREADY_PAID,Bengali,de
+Ami taka already transfer kore diyechi,ALREADY_PAID,Bengali,tr
+UTR number ache amar kache,ALREADY_PAID,Bengali,de
+"Clear kore diyechi, abar call koro na",ALREADY_PAID,Bengali,so
+Onek age pay kore diyechilem,ALREADY_PAID,Bengali,tr
+Auto-debit theke kete geche,ALREADY_PAID,Bengali,nl
+"Pura pay korechi, tomar kache pouche jawar kotha",ALREADY_PAID,Bengali,pl
+Due date er age-i kore diyechilem,ALREADY_PAID,Bengali,da
+Paytm diye pathiye diyechi taka,ALREADY_PAID,Bengali,tr
+"Shob pay kore diyechi, kichu pending nei",ALREADY_PAID,Bengali,id
+Auto-debit diye cover hoye gechilo EMI,ALREADY_PAID,Bengali,es
+"Pay kore shesh, update koro",ALREADY_PAID,Bengali,sq
+"Mone ache pay korechilem, statement dekhchi",ALREADY_PAID,Bengali,nl
+"Pakka pay korechi, screenshot ache",ALREADY_PAID,Bengali,nl
+"Taka pathiye pathiye diyechi, check koro",ALREADY_PAID,Bengali,sw
+Yaar due date Er Age-i koRe dIyEChilem 🙂,ALREADY_PAID,Bengali,tr
+Ok so phonePe diye 1st e transfer korechilem.,ALREADY_PAID,Bengali,no
+Dude Dude due daTe Er agE-i Kore dIYechiLEm,ALREADY_PAID,Bengali,de
+Dude onek age pay kore diyechilem plz,ALREADY_PAID,Bengali,nl
+cheque diye pathiye diyechi taka 🙏🙏,ALREADY_PAID,Bengali,sw
+utr number ache amar kache yaar,ALREADY_PAID,Bengali,de
+Onek age pay kore diyechilem 🙏🙏!!,ALREADY_PAID,Bengali,tr
+emi emi account theke kete geche plz,ALREADY_PAID,Bengali,nl
+Ami 10th e pay korechi yaar,ALREADY_PAID,Bengali,so
+"Bhai mONE ACHE PAY KORECHILEM, STATEMENT DEKHCHI ...",ALREADY_PAID,Bengali,id
+Amar payment payment 10th e gechilo ok?,ALREADY_PAID,Bengali,nl
+phonepe diye transfer transfer kore diyechi,ALREADY_PAID,Bengali,af
+Acha rTGS diye diye pathiye diyechi taka,ALREADY_PAID,Bengali,tr
+"NEFT korechilem ei weekend, reflect howar kotha",ALREADY_PAID,Bengali,nl
+full amt diyechilam 1st e,ALREADY_PAID,Bengali,sv
+Ami 20th e pay korechi.,ALREADY_PAID,Bengali,sq
+RTGS DIYE 5TH E TRANSFER KORECHILEM,ALREADY_PAID,Bengali,de
+Well uTR number ache amar kache,ALREADY_PAID,Bengali,de
+Haan emi aCCount Theke Kete gEChE,ALREADY_PAID,Bengali,nl
+"Hoye geche, geche, records update koro 🙏!!",ALREADY_PAID,Bengali,nl
+ACCOUNT SETTLE KORE KORE DIYECHI,ALREADY_PAID,Bengali,de
+"shob pay pay kore diyechi, kichu pending nei asap",ALREADY_PAID,Bengali,tl
+Look eMI already kete geche,ALREADY_PAID,Bengali,nl
+NEFT DIYE PATHIYE DIYECHI TAKA,ALREADY_PAID,Bengali,vi
+partial 1st e korechilem ar baki 1st e,ALREADY_PAID,Bengali,no
+Dude dui bar pay korechi actually,ALREADY_PAID,Bengali,fr
+Ok so bANK E DEBIT DEKHACCHE???,ALREADY_PAID,Bengali,af
+bank transfer diye pathiye diyechi taka,ALREADY_PAID,Bengali,tr
+RTGS RTGS diye pathiye diyechi taka!!,ALREADY_PAID,Bengali,sw
+Look nEFT DIYe 1st E traNsfer koReChIlEm,ALREADY_PAID,Bengali,no
+nEft diYE trAnSFEr Kore diYEchi 😭,ALREADY_PAID,Bengali,de
+"Listen pay kore shesh, update koro",ALREADY_PAID,Bengali,sq
+Madam amar payment already hoye geche,ALREADY_PAID,Bengali,cy
+Ami age-i diye diyechi sir,ALREADY_PAID,Bengali,tr
+Google Pay diye transfer kore diyechi,ALREADY_PAID,Bengali,tr
+"Dude pay kore shesh, update koro",ALREADY_PAID,Bengali,sq
+"Look nEFT korechilem kaal, reflect howar kotha",ALREADY_PAID,Bengali,nl
+Auto-debit theke kete geche asap,ALREADY_PAID,Bengali,nl
+See rTGS diye trnsfr kore diyechi,ALREADY_PAID,Bengali,tr
+Look aMI AGE-I DIYE DIYECHI,ALREADY_PAID,Bengali,af
+UTR number ache amar kache ok?!!,ALREADY_PAID,Bengali,de
+aMI AgE-I diye diYEchi 🤷!!,ALREADY_PAID,Bengali,it
+ami age-i age-i diyE DiyeChi.,ALREADY_PAID,Bengali,so
+UTR number ache ache amar kache,ALREADY_PAID,Bengali,de
+Madam cheque deposit deposit korechilem goto shoptahe,ALREADY_PAID,Bengali,pt
+emi AlREaDY KetE geche na?,ALREADY_PAID,Bengali,de
+ami age-i diye diyechi ...,ALREADY_PAID,Bengali,tr
+Auto-debit Auto-debit theke kete geche,ALREADY_PAID,Bengali,nl
+"Bhai already transfer kar diya tha, check karo",ALREADY_PAID,Hinglish,sv
+"Payment ho gaya hai, 1st ko kiya tha",ALREADY_PAID,Hinglish,tl
+UPI se pay kiya already,ALREADY_PAID,Hinglish,tl
+"Bhai paisa bhej diya, tumhare system mein nahi aya?",ALREADY_PAID,Hinglish,id
+"Already paid hai ye, don't call again",ALREADY_PAID,Hinglish,cy
+EMI already clear hai bro,ALREADY_PAID,Hinglish,cy
+"System check karo, mera payment ho gaya",ALREADY_PAID,Hinglish,id
+"Bank mein debit hai, payment done",ALREADY_PAID,Hinglish,id
+"UTR number hai, share karun?",ALREADY_PAID,Hinglish,id
+Auto-debit se ho gaya hai bhai,ALREADY_PAID,Hinglish,id
+My side se transaction successful,ALREADY_PAID,Hinglish,fr
+Before due date hi pay kar diya tha,ALREADY_PAID,Hinglish,id
+"App se paid, transaction ID available hai",ALREADY_PAID,Hinglish,fr
+Why calling? Already paid hai,ALREADY_PAID,Hinglish,cy
+Months pehle pay kiya tha yaar,ALREADY_PAID,Hinglish,tl
+Google Pay se paisa bheja hai,ALREADY_PAID,Hinglish,tl
+EMI covered under auto-debit,ALREADY_PAID,Hinglish,it
+"Paid and done bhai, update karo",ALREADY_PAID,Hinglish,id
+Look phonepe se paisa bheja hai thanks,ALREADY_PAID,Hinglish,fi
+UPI se paisa bheja hai !!!!,ALREADY_PAID,Hinglish,fi
+"Madam utr number hai, share karun?",ALREADY_PAID,Hinglish,id
+"Madam i already paid yaar, records dekho",ALREADY_PAID,Hinglish,cy
+"Sir bhai clear kar diya, stop calling ...",ALREADY_PAID,Hinglish,tr
+Months pehle pehle pay kiya tha yaar,ALREADY_PAID,Hinglish,id
+phonepe se paisa bheja hai,ALREADY_PAID,Hinglish,fi
+"Payment ho gaya hai, last month ko kiya tha",ALREADY_PAID,Hinglish,tl
+Madam uPI se pay kiya already,ALREADY_PAID,Hinglish,tl
+cheque se se pay kiya already!!,ALREADY_PAID,Hinglish,es
+Arey months pehle pay kiya tha yaar bro,ALREADY_PAID,Hinglish,tl
+"Look paid and done bhai, update karo 💰",ALREADY_PAID,Hinglish,id
+"Ok Ok so bhai clear kar diya, stop calling 🙂",ALREADY_PAID,Hinglish,tr
+Suno rtgs se paisa bheja hai,ALREADY_PAID,Hinglish,id
+"Acha already paid hai ye, don't call again 😭",ALREADY_PAID,Hinglish,cy
+Haan months pehle pay kiya tha yaar thanks,ALREADY_PAID,Hinglish,tl
+"Proof hai payment ka, bhej dun 😢",ALREADY_PAID,Hinglish,id
+Sir neft se paisa bheja hai,ALREADY_PAID,Hinglish,id
+"Bhai bHai bHai ALready traNsfer kar dIYa thA, chEck karo",ALREADY_PAID,Hinglish,id
+"Dekho payment ho gaya hai, 25th ko kiya tha",ALREADY_PAID,Hinglish,tl
+"Acha bank mein debit hai, payment done 🙏",ALREADY_PAID,Hinglish,id
+Madam auto-debit hua tha 1st ko,ALREADY_PAID,Hinglish,id
+"App se se paid, transaction ID available hai !!!!",ALREADY_PAID,Hinglish,fr
+"UTR number hai, share karun bro",ALREADY_PAID,Hinglish,sv
+Arey before due date hi pay kar diya tha.!!,ALREADY_PAID,Hinglish,so
+"Already paid paid hai ye, don't call again!!",ALREADY_PAID,Hinglish,cy

@@ -1,0 +1,11 @@
+{
+  "intent_encoded": 0.7472627758979797,
+  "has_promise": 0.10596516728401184,
+  "payment_window_days": 0.007101575843989849,
+  "message_length": 0.006128517910838127,
+  "exclamation_count": 0.0021658604964613914,
+  "question_count": 0.0018505912739783525,
+  "caps_ratio": 0.0031675908248871565,
+  "dispute_keywords": 0.004561695270240307,
+  "hostile_keywords": 0.12179618328809738
+}

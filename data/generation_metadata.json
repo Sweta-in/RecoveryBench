@@ -1,0 +1,27 @@
+{
+  "total_rows": 3860,
+  "train_rows": 2692,
+  "val_rows": 567,
+  "test_rows": 601,
+  "classes": [
+    "LIKELY_PAY",
+    "NEEDS_REMINDER",
+    "DISPUTE",
+    "HIGH_RISK",
+    "VAGUE",
+    "ALREADY_PAID"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Hinglish"
+  ],
+  "generation_backend": "template-based",
+  "exact_duplicates_removed": 1078,
+  "near_duplicates_removed": 2261,
+  "near_duplicate_threshold": 0.92,
+  "length_filtered_removed": 1,
+  "language_flagged": 2204,
+  "timestamp": "2026-06-10T10:23:34.601572"
+}

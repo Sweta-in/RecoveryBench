@@ -1,0 +1,6 @@
+# Pyrefly configuration
+# Exclude markdown files to prevent false positives from
+# Python code blocks embedded in documentation.
+
+[project]
+exclude = ["**/*.md"]

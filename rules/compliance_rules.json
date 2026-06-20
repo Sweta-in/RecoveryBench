@@ -1,0 +1,369 @@
+{
+  "version": "1.0.0",
+  "source": "RBI Fair Practices Code (https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=3963)",
+  "last_updated": "2026-06-10",
+  "rules": [
+    {
+      "id": "RBI_001",
+      "category": "threats",
+      "severity": "critical",
+      "description": "Agent must not threaten arrest or police action",
+      "patterns": [
+        "will arrest you", "arrest ho jayega", "arrest karwa denge",
+        "police will come", "police bhejenge", "police ko bolunga",
+        "jail ho jayega", "jail mein dalenge", "jail bhejenge",
+        "lock up", "giraftar", "thana bhejenge",
+        "police case", "police complaint karenge"
+      ],
+      "rbi_reference": "Section 3(b) - No threat of criminal action when matter is civil",
+      "suggested_rewrite": "We may need to escalate this account for further review if payment is not received."
+    },
+    {
+      "id": "RBI_002",
+      "category": "threats",
+      "severity": "critical",
+      "description": "Agent must not threaten false legal action",
+      "patterns": [
+        "will file case", "court mein chalana", "legal action lenge",
+        "sue you", "court notice bhejenge", "warrant nikal jayega",
+        "case karenge", "muqadma", "adalat mein ghaseeta jayega",
+        "summons bhejenge", "attachment order"
+      ],
+      "rbi_reference": "Section 3(b) - No misrepresentation of legal consequences",
+      "suggested_rewrite": "If needed, we may seek resolution through appropriate legal channels. Let's discuss options first."
+    },
+    {
+      "id": "RBI_003",
+      "category": "threats",
+      "severity": "critical",
+      "description": "Agent must not threaten physical harm or intimidation",
+      "patterns": [
+        "will come to your house", "ghar pe aayenge", "ghar pe log bhejenge",
+        "dekhna tum", "bahut bura hoga", "achha nahi hoga",
+        "consequences face karna padega", "regret karoge",
+        "tere ghar aake", "ghar pe recovery agent bhejenge"
+      ],
+      "rbi_reference": "Section 3(a) - No intimidation or physical threats",
+      "suggested_rewrite": "We'd like to discuss your account status. Could you visit our branch or schedule a call?"
+    },
+    {
+      "id": "RBI_004",
+      "category": "threats",
+      "severity": "moderate",
+      "description": "Agent must not threaten credit score damage falsely",
+      "patterns": [
+        "cibil score destroy", "credit score kharab", "credit history barbad",
+        "blacklist kar denge", "defaulter list mein daal denge",
+        "cibil bigad jayega", "loan kabhi nahi milega",
+        "naam kharab ho jayega", "credit report mein likh denge"
+      ],
+      "rbi_reference": "Section 3(b) - No false misrepresentation of consequences",
+      "suggested_rewrite": "Non-payment may affect your credit history. We can help prevent that by setting up a repayment plan."
+    },
+    {
+      "id": "RBI_005",
+      "category": "threats",
+      "severity": "critical",
+      "description": "Agent must not threaten salary garnishment without court order",
+      "patterns": [
+        "salary se kat jayega", "salary deduct karenge",
+        "employer ko bata denge", "company ko bolenge",
+        "salary garnish", "paycheck se nikal denge",
+        "office mein bata denge", "boss ko batayenge"
+      ],
+      "rbi_reference": "Section 3(c) - No contacting employer without legal basis",
+      "suggested_rewrite": "Let's work together on a payment schedule that fits your salary cycle."
+    },
+    {
+      "id": "RBI_006",
+      "category": "harassment",
+      "severity": "moderate",
+      "description": "Agent must not make calls outside permitted hours (8 AM to 7 PM)",
+      "patterns": [
+        "raat ko call karenge", "subah subah call karenge",
+        "midnight call", "late night call", "early morning call",
+        "din raat call karenge", "har ghante call karenge",
+        "non-stop calling", "roz subah phone karenge"
+      ],
+      "rbi_reference": "Section 3(d) - Contact only between 8 AM and 7 PM",
+      "suggested_rewrite": "We will contact you during business hours (8 AM to 7 PM) at a convenient time."
+    },
+    {
+      "id": "RBI_007",
+      "category": "harassment",
+      "severity": "moderate",
+      "description": "Agent must not threaten to contact borrower's family or relatives",
+      "patterns": [
+        "family ko bata denge", "ghar walon ko call karenge",
+        "relatives ko bolenge", "baap ko batayenge",
+        "maa ko call karenge", "sasural mein bata denge",
+        "padosiyon ko bolenge", "neighbours ko bata denge",
+        "contact your family", "tell your parents"
+      ],
+      "rbi_reference": "Section 3(c) - No disclosure to third parties",
+      "suggested_rewrite": "This matter is confidential between you and us. Let's resolve it directly."
+    },
+    {
+      "id": "RBI_008",
+      "category": "harassment",
+      "severity": "moderate",
+      "description": "Agent must not use public shaming tactics",
+      "patterns": [
+        "sabko bata denge", "society mein bata denge",
+        "social media pe daal denge", "facebook pe post karenge",
+        "sab jaanenge", "duniya ko pata chalega",
+        "mohalle mein bata denge", "public mein bolenge",
+        "publicly shame", "post your name"
+      ],
+      "rbi_reference": "Section 3(c) - No public disclosure of borrower details",
+      "suggested_rewrite": "Your account details are strictly confidential. We only discuss them with you directly."
+    },
+    {
+      "id": "RBI_009",
+      "category": "harassment",
+      "severity": "minor",
+      "description": "Agent must not make excessive or repeated threats of contact",
+      "patterns": [
+        "roz phone karunga", "har din call aayegi",
+        "band nahi hogi calling", "jab tak pay nahi karoge call aayegi",
+        "every day we will call", "constant calls",
+        "continuous calling", "baar baar phone karunga"
+      ],
+      "rbi_reference": "Section 3(d) - No excessive communication",
+      "suggested_rewrite": "We'll follow up periodically. Please let us know a good time to discuss your repayment options."
+    },
+    {
+      "id": "RBI_010",
+      "category": "harassment",
+      "severity": "critical",
+      "description": "Agent must not threaten to visit workplace",
+      "patterns": [
+        "office mein aayenge", "workplace pe aayenge",
+        "kaam ki jagah pe aayenge", "company mein recovery agent bhejenge",
+        "visit your office", "come to your workplace",
+        "dukan pe aayenge", "shop pe aayenge"
+      ],
+      "rbi_reference": "Section 3(c) - No visiting workplace for recovery",
+      "suggested_rewrite": "We can arrange a meeting at our branch office or over a phone call at your convenience."
+    },
+    {
+      "id": "RBI_011",
+      "category": "abusive_language",
+      "severity": "critical",
+      "description": "Agent must not use profanity or abusive language",
+      "patterns": [
+        "bewakoof", "gadha", "idiot", "stupid",
+        "pagal", "chamaar", "neech", "ghatiya",
+        "fool", "duffer", "nalayak", "nikamma",
+        "bekar insaan", "useless", "pathetic"
+      ],
+      "rbi_reference": "Section 3(a) - No use of abusive or aggressive language",
+      "suggested_rewrite": "We'd like to help find a solution that works for you. Can we discuss your situation?"
+    },
+    {
+      "id": "RBI_012",
+      "category": "abusive_language",
+      "severity": "critical",
+      "description": "Agent must not use caste-based, religious, or discriminatory slurs",
+      "patterns": [
+        "tum logon ka kaam hi yahi hai", "tumhare jaison se yahi umeed thi",
+        "aise logon ko loan dena galti thi", "tum jaise",
+        "your kind of people", "people like you",
+        "you people never pay", "tumhara khoon hi aisa hai"
+      ],
+      "rbi_reference": "Section 3(a) - No discriminatory language",
+      "suggested_rewrite": "Every customer's situation is unique. Let's work out a plan that addresses your specific circumstances."
+    },
+    {
+      "id": "RBI_013",
+      "category": "abusive_language",
+      "severity": "moderate",
+      "description": "Agent must not use demeaning or belittling language",
+      "patterns": [
+        "tumse kuch nahi hoga", "tum kabhi nahi pay karoge",
+        "tumhari aukat nahi", "tumhare bus ki baat nahi",
+        "you will never pay", "you are hopeless",
+        "you are a deadbeat", "defaulter ho tum",
+        "chor ho tum", "thief", "fraud ho tum"
+      ],
+      "rbi_reference": "Section 3(a) - No intimidation via language",
+      "suggested_rewrite": "We believe you can resolve this. Let's explore flexible repayment options together."
+    },
+    {
+      "id": "RBI_014",
+      "category": "abusive_language",
+      "severity": "moderate",
+      "description": "Agent must not use sarcastic or mocking tone",
+      "patterns": [
+        "bohot bade aadmi ho tum", "loan lena aata hai pay karna nahi",
+        "paisa khana aata hai", "lene ke time toh bade the",
+        "when you took the loan you were very eager",
+        "now where is your money", "ab paisa kahan gaya"
+      ],
+      "rbi_reference": "Section 3(a) - No demeaning or sarcastic communication",
+      "suggested_rewrite": "We understand situations change. Let's discuss what's possible for you right now."
+    },
+    {
+      "id": "RBI_015",
+      "category": "abusive_language",
+      "severity": "critical",
+      "description": "Agent must not use gender-based or sexually harassing language",
+      "patterns": [
+        "pati se bolo", "husband se bol",
+        "aurat hoke", "ladki hoke samajh nahi aata",
+        "tell your husband to pay", "get your man to pay",
+        "baap ko bhejo", "send your father"
+      ],
+      "rbi_reference": "Section 3(a) - No gender-based harassment",
+      "suggested_rewrite": "You are the account holder, and we'd like to work directly with you on a resolution."
+    },
+    {
+      "id": "RBI_016",
+      "category": "coercion",
+      "severity": "critical",
+      "description": "Agent must not demand immediate payment under duress",
+      "patterns": [
+        "abhi ke abhi pay karo", "right now pay karo",
+        "aaj hi karna padega", "ek ghante mein pay karo",
+        "pay immediately or else", "turant bharo",
+        "abhi nahi toh kabhi nahi", "pay now or face consequences",
+        "deadline is today only", "last chance hai"
+      ],
+      "rbi_reference": "Section 3(b) - No coercion for immediate payment",
+      "suggested_rewrite": "We'd like to settle this at your earliest convenience. Can we set up a payment date that works for you?"
+    },
+    {
+      "id": "RBI_017",
+      "category": "coercion",
+      "severity": "critical",
+      "description": "Agent must not pressure borrower to take new loan to repay",
+      "patterns": [
+        "kisi se udhar leke pay karo", "borrow from someone",
+        "naya loan leke pay karo", "doosre se paisa mango",
+        "kisi se mango aur pay karo", "take another loan",
+        "credit card se pay karo", "gold becho aur pay karo"
+      ],
+      "rbi_reference": "Section 3(b) - No pressure to borrow from other sources",
+      "suggested_rewrite": "Let's explore restructuring options or an EMI plan that fits your current income."
+    },
+    {
+      "id": "RBI_018",
+      "category": "coercion",
+      "severity": "moderate",
+      "description": "Agent must not use emotional manipulation",
+      "patterns": [
+        "family ka sochiye", "bachon ka future kharab hoga",
+        "think of your children", "what will your family think",
+        "sharam nahi aati", "izzat ki padi nahi hai",
+        "log kya kahenge", "society mein kaise face karoge",
+        "have you no shame", "shameless"
+      ],
+      "rbi_reference": "Section 3(a) - No emotional manipulation tactics",
+      "suggested_rewrite": "We understand this is a difficult time. Let's find a workable solution together."
+    },
+    {
+      "id": "RBI_019",
+      "category": "coercion",
+      "severity": "moderate",
+      "description": "Agent must not threaten service discontinuation without legal basis",
+      "patterns": [
+        "bank account freeze kar denge", "account band kar denge",
+        "sab services band ho jayengi", "atm card block",
+        "freeze your account", "block all services",
+        "debit card band", "net banking band kar denge"
+      ],
+      "rbi_reference": "Section 3(b) - No unauthorized service threats",
+      "suggested_rewrite": "Your banking services are separate from this loan account. Let's discuss the loan repayment specifically."
+    },
+    {
+      "id": "RBI_020",
+      "category": "coercion",
+      "severity": "critical",
+      "description": "Agent must not threaten property seizure without legal process",
+      "patterns": [
+        "ghar chheen lenge", "property le lenge", "zameen le lenge",
+        "gaadi utha lenge", "vehicle seize karenge",
+        "seize your property", "take your house",
+        "confiscate your assets", "sab cheez le lenge",
+        "auction kar denge", "ghar ka auction"
+      ],
+      "rbi_reference": "Section 3(b) - No unauthorized asset seizure threats",
+      "suggested_rewrite": "If you're facing difficulty, we can discuss restructuring options before any further steps are considered."
+    },
+    {
+      "id": "RBI_021",
+      "category": "false_claims",
+      "severity": "critical",
+      "description": "Agent must not misrepresent the amount owed",
+      "patterns": [
+        "penalty laga diya hai extra", "fine add kar diya",
+        "amount badh gaya hai aur", "added extra charges",
+        "new penalty lagaya hai", "hidden charges",
+        "secret fees", "extra amount jo humne lagaya",
+        "interest double kar diya", "double interest laga diya"
+      ],
+      "rbi_reference": "Section 2(a) - No misrepresentation of loan terms",
+      "suggested_rewrite": "Your current outstanding amount is as per your loan agreement. We can share a detailed statement for your review."
+    },
+    {
+      "id": "RBI_022",
+      "category": "false_claims",
+      "severity": "critical",
+      "description": "Agent must not present fake court orders or legal documents",
+      "patterns": [
+        "court order aaya hai", "warrant aaya hai tumhare naam ka",
+        "legal notice bheja hai", "court se order aa gaya",
+        "judge ne order diya hai", "we have a court order",
+        "arrest warrant issued", "summons issued for you",
+        "non-bailable warrant"
+      ],
+      "rbi_reference": "Section 3(b) - No false representation of legal documents",
+      "suggested_rewrite": "If any legal communications are sent, they will come through official and verifiable channels."
+    },
+    {
+      "id": "RBI_023",
+      "category": "false_claims",
+      "severity": "moderate",
+      "description": "Agent must not falsely claim to be law enforcement or government",
+      "patterns": [
+        "hum government se hain", "sarkar ki taraf se",
+        "we are from the government", "RBI ne bheja hai",
+        "we are authorized by police", "hum court se aaye hain",
+        "government authority", "sent by RBI",
+        "enforcement officer hoon"
+      ],
+      "rbi_reference": "Section 3(b) - No impersonation of government authority",
+      "suggested_rewrite": "I am calling from [Company Name] regarding your loan account. Let me verify my identity and your account details."
+    },
+    {
+      "id": "RBI_024",
+      "category": "false_claims",
+      "severity": "moderate",
+      "description": "Agent must not create false urgency with fabricated deadlines",
+      "patterns": [
+        "aaj raat tak nahi kiya toh", "today is the absolute last day",
+        "after today nothing can be done", "aaj ke baad kuch nahi ho sakta",
+        "midnight deadline", "ye last offer hai",
+        "final notice hai ye", "this is your last warning",
+        "aakhri mauka hai", "last opportunity"
+      ],
+      "rbi_reference": "Section 3(b) - No fabrication of deadlines or urgency",
+      "suggested_rewrite": "We'd like to resolve this soon. Let's set a realistic timeline that works for both of us."
+    },
+    {
+      "id": "RBI_025",
+      "category": "false_claims",
+      "severity": "moderate",
+      "description": "Agent must not falsely claim loan cannot be restructured",
+      "patterns": [
+        "restructure nahi ho sakta", "no option left",
+        "koi raasta nahi bacha", "nothing can be done now",
+        "ab kuch nahi ho sakta", "too late for any plan",
+        "settlement ka option khatam", "no more extensions",
+        "cannot restructure", "no emi plan possible"
+      ],
+      "rbi_reference": "Section 2(b) - Borrower has right to request restructuring",
+      "suggested_rewrite": "Let me check what restructuring options might be available for your account. Several plans may still be possible."
+    }
+  ]
+}

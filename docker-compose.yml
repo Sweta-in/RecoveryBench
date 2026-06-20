@@ -1,0 +1,35 @@
+# ── RecoveryBench Docker Compose ─────────────────────────────────────
+# Usage:
+#   docker-compose up        → start API on port 8000
+#   docker-compose up -d     → start in background
+#   docker-compose down      → stop
+# ─────────────────────────────────────────────────────────────────────
+
+version: "3.9"
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY:-}
+      - HF_TOKEN=${HF_TOKEN:-}
+      - LOG_LEVEL=info
+    volumes:
+      - trace_data:/app/traces/logs
+      - trace_reports:/app/traces/reports
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+volumes:
+  trace_data:
+    driver: local
+  trace_reports:
+    driver: local

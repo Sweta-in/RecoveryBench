@@ -1,0 +1,7 @@
+{
+  "0": "DISPUTE",
+  "1": "HIGH_RISK",
+  "2": "LIKELY_PAY",
+  "3": "NEEDS_REMINDER",
+  "4": "VAGUE"
+}

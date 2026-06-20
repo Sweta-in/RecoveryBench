@@ -1,0 +1,602 @@
+text,label,language,split,predicted_label,confidence,latency_ms,correct
+Actually let me figure this out,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.5386,6.239700014702976,True
+"Suno case koro, amar kichu jai ashe na na?",HIGH_RISK,Bengali,test,HIGH_RISK,0.7314,1.5653000446036458,True
+I have to to think !!,VAGUE,English,test,VAGUE,0.528,1.294999965466559,True
+Auto-pay kaise set karna hai?,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.8054,1.2855000095441937,True
+Figure out ho jayega,VAGUE,Hinglish,test,VAGUE,0.5635,1.5018999110907316,True
+Partial 5th e korechilem ar baki 5th e boss???,ALREADY_PAID,Bengali,test,DISPUTE,0.3419,1.562400022521615,False
+Dude acCOUnt seTtle kOrE diyeChI,ALREADY_PAID,Bengali,test,DISPUTE,0.3195,1.3784000184386969,False
+Ok so tumhari company fraud hai,HIGH_RISK,Hindi,test,HIGH_RISK,0.8763,1.295599970035255,True
+Yaar i'll handle this my way ...,HIGH_RISK,English,test,HIGH_RISK,0.6005,1.5261999797075987,True
+Leave me alone alone ya legal action lunga 🤷,HIGH_RISK,Hinglish,test,HIGH_RISK,0.7468,1.8961000023409724,True
+MUJHE 4 DIN AUR CHAHIYE BAS yaar,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.4121,1.3238999526947737,True
+Yaar full amount de dunga this weekend!!,LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.7559,1.284700003452599,True
+Don't ever contact me again,HIGH_RISK,English,test,HIGH_RISK,0.8193,1.2642999645322561,True
+Mere Mere co-applicant ne pay kar diya hai yaar,DISPUTE,Hindi,test,ALREADY_PAID,0.95,0.546799972653389,False
+Hoyto hoye jabe jabe,VAGUE,Bengali,test,VAGUE,0.7515,1.2679999927058816,True
+will clear clear the pending amnt before thursday 👍,LIKELY_PAY,English,test,LIKELY_PAY,0.8015,1.951000071130693,True
+Dekhte hain kuch hota hai asap,VAGUE,Hindi,test,VAGUE,0.8481,1.5717999776825309,True
+Acha not Right nOW bhaI???,VAGUE,Hinglish,test,VAGUE,0.7775,1.4876999193802476,True
+doN'T tesT me bro,HIGH_RISK,Hinglish,test,HIGH_RISK,0.7355,2.7205999940633774,True
+Pura taka diye debo ek shoptahe 😭,LIKELY_PAY,Bengali,test,LIKELY_PAY,0.8637,1.4294999418780208,True
+I transffrred via bank transfer on 25th,ALREADY_PAID,English,test,DISPUTE,0.4832,1.306300051510334,False
+"Abhi paisa nahi hai, Shukravaar tak tak pakka",LIKELY_PAY,Hindi,test,LIKELY_PAY,0.9198,1.4010999584570527,True
+"Boss bank change kiya recently, update karna hai !!",NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.719,1.5663000522181392,True
+Actually maybe later???,VAGUE,English,test,VAGUE,0.6707,2.0952000049874187,True
+"I have the UTR number, want to see?",ALREADY_PAID,English,test,HIGH_RISK,0.3507,1.7323000356554985,False
+Eta josuli,HIGH_RISK,Bengali,test,HIGH_RISK,0.3906,1.7544999718666077,True
+Time waste mat karo apna,HIGH_RISK,Hinglish,test,HIGH_RISK,0.7827,2.8716999804601073,True
+"Government e chinchi lokjon, shambhale",HIGH_RISK,Bengali,test,HIGH_RISK,0.6664,2.821599948219955,True
+Ok Ok so the EMI was deducted from my account,ALREADY_PAID,English,test,NEEDS_REMINDER,0.4281,1.4724000357091427,False
+Mujhe 5 din aur chahiye bas ok?,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.415,1.8636999884620309,True
+Arey i'll handle it my way!!,HIGH_RISK,Hinglish,test,HIGH_RISK,0.3795,1.309499959461391,True
+"20th e payment korechilem, credit hoyni",DISPUTE,Bengali,test,DISPUTE,0.7599,1.617399975657463,True
+Payment Payment kata tha lekin pending dikha raha hai,DISPUTE,Hindi,test,DISPUTE,0.5916,1.3059000484645367,True
+Kaun sa loan hai 🙂,NEEDS_REMINDER,Hindi,test,DISPUTE,0.3475,1.3438001042231917,False
+"Yaar kaje busy, jholdi korbo plz",NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.6492,1.325500081293285,True
+Pata nahi 👍,VAGUE,Hindi,test,VAGUE,0.633,1.6639999812468886,True
+Amount mein mismatch mismatch hai!!,DISPUTE,Hinglish,test,DISPUTE,0.717,1.7037999350577593,True
+Arey pAYMENT PROOF EMAIL MEIN HAI 💰,ALREADY_PAID,Hindi,test,LIKELY_PAY,0.4462,2.0445999689400196,False
+Basically whIch loaN are we TAlkiNG about 👍,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.6782,1.4628999633714557,True
+I'm blocking this number asap,HIGH_RISK,English,test,HIGH_RISK,0.7908,1.2881000293418765,True
+"App diye pay korechi, transaction ID ache",ALREADY_PAID,Bengali,test,DISPUTE,0.5726,1.3442999916151166,False
+Madam batana mushkil hai sir,VAGUE,Hindi,test,VAGUE,0.7837,1.307699945755303,True
+let me check my balance and pay in 2 days,LIKELY_PAY,English,test,LIKELY_PAY,0.5797,1.2861000141128898,True
+Sir depend karta hai 🙏,VAGUE,Hindi,test,VAGUE,0.6738,1.2509999796748161,True
+Hey mera mera account audit karo,DISPUTE,Hindi,test,DISPUTE,0.5458,1.306300051510334,True
+Something is wrong with your calculation,DISPUTE,English,test,DISPUTE,0.7927,1.3262999709695578,True
+RBI mein complaint kar chuka hun,HIGH_RISK,Hindi,test,ALREADY_PAID,0.95,0.5279999459162354,False
+"Mera CA dekhta hai ye sab, usse puchta hun",NEEDS_REMINDER,Hindi,test,VAGUE,0.3299,1.869400031864643,False
+Honestly i'll look into it dekhta hun,VAGUE,Hinglish,test,VAGUE,0.7496,2.431600005365908,True
+I don't owe anything and won't pay,HIGH_RISK,English,test,HIGH_RISK,0.6207,1.651700004003942,True
+Hey maine paisa already transfer kar diya thanks,ALREADY_PAID,Hindi,test,ALREADY_PAID,0.95,0.5210000090301037,True
+"This is fraud, I'm going to the police",HIGH_RISK,English,test,HIGH_RISK,0.8134,1.4067000010982156,True
+"Already talked to bank, will come by end of month",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.777,1.3803000329062343,True
+Salary aate hi immediately karunga,LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.6285,1.3379999436438084,True
+"Honestly statement chahiye detailed, tab tak kuch nahi dunga",DISPUTE,Hindi,test,DISPUTE,0.5389,1.298299990594387,True
+"NEFT korechilem Shukrobar er moddhe, reflect howar kotha 🤷",ALREADY_PAID,Bengali,test,DISPUTE,0.3483,1.3812000397592783,False
+lEt Me sEe na?,VAGUE,English,test,VAGUE,0.4883,1.2966999784111977,True
+"Ok so alReaDy cleAreD, DOn'T CaLl aGaIn For ThIs 🙂",ALREADY_PAID,English,test,HIGH_RISK,0.3791,1.3368999352678657,False
+Basically i'll file file an fir against you,HIGH_RISK,English,test,HIGH_RISK,0.7324,1.3083000667393208,True
+Dekha jak jak kichu hoy ki na na?,VAGUE,Bengali,test,VAGUE,0.7762,2.0925001008436084,True
+Get lost yaar thanks,HIGH_RISK,Hinglish,test,HIGH_RISK,0.5916,1.891600084491074,True
+"Haan bhai, mash sheshe er moddhe kore debo",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.8569,1.7052999464794993,True
+Bhai ami ei terms e agree korini 👍,DISPUTE,Bengali,test,DISPUTE,0.7358,1.4902999391779304,True
+Agreement mein different terms the,DISPUTE,Hinglish,test,DISPUTE,0.8543,1.3450999977067113,True
+"Online payment done, awaiting confirmation",ALREADY_PAID,Hinglish,test,ALREADY_PAID,0.95,0.5416000494733453,True
+Can you send the bill again?,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.7425,1.3259999686852098,True
+"I'm arranging the money, will pay in 3 days",LIKELY_PAY,English,test,LIKELY_PAY,0.937,1.352099934592843,True
+Kuch kar raha hun???,VAGUE,Hindi,test,VAGUE,0.5406,1.2510999804362655,True
+Boss email pe details bhej do,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.8713,1.2193000875413418,True
+"Dude salary aa jayegi Shukravaar ko, uske baad turant",LIKELY_PAY,Hindi,test,LIKELY_PAY,0.8334,1.298899995163083,True
+Arey time chahiye merko,VAGUE,Hinglish,test,VAGUE,0.5721,1.2512000976130366,True
+"Ami cheshta korchi, ek shoptahe e!!",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.5725,2.2894999710842967,True
+Sure na,VAGUE,Bengali,test,VAGUE,0.7753,1.6274999361485243,True
+Check kore janabo???,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.6261,1.609700033441186,True
+Paytm diye pathiye diyechi taka,ALREADY_PAID,Bengali,test,LIKELY_PAY,0.5941,1.3426999794319272,False
+Let mE pAy half Now and rest thIs WeeKeND!!,LIKELY_PAY,English,test,LIKELY_PAY,0.7428,1.312799984589219,True
+Listen itna simple nahi hai,VAGUE,Hindi,test,VAGUE,0.6766,1.2818999821320176,True
+bhai time e diye debo na?,LIKELY_PAY,Bengali,test,LIKELY_PAY,0.5946,1.2502999743446708,True
+I will do NEFT agle hafte mein,LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.8096,1.2740999227389693,True
+"Arey money is ready, will transfer by Friday",LIKELY_PAY,English,test,LIKELY_PAY,0.9542,1.3482000213116407,True
+Yaar koi obligation nahi hai mera ye dene ka 👍,HIGH_RISK,Hindi,test,HIGH_RISK,0.6187,1.326399971731007,True
+"Hey transaction complete complete ho gaya, your side pe check karo",ALREADY_PAID,Hinglish,test,ALREADY_PAID,0.95,0.49510004464536905,True
+bank transfer se bhej diya paisa,ALREADY_PAID,Hindi,test,ALREADY_PAID,0.95,0.5014999769628048,True
+Payment was already transferred via cheque,ALREADY_PAID,English,test,ALREADY_PAID,0.95,0.46879996079951525,True
+Months Months pehle pay kar diya tha,ALREADY_PAID,Hindi,test,ALREADY_PAID,0.95,0.48719998449087143,True
+paYment fix hAi sHaniVaar ko sir,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.7866,1.7479000380262733,True
+Email karo details please,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.822,1.5310000162571669,True
+"Payment proof is in my email, can forward",ALREADY_PAID,English,test,LIKELY_PAY,0.4153,1.9254999933764338,False
+Final answer: no payment,HIGH_RISK,Hinglish,test,HIGH_RISK,0.5613,1.3389000669121742,True
+"See proof hai payment ka, bhej dun thx",ALREADY_PAID,Hinglish,test,LIKELY_PAY,0.6156,1.276099937967956,False
+I have nothing to give,HIGH_RISK,Hinglish,test,HIGH_RISK,0.7218,1.2287000427022576,True
+"ektu somoy somoy dao, kaal diye debo",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.7551,1.253599999472499,True
+Sorry missed your earlier calls,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.6753,1.3415999710559845,True
+Acha my payment on 1st was not credited,DISPUTE,English,test,DISPUTE,0.731,1.4140999410301447,True
+Payment was already transferred via PhonePe,ALREADY_PAID,English,test,ALREADY_PAID,0.95,0.6280000088736415,True
+"Basically sorry bhai, missed earlier calls thx",NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.6789,1.9455000292509794,True
+Basically whatevER,VAGUE,English,test,VAGUE,0.439,1.9610000308603048,True
+"Acha mAIN ZIMMEDAR HUN, PAYMENT KARUNGA 🙂!!",LIKELY_PAY,Hindi,test,LIKELY_PAY,0.7609,2.4161000037565827,True
+cheque se bhej diya paisa 🙏🙏,ALREADY_PAID,Hindi,test,ALREADY_PAID,0.95,1.3963999226689339,True
+Well parso tak pakka de dunga,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.8973,2.1695999894291162,True
+Ok so i think there's been a mistake boss,DISPUTE,English,test,DISPUTE,0.6753,1.5025000320747495,True
+"Paid in full, you should have it",ALREADY_PAID,Hinglish,test,DISPUTE,0.3392,1.2493999674916267,False
+Maine ye loan loan nahi liya hai asap,DISPUTE,Hinglish,test,DISPUTE,0.8984,1.269300002604723,True
+"Look rECEipT rECEipT ache Amar kache, pathAbO thx",DISPUTE,Bengali,test,DISPUTE,0.6451,1.2899000430479646,True
+Amake call kora bondho koro,HIGH_RISK,Bengali,test,HIGH_RISK,0.7452,1.1991000501438975,True
+Dude abhi jawab nahi de sakta!!,VAGUE,Hindi,test,VAGUE,0.7006,2.4428999749943614,True
+Arey tHik acHE,VAGUE,Bengali,test,VAGUE,0.4667,3.1756999669596553,True
+Why hidden charges charges bhai?,DISPUTE,Hinglish,test,DISPUTE,0.9356,2.8072999557480216,True
+"EMI er taka ready, pathacchi",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.5168,1.5051000518724322,True
+Kar paunga shayad shayad,VAGUE,Hindi,test,VAGUE,0.724,1.4595000538975,True
+"Check 5th credit, woh mera payment hai",ALREADY_PAID,Hinglish,test,DISPUTE,0.7151,1.2589000398293138,False
+Reputation noshto noshto kore debo tomar,HIGH_RISK,Bengali,test,HIGH_RISK,0.823,1.3268000911921263,True
+"HAAN HAAN KARUNGA, AGLE HAFTE TAK PAKKA 🙂",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.8391,1.7216999549418688,True
+Numbers don't add up yaar thanks,DISPUTE,Hinglish,test,DISPUTE,0.4672,2.008599927648902,True
+"This is someone else's loan, not mine",DISPUTE,English,test,DISPUTE,0.6637,1.6385000199079514,True
+Salary Salary aate hi turant karunga 🤷,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.813,1.6344999894499779,True
+See cASE KARO IF YOU DARE,HIGH_RISK,Hinglish,test,HIGH_RISK,0.8316,2.9561000410467386,True
+"Busy tha, dekh lunga",NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.6385,2.482399926520884,True
+"Listen mAIN ZIMMEDAR HUN, PAYMENT KARUNGA",LIKELY_PAY,Hindi,test,LIKELY_PAY,0.746,1.7552999779582024,True
+Sir any grace period available,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.7506,1.3640000252053142,True
+"PAISE BHEJ DIYE THE, CHECK KARO plz???",ALREADY_PAID,Hindi,test,ALREADY_PAID,0.95,0.47470000572502613,True
+Yaar jo kAR rAHE ho ILlEGal hai,HIGH_RISK,Hindi,test,HIGH_RISK,0.7415,1.5272999880835414,True
+"Basically i'M ARRANGING THE MONEY, WILL PAY BY FRIDAY 😡",LIKELY_PAY,English,test,LIKELY_PAY,0.8937,1.5845999587327242,True
+"Proof hai payment ka, bhejun sir",ALREADY_PAID,Hindi,test,LIKELY_PAY,0.6065,1.4221000019460917,False
+Amount ota na jeta sign kora hoyechhilo,DISPUTE,Bengali,test,DISPUTE,0.7366,1.361900009214878,True
+Got confirmation after paying bhai,ALREADY_PAID,Hinglish,test,LIKELY_PAY,0.4375,1.5893999952822924,False
+"Basically bank change kiya recently, update karna hai",NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.6936,1.7380999634042382,True
+Which loan are we talking about?,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.7145,1.496999990195036,True
+Acha i will do NEFT month end tak mein !!,LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.8648,1.4516999945044518,True
+I don't know asap,VAGUE,English,test,VAGUE,0.6037,1.2911999365314841,True
+Sochunga asap!!,VAGUE,Hindi,test,VAGUE,0.8499,1.2375999940559268,True
+Haan mAYBE!!,VAGUE,English,test,VAGUE,0.7757,1.2989999959245324,True
+Arey bhebhe dekhchi.,VAGUE,Bengali,test,VAGUE,0.6647,1.2246000114828348,True
+SITUATION COMPLICATED HAI asap,VAGUE,Hinglish,test,VAGUE,0.8679,1.3068999396637082,True
+Well one more call and I'm reporting you sir!!,HIGH_RISK,English,test,HIGH_RISK,0.8674,1.4729000395163894,True
+Basically lATE FEE KITNI LAGEGI?,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.7181,1.406800001859665,True
+"Bhai de dunga, chinta mat karo",LIKELY_PAY,Hindi,test,LIKELY_PAY,0.688,1.3930000131949782,True
+Transaction shuru kore diyechi,LIKELY_PAY,Bengali,test,DISPUTE,0.4092,1.889800070784986,False
+"Sir bonus peyechi, ekhon e dei asap",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.5447,1.7742000054568052,True
+I'll go to the media about this thanks???,HIGH_RISK,English,test,HIGH_RISK,0.5159,1.6966999974101782,True
+Dekho pAYMENT HO CHUKA HAI,ALREADY_PAID,Hindi,test,LIKELY_PAY,0.5387,1.5127999940887094,False
+Bhai aUTO-DEBIT 10TH E HOYECHHILO,ALREADY_PAID,Bengali,test,NEEDS_REMINDER,0.6802,1.3620000099763274,False
+AMI SHEI LOK NA JAKE KHUJCHO boss,HIGH_RISK,Bengali,test,HIGH_RISK,0.4804,1.3639999087899923,True
+Yaar batana mushkil mushkil hai 🙏🙏,VAGUE,Hindi,test,VAGUE,0.8225,1.3578999787569046,True
+Something like that hi hai,VAGUE,Hinglish,test,VAGUE,0.4693,1.7133000073954463,True
+"Eta onyo karo loan, amar na boss",DISPUTE,Bengali,test,DISPUTE,0.7407,1.3222000561654568,True
+"NEFT kiya tha ek hafte mein, reflect hona chahiye",ALREADY_PAID,Hindi,test,DISPUTE,0.4117,1.3014000141993165,False
+"Dekho this is resolved, payment was made",ALREADY_PAID,English,test,LIKELY_PAY,0.3863,1.245700055733323,False
+Bhebhe dekhbo yaar,VAGUE,Bengali,test,VAGUE,0.7883,1.6780999721959233,True
+Ok so i don't agree with outstanding amount 😢,DISPUTE,Hinglish,test,DISPUTE,0.7775,1.8298999639227986,True
+"Paisa arrange ho raha hai, kal mein de dunga",LIKELY_PAY,Hindi,test,LIKELY_PAY,0.9339,2.853199956007302,True
+"Madam let Me cheCk bAlancE, 2 dIn MeiN mein DonE",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.5032,1.4921999536454678,True
+Dui din dao sort korar jonno thanks,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.6511,1.4079000102356076,True
+JALDI HANDLE KARUNGA thx,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.5575,1.9706999883055687,True
+Dekho give me 2 days to sort this 👍,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.4873,2.319699968211353,True
+See oh I forgot about this 🙂???,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.6658,2.3309000534936786,True
+"Actually don't worry yaar, karke dunga thanks",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.4944,3.3068000338971615,True
+Don't test my patience yaar,HIGH_RISK,English,test,HIGH_RISK,0.7818,2.3496999638155103,True
+"Hey sue me if you want, I don't care sir",HIGH_RISK,Hinglish,test,HIGH_RISK,0.655,2.3003999376669526,True
+Number block kar raha hun,HIGH_RISK,Hindi,test,HIGH_RISK,0.7334,1.7257999861612916,True
+Promise Promise korte parbo na,VAGUE,Bengali,test,VAGUE,0.7383,3.1403000466525555,True
+Hey i need time,VAGUE,English,test,VAGUE,0.6946,2.8651999309659004,True
+"Haan Haan bhai, agle shoptahe er moddhe kore debo!!",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.8171,2.3665999760851264,True
+Filing formal complaint about this,DISPUTE,Hinglish,test,DISPUTE,0.5547,3.380600013770163,True
+"Honestly app se paid, transaction id available hai !!",ALREADY_PAID,Hinglish,test,DISPUTE,0.4446,2.076299977488816,False
+"App se se paid, transaction ID available hai !!!!",ALREADY_PAID,Hinglish,test,DISPUTE,0.5199,1.5449000056833029,False
+Honestly cALCULATION E KICHU GODBOD ACHE,DISPUTE,Bengali,test,DISPUTE,0.3965,2.7143999468535185,True
+Dekho Dekho shayad ho jaye,VAGUE,Hindi,test,VAGUE,0.7941,2.5418999139219522,True
+Basically Basically your system data is wrong bhai 😢!!,DISPUTE,Hinglish,test,DISPUTE,0.644,1.4758000615984201,True
+"OK NOTED, CHECK CHECK KARTA HUN ...",NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.7445,1.3021999038755894,True
+Any grace period available?,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.8117,1.2775000650435686,True
+"I did the NEFT in 2 days, it should reflect",ALREADY_PAID,English,test,LIKELY_PAY,0.3764,2.0975000225007534,False
+The amount has already been paid,ALREADY_PAID,English,test,DISPUTE,0.8158,1.6414000419899821,False
+Give me a couple of days to sort this out,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.656,2.216900000348687,True
+Loan agreement e onno terms ache boss!!,DISPUTE,Bengali,test,DISPUTE,0.8603,1.3174000196158886,True
+Complicated byapar,VAGUE,Bengali,test,VAGUE,0.7399,2.0653000101447105,True
+"Bank change korechi recently, update korte hobe",NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.7041,1.4406000263988972,True
+Partial Partial 20th ko kiya tha aur baaki 20th ko,ALREADY_PAID,Hindi,test,DISPUTE,0.2778,1.4301999472081661,False
+Ei amount bhul ache,DISPUTE,Bengali,test,DISPUTE,0.6982,1.2505999766290188,True
+Ekhon process e ache payment,LIKELY_PAY,Bengali,test,LIKELY_PAY,0.7796,1.1990000493824482,True
+Acha jiBOn mUsHKIl cholCHe 😢???,VAGUE,Bengali,test,VAGUE,0.7788,1.297699986025691,True
+Maybe later sometime,VAGUE,Hinglish,test,VAGUE,0.8133,1.2577999150380492,True
+"Basically i NeED an escalatION, This amount Is DiSputed!!",DISPUTE,English,test,DISPUTE,0.8256,2.3152000503614545,True
+"I've kept the money aside, will pay tomorrow na?!!",LIKELY_PAY,English,test,LIKELY_PAY,0.7753,1.971399993635714,True
+Transaction complete hoye gechilo thanks!!,ALREADY_PAID,Bengali,test,ALREADY_PAID,0.95,0.6325000431388617,True
+"Listen was busy, will look into it???",NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.513,1.7842999659478664,True
+Dekho pachtaoge mujhe call karke plz???,HIGH_RISK,Hindi,test,HIGH_RISK,0.4707,1.4856000198051333,True
+Well transaction reference number check karo thx,ALREADY_PAID,Hindi,test,DISPUTE,0.4748,1.3131999876350164,False
+Ok so wrong person ko call kar rahe ho,HIGH_RISK,Hinglish,test,HIGH_RISK,0.6276,1.3099999632686377,True
+Will think think about it 💰,VAGUE,English,test,VAGUE,0.5218,1.282899989746511,True
+"I'm serious about this, will pay next week",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.7242,1.280499971471727,True
+Transfer kiya tha Google Pay se on last month,ALREADY_PAID,Hinglish,test,LIKELY_PAY,0.4553,1.268099993467331,False
+"Hey let me pay in installments, first one this weekend",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.7678,1.2440000427886844,True
+Partial on 5th kiya tha and rest on 5th,ALREADY_PAID,Hinglish,test,DISPUTE,0.4377,1.905099954456091,False
+I'll consider it,VAGUE,English,test,VAGUE,0.7737,1.8351000035181642,True
+Need to figure out karunga,VAGUE,Hinglish,test,VAGUE,0.5661,2.078999998047948,True
+Honestly uncertain hun main 👍,VAGUE,Hinglish,test,VAGUE,0.6321,1.6028000973165035,True
+EMI account se kat gayi,ALREADY_PAID,Hindi,test,NEEDS_REMINDER,0.5493,1.5697000781074166,False
+i never took this loan plz,DISPUTE,English,test,DISPUTE,0.7391,1.2549000093713403,True
+"Ok fine, take the payment in 2 days",LIKELY_PAY,English,test,LIKELY_PAY,0.9142,1.2669999850913882,True
+"Definitely paid, here's my transaction screenshot",ALREADY_PAID,English,test,DISPUTE,0.5744,1.4522999990731478,False
+Hey sochunga,VAGUE,Hindi,test,VAGUE,0.867,1.4229000080376863,True
+Foreclosure amount amount bhul,DISPUTE,Bengali,test,DISPUTE,0.8038,1.7217000713571906,True
+Listen bHAI TIME TIME PE DE DUNGA,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.3524,2.2775999968871474,True
+Acha mera lawyer dekhega ye sab yaar,HIGH_RISK,Hindi,test,HIGH_RISK,0.7043,2.8318000258877873,True
+"ok fine, take the payment tomorrow",LIKELY_PAY,English,test,LIKELY_PAY,0.8554,3.5441999789327383,True
+Maine ye loan nahi liya boss,DISPUTE,Hindi,test,DISPUTE,0.8568,1.6081000212579966,True
+uncertain hun main plz,VAGUE,Hinglish,test,VAGUE,0.6377,1.355100073851645,True
+Months pehle pay kiya tha yaar,ALREADY_PAID,Hinglish,test,NEEDS_REMINDER,0.3159,1.6260999254882336,False
+Will clear the pending amount before Wednesday,LIKELY_PAY,English,test,LIKELY_PAY,0.7941,1.309199957177043,True
+EMI taka alag rekhechi boss,LIKELY_PAY,Bengali,test,LIKELY_PAY,0.45,1.2876000255346298,True
+NEFT se bhej diya paisa,ALREADY_PAID,Hindi,test,ALREADY_PAID,0.95,0.5241000326350331,True
+Basically i can do partial payment today,LIKELY_PAY,English,test,LIKELY_PAY,0.7517,1.2514999834820628,True
+The amt amt doesn't match what I signed for,DISPUTE,English,test,DISPUTE,0.6034,2.889399998821318,True
+I promise to pay by Wednesday for sure,LIKELY_PAY,English,test,LIKELY_PAY,0.7497,3.290599910542369,True
+Koshish karunga jaldi se jaldi,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.3665,1.5666000545024872,True
+Actually auTO-debIT sE CoVEr hO gaYi ThI Emi 🙏,ALREADY_PAID,Hindi,test,NEEDS_REMINDER,0.815,1.4976999955251813,False
+Dude onek age pay kore diyechilem plz,ALREADY_PAID,Bengali,test,LIKELY_PAY,0.3632,1.3435001019388437,False
+I paid this off months ago,ALREADY_PAID,English,test,ALREADY_PAID,0.95,0.4941000370308757,True
+"Listen maine maine cheque se pay kiya, check karo!!",DISPUTE,Hindi,test,DISPUTE,0.6413,1.3676000526174903,True
+Suno abar contact koro na ...,HIGH_RISK,Bengali,test,HIGH_RISK,0.7338,1.2915999395772815,True
+Suno ek-do ghante mein ho jayega thx!!,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.3461,1.2713000178337097,True
+Haan emi aCCount Theke Kete gEChE,ALREADY_PAID,Bengali,test,NEEDS_REMINDER,0.4892,1.2501999735832214,False
+Promise nahi kar sakta 🙂!!,VAGUE,Hindi,test,VAGUE,0.7361,1.6101000364869833,True
+AUTO-DEBIT 25TH 25TH E HOYECHHILO,ALREADY_PAID,Bengali,test,NEEDS_REMINDER,0.5378,1.687800046056509,False
+"Need escalation, disputing the amount",DISPUTE,Hinglish,test,DISPUTE,0.8205,1.547000021673739,True
+"I'm arranging the money, will pay within a week",LIKELY_PAY,English,test,LIKELY_PAY,0.9285,1.3108999701216817,True
+Hey we'll figure it out,VAGUE,English,test,VAGUE,0.6413,1.193900010548532,True
+Acha hMM OK,VAGUE,Hinglish,test,VAGUE,0.7922,1.1929000029340386,True
+Amar kache kichu nei debar,HIGH_RISK,Bengali,test,HIGH_RISK,0.5854,1.284099998883903,True
+Arey dui bar pay korechi actually,ALREADY_PAID,Bengali,test,LIKELY_PAY,0.3078,1.2120000319555402,False
+Ami 10th e pay korechi yaar,ALREADY_PAID,Bengali,test,DISPUTE,0.6086,1.249799970537424,False
+"Keep calling, see what happens",HIGH_RISK,English,test,HIGH_RISK,0.4769,1.2215999886393547,True
+Suno hidden charges keno?,DISPUTE,Bengali,test,DISPUTE,0.8745,1.2945999624207616,True
+Haan Haan bhebhe dekhbo,VAGUE,Bengali,test,VAGUE,0.7399,1.7845999682322145,True
+"Haan did prepayment, prepayment, not showing in system",DISPUTE,Hinglish,test,DISPUTE,0.6907,3.6419000243768096,True
+Bhai payment link bhejo please 😡,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.5473,3.5502000246196985,True
+"Receipt hai mere paas, bhejun?",DISPUTE,Hindi,test,ALREADY_PAID,0.95,0.8220000891014934,False
+Interest rate kyun badla asap???,DISPUTE,Hindi,test,DISPUTE,0.69,1.4151999494060874,True
+Media te jabo???,HIGH_RISK,Bengali,test,HIGH_RISK,0.7681,1.3253999641165137,True
+Baad mein shayad yaar,VAGUE,Hindi,test,VAGUE,0.5666,1.242100028321147,True
+Possibly na,VAGUE,English,test,VAGUE,0.7651,1.22079998254776,True
+"This is fraud hai ye, going to police",HIGH_RISK,Hinglish,test,HIGH_RISK,0.7717,1.2152999406680465,True
+"salary ashbe shombar, tarpor e diye debo 🙏🙏!!",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.7675,1.8994000274688005,True
+Lagta hai koi mistake hai,DISPUTE,Hindi,test,DISPUTE,0.5249,2.6485000271350145,True
+Transfer kiya tha PhonePe se on last month,ALREADY_PAID,Hinglish,test,DISPUTE,0.5411,1.9708999898284674,False
+Listen you can't do anything to me,HIGH_RISK,English,test,HIGH_RISK,0.7579,1.7749000107869506,True
+"Bhai paise rakh diye hain, just need to transfer",LIKELY_PAY,Hinglish,test,ALREADY_PAID,0.95,0.5105000454932451,False
+"Call karte raho, dekh lena kya hota hai",HIGH_RISK,Hindi,test,VAGUE,0.3789,1.2809999752789736,False
+Never Never contact me again,HIGH_RISK,Hinglish,test,HIGH_RISK,0.7647,1.4633999671787024,True
+Exact amount bata do plz,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.7089,1.2348999734967947,True
+Charges er er complete breakdown pathao plz,DISPUTE,Bengali,test,DISPUTE,0.744,1.3163000112399459,True
+Acha toder lojja neI,HIGH_RISK,Bengali,test,HIGH_RISK,0.7055,1.3405999634414911,True
+Arey deKha jak ki Hoy sir???,VAGUE,Bengali,test,VAGUE,0.7683,2.4498000275343657,True
+Possibly 😡,VAGUE,English,test,VAGUE,0.737,3.8840000052005053,True
+Social media pe expose karunga,HIGH_RISK,Hindi,test,HIGH_RISK,0.8425,2.136999974027276,True
+Taka Taka ber hoye geche account theke sir,ALREADY_PAID,Bengali,test,LIKELY_PAY,0.4129,2.331900061108172,False
+I'll handle this my way,HIGH_RISK,English,test,HIGH_RISK,0.5197,1.3627000153064728,True
+"Well ye solve ho gaya hai, payment hua boss",ALREADY_PAID,Hindi,test,LIKELY_PAY,0.552,1.319600036367774,False
+Honestly aaj e payment hoye jabe,LIKELY_PAY,Bengali,test,LIKELY_PAY,0.8413,1.2453999370336533,True
+Yaar consumer court jaaunga against you asap,HIGH_RISK,Hinglish,test,HIGH_RISK,0.8383,1.282599987462163,True
+Maybe shayad thx,VAGUE,Hinglish,test,VAGUE,0.8829,1.672100042924285,True
+Yeah maybe,VAGUE,English,test,VAGUE,0.7867,1.3571999734267592,True
+Why hidden charges bhai?,DISPUTE,Hinglish,test,DISPUTE,0.8762,1.3084999518468976,True
+Tum log log scammer ho,HIGH_RISK,Hindi,test,HIGH_RISK,0.8939,2.4299999931827188,True
+"Haan clear kar diya tha, dubara mat call karo !!",ALREADY_PAID,Hindi,test,ALREADY_PAID,0.95,0.5405000410974026,True
+Apna kaam karo ...,HIGH_RISK,Hindi,test,HIGH_RISK,0.7787,1.9691999768838286,True
+Cheshta korbo asap,VAGUE,Bengali,test,VAGUE,0.4548,1.6106999246403575,True
+Haan mujhe calL kArNA bAnd kAro!!,HIGH_RISK,Hindi,test,HIGH_RISK,0.5791,1.2908000499010086,True
+"Haan jani, agle agle shoptahe e korbo",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.6057,1.25919992569834,True
+Email pe details bhej do,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.875,1.1986000463366508,True
+Will do do NEFT by Friday,LIKELY_PAY,English,test,LIKELY_PAY,0.9252,1.4950999757274985,True
+ABHI CAN'T SAY???,VAGUE,Hinglish,test,VAGUE,0.8119,1.6077000182121992,True
+"Dekho payment proof proof email mein hai, forward karun yaar",ALREADY_PAID,Hinglish,test,LIKELY_PAY,0.5106,1.4657999854534864,False
+I think notification miss ho gayi,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.7593,1.2933999532833695,True
+I refuse to pay until you fix the calculation,DISPUTE,English,test,DISPUTE,0.5585,2.2951000137254596,True
+Ok so kAHAN PAY KARNA HAI? LINK BHEJO,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.7821,2.022800035774708,True
+Bhai i have nothing to give,HIGH_RISK,Hinglish,test,HIGH_RISK,0.6436,1.976700033992529,True
+"Look ok noted, let me cheCk",NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.8127,1.3769998913630843,True
+Honestly can I get a statement,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.7177,1.343499985523522,True
+See weekend e dekhchi???,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.4552,1.2398000108078122,True
+Outstanding amount se agree nahi hun main,DISPUTE,Hindi,test,DISPUTE,0.79,1.5252999728545547,True
+I will do NEFT 2 din mein mein,LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.8653,1.3441999908536673,True
+"Haan check your records, I don't owe this much na?",DISPUTE,English,test,ALREADY_PAID,0.95,0.49830006901174784,False
+Remind me once more next week please,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.6311,1.3361999299377203,True
+"Boss ja khoushi koro, ami debo na",HIGH_RISK,Bengali,test,HIGH_RISK,0.6849,1.254200004041195,True
+why interest rate change hua bro,DISPUTE,Hinglish,test,DISPUTE,0.7729,1.2023999588564038,True
+I don't know know yaar,VAGUE,Hinglish,test,VAGUE,0.6847,1.788599998690188,True
+"Late fee wrong hai, I paid on time",DISPUTE,Hinglish,test,DISPUTE,0.7569,1.7556999810039997,True
+I'm disputing disputing this charge!!,DISPUTE,Hinglish,test,DISPUTE,0.752,1.6014999710023403,True
+will do neft next week thanks!!,LIKELY_PAY,English,test,LIKELY_PAY,0.6924,1.3423999771475792,True
+"Traveling tha, just came back",NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.618,1.3025000225752592,True
+SMS SMS aaya tha kya? Nahi dekha!!,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.607,1.2435000389814377,True
+The interest calculation is incorrect,DISPUTE,English,test,DISPUTE,0.9022,1.9179999362677336,True
+Bhai i'll consider it 🤷,VAGUE,English,test,VAGUE,0.7222,1.2791999615728855,True
+"Ami serious, ei weekend porjonto pakka",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.8326,1.2599000474438071,True
+phonepe diye transfer transfer kore diyechi,ALREADY_PAID,Bengali,test,LIKELY_PAY,0.67,1.3220999389886856,False
+Acha ami ei terms e agree korini na?,DISPUTE,Bengali,test,DISPUTE,0.7647,1.282899989746511,True
+Is there a grace period?,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.776,2.0186000037938356,True
+"Well check your system, I paid via cheque",ALREADY_PAID,English,test,DISPUTE,0.7642,1.8719000509008765,False
+Leave me alone or I'll take legal action,HIGH_RISK,English,test,HIGH_RISK,0.7371,1.8663000082597136,True
+Apna Apna time waste kar rahe ho,HIGH_RISK,Hindi,test,HIGH_RISK,0.7709,1.2876000255346298,True
+"Actually i have the payment receipt, shall I share?",DISPUTE,English,test,LIKELY_PAY,0.4135,1.617699977941811,False
+Eto simple simple na,VAGUE,Bengali,test,VAGUE,0.767,2.015799982473254,True
+Let me get back to you on this,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.6879,1.3490000274032354,True
+Bhabte hobe,VAGUE,Bengali,test,VAGUE,0.7003,1.37189996894449,True
+Interest calculation is wrong,DISPUTE,Hinglish,test,DISPUTE,0.9539,1.4679000014439225,True
+Basically my payment payment on 15th was not credited???,DISPUTE,English,test,DISPUTE,0.6947,1.8091999227181077,True
+Send me a complete breakdown of charges,DISPUTE,English,test,DISPUTE,0.7554,2.3457000497728586,True
+Eta kon EMI EMI 🤷,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.6508,3.5236000549048185,True
+NEFT kar dunga is weekend,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.8562,2.708100015297532,True
+"My bank shows the debit, payment is done",ALREADY_PAID,English,test,DISPUTE,0.5054,3.194899996742606,False
+Listen Listen i'm trying apni taraf se,VAGUE,Hinglish,test,VAGUE,0.5001,1.8345999997109175,True
+Listen this is your billing mistake,DISPUTE,Hinglish,test,DISPUTE,0.7908,1.5699999639764428,True
+Basically realize hi nahi hua it was late,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.5067,1.3151000021025538,True
+"See ami phonEpe diYe paY kORechi, abAr CHecK koro",DISPUTE,Bengali,test,DISPUTE,0.6823,2.164199948310852,True
+"No problem, I will arrange the money",LIKELY_PAY,English,test,LIKELY_PAY,0.7741,2.154799993149936,True
+bhai mera plan hai monday ko clear karna,LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.7335,3.153400029987097,True
+Well i think notification miss ho gayi???,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.759,3.1567999394610524,True
+"I accept the due amount, will pay by end of month",LIKELY_PAY,English,test,LIKELY_PAY,0.8655,1.6801999881863594,True
+Kichu debar nei amar,HIGH_RISK,Bengali,test,HIGH_RISK,0.6595,1.5074999537318945,True
+Pura amount de dunga Shukravaar tak,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.8928,1.3104000827297568,True
+Dude Dude fINAL ANSWER: NO PAYMENT,HIGH_RISK,Hinglish,test,HIGH_RISK,0.5565,1.310999970883131,True
+Boss late late pay karne pe kitni penalty?,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.7982,1.671799924224615,True
+Your system data is wrong bhai,DISPUTE,Hinglish,test,DISPUTE,0.7732,1.6973000019788742,True
+Uncertain hun main thanks,VAGUE,Hinglish,test,VAGUE,0.4717,1.740999985486269,True
+Madam i didn't realize it was already late???,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.5889,1.5773000195622444,True
+"Look eta fraud, police e jabo 👍",HIGH_RISK,Bengali,test,HIGH_RISK,0.6974,2.0664999028667808,True
+"Haan haan karunga, karunga, ek hafte mein tak pakka",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.8658,1.6123000532388687,True
+I just need 15 more days,LIKELY_PAY,English,test,LIKELY_PAY,0.5057,1.9886000081896782,True
+Let me see,VAGUE,English,test,VAGUE,0.4514,1.728900009766221,True
+Hmm ok???,VAGUE,Hinglish,test,VAGUE,0.8027,1.3487000251188874,True
+Koshish karunga within 5 days,LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.7826,1.3596999924629927,True
+"Amar CA dekhe ei shob, take jigges kori",NEEDS_REMINDER,Bengali,test,DISPUTE,0.2892,2.4181000189855695,False
+Ekhono unpaid keno?,DISPUTE,Bengali,test,DISPUTE,0.6739,2.6439999928697944,True
+"last month ko payment kiya tha, credit nahi hua",DISPUTE,Hindi,test,DISPUTE,0.7923,2.182000083848834,True
+Look dekhte hain kya hota hai 🙂,VAGUE,Hindi,test,VAGUE,0.8395,2.0402000518515706,True
+"Pehle clarification do, phir payment",DISPUTE,Hindi,test,DISPUTE,0.3941,1.8843999132514,True
+Tum log scammer ho,HIGH_RISK,Hindi,test,HIGH_RISK,0.9074,1.4475000789389014,True
+"Boss bro let me arrange, 3 din mein tak done",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.8572,1.3478000182658434,True
+Actually ek-do ghante mein ho jayega,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.4789,1.6666000010445714,True
+Banking ombudsman ke paas jaaunga,HIGH_RISK,Hindi,test,HIGH_RISK,0.6908,1.400599954649806,True
+Bhai ye kaun si EMI hai?,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.6613,3.0924000311642885,True
+Can't commit right now plz!!,VAGUE,English,test,VAGUE,0.9004,2.814300009049475,True
+I need to talk to my spouse first,NEEDS_REMINDER,English,test,HIGH_RISK,0.2642,1.9583000103011727,False
+"Call korte thako, dekhe neo ki hoy",HIGH_RISK,Bengali,test,HIGH_RISK,0.55,1.3940000208094716,True
+Really can't say bro,VAGUE,Hinglish,test,VAGUE,0.6723,1.2968999799340963,True
+It's It's complicated hai.,VAGUE,Hinglish,test,VAGUE,0.8235,1.4145999448373914,True
+Dekha jak kichu hoy ki na,VAGUE,Bengali,test,VAGUE,0.8027,1.6145000699907541,True
+Let me check my balance and pay next week,LIKELY_PAY,English,test,LIKELY_PAY,0.4733,1.6154999611899257,True
+Abhi commit nahi kar sakta sir???,VAGUE,Hindi,test,VAGUE,0.8761,1.624500029720366,True
+I promise to pay by Friday for sure 🙂,LIKELY_PAY,English,test,LIKELY_PAY,0.8023,1.4338999753817916,True
+"I'll take care of it, don't keep calling",NEEDS_REMINDER,English,test,HIGH_RISK,0.4564,2.0255999406799674,False
+WHICH LOAN ARE WE TALKING ABOUT 🙏🙏!!,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.6497,1.8955999985337257,True
+Tomar agent last time onno amount bolechhilo,DISPUTE,Bengali,test,DISPUTE,0.7314,1.564999925903976,True
+I will expose your company on social media,HIGH_RISK,English,test,HIGH_RISK,0.9421,1.5227999538183212,True
+Possibly,VAGUE,English,test,VAGUE,0.724,1.3583999825641513,True
+Yaar bank mein debit dikha raha hai ok?!!,ALREADY_PAID,Hindi,test,DISPUTE,0.3502,1.2609000550583005,False
+Look aMAR PATIENCE TEST KORO NA,HIGH_RISK,Bengali,test,HIGH_RISK,0.802,1.2484999606385827,True
+Payment fix hai Budhvaar ko,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.7229,1.2931999517604709,True
+Exact Exact due amt bolo???,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.8055,1.2660000938922167,True
+"I've kept the money aside, will pay by end of month",LIKELY_PAY,English,test,LIKELY_PAY,0.8832,1.2657000916078687,True
+"Consider it done, done, paying next week asap",LIKELY_PAY,English,test,LIKELY_PAY,0.7084,1.664999988861382,True
+"Haan I know, will pay by Friday",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.9496,2.5217001093551517,True
+Honestly i'M THINKING ABOUT IT,VAGUE,English,test,VAGUE,0.6327,2.200299990363419,True
+"Madam i already paid yaar, records dekho",ALREADY_PAID,Hinglish,test,ALREADY_PAID,0.95,0.543000060133636,True
+can't commit abhi yaar,VAGUE,Hinglish,test,VAGUE,0.8613,1.3755999971181154,True
+manager manager se baat karao mujhe 🙂,DISPUTE,Hindi,test,DISPUTE,0.6972,1.6620999667793512,True
+"Sir was busy, will look into it.",NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.5017,1.2648999691009521,True
+Hote pare,VAGUE,Bengali,test,VAGUE,0.5108,1.4072000049054623,True
+"Check last month credit, woh mera payment hai",ALREADY_PAID,Hinglish,test,DISPUTE,0.6895,1.6280999407172203,False
+Other priorities hain abhi,VAGUE,Hinglish,test,VAGUE,0.7821,1.5662000514566898,True
+"i did the neft this weekend, it should reflect",ALREADY_PAID,English,test,LIKELY_PAY,0.324,2.1968999644741416,False
+"Haan I know, will pay in 3 days",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.9446,2.0764999790117145,True
+Kar paunga shayad,VAGUE,Hindi,test,VAGUE,0.6738,2.5188999716192484,True
+Madam uPI se pay kiya already,ALREADY_PAID,Hinglish,test,LIKELY_PAY,0.4347,1.372199971228838,False
+1st er transaction check koro,DISPUTE,Bengali,test,DISPUTE,0.8096,1.286200014874339,True
+Listen bill dobara bhej do,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.6511,1.2930999509990215,True
+"Actually proof hai payment ka, bhejun?",ALREADY_PAID,Hindi,test,LIKELY_PAY,0.525,1.2838999973610044,False
+"Well i am not avoiding payment, I will pay this weekend???",LIKELY_PAY,English,test,LIKELY_PAY,0.8341,1.3432999840006232,True
+Why still showing unpaid?,DISPUTE,Hinglish,test,DISPUTE,0.6932,1.3003000058233738,True
+Ok so koshish karunga jaldi se jaldi,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.3115,1.2698000064119697,True
+Finances check check karke batata hun,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.8636,1.4442999381572008,True
+Yaar i THINK KOI MISTAKE HAI,DISPUTE,Hinglish,test,DISPUTE,0.6273,2.029899973422289,True
+I sent the money through NEFT,ALREADY_PAID,English,test,LIKELY_PAY,0.2835,1.5565999783575535,False
+Dekho maybe,VAGUE,English,test,VAGUE,0.9004,1.540499972179532,True
+number number block korchi,HIGH_RISK,Bengali,test,HIGH_RISK,0.712,1.34529999922961,True
+Get lost yaar,HIGH_RISK,Hinglish,test,HIGH_RISK,0.7003,1.2373999925330281,True
+This doesn't add up asap,DISPUTE,English,test,DISPUTE,0.7329,1.2836999958381057,True
+Listen mujhe pata nahi tha overdue hai,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.6113,1.2637999607250094,True
+"Thoda time chahiye, but I will pay for sure",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.7967,1.2600000482052565,True
+I'll consider it sochunga,VAGUE,Hinglish,test,VAGUE,0.9103,1.2191999703645706,True
+Bhai main baad mein batata hun 🙏🙏,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.5607,1.2750000460073352,True
+I'm trying my best,VAGUE,English,test,VAGUE,0.5674,1.4504001010209322,True
+I made partial payment on 15th and rest on 15th,ALREADY_PAID,English,test,LIKELY_PAY,0.4237,1.3748001074418426,False
+"Hoye geche, geche, records update koro 🙏!!",ALREADY_PAID,Bengali,test,NEEDS_REMINDER,0.3953,1.7462000250816345,False
+Theek hai!!,VAGUE,Hindi,test,VAGUE,0.6557,1.5457000117748976,True
+Haan i don't owe anything and won't pay ...,HIGH_RISK,English,test,HIGH_RISK,0.6082,1.5724999830126762,True
+I'm working working on it,VAGUE,English,test,VAGUE,0.6175,1.3207999290898442,True
+Well pAYMENT WAS ALREADY TRANSFERRED VIA UPI,ALREADY_PAID,English,test,ALREADY_PAID,0.95,0.5359000060707331,True
+We'll see,VAGUE,English,test,VAGUE,0.6257,1.2287000427022576,True
+last time bol raha hun na?,HIGH_RISK,Hinglish,test,HIGH_RISK,0.5423,1.3200000394135714,True
+"Dekho ye solve ho gaya hai, payment hua",ALREADY_PAID,Hindi,test,LIKELY_PAY,0.5843,1.2731999158859253,False
+Aaj e payment hoye jabe,LIKELY_PAY,Bengali,test,LIKELY_PAY,0.8993,1.2073999969288707,True
+"I promise bhai, agle hafte tak thx",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.7587,1.2248000130057335,True
+Pehle bank balance check karna padega,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.7021,1.6323999734595418,True
+"Ok noted, check korchi sir",NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.6335,1.4242000179365277,True
+"Ek aur chance do, month end tak guaranteed",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.8602,1.3484000228345394,True
+kaal call koro ei byapare ...!!,NEEDS_REMINDER,Bengali,test,HIGH_RISK,0.3563,1.9811000674962997,False
+BILL TA ABAR PATHAO yaar,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.6939,1.7164999153465033,True
+Honestly give me 10 more days please!!,LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.4582,1.6267000464722514,True
+Ok so i didn't realize it was already late!!,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.6256,1.3270999770611525,True
+Suno it depends yaar!!,VAGUE,Hinglish,test,VAGUE,0.8039,1.2243000091984868,True
+"Honestly case koro, amar kichu jai ashe na ...",HIGH_RISK,Bengali,test,HIGH_RISK,0.7007,1.2347999727353454,True
+Well ho sakta hai !!,VAGUE,Hindi,test,VAGUE,0.6411,1.2205999810248613,True
+Kichu debar nei amar yaar???,HIGH_RISK,Bengali,test,HIGH_RISK,0.5804,1.373099978081882,True
+"haan theek hai, de deta hun yaar!!",LIKELY_PAY,Hindi,test,LIKELY_PAY,0.5389,1.802499988116324,True
+INTEREST RATE RATE KYUN BADLA?,DISPUTE,Hindi,test,DISPUTE,0.7882,1.3421999756246805,True
+Itna simple nahi hai,VAGUE,Hindi,test,VAGUE,0.7535,1.2223999947309494,True
+Actually wORKING ON IT HUN,VAGUE,Hinglish,test,VAGUE,0.4905,1.5365000581368804,True
+"My CA handles handles this, let me ask him !!",NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.5718,1.5768000157549977,True
+i'm thinking about about it 😢,VAGUE,English,test,VAGUE,0.6075,1.4051999896764755,True
+"Suno try whatever whatever you want, I'm not scared",HIGH_RISK,English,test,HIGH_RISK,0.5381,1.397100044414401,True
+"Haan give me one more day, will pay for sure!!",LIKELY_PAY,English,test,LIKELY_PAY,0.8794,1.2761999387294054,True
+My side se transaction successful,ALREADY_PAID,Hinglish,test,DISPUTE,0.7123,1.282299985177815,False
+Actually rBI te complaint kore diyechi 👍,HIGH_RISK,Bengali,test,HIGH_RISK,0.5354,1.3252999633550644,True
+Bujhe nii ami???,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.5732,1.645200070925057,True
+"Check please, my payment was successful",ALREADY_PAID,Hinglish,test,DISPUTE,0.6524,1.9666000735014677,False
+Pore mone koriye dio please,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.488,1.3666999293491244,True
+"I accept the due amount, will pay this weekend",LIKELY_PAY,English,test,LIKELY_PAY,0.8231,1.2742000399157405,True
+Suno things things are difficult,VAGUE,English,test,VAGUE,0.6226,1.5033999225124717,True
+Look jA KORCHO ILLEGAL,HIGH_RISK,Bengali,test,HIGH_RISK,0.7068,2.3734000278636813,True
+Basically sMS eshechhilo ki? Dekhini to,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.5628,2.3864000104367733,True
+"Madam adha ekhON, BaKi tA AgLE ShoPtahe",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.5599,1.369300065562129,True
+Jani na,VAGUE,Bengali,test,VAGUE,0.6889,1.24439992941916,True
+I dispute this charge,DISPUTE,English,test,DISPUTE,0.927,1.2136000441387296,True
+"Honestly i already paid yaar, records dekho???",ALREADY_PAID,Hinglish,test,ALREADY_PAID,0.95,0.6762000266462564,True
+Tum logon se baat khatam,HIGH_RISK,Hindi,test,HIGH_RISK,0.7438,1.4516999945044518,True
+Kono obligation nei amar eta debar,HIGH_RISK,Bengali,test,HIGH_RISK,0.7641,1.4014000771567225,True
+Abar call korle complaint korbo,HIGH_RISK,Bengali,test,HIGH_RISK,0.791,1.3036999152973294,True
+ACCOUNT SETTLE KORE KORE DIYECHI,ALREADY_PAID,Bengali,test,DISPUTE,0.3171,1.2249000137671828,False
+"Honestly bro let me arrange, 2 din mein tak done",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.8545,1.2407000176608562,True
+UTR number hai mere paas,ALREADY_PAID,Hindi,test,HIGH_RISK,0.4282,1.9135000184178352,False
+"Listen Listen ja khoushi koro, ami debo na",HIGH_RISK,Bengali,test,HIGH_RISK,0.5747,1.9836999708786607,True
+Bujhtei parlam na je late hoye geche,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.5888,1.9125000108033419,True
+"Did prepayment, not showing in system",DISPUTE,Hinglish,test,DISPUTE,0.7872,1.4046001015231013,True
+Why interest rate change hua?,DISPUTE,Hinglish,test,DISPUTE,0.7799,1.4354001032188535,True
+"Thoda aur time do, ek hafte mein tak de dunga",LIKELY_PAY,Hindi,test,LIKELY_PAY,0.9362,1.7791000427678227,True
+Agle hafte yaad dilana fir se,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.6108,1.3119999784976244,True
+Pore janabo sir,VAGUE,Bengali,test,VAGUE,0.5981,1.2145999353379011,True
+Acha rTGS diye diye pathiye diyechi taka,ALREADY_PAID,Bengali,test,LIKELY_PAY,0.5832,1.240300014615059,False
+Ok so main ye charge dispute karta hun 🙏,DISPUTE,Hindi,test,DISPUTE,0.6908,1.2895000400021672,True
+"maiN payment kaRunGA, teNsIoN Mat lo thx???",LIKELY_PAY,Hindi,test,LIKELY_PAY,0.6353,1.3165000127628446,True
+It's complicated,VAGUE,English,test,VAGUE,0.8281,1.729399897158146,True
+Dekho i'll look into it dekhta hun!!,VAGUE,Hinglish,test,VAGUE,0.8299,1.5021000290289521,True
+Porshudino porjonto pakka diye debo,LIKELY_PAY,Bengali,test,LIKELY_PAY,0.7908,1.4400000218302011,True
+Toder lojja nei,HIGH_RISK,Bengali,test,HIGH_RISK,0.7749,1.2176999589428306,True
+Amount wo nahi hai jo sign kiya tha,DISPUTE,Hindi,test,DISPUTE,0.8011,1.2553998967632651,True
+Sochunga !!,VAGUE,Hindi,test,VAGUE,0.8923,1.30840006750077,True
+Exact amount bata do,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.6978,1.2509999796748161,True
+My payment is scheduled for Wednesday,LIKELY_PAY,English,test,LIKELY_PAY,0.7619,1.2638999614864588,True
+Look sochunga plz,VAGUE,Hindi,test,VAGUE,0.8206,1.255400013178587,True
+"Haan taka arrange hocche, ek shoptahe diye debo",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.9195,1.3002000050619245,True
+"Listen karunga handle, stop calling repeatedly bro",NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.4325,1.3075999449938536,True
+Madam thik ache,VAGUE,Bengali,test,VAGUE,0.5099,1.2124000350013375,True
+Haan months pehle pay kiya tha yaar thanks,ALREADY_PAID,Hinglish,test,NEEDS_REMINDER,0.3632,1.741299987770617,False
+Dude might be able to,VAGUE,English,test,VAGUE,0.7576,1.5731999883428216,True
+Get lost,HIGH_RISK,English,test,HIGH_RISK,0.7299,1.4242000179365277,True
+"maiN Serious huN, SHUkraVAaR tAk taK PaKka",LIKELY_PAY,Hindi,test,LIKELY_PAY,0.9112,1.3699999544769526,True
+Actually wHEN WAS THE DUE DATE AGAIN?,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.838,1.660600071772933,True
+Ei loan goto bochor bond kora hoyechhilo,DISPUTE,Bengali,test,DISPUTE,0.7177,1.4655999839305878,True
+Thik ache,VAGUE,Bengali,test,VAGUE,0.4775,1.3333999086171389,True
+Haan hoyto,VAGUE,Bengali,test,VAGUE,0.7803,1.256000017747283,True
+Ok so agle shoptahe mone koriyo,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.6095,1.2644999660551548,True
+Ok so shayad,VAGUE,Hindi,test,VAGUE,0.7826,1.2326000723987818,True
+Basically you harass innocent log,HIGH_RISK,Hinglish,test,HIGH_RISK,0.7378,1.2990999966859818,True
+Boss this amnt is wrong bro,DISPUTE,English,test,DISPUTE,0.6864,1.2151000555604696,True
+See mera account audit karo asap,DISPUTE,Hindi,test,DISPUTE,0.5466,1.5333000337705016,True
+Ke jane!!,VAGUE,Bengali,test,VAGUE,0.6824,1.4306000666692853,True
+dekhte hain!!,VAGUE,Hindi,test,VAGUE,0.8219,2.6407999685034156,True
+Dekho ja bhi,VAGUE,Bengali,test,VAGUE,0.7686,2.8098999755457044,True
+Next week yaad dilana plss???,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.6474,1.4661999884992838,True
+Basically grace period ache ki 😭,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.7053,1.3669999316334724,True
+Details ta abar pathao,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.8205,1.6222000122070312,True
+Madam eMI ka paisa alag set hai,LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.5923,1.7912000184878707,True
+"Shob pay kore diyechi, kichu pending nei",ALREADY_PAID,Bengali,test,DISPUTE,0.3425,1.8798999954015017,False
+"Statement chahiye detailed, tab tak kuch nahi dunga",DISPUTE,Hindi,test,DISPUTE,0.6171,2.7929999632760882,True
+Hard to say!!,VAGUE,English,test,VAGUE,0.7171,1.6254999209195375,True
+"ADHA EKHON, BAKI TA MASH SHESHE???",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.5191,2.987600048072636,True
+Bhai let me know the exact amnt due,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.8106,2.410599961876869,True
+Ok so amake notification asheni,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.6207,2.636999939568341,True
+"Paise bhej diye the, check karo",ALREADY_PAID,Hindi,test,ALREADY_PAID,0.95,0.5287000676617026,True
+Dates ka track nahi raha,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.463,1.331700012087822,True
+HOYTO HOYE JABE !!,VAGUE,Bengali,test,VAGUE,0.7896,1.2571000261232257,True
+Samajhna padega thx,VAGUE,Hindi,test,VAGUE,0.7118,1.2170999543741345,True
+Let me think,VAGUE,English,test,VAGUE,0.3785,1.7864999826997519,True
+"Taka pathiye pathiye diyechi, check koro",ALREADY_PAID,Bengali,test,DISPUTE,0.4161,2.631200011819601,False
+Kuch Kuch kar raha hun,VAGUE,Hindi,test,VAGUE,0.4835,2.514899941161275,True
+Madam file a case if you dare yaar,HIGH_RISK,English,test,HIGH_RISK,0.7845,1.4528000028803945,True
+Arey bhai time e diye debo 😢,LIKELY_PAY,Bengali,test,LIKELY_PAY,0.6815,1.3047999236732721,True
+Agle shoptahe mone mone koriyo,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.5533,1.2630000710487366,True
+"Ami arrange korchi, korchi, mash sheshe hoye jabe",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.8268,1.283499994315207,True
+Cheshta korbo taratari,LIKELY_PAY,Bengali,test,NEEDS_REMINDER,0.3067,1.2640999630093575,False
+"Boss escalation chai, amnt disputed 😡",DISPUTE,Bengali,test,DISPUTE,0.7519,1.2514999834820628,True
+"Haan ami serious, ei weekend porjonto pakka 💰???",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.8076,1.2518999865278602,True
+Suno ke jane 🙏🙏,VAGUE,Bengali,test,VAGUE,0.6812,1.1999999405816197,True
+Statement pawa pawa jabe????,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.5378,1.7388000851497054,True
+Maybe shayad boss,VAGUE,Hinglish,test,VAGUE,0.8533,1.6116000479087234,True
+See will think about it 👍,VAGUE,English,test,VAGUE,0.5813,1.4176999684423208,True
+Samajh nahi aa raha kya karun,VAGUE,Hindi,test,VAGUE,0.5764,1.3185000279918313,True
+Arey taRatari handle koRbO,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.5942,1.2317999498918653,True
+"Actually Actually ek aur chance do, shukravaar tak guaranteed",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.8295,1.2848000042140484,True
+"NEFT kiya tha agle hafte, reflect hona chahiye",ALREADY_PAID,Hindi,test,DISPUTE,0.4215,1.276399940252304,False
+Ok so phonePe diye 1st e transfer korechilem.,ALREADY_PAID,Bengali,test,DISPUTE,0.4886,1.2762000551447272,False
+"Bhai ami kokhono mana korini, payment korbo!!",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.6372,1.277299947105348,True
+Well uTR number ache amar kache,ALREADY_PAID,Bengali,test,HIGH_RISK,0.3761,1.2839999981224537,False
+Yaar mushkil obostha,VAGUE,Bengali,test,VAGUE,0.8022,1.4205999905243516,True
+Written proof do amt ka 👍,DISPUTE,Hinglish,test,DISPUTE,0.4994,1.3549999566748738,True
+"honestly forgot, my bad yaar",NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.4091,2.6012000162154436,True
+Abhi Abhi nahi ok?,VAGUE,Hindi,test,VAGUE,0.7623,2.4741999804973602,True
+"let me pay in installments, first one by friday",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.8586,1.6118999337777495,True
+Bhai partial on 15th kiya tha and rest on 15th 😡,ALREADY_PAID,Hinglish,test,DISPUTE,0.4833,1.333200023509562,False
+bujhte hobe na?,VAGUE,Bengali,test,VAGUE,0.5991,1.4796999748796225,True
+Madam aaj hi payment ho jayega,LIKELY_PAY,Hindi,test,LIKELY_PAY,0.8243,1.6700000269338489,True
+"Salary aa jayegi Somvaar ko, uske baad turant",LIKELY_PAY,Hindi,test,LIKELY_PAY,0.7247,1.9295999081805348,True
+Bhai cAN YOU SHARE UPI? I WILL PAY NOW 😭,LIKELY_PAY,English,test,LIKELY_PAY,0.6704,1.6758000710979104,True
+Dekhe nii thx,VAGUE,Bengali,test,VAGUE,0.6561,1.3851000694558024,True
+SMS aaya aaya tha kya? Nahi dekha,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.6281,3.0406999867409468,True
+Madam this is pure extortion hai ye boss???,HIGH_RISK,Hinglish,test,HIGH_RISK,0.5241,2.400800003670156,True
+"Diye debo, dhairyo dhoro",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.654,1.72330008354038,True
+Bhai notification nahi aaya,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.6996,1.3345000334084034,True
+"Ami responsible, payment korbo",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.732,1.2673999881371856,True
+you guys guys are scammers,HIGH_RISK,Hinglish,test,HIGH_RISK,0.6779,1.193900010548532,True
+"Look check please, my paymt was successful???",ALREADY_PAID,Hinglish,test,DISPUTE,0.5997,1.3642000267282128,False
+Payment will be done in 3 days sir,LIKELY_PAY,English,test,LIKELY_PAY,0.9729,1.2284999247640371,True
+i've been overcharged??? overcharged???,DISPUTE,English,test,DISPUTE,0.7298,1.2656999751925468,True
+Bahut hua tumhara harassment,HIGH_RISK,Hindi,test,HIGH_RISK,0.6967,1.317800022661686,True
+"Pakka pay kiya hai, screenshot hai",ALREADY_PAID,Hindi,test,LIKELY_PAY,0.6029,1.6009999671950936,False
+"Basically already talked to bank, will come within a week???",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.6239,1.8396000377833843,True
+I'll pay the full amount in 2 days,LIKELY_PAY,English,test,LIKELY_PAY,0.8411,1.4166999608278275,True
+Email e details pathao,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.8767,1.3735999818891287,True
+"Dekho i am seRiouS ABout PayiNg, gIve me 10 daYs",LIKELY_PAY,English,test,LIKELY_PAY,0.6032,1.3289999915286899,True
+Madam cheshta korchi nijer dik theke,VAGUE,Bengali,test,VAGUE,0.378,1.2541000032797456,True
+"Payment hoye jabe, jabe, guarantee dichhi!!",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.7409,1.2848000042140484,True
+Well you people are scammers,HIGH_RISK,English,test,HIGH_RISK,0.815,1.2182999635115266,True
+Ekhon bolte bolte parbo na!!,VAGUE,Bengali,test,VAGUE,0.7177,1.2390000047162175,True
+Mushkil hai situation ...,VAGUE,Hindi,test,VAGUE,0.8687,1.2521999888122082,True
+Acha rBI mein complaint kar chuka hun 💰???,HIGH_RISK,Hindi,test,ALREADY_PAID,0.95,0.5247999215498567,False
+Loan agreement e onno terms ache,DISPUTE,Bengali,test,DISPUTE,0.9161,1.2360999826341867,True
+"5th ko payment kiya tha, credit nahi hua",DISPUTE,Hindi,test,DISPUTE,0.8175,1.465699984692037,True
+"Your system is not updated, I paid already",ALREADY_PAID,English,test,ALREADY_PAID,0.95,0.4925000248476863,True
+i thought thought auto-debit was on,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.8024,1.9362999591976404,True
+i made the payment by end of month,ALREADY_PAID,English,test,LIKELY_PAY,0.8774,1.4537000097334385,False
+Ok so exact amount bata do,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.7215,1.410100026987493,True
+No comment na?,VAGUE,Bengali,test,VAGUE,0.7086,1.2873999075964093,True
+Arey bank statement e clear ache paymt,ALREADY_PAID,Bengali,test,DISPUTE,0.4414,1.298299990594387,False
+Dekho is there a grace period 🙂,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.729,1.263400074094534,True
+WIFE SE PUCHNA PADEGA PEHLE ok?!!,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.4062,1.2396000092849135,True
+I already paid this last week,ALREADY_PAID,English,test,ALREADY_PAID,0.95,0.4768000217154622,True
+I thought auto-debit was on thanks???,NEEDS_REMINDER,English,test,NEEDS_REMINDER,0.8551,1.3374000554904342,True
+Well auto-debit auto-debit on chhilo na?,NEEDS_REMINDER,Bengali,test,NEEDS_REMINDER,0.8685,1.273099915124476,True
+Ye vasuli hai,HIGH_RISK,Hindi,test,HIGH_RISK,0.6242,1.4448000583797693,True
+Madam samajh nahi aa raha what to do,VAGUE,Hinglish,test,VAGUE,0.639,1.59549992531538,True
+"I paid through Paytm, check again 👍",DISPUTE,English,test,DISPUTE,0.6245,1.5579999890178442,True
+Lagta hai koi mistake hai boss,DISPUTE,Hindi,test,DISPUTE,0.4905,1.5827000606805086,True
+Jani na asap???,VAGUE,Bengali,test,VAGUE,0.67,1.4171000802889466,True
+Theek hai ok plz!!,VAGUE,Hinglish,test,VAGUE,0.6915,1.4167999615892768,True
+"Transaction complete ho gaya, your side pe check karo",ALREADY_PAID,Hinglish,test,ALREADY_PAID,0.95,0.4751000087708235,True
+Ok so statement mil sakta hai thanks,NEEDS_REMINDER,Hindi,test,NEEDS_REMINDER,0.6679,1.3190999161452055,True
+Actually can't commit right now,VAGUE,English,test,VAGUE,0.844,1.3212000485509634,True
+Amount Amount wo nahi hai jo sign kiya tha plz,DISPUTE,Hindi,test,DISPUTE,0.8211,1.2892999220639467,True
+"let me check check balance, shukravaar tak mein done!!",LIKELY_PAY,Hinglish,test,LIKELY_PAY,0.5422,1.2740000383928418,True
+Hey ekhono unpaid keno?,DISPUTE,Bengali,test,DISPUTE,0.6484,1.2247000122442842,True
+Hidden charges keno ...,DISPUTE,Bengali,test,DISPUTE,0.8939,1.185599947348237,True
+Yaar due date Er Age-i koRe dIyEChilem 🙂,ALREADY_PAID,Bengali,test,NEEDS_REMINDER,0.5148,2.6561999693512917,False
+Abhi answer nahi hai mere paas,VAGUE,Hinglish,test,VAGUE,0.5176,2.5022999616339803,True
+Will get back to you!!,VAGUE,English,test,VAGUE,0.3394,1.8712000455707312,True
+"Never ever paying, that's it asap",HIGH_RISK,Hinglish,test,HIGH_RISK,0.495,2.4034999078139663,True
+"do hisson mein mein de sakta hun, pehla shukravaar tak!!",LIKELY_PAY,Hindi,test,LIKELY_PAY,0.7984,1.4522999990731478,True
+Actually you harass innocent log 💰,HIGH_RISK,Hinglish,test,HIGH_RISK,0.7604,1.2722000246867537,True
+Ja korcho illegal,HIGH_RISK,Bengali,test,HIGH_RISK,0.7404,1.2115000281482935,True
+You can't do anything to me,HIGH_RISK,English,test,HIGH_RISK,0.8175,1.5561999753117561,True
+Dekhunga main,VAGUE,Hindi,test,VAGUE,0.7378,1.2514999834820628,True
+Listen pArTIal 5th ko kiya tHa aur BaakI 5tH ko,ALREADY_PAID,Hindi,test,DISPUTE,0.3376,1.460899948142469,False
+Jibon mushkil cholche,VAGUE,Bengali,test,VAGUE,0.7476,1.2597000459209085,True
+Tum mera kuch nahi kar sakte,HIGH_RISK,Hindi,test,HIGH_RISK,0.6645,1.1946999002248049,True
+Sir tUm lOgOn lOgOn kO ShArAm Nahi!!,HIGH_RISK,Hinglish,test,HIGH_RISK,0.8083,2.4992000544443727,True
+Amar dik theke transaction successful,ALREADY_PAID,Bengali,test,DISPUTE,0.7762,1.9021999323740602,False
+Honestly amake aro 15 din dao!!,LIKELY_PAY,Bengali,test,LIKELY_PAY,0.5009,1.6020999755710363,True
+Bhai maybe later na?,VAGUE,English,test,VAGUE,0.7278,1.3286999892443419,True
+Bhai i think there's been a mistake 💰,DISPUTE,English,test,DISPUTE,0.7231,1.3541000662371516,True
+"HAAN BHAI, EK HAFTE MEIN TAK KAR DUNGA",LIKELY_PAY,Hindi,test,LIKELY_PAY,0.9412,1.2417999096214771,True
+Pehle balance check karna padega boss???,NEEDS_REMINDER,Hinglish,test,NEEDS_REMINDER,0.7353,1.398300053551793,True
+Arey nahi dunga aur ye final hai 🙂,HIGH_RISK,Hindi,test,HIGH_RISK,0.7537,1.3741999864578247,True
+Madam depend karta hai 🙏,VAGUE,Hindi,test,VAGUE,0.6263,1.199199934490025,True
+Manager er shathe kotha bolte chai,DISPUTE,Bengali,test,DISPUTE,0.5517,1.2311000609770417,True
+Actually i've been overcharged,DISPUTE,English,test,DISPUTE,0.7,1.2613000581040978,True
+Madam i DoN't owe AnyThiNG AnD wOn't paY,HIGH_RISK,English,test,HIGH_RISK,0.5971,2.2131999721750617,True
+"Basically adha ekhon, baki ta tin din e",LIKELY_PAY,Bengali,test,LIKELY_PAY,0.5984,1.6530000139027834,True
+"Amar rights jana ache, dhamki dewa bondho koro",HIGH_RISK,Bengali,test,HIGH_RISK,0.611,1.3705999590456486,True
+Kaun jaane,VAGUE,Hindi,test,VAGUE,0.6174,1.2706000125035644,True

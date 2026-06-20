@@ -1,0 +1,11 @@
+[
+  "intent_encoded",
+  "has_promise",
+  "payment_window_days",
+  "message_length",
+  "exclamation_count",
+  "question_count",
+  "caps_ratio",
+  "dispute_keywords",
+  "hostile_keywords"
+]

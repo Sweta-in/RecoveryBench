@@ -1,0 +1,383 @@
+{
+  "benchmark_date": "2026-06-12T13:53:46.611857",
+  "total_scenarios": 100,
+  "elapsed_seconds": 16.61,
+  "intent_classification": {
+    "overall_accuracy": 0.82,
+    "correct": 82,
+    "total": 100,
+    "per_intent": {
+      "DISPUTE": {
+        "correct": 15,
+        "total": 20,
+        "accuracy": 0.75
+      },
+      "HIGH_RISK": {
+        "correct": 17,
+        "total": 20,
+        "accuracy": 0.85
+      },
+      "LIKELY_PAY": {
+        "correct": 20,
+        "total": 20,
+        "accuracy": 1.0
+      },
+      "NEEDS_REMINDER": {
+        "correct": 13,
+        "total": 20,
+        "accuracy": 0.65
+      },
+      "VAGUE": {
+        "correct": 17,
+        "total": 20,
+        "accuracy": 0.85
+      }
+    },
+    "per_category": {
+      "aggressive_refusal": {
+        "correct": 4,
+        "total": 4,
+        "accuracy": 1.0
+      },
+      "already_paid_claim": {
+        "correct": 2,
+        "total": 3,
+        "accuracy": 0.6667
+      },
+      "bengali_romanized": {
+        "correct": 8,
+        "total": 9,
+        "accuracy": 0.8889
+      },
+      "colloquial_hindi": {
+        "correct": 7,
+        "total": 10,
+        "accuracy": 0.7
+      },
+      "conditional_promise": {
+        "correct": 3,
+        "total": 4,
+        "accuracy": 0.75
+      },
+      "dispute_evasion": {
+        "correct": 5,
+        "total": 5,
+        "accuracy": 1.0
+      },
+      "dispute_legitimate": {
+        "correct": 3,
+        "total": 4,
+        "accuracy": 0.75
+      },
+      "emotional_distress": {
+        "correct": 8,
+        "total": 11,
+        "accuracy": 0.7273
+      },
+      "formal_english": {
+        "correct": 5,
+        "total": 7,
+        "accuracy": 0.7143
+      },
+      "language_switching": {
+        "correct": 9,
+        "total": 9,
+        "accuracy": 1.0
+      },
+      "partial_payment": {
+        "correct": 4,
+        "total": 4,
+        "accuracy": 1.0
+      },
+      "short_message": {
+        "correct": 4,
+        "total": 10,
+        "accuracy": 0.4
+      },
+      "straightforward": {
+        "correct": 10,
+        "total": 10,
+        "accuracy": 1.0
+      },
+      "temporal_promise": {
+        "correct": 3,
+        "total": 3,
+        "accuracy": 1.0
+      },
+      "vague_non_committal": {
+        "correct": 7,
+        "total": 7,
+        "accuracy": 1.0
+      }
+    },
+    "per_language": {
+      "Bengali": {
+        "correct": 9,
+        "total": 10,
+        "accuracy": 0.9
+      },
+      "English": {
+        "correct": 30,
+        "total": 38,
+        "accuracy": 0.7895
+      },
+      "Hindi": {
+        "correct": 23,
+        "total": 31,
+        "accuracy": 0.7419
+      },
+      "Hinglish": {
+        "correct": 20,
+        "total": 21,
+        "accuracy": 0.9524
+      }
+    },
+    "confusion_matrix": {
+      "LIKELY_PAY": {
+        "LIKELY_PAY": 20
+      },
+      "NEEDS_REMINDER": {
+        "NEEDS_REMINDER": 13,
+        "VAGUE": 3,
+        "HIGH_RISK": 1,
+        "DISPUTE": 1,
+        "LIKELY_PAY": 2
+      },
+      "DISPUTE": {
+        "DISPUTE": 15,
+        "HIGH_RISK": 2,
+        "NEEDS_REMINDER": 1,
+        "ALREADY_PAID": 2
+      },
+      "HIGH_RISK": {
+        "HIGH_RISK": 17,
+        "VAGUE": 1,
+        "NEEDS_REMINDER": 2
+      },
+      "VAGUE": {
+        "VAGUE": 17,
+        "HIGH_RISK": 1,
+        "NEEDS_REMINDER": 2
+      }
+    }
+  },
+  "promise_extraction": {
+    "total": 100,
+    "correct": 85,
+    "accuracy": 0.85,
+    "window_exact_match": 15,
+    "window_close_match": 18,
+    "window_total": 18
+  },
+  "agent_evaluation": {
+    "intent_accuracy": 6.22,
+    "tone_score": 6.23,
+    "compliance_score": 10.0,
+    "escalation_score": 6.63,
+    "overall_score": 7.42
+  },
+  "hardest_categories": [
+    {
+      "category": "short_message",
+      "correct": 4,
+      "total": 10,
+      "accuracy": 0.4
+    },
+    {
+      "category": "already_paid_claim",
+      "correct": 2,
+      "total": 3,
+      "accuracy": 0.6667
+    },
+    {
+      "category": "colloquial_hindi",
+      "correct": 7,
+      "total": 10,
+      "accuracy": 0.7
+    },
+    {
+      "category": "formal_english",
+      "correct": 5,
+      "total": 7,
+      "accuracy": 0.7143
+    },
+    {
+      "category": "emotional_distress",
+      "correct": 8,
+      "total": 11,
+      "accuracy": 0.7273
+    }
+  ],
+  "misclassified_count": 18,
+  "misclassified_scenarios": [
+    {
+      "scenario_id": "RB-023",
+      "expected": "NEEDS_REMINDER",
+      "predicted": "VAGUE",
+      "confidence": 0.525,
+      "category": "short_message",
+      "language": "English",
+      "message": "ok"
+    },
+    {
+      "scenario_id": "RB-024",
+      "expected": "NEEDS_REMINDER",
+      "predicted": "VAGUE",
+      "confidence": 0.6233,
+      "category": "short_message",
+      "language": "Hindi",
+      "message": "theek hai"
+    },
+    {
+      "scenario_id": "RB-025",
+      "expected": "NEEDS_REMINDER",
+      "predicted": "VAGUE",
+      "confidence": 0.5437,
+      "category": "short_message",
+      "language": "Hindi",
+      "message": "acha"
+    },
+    {
+      "scenario_id": "RB-031",
+      "expected": "NEEDS_REMINDER",
+      "predicted": "HIGH_RISK",
+      "confidence": 0.2957,
+      "category": "emotional_distress",
+      "language": "English",
+      "message": "I'm going through a rough patch right now, can you send me the details?"
+    },
+    {
+      "scenario_id": "RB-034",
+      "expected": "NEEDS_REMINDER",
+      "predicted": "DISPUTE",
+      "confidence": 0.5177,
+      "category": "formal_english",
+      "language": "English",
+      "message": "I received your message. Let me review the amount and revert."
+    },
+    {
+      "scenario_id": "RB-035",
+      "expected": "NEEDS_REMINDER",
+      "predicted": "LIKELY_PAY",
+      "confidence": 0.3332,
+      "category": "bengali_romanized",
+      "language": "Bengali",
+      "message": "haan shunlam, koto taka bolun to?"
+    },
+    {
+      "scenario_id": "RB-037",
+      "expected": "NEEDS_REMINDER",
+      "predicted": "LIKELY_PAY",
+      "confidence": 0.3867,
+      "category": "colloquial_hindi",
+      "language": "Hindi",
+      "message": "haan bhai sun raha hun, bol"
+    },
+    {
+      "scenario_id": "RB-045",
+      "expected": "DISPUTE",
+      "predicted": "HIGH_RISK",
+      "confidence": 0.4447,
+      "category": "dispute_legitimate",
+      "language": "Hindi",
+      "message": "mera loan to close ho chuka hai, aap log galat insaan ko call kar rahe ho"
+    },
+    {
+      "scenario_id": "RB-053",
+      "expected": "DISPUTE",
+      "predicted": "NEEDS_REMINDER",
+      "confidence": 0.5062,
+      "category": "formal_english",
+      "language": "English",
+      "message": "As per our earlier discussion, the late penalty was to be waived. Please rectify"
+    },
+    {
+      "scenario_id": "RB-054",
+      "expected": "DISPUTE",
+      "predicted": "ALREADY_PAID",
+      "confidence": 0.95,
+      "category": "already_paid_claim",
+      "language": "Hinglish",
+      "message": "bhai already pay kar diya tha last week, receipt bhi hai mere paas"
+    },
+    {
+      "scenario_id": "RB-059",
+      "expected": "DISPUTE",
+      "predicted": "HIGH_RISK",
+      "confidence": 0.4923,
+      "category": "emotional_distress",
+      "language": "English",
+      "message": "You people are charging me double, this is not fair at all, I'm so stressed abou"
+    },
+    {
+      "scenario_id": "RB-060",
+      "expected": "DISPUTE",
+      "predicted": "ALREADY_PAID",
+      "confidence": 0.95,
+      "category": "emotional_distress",
+      "language": "Hindi",
+      "message": "itna pareshaan kar diya hai tum logon ne, galat amount laga ke"
+    },
+    {
+      "scenario_id": "RB-074",
+      "expected": "HIGH_RISK",
+      "predicted": "VAGUE",
+      "confidence": 0.3472,
+      "category": "short_message",
+      "language": "English",
+      "message": "stop!!!"
+    },
+    {
+      "scenario_id": "RB-076",
+      "expected": "HIGH_RISK",
+      "predicted": "NEEDS_REMINDER",
+      "confidence": 0.434,
+      "category": "colloquial_hindi",
+      "language": "Hindi",
+      "message": "bahut ho gaya, ab phone kiya toh dekh lena, legal notice bhejunga"
+    },
+    {
+      "scenario_id": "RB-077",
+      "expected": "HIGH_RISK",
+      "predicted": "NEEDS_REMINDER",
+      "confidence": 0.2684,
+      "category": "colloquial_hindi",
+      "language": "Hindi",
+      "message": "tere baap ka paisa hai kya? band kar phone warna dekh"
+    },
+    {
+      "scenario_id": "RB-086",
+      "expected": "VAGUE",
+      "predicted": "HIGH_RISK",
+      "confidence": 0.3729,
+      "category": "short_message",
+      "language": "English",
+      "message": "..."
+    },
+    {
+      "scenario_id": "RB-087",
+      "expected": "VAGUE",
+      "predicted": "NEEDS_REMINDER",
+      "confidence": 0.3284,
+      "category": "short_message",
+      "language": "English",
+      "message": "K"
+    },
+    {
+      "scenario_id": "RB-097",
+      "expected": "VAGUE",
+      "predicted": "NEEDS_REMINDER",
+      "confidence": 0.3411,
+      "category": "conditional_promise",
+      "language": "Hindi",
+      "message": "agar kuch jugaad ho gaya toh de dunga, nahi toh kya karun"
+    }
+  ],
+  "components_used": {
+    "intent_classifier": true,
+    "promise_parser": true,
+    "risk_scorer": true,
+    "compliance_checker": true,
+    "evaluator": "rule_based"
+  }
+}

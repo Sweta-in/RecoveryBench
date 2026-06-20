@@ -1,0 +1,17 @@
+RecoveryBench — Intent Classifier — Test Set Classification Report
+Date: 2026-06-10T11:45:25.039020
+Test size: 601 examples
+Mean inference latency: 0.05 ms/prediction
+
+                precision    recall  f1-score   support
+
+    LIKELY_PAY     0.7533    0.9826    0.8528       115
+NEEDS_REMINDER     0.8866    0.9348    0.9101        92
+       DISPUTE     0.6562    0.9882    0.7887        85
+     HIGH_RISK     0.9184    0.9890    0.9524        91
+         VAGUE     0.9844    1.0000    0.9921       126
+  ALREADY_PAID     0.0000    0.0000    0.0000        92
+
+      accuracy                         0.8303       601
+     macro avg     0.6998    0.8158    0.7494       601
+  weighted avg     0.7181    0.8303    0.7663       601

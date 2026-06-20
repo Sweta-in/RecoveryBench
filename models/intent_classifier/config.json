@@ -1,0 +1,99 @@
+{
+  "model_type": "TF-IDF + LogisticRegression",
+  "tfidf_analyzer": "char_wb",
+  "tfidf_ngram_range": [
+    2,
+    5
+  ],
+  "tfidf_max_features": 50000,
+  "all_classes": [
+    "LIKELY_PAY",
+    "NEEDS_REMINDER",
+    "DISPUTE",
+    "HIGH_RISK",
+    "VAGUE",
+    "ALREADY_PAID"
+  ],
+  "trained_classes": [
+    "DISPUTE",
+    "HIGH_RISK",
+    "LIKELY_PAY",
+    "NEEDS_REMINDER",
+    "VAGUE"
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali",
+    "Hinglish"
+  ],
+  "model_size_mb": 0.57,
+  "metrics": {
+    "train_time": 0.3826937675476074,
+    "train_accuracy": 0.9877139096094778,
+    "train_f1": 0.9874002111416038,
+    "val_accuracy": 0.9791666666666666,
+    "val_f1": 0.9783429533429533,
+    "test_accuracy": 0.8302828618968386,
+    "test_f1": 0.7493537382885456,
+    "mean_latency_ms": 0.04556730463976868,
+    "per_language_f1": {
+      "English": 0.7489089678977727,
+      "Hindi": 0.7440389183831758,
+      "Bengali": 0.7404562497953302,
+      "Hinglish": 0.76816475305267
+    },
+    "n_mistakes": 102,
+    "confusion_matrix": [
+      [
+        113,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        86,
+        2,
+        3,
+        1,
+        0
+      ],
+      [
+        1,
+        0,
+        84,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        90,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        126,
+        0
+      ],
+      [
+        36,
+        10,
+        41,
+        5,
+        0,
+        0
+      ]
+    ]
+  },
+  "timestamp": "2026-06-10T11:45:25.330696"
+}

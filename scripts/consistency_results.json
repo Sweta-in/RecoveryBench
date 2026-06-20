@@ -1,0 +1,198 @@
+{
+  "per_case_results": [
+    {
+      "case_index": 0,
+      "input_summary": "LIKELY_PAY \u2014 Bhai salary nahi aayi abhi, next week kar dunga",
+      "runs": [
+        {
+          "intent_accuracy": 9.0,
+          "tone_score": 7.0,
+          "compliance_score": 10.0,
+          "escalation_score": 9.0,
+          "overall_score": 8.8,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        },
+        {
+          "intent_accuracy": 9.0,
+          "tone_score": 7.0,
+          "compliance_score": 10.0,
+          "escalation_score": 9.0,
+          "overall_score": 8.8,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        },
+        {
+          "intent_accuracy": 9.0,
+          "tone_score": 7.0,
+          "compliance_score": 10.0,
+          "escalation_score": 9.0,
+          "overall_score": 8.8,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        }
+      ],
+      "variance_per_rubric": {
+        "intent_accuracy": 0.0,
+        "tone_score": 0.0,
+        "compliance_score": 0.0,
+        "escalation_score": 0.0,
+        "overall_score": 0.0
+      }
+    },
+    {
+      "case_index": 1,
+      "input_summary": "DISPUTE \u2014 Amount galat hai, mera loan toh isse kam tha",
+      "runs": [
+        {
+          "intent_accuracy": 9.0,
+          "tone_score": 6.0,
+          "compliance_score": 10.0,
+          "escalation_score": 8.0,
+          "overall_score": 8.4,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        },
+        {
+          "intent_accuracy": 9.0,
+          "tone_score": 6.0,
+          "compliance_score": 10.0,
+          "escalation_score": 8.0,
+          "overall_score": 8.4,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        },
+        {
+          "intent_accuracy": 9.0,
+          "tone_score": 6.0,
+          "compliance_score": 10.0,
+          "escalation_score": 8.0,
+          "overall_score": 8.4,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        }
+      ],
+      "variance_per_rubric": {
+        "intent_accuracy": 0.0,
+        "tone_score": 0.0,
+        "compliance_score": 0.0,
+        "escalation_score": 0.0,
+        "overall_score": 0.0
+      }
+    },
+    {
+      "case_index": 2,
+      "input_summary": "HIGH_RISK \u2014 STOP CALLING ME!! I will file complaint!",
+      "runs": [
+        {
+          "intent_accuracy": 9.0,
+          "tone_score": 7.5,
+          "compliance_score": 10.0,
+          "escalation_score": 9.0,
+          "overall_score": 8.92,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        },
+        {
+          "intent_accuracy": 9.0,
+          "tone_score": 7.5,
+          "compliance_score": 10.0,
+          "escalation_score": 9.0,
+          "overall_score": 8.92,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        },
+        {
+          "intent_accuracy": 9.0,
+          "tone_score": 7.5,
+          "compliance_score": 10.0,
+          "escalation_score": 9.0,
+          "overall_score": 8.92,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        }
+      ],
+      "variance_per_rubric": {
+        "intent_accuracy": 0.0,
+        "tone_score": 0.0,
+        "compliance_score": 0.0,
+        "escalation_score": 0.0,
+        "overall_score": 0.0
+      }
+    },
+    {
+      "case_index": 3,
+      "input_summary": "NEEDS_REMINDER \u2014 haan yaad hai, bhool gaya tha",
+      "runs": [
+        {
+          "intent_accuracy": 8.0,
+          "tone_score": 5.5,
+          "compliance_score": 10.0,
+          "escalation_score": 7.0,
+          "overall_score": 7.83,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        },
+        {
+          "intent_accuracy": 8.0,
+          "tone_score": 5.5,
+          "compliance_score": 10.0,
+          "escalation_score": 7.0,
+          "overall_score": 7.83,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        },
+        {
+          "intent_accuracy": 8.0,
+          "tone_score": 5.5,
+          "compliance_score": 10.0,
+          "escalation_score": 7.0,
+          "overall_score": 7.83,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        }
+      ],
+      "variance_per_rubric": {
+        "intent_accuracy": 0.0,
+        "tone_score": 0.0,
+        "compliance_score": 0.0,
+        "escalation_score": 0.0,
+        "overall_score": 0.0
+      }
+    },
+    {
+      "case_index": 4,
+      "input_summary": "VAGUE \u2014 dekhte hain kya hota hai",
+      "runs": [
+        {
+          "intent_accuracy": 9.0,
+          "tone_score": 7.5,
+          "compliance_score": 10.0,
+          "escalation_score": 6.0,
+          "overall_score": 8.47,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        },
+        {
+          "intent_accuracy": 9.0,
+          "tone_score": 7.5,
+          "compliance_score": 10.0,
+          "escalation_score": 6.0,
+          "overall_score": 8.47,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        },
+        {
+          "intent_accuracy": 9.0,
+          "tone_score": 7.5,
+          "compliance_score": 10.0,
+          "escalation_score": 6.0,
+          "overall_score": 8.47,
+          "suggested_improvement": "Consider adding a specific next-step or follow-up date to make the response more actionable."
+        }
+      ],
+      "variance_per_rubric": {
+        "intent_accuracy": 0.0,
+        "tone_score": 0.0,
+        "compliance_score": 0.0,
+        "escalation_score": 0.0,
+        "overall_score": 0.0
+      }
+    }
+  ],
+  "aggregate_variance": {
+    "intent_accuracy": 0.0,
+    "tone_score": 0.0,
+    "compliance_score": 0.0,
+    "escalation_score": 0.0
+  },
+  "flags": [],
+  "backend": "rule_based",
+  "runs_per_case": 3
+}

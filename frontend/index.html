@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RecoveryBench — Evaluation Infrastructure for AI Debt Collection Agents</title>
+  <meta name="description" content="Benchmark agent responses across intent accuracy, RBI compliance, tone quality, and escalation handling — in any Indian language." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <!-- SECTION 1 — STICKY NAV                                       -->
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <nav class="site-nav" id="site-nav">
+    <div class="nav-inner">
+      <div class="nav-brand">
+        <span class="nav-badge">RB</span>
+        <span class="nav-title">RecoveryBench</span>
+      </div>
+      <div class="nav-links">
+        <a href="https://github.com" target="_blank" rel="noopener noreferrer" class="nav-link-text">GitHub</a>
+        <a href="#demo" class="nav-cta-btn">Try Demo</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <!-- SECTION 2 — HERO                                              -->
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <section class="hero-section" id="hero">
+    <div class="hero-content">
+      <h1 class="hero-headline">Evaluation infrastructure<br/>for AI debt collection agents.</h1>
+      <p class="hero-sub">Benchmark agent responses across intent accuracy, RBI compliance, tone quality, and escalation handling — in any Indian language.</p>
+      <div class="hero-ctas">
+        <a href="#demo" class="btn-hero-primary">Try Live Demo</a>
+        <a href="https://github.com" target="_blank" rel="noopener noreferrer" class="btn-hero-outline">View on GitHub</a>
+      </div>
+
+      <!-- Stats Strip -->
+      <div class="stats-strip">
+        <div class="stat-item">
+          <span class="stat-number">82%</span>
+          <span class="stat-label">Benchmark<br/>Accuracy</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-number">219</span>
+          <span class="stat-label">Tests<br/>Passing</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-number">25</span>
+          <span class="stat-label">RBI Rules<br/>Enforced</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-number">4</span>
+          <span class="stat-label">Languages<br/>Supported</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat-item">
+          <span class="stat-number">1,000</span>
+          <span class="stat-label">Conversations<br/>Simulated</span>
+        </div>
+      </div>
+
+      <!-- Hero Pipeline Mock -->
+      <div class="hero-pipeline-card">
+        <span class="eyebrow teal">PIPELINE TRACE</span>
+        <div class="hero-trace-rows">
+          <div class="hero-trace-row">
+            <span class="trace-dot"></span>
+            <span class="trace-step-name">Language Detection</span>
+            <span class="trace-dots-spacer"></span>
+            <span class="trace-step-val">Hinglish</span>
+          </div>
+          <div class="hero-trace-row">
+            <span class="trace-dot"></span>
+            <span class="trace-step-name">Intent Classification</span>
+            <span class="trace-dots-spacer"></span>
+            <span class="trace-step-val">LIKELY_PAY (0.87)</span>
+          </div>
+          <div class="hero-trace-row">
+            <span class="trace-dot"></span>
+            <span class="trace-step-name">Promise Detection</span>
+            <span class="trace-dots-spacer"></span>
+            <span class="trace-step-val">Yes — 7 days</span>
+          </div>
+          <div class="hero-trace-row">
+            <span class="trace-dot"></span>
+            <span class="trace-step-name">Risk Scoring</span>
+            <span class="trace-dots-spacer"></span>
+            <span class="trace-step-val">0.11 LOW</span>
+          </div>
+          <div class="hero-trace-row">
+            <span class="trace-dot"></span>
+            <span class="trace-step-name">Compliance Check</span>
+            <span class="trace-dots-spacer"></span>
+            <span class="trace-step-val">COMPLIANT</span>
+          </div>
+          <div class="hero-trace-row">
+            <span class="trace-dot"></span>
+            <span class="trace-step-name">Agent Evaluation</span>
+            <span class="trace-dots-spacer"></span>
+            <span class="trace-step-val">8.80 / 10</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <!-- SECTION 3 — HOW IT WORKS                                      -->
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <section class="section-hiw" id="how-it-works">
+    <div class="section-inner">
+      <span class="eyebrow teal">HOW IT WORKS</span>
+      <h2 class="section-heading">Six-stage evaluation pipeline.</h2>
+      <div class="features-grid">
+        <!-- Card 1 -->
+        <div class="feature-card">
+          <svg class="feature-icon" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#14B8A6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"/>
+            <line x1="2" y1="12" x2="22" y2="12"/>
+            <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+          </svg>
+          <h3 class="feature-title">Multilingual Intent Detection</h3>
+          <p class="feature-body">Classifies borrower intent across English, Hindi, Bengali, and Hinglish. Fine-tuned TF-IDF classifier with ALREADY_PAID keyword override. Supports 6 intent classes including DISPUTE, HIGH_RISK, and VAGUE.</p>
+        </div>
+        <!-- Card 2 -->
+        <div class="feature-card">
+          <svg class="feature-icon" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#14B8A6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="20" x2="18" y2="10"/>
+            <line x1="12" y1="20" x2="12" y2="4"/>
+            <line x1="6" y1="20" x2="6" y2="14"/>
+          </svg>
+          <h3 class="feature-title">Risk &amp; Promise Scoring</h3>
+          <p class="feature-body">XGBoost risk scorer (0–1) with feature importance analysis. Promise parser extracts payment timelines from 95+ multilingual temporal patterns across all four supported languages.</p>
+        </div>
+        <!-- Card 3 -->
+        <div class="feature-card">
+          <svg class="feature-icon" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#14B8A6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+          </svg>
+          <h3 class="feature-title">RBI Compliance Engine</h3>
+          <p class="feature-body">25 RBI-grounded rules across threats, harassment, coercion, abusive language, and false claims. 233 detection patterns, zero false positives on the test set.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <!-- SECTION 4 — BENCHMARK                                         -->
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <section class="section-benchmark" id="benchmark">
+    <div class="section-inner">
+      <span class="eyebrow teal">RECOVERYBENCH-100</span>
+      <h2 class="section-heading">An external benchmark built for debt recovery.</h2>
+      <div class="benchmark-grid">
+        <div class="benchmark-chart-wrap">
+          <p class="chart-title">Intent Accuracy — RecoveryBench-100</p>
+          <div style="position:relative; height:220px; width:100%;">
+            <canvas id="benchmark-chart"></canvas>
+          </div>
+        </div>
+        <div class="benchmark-stats-grid">
+          <div class="bstat-card">
+            <span class="bstat-num">82%</span>
+            <span class="bstat-label">Overall Accuracy</span>
+          </div>
+          <div class="bstat-card">
+            <span class="bstat-num">85%</span>
+            <span class="bstat-label">Promise Detection</span>
+          </div>
+          <div class="bstat-card">
+            <span class="bstat-num">100%</span>
+            <span class="bstat-label">LIKELY_PAY Accuracy</span>
+          </div>
+          <div class="bstat-card">
+            <span class="bstat-num">4</span>
+            <span class="bstat-label">Languages Tested</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <!-- SECTION 5 — LIVE DEMO                                         -->
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <section class="section-demo" id="demo">
+    <div class="section-inner">
+      <span class="eyebrow teal">LIVE DEMO</span>
+      <h2 class="section-heading">Evaluate a conversation.</h2>
+      <p class="section-sub">The full evaluation pipeline runs against your local API. No data leaves your machine.</p>
+
+      <!-- Tab bar -->
+      <div class="demo-tabs">
+        <button class="tab-btn active" data-tab="text" id="tab-btn-text">Text Analysis</button>
+        <button class="tab-btn" data-tab="audio" id="tab-btn-audio">Audio Analysis</button>
+        <button class="tab-btn" data-tab="leaderboard" id="tab-btn-leaderboard">Agent Leaderboard</button>
+      </div>
+
+      <!-- ── TEXT ANALYSIS TAB ────────────────────────────────────── -->
+      <div class="tab-content active" id="tab-text">
+        <div class="demo-columns">
+          <!-- Left Panel -->
+          <div class="demo-panel-left">
+            <label class="eyebrow teal field-label">BORROWER MESSAGE</label>
+            <textarea id="borrower-input" class="demo-textarea" rows="3" placeholder="e.g. Bhai salary nahi aayi, agle hafte kar dunga payment"></textarea>
+
+            <label class="field-label">
+              <span class="eyebrow teal">AGENT RESPONSE</span>
+              <span class="optional-hint">(optional)</span>
+            </label>
+            <textarea id="agent-input" class="demo-textarea" rows="3" placeholder="e.g. Your EMI is 15 days overdue. Pay immediately or face legal action."></textarea>
+
+            <div class="selects-row">
+              <div class="select-group">
+                <label class="select-label" for="language-select">Language</label>
+                <select id="language-select" class="demo-select">
+                  <option value="">Auto-detect</option>
+                  <option value="en">English</option>
+                  <option value="hi">Hindi</option>
+                  <option value="bn">Bengali</option>
+                  <option value="hinglish">Hinglish</option>
+                </select>
+              </div>
+              <div class="select-group">
+                <label class="select-label" for="evaluator-select">Evaluator</label>
+                <select id="evaluator-select" class="demo-select">
+                  <option value="">Rule-based</option>
+                  <option value="groq">Groq LLM</option>
+                </select>
+              </div>
+            </div>
+
+            <button id="analyze-btn" class="btn-run" type="button">
+              <span class="btn-label">Run Evaluation</span>
+              <span class="btn-spinner" aria-hidden="true"></span>
+            </button>
+
+            <div class="example-divider"></div>
+            <span class="eyebrow teal example-label">TRY AN EXAMPLE</span>
+            <div class="example-chips">
+              <button class="example-chip"
+                data-borrower="kal kar dunga payment bhai"
+                data-agent="Your EMI is 15 days overdue. Pay immediately or legal action will be taken.">
+                Likely Pay + Threat
+              </button>
+              <button class="example-chip"
+                data-borrower="maine pehle hi payment kar diya hai, check karo"
+                data-agent="">
+                Already Paid Claim
+              </button>
+              <button class="example-chip"
+                data-borrower="ye galat amount hai, maine itna loan nahi liya"
+                data-agent="">
+                Amount Dispute
+              </button>
+              <button class="example-chip"
+                data-borrower="police ko bulao, mujhe fark nahi padta"
+                data-agent="I understand your frustration. Let me connect you with a senior specialist.">
+                Hostile Refusal
+              </button>
+            </div>
+          </div>
+
+          <!-- Right Panel — Results -->
+          <div class="demo-panel-right">
+            <!-- Empty State -->
+            <div id="empty-state" class="demo-empty-state">
+              <div class="empty-mark">RB</div>
+              <p class="empty-text">Run an evaluation to see results.</p>
+            </div>
+
+            <!-- Error State -->
+            <div id="error-state" class="demo-error-state hidden">
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" aria-hidden="true">
+                <circle cx="20" cy="20" r="18" stroke="#EF4444" stroke-width="2" />
+                <path d="M20 12v10M20 26v2" stroke="#EF4444" stroke-width="2.5" stroke-linecap="round" />
+              </svg>
+              <p id="error-message" class="error-msg">Something went wrong.</p>
+            </div>
+
+            <!-- Results Content -->
+            <div id="results-content" class="results-content hidden">
+              <!-- Pipeline Trace (animated) -->
+              <div class="trace-panel">
+                <span class="eyebrow teal">PIPELINE TRACE</span>
+                <ol id="trace-list" class="trace-list">
+                  <li class="trace-step" data-step="lang">
+                    <span class="trace-dot-live"></span>
+                    <span class="trace-name">Language Detection</span>
+                    <span class="trace-val"></span>
+                  </li>
+                  <li class="trace-step" data-step="intent">
+                    <span class="trace-dot-live"></span>
+                    <span class="trace-name">Intent Classification</span>
+                    <span class="trace-val"></span>
+                  </li>
+                  <li class="trace-step" data-step="promise">
+                    <span class="trace-dot-live"></span>
+                    <span class="trace-name">Promise Detection</span>
+                    <span class="trace-val"></span>
+                  </li>
+                  <li class="trace-step" data-step="risk">
+                    <span class="trace-dot-live"></span>
+                    <span class="trace-name">Risk Scoring</span>
+                    <span class="trace-val"></span>
+                  </li>
+                  <li class="trace-step" data-step="compliance">
+                    <span class="trace-dot-live"></span>
+                    <span class="trace-name">Compliance Check</span>
+                    <span class="trace-val"></span>
+                  </li>
+                  <li class="trace-step" data-step="eval">
+                    <span class="trace-dot-live"></span>
+                    <span class="trace-name">Agent Evaluation</span>
+                    <span class="trace-val"></span>
+                  </li>
+                </ol>
+              </div>
+
+              <!-- Summary Cards -->
+              <div class="summary-cards-row">
+                <!-- Risk -->
+                <div class="summary-card">
+                  <h3 class="card-eyebrow">Risk Score</h3>
+                  <div class="gauge-wrap">
+                    <svg class="risk-gauge" viewBox="0 0 120 120">
+                      <circle cx="60" cy="60" r="50" stroke="#27272A" stroke-width="10" fill="none" />
+                      <circle id="risk-gauge-fill" cx="60" cy="60" r="50" stroke="#14B8A6"
+                        stroke-width="10" fill="none" stroke-linecap="round"
+                        stroke-dasharray="314" stroke-dashoffset="314"
+                        transform="rotate(-90 60 60)" />
+                    </svg>
+                    <div class="gauge-inner">
+                      <span id="risk-value" class="gauge-number">—</span>
+                      <span id="risk-band" class="gauge-band">—</span>
+                    </div>
+                  </div>
+                </div>
+                <!-- Intent -->
+                <div class="summary-card">
+                  <h3 class="card-eyebrow">Intent</h3>
+                  <span id="intent-value" class="intent-mono">—</span>
+                  <div class="confidence-bar-wrap">
+                    <div class="confidence-track">
+                      <div id="intent-confidence-fill" class="confidence-fill"></div>
+                    </div>
+                    <span id="intent-confidence-label" class="confidence-label">—</span>
+                  </div>
+                </div>
+                <!-- Promise -->
+                <div class="summary-card">
+                  <h3 class="card-eyebrow">Promise to Pay</h3>
+                  <span id="promise-value" class="promise-big">—</span>
+                  <span id="promise-window" class="promise-window"></span>
+                </div>
+              </div>
+
+              <!-- Compliance -->
+              <div class="compliance-block">
+                <span class="eyebrow teal">COMPLIANCE</span>
+                <span id="compliance-status" class="compliance-tag">—</span>
+                <ul id="compliance-list" class="compliance-list">
+                  <li>Waiting for analysis…</li>
+                </ul>
+              </div>
+
+              <!-- Agent Eval Scorecard -->
+              <div id="eval-block" class="eval-block hidden">
+                <span class="eyebrow teal">AGENT SCORECARD</span>
+                <div class="eval-header-row">
+                  <span id="overall-score" class="overall-score-big">—</span>
+                  <span id="overall-score-tag" class="overall-score-tag">—</span>
+                </div>
+
+                <!-- Radar Chart -->
+                <div class="radar-wrap" style="position:relative; height:360px; width:100%;">
+                  <canvas id="radar-chart"></canvas>
+                </div>
+                <div id="radar-score-pills" class="radar-score-pills"></div>
+
+                <!-- Suggestion -->
+                <div class="suggestion-block">
+                  <span class="eyebrow purple">SUGGESTED IMPROVEMENT</span>
+                  <p id="suggestion-text" class="suggestion-text">—</p>
+                </div>
+              </div>
+
+              <!-- Raw JSON -->
+              <details class="json-details">
+                <summary class="json-summary">Raw response</summary>
+                <pre id="json-output" class="json-pre"></pre>
+              </details>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── AUDIO ANALYSIS TAB ───────────────────────────────────── -->
+      <div class="tab-content" id="tab-audio">
+        <div class="demo-columns">
+          <!-- Left panel -->
+          <div class="demo-panel-left">
+            <div class="upload-zone" id="audio-drop-zone">
+              <svg width="48" height="48" viewBox="0 0 48 48" fill="none" aria-hidden="true">
+                <circle cx="24" cy="24" r="22" stroke="#27272A" stroke-width="2" stroke-dasharray="4 4"/>
+                <path d="M24 14v14M18 22l6-6 6 6" stroke="#14B8A6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M16 32h16" stroke="#14B8A6" stroke-width="2" stroke-linecap="round"/>
+              </svg>
+              <p class="upload-label">Drag &amp; drop audio file or <span class="upload-link">browse</span></p>
+              <p class="upload-hint">Supports .mp3, .wav, .flac, .ogg, .m4a, .webm</p>
+              <input type="file" id="audio-file-input" accept=".mp3,.wav,.flac,.ogg,.m4a,.webm" hidden />
+            </div>
+
+            <div id="audio-file-info" class="file-info hidden">
+              <span id="audio-file-name" class="file-name"></span>
+              <button id="audio-clear-btn" class="file-clear-btn" title="Clear file">✕</button>
+            </div>
+
+            <button id="audio-analyze-btn" class="btn-run" type="button" disabled>
+              <span class="btn-label">Transcribe &amp; Analyze</span>
+              <span class="btn-spinner" aria-hidden="true"></span>
+            </button>
+          </div>
+
+          <!-- Right panel -->
+          <div class="demo-panel-right">
+            <div id="audio-empty-state" class="demo-empty-state">
+              <div class="empty-mark">RB</div>
+              <p class="empty-text">Upload an audio file to see results.</p>
+            </div>
+
+            <div id="audio-error-state" class="demo-error-state hidden">
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none"><circle cx="20" cy="20" r="18" stroke="#EF4444" stroke-width="2"/><path d="M20 12v10M20 26v2" stroke="#EF4444" stroke-width="2.5" stroke-linecap="round"/></svg>
+              <p id="audio-error-message" class="error-msg">Something went wrong.</p>
+            </div>
+
+            <div id="audio-results-content" class="results-content hidden">
+              <!-- Transcript -->
+              <div id="audio-transcript-block" class="transcript-block hidden">
+                <span class="eyebrow teal">TRANSCRIPT</span>
+                <div id="audio-transcript-content" class="transcript-content"></div>
+              </div>
+
+              <!-- Audio metadata -->
+              <div class="audio-meta-row">
+                <div class="meta-item"><span class="meta-key">Duration</span><span id="audio-duration" class="meta-val">—</span></div>
+                <div class="meta-item"><span class="meta-key">ASR Model</span><span id="audio-asr-model" class="meta-val">—</span></div>
+                <div class="meta-item"><span class="meta-key">Diarization</span><span id="audio-diarization" class="meta-val">—</span></div>
+                <div class="meta-item"><span class="meta-key">Processing Time</span><span id="audio-proc-time" class="meta-val">—</span></div>
+              </div>
+
+              <!-- Reuses same structure as text tab with audio- prefix -->
+              <div class="summary-cards-row">
+                <div class="summary-card">
+                  <h3 class="card-eyebrow">Risk Score</h3>
+                  <div class="gauge-wrap">
+                    <svg class="risk-gauge" viewBox="0 0 120 120">
+                      <circle cx="60" cy="60" r="50" stroke="#27272A" stroke-width="10" fill="none" />
+                      <circle id="audio-risk-gauge-fill" cx="60" cy="60" r="50" stroke="#14B8A6"
+                        stroke-width="10" fill="none" stroke-linecap="round"
+                        stroke-dasharray="314" stroke-dashoffset="314"
+                        transform="rotate(-90 60 60)" />
+                    </svg>
+                    <div class="gauge-inner">
+                      <span id="audio-risk-value" class="gauge-number">—</span>
+                      <span id="audio-risk-band" class="gauge-band">—</span>
+                    </div>
+                  </div>
+                </div>
+                <div class="summary-card">
+                  <h3 class="card-eyebrow">Intent</h3>
+                  <span id="audio-intent-value" class="intent-mono">—</span>
+                  <div class="confidence-bar-wrap">
+                    <div class="confidence-track"><div id="audio-intent-confidence-fill" class="confidence-fill"></div></div>
+                    <span id="audio-intent-confidence-label" class="confidence-label">—</span>
+                  </div>
+                </div>
+                <div class="summary-card">
+                  <h3 class="card-eyebrow">Promise to Pay</h3>
+                  <span id="audio-promise-value" class="promise-big">—</span>
+                  <span id="audio-promise-window" class="promise-window"></span>
+                </div>
+              </div>
+
+              <div class="compliance-block">
+                <span class="eyebrow teal">COMPLIANCE</span>
+                <span id="audio-compliance-status" class="compliance-tag">—</span>
+                <ul id="audio-compliance-list" class="compliance-list"><li>Waiting for analysis…</li></ul>
+              </div>
+
+              <div id="audio-eval-block" class="eval-block hidden">
+                <span class="eyebrow teal">AGENT SCORECARD</span>
+                <div class="eval-header-row">
+                  <span id="audio-overall-score" class="overall-score-big">—</span>
+                  <span id="audio-overall-score-tag" class="overall-score-tag">—</span>
+                </div>
+                <div class="score-bars">
+                  <div class="score-row"><span class="score-row-label">Intent Accuracy</span><div class="score-track"><div id="audio-bar-intent_accuracy" class="score-fill"></div></div><span id="audio-num-intent_accuracy" class="score-num">—</span></div>
+                  <div class="score-row"><span class="score-row-label">Tone</span><div class="score-track"><div id="audio-bar-tone_score" class="score-fill"></div></div><span id="audio-num-tone_score" class="score-num">—</span></div>
+                  <div class="score-row"><span class="score-row-label">Compliance</span><div class="score-track"><div id="audio-bar-compliance_score" class="score-fill"></div></div><span id="audio-num-compliance_score" class="score-num">—</span></div>
+                  <div class="score-row"><span class="score-row-label">Escalation</span><div class="score-track"><div id="audio-bar-escalation_score" class="score-fill"></div></div><span id="audio-num-escalation_score" class="score-num">—</span></div>
+                </div>
+                <div class="suggestion-block">
+                  <span class="eyebrow purple">SUGGESTED IMPROVEMENT</span>
+                  <p id="audio-suggestion-text" class="suggestion-text">—</p>
+                </div>
+              </div>
+
+              <details class="json-details">
+                <summary class="json-summary">Raw response</summary>
+                <pre id="audio-json-output" class="json-pre"></pre>
+              </details>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── AGENT LEADERBOARD TAB ────────────────────────────────── -->
+      <div class="tab-content" id="tab-leaderboard">
+        <div class="leaderboard-wrap">
+          <div class="lb-input-row">
+            <textarea id="leaderboard-input" class="demo-textarea lb-textarea" rows="6"
+              placeholder="Format: borrower|agent (one per line)&#10;kal kar dunga bhai|Your EMI is overdue. Pay immediately.&#10;ye galat amount hai|We'll verify your records and get back to you."></textarea>
+          </div>
+          <div class="lb-actions">
+            <button id="leaderboard-score-btn" class="btn-run" type="button">
+              <span class="btn-label">Score All</span>
+              <span class="btn-spinner" aria-hidden="true"></span>
+            </button>
+            <button id="leaderboard-export-btn" class="btn-outline-sm" type="button" disabled>Export CSV</button>
+          </div>
+
+          <div id="leaderboard-progress" class="progress-bar-wrap hidden">
+            <div class="progress-track"><div id="leaderboard-progress-fill" class="progress-fill"></div></div>
+            <span id="leaderboard-progress-label" class="progress-label">0 / 0</span>
+          </div>
+
+          <div id="leaderboard-empty-state" class="demo-empty-state">
+            <div class="empty-mark">RB</div>
+            <p class="empty-text">Paste conversation logs and click Score All to build the leaderboard.</p>
+          </div>
+
+          <div id="leaderboard-error-state" class="demo-error-state hidden">
+            <svg width="40" height="40" viewBox="0 0 40 40" fill="none"><circle cx="20" cy="20" r="18" stroke="#EF4444" stroke-width="2"/><path d="M20 12v10M20 26v2" stroke="#EF4444" stroke-width="2.5" stroke-linecap="round"/></svg>
+            <p id="leaderboard-error-message" class="error-msg">Something went wrong.</p>
+          </div>
+
+          <div id="leaderboard-results" class="leaderboard-table-wrap hidden">
+            <div class="lb-summary-strip">
+              <span><strong id="lb-total-count">0</strong> conversations scored</span>
+              <span>Avg: <strong id="lb-avg-score">—</strong>/10</span>
+              <span>Best: <strong id="lb-best-score">—</strong>/10</span>
+              <span>Worst: <strong id="lb-worst-score">—</strong>/10</span>
+            </div>
+            <div class="table-scroll">
+              <table class="leaderboard-table">
+                <thead>
+                  <tr>
+                    <th>#</th>
+                    <th>Borrower</th>
+                    <th>Agent</th>
+                    <th>Intent</th>
+                    <th>Risk</th>
+                    <th>Overall Score</th>
+                  </tr>
+                </thead>
+                <tbody id="leaderboard-tbody"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <!-- SECTION 6 — FOOTER                                            -->
+  <!-- ══════════════════════════════════════════════════════════════ -->
+  <footer class="site-footer">
+    <p>RecoveryBench v1.0.0</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

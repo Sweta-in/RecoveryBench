@@ -1,0 +1,76 @@
+{
+  "generated_at": "2026-06-13T09:18:11.362985",
+  "total_conversations": 1000,
+  "seed": 42,
+  "intent_distribution": {
+    "ALREADY_PAID": 165,
+    "DISPUTE": 166,
+    "HIGH_RISK": 166,
+    "LIKELY_PAY": 171,
+    "NEEDS_REMINDER": 165,
+    "VAGUE": 167
+  },
+  "language_distribution": {
+    "Bengali": 249,
+    "English": 251,
+    "Hindi": 250,
+    "Hinglish": 250
+  },
+  "agent_style_distribution": {
+    "aggressive": 203,
+    "empathetic": 206,
+    "firm": 175,
+    "mechanical": 221,
+    "professional": 195
+  },
+  "borrower_persona_distribution": {
+    "Already Paid": 165,
+    "Conditional Payer": 91,
+    "Cooperative Payer": 58,
+    "Distressed Borrower": 75,
+    "Evasive Talker": 76,
+    "Forgetful Borrower": 90,
+    "Genuine Disputant": 166,
+    "Hostile Refuser": 166,
+    "Partial Payer": 44,
+    "Salary Delay": 69
+  },
+  "turn_count_distribution": {
+    "3": 248,
+    "5": 251,
+    "7": 254,
+    "9": 247
+  },
+  "compliance_distribution": {
+    "non-compliant": 424,
+    "compliant": 576
+  },
+  "intent_x_language": {
+    "ALREADY_PAID_Bengali": 41,
+    "ALREADY_PAID_English": 41,
+    "ALREADY_PAID_Hindi": 41,
+    "ALREADY_PAID_Hinglish": 42,
+    "DISPUTE_Bengali": 42,
+    "DISPUTE_English": 41,
+    "DISPUTE_Hindi": 42,
+    "DISPUTE_Hinglish": 41,
+    "HIGH_RISK_Bengali": 42,
+    "HIGH_RISK_English": 41,
+    "HIGH_RISK_Hindi": 41,
+    "HIGH_RISK_Hinglish": 42,
+    "LIKELY_PAY_Bengali": 42,
+    "LIKELY_PAY_English": 43,
+    "LIKELY_PAY_Hindi": 43,
+    "LIKELY_PAY_Hinglish": 43,
+    "NEEDS_REMINDER_Bengali": 41,
+    "NEEDS_REMINDER_English": 42,
+    "NEEDS_REMINDER_Hindi": 41,
+    "NEEDS_REMINDER_Hinglish": 41,
+    "VAGUE_Bengali": 41,
+    "VAGUE_English": 43,
+    "VAGUE_Hindi": 42,
+    "VAGUE_Hinglish": 41
+  },
+  "avg_turns": 6.0,
+  "total_messages": 6000
+}

@@ -1,0 +1,101 @@
+text,true_label,predicted_label,confidence,language,hard_reason
+Partial 5th e korechilem ar baki 5th e boss???,ALREADY_PAID,DISPUTE,0.3419,Bengali,misclassified
+Dude acCOUnt seTtle kOrE diyeChI,ALREADY_PAID,DISPUTE,0.3195,Bengali,misclassified
+Mere Mere co-applicant ne pay kar diya hai yaar,DISPUTE,ALREADY_PAID,0.95,Hindi,misclassified
+I transffrred via bank transfer on 25th,ALREADY_PAID,DISPUTE,0.4832,English,misclassified
+"I have the UTR number, want to see?",ALREADY_PAID,HIGH_RISK,0.3507,English,misclassified
+Ok Ok so the EMI was deducted from my account,ALREADY_PAID,NEEDS_REMINDER,0.4281,English,misclassified
+Kaun sa loan hai 🙂,NEEDS_REMINDER,DISPUTE,0.3475,Hindi,misclassified
+Arey pAYMENT PROOF EMAIL MEIN HAI 💰,ALREADY_PAID,LIKELY_PAY,0.4462,Hindi,misclassified
+"App diye pay korechi, transaction ID ache",ALREADY_PAID,DISPUTE,0.5726,Bengali,misclassified
+RBI mein complaint kar chuka hun,HIGH_RISK,ALREADY_PAID,0.95,Hindi,misclassified
+"Mera CA dekhta hai ye sab, usse puchta hun",NEEDS_REMINDER,VAGUE,0.3299,Hindi,misclassified
+"NEFT korechilem Shukrobar er moddhe, reflect howar kotha 🤷",ALREADY_PAID,DISPUTE,0.3483,Bengali,misclassified
+"Ok so alReaDy cleAreD, DOn'T CaLl aGaIn For ThIs 🙂",ALREADY_PAID,HIGH_RISK,0.3791,English,misclassified
+Paytm diye pathiye diyechi taka,ALREADY_PAID,LIKELY_PAY,0.5941,Bengali,misclassified
+"Payment proof is in my email, can forward",ALREADY_PAID,LIKELY_PAY,0.4153,English,misclassified
+"See proof hai payment ka, bhej dun thx",ALREADY_PAID,LIKELY_PAY,0.6156,Hinglish,misclassified
+"Paid in full, you should have it",ALREADY_PAID,DISPUTE,0.3392,Hinglish,misclassified
+"Check 5th credit, woh mera payment hai",ALREADY_PAID,DISPUTE,0.7151,Hinglish,misclassified
+"Proof hai payment ka, bhejun sir",ALREADY_PAID,LIKELY_PAY,0.6065,Hindi,misclassified
+Got confirmation after paying bhai,ALREADY_PAID,LIKELY_PAY,0.4375,Hinglish,misclassified
+Transaction shuru kore diyechi,LIKELY_PAY,DISPUTE,0.4092,Bengali,misclassified
+Dekho pAYMENT HO CHUKA HAI,ALREADY_PAID,LIKELY_PAY,0.5387,Hindi,misclassified
+Bhai aUTO-DEBIT 10TH E HOYECHHILO,ALREADY_PAID,NEEDS_REMINDER,0.6802,Bengali,misclassified
+"NEFT kiya tha ek hafte mein, reflect hona chahiye",ALREADY_PAID,DISPUTE,0.4117,Hindi,misclassified
+"Dekho this is resolved, payment was made",ALREADY_PAID,LIKELY_PAY,0.3863,English,misclassified
+"Honestly app se paid, transaction id available hai !!",ALREADY_PAID,DISPUTE,0.4446,Hinglish,misclassified
+"App se se paid, transaction ID available hai !!!!",ALREADY_PAID,DISPUTE,0.5199,Hinglish,misclassified
+"I did the NEFT in 2 days, it should reflect",ALREADY_PAID,LIKELY_PAY,0.3764,English,misclassified
+The amount has already been paid,ALREADY_PAID,DISPUTE,0.8158,English,misclassified
+Partial Partial 20th ko kiya tha aur baaki 20th ko,ALREADY_PAID,DISPUTE,0.2778,Hindi,misclassified
+Well transaction reference number check karo thx,ALREADY_PAID,DISPUTE,0.4748,Hindi,misclassified
+Transfer kiya tha Google Pay se on last month,ALREADY_PAID,LIKELY_PAY,0.4553,Hinglish,misclassified
+Partial on 5th kiya tha and rest on 5th,ALREADY_PAID,DISPUTE,0.4377,Hinglish,misclassified
+EMI account se kat gayi,ALREADY_PAID,NEEDS_REMINDER,0.5493,Hindi,misclassified
+"Definitely paid, here's my transaction screenshot",ALREADY_PAID,DISPUTE,0.5744,English,misclassified
+Months pehle pay kiya tha yaar,ALREADY_PAID,NEEDS_REMINDER,0.3159,Hinglish,misclassified
+Actually auTO-debIT sE CoVEr hO gaYi ThI Emi 🙏,ALREADY_PAID,NEEDS_REMINDER,0.815,Hindi,misclassified
+Dude onek age pay kore diyechilem plz,ALREADY_PAID,LIKELY_PAY,0.3632,Bengali,misclassified
+Haan emi aCCount Theke Kete gEChE,ALREADY_PAID,NEEDS_REMINDER,0.4892,Bengali,misclassified
+AUTO-DEBIT 25TH 25TH E HOYECHHILO,ALREADY_PAID,NEEDS_REMINDER,0.5378,Bengali,misclassified
+Arey dui bar pay korechi actually,ALREADY_PAID,LIKELY_PAY,0.3078,Bengali,misclassified
+Ami 10th e pay korechi yaar,ALREADY_PAID,DISPUTE,0.6086,Bengali,misclassified
+"Receipt hai mere paas, bhejun?",DISPUTE,ALREADY_PAID,0.95,Hindi,misclassified
+Transfer kiya tha PhonePe se on last month,ALREADY_PAID,DISPUTE,0.5411,Hinglish,misclassified
+"Bhai paise rakh diye hain, just need to transfer",LIKELY_PAY,ALREADY_PAID,0.95,Hinglish,misclassified
+"Call karte raho, dekh lena kya hota hai",HIGH_RISK,VAGUE,0.3789,Hindi,misclassified
+Taka Taka ber hoye geche account theke sir,ALREADY_PAID,LIKELY_PAY,0.4129,Bengali,misclassified
+"Well ye solve ho gaya hai, payment hua boss",ALREADY_PAID,LIKELY_PAY,0.552,Hindi,misclassified
+"Dekho payment proof proof email mein hai, forward karun yaar",ALREADY_PAID,LIKELY_PAY,0.5106,Hinglish,misclassified
+"Haan check your records, I don't owe this much na?",DISPUTE,ALREADY_PAID,0.95,English,misclassified
+phonepe diye transfer transfer kore diyechi,ALREADY_PAID,LIKELY_PAY,0.67,Bengali,misclassified
+"Well check your system, I paid via cheque",ALREADY_PAID,DISPUTE,0.7642,English,misclassified
+"Actually i have the payment receipt, shall I share?",DISPUTE,LIKELY_PAY,0.4135,English,misclassified
+"My bank shows the debit, payment is done",ALREADY_PAID,DISPUTE,0.5054,English,misclassified
+"Amar CA dekhe ei shob, take jigges kori",NEEDS_REMINDER,DISPUTE,0.2892,Bengali,misclassified
+I need to talk to my spouse first,NEEDS_REMINDER,HIGH_RISK,0.2642,English,misclassified
+"I'll take care of it, don't keep calling",NEEDS_REMINDER,HIGH_RISK,0.4564,English,misclassified
+Yaar bank mein debit dikha raha hai ok?!!,ALREADY_PAID,DISPUTE,0.3502,Hindi,misclassified
+"Check last month credit, woh mera payment hai",ALREADY_PAID,DISPUTE,0.6895,Hinglish,misclassified
+"i did the neft this weekend, it should reflect",ALREADY_PAID,LIKELY_PAY,0.324,English,misclassified
+Madam uPI se pay kiya already,ALREADY_PAID,LIKELY_PAY,0.4347,Hinglish,misclassified
+"Actually proof hai payment ka, bhejun?",ALREADY_PAID,LIKELY_PAY,0.525,Hindi,misclassified
+I sent the money through NEFT,ALREADY_PAID,LIKELY_PAY,0.2835,English,misclassified
+I made partial payment on 15th and rest on 15th,ALREADY_PAID,LIKELY_PAY,0.4237,English,misclassified
+"Hoye geche, geche, records update koro 🙏!!",ALREADY_PAID,NEEDS_REMINDER,0.3953,Bengali,misclassified
+"Dekho ye solve ho gaya hai, payment hua",ALREADY_PAID,LIKELY_PAY,0.5843,Hindi,misclassified
+kaal call koro ei byapare ...!!,NEEDS_REMINDER,HIGH_RISK,0.3563,Bengali,misclassified
+My side se transaction successful,ALREADY_PAID,DISPUTE,0.7123,Hinglish,misclassified
+"Check please, my payment was successful",ALREADY_PAID,DISPUTE,0.6524,Hinglish,misclassified
+ACCOUNT SETTLE KORE KORE DIYECHI,ALREADY_PAID,DISPUTE,0.3171,Bengali,misclassified
+UTR number hai mere paas,ALREADY_PAID,HIGH_RISK,0.4282,Hindi,misclassified
+Acha rTGS diye diye pathiye diyechi taka,ALREADY_PAID,LIKELY_PAY,0.5832,Bengali,misclassified
+Haan months pehle pay kiya tha yaar thanks,ALREADY_PAID,NEEDS_REMINDER,0.3632,Hinglish,misclassified
+"Shob pay kore diyechi, kichu pending nei",ALREADY_PAID,DISPUTE,0.3425,Bengali,misclassified
+"Taka pathiye pathiye diyechi, check koro",ALREADY_PAID,DISPUTE,0.4161,Bengali,misclassified
+Cheshta korbo taratari,LIKELY_PAY,NEEDS_REMINDER,0.3067,Bengali,misclassified
+"NEFT kiya tha agle hafte, reflect hona chahiye",ALREADY_PAID,DISPUTE,0.4215,Hindi,misclassified
+Ok so phonePe diye 1st e transfer korechilem.,ALREADY_PAID,DISPUTE,0.4886,Bengali,misclassified
+Well uTR number ache amar kache,ALREADY_PAID,HIGH_RISK,0.3761,Bengali,misclassified
+Bhai partial on 15th kiya tha and rest on 15th 😡,ALREADY_PAID,DISPUTE,0.4833,Hinglish,misclassified
+"Look check please, my paymt was successful???",ALREADY_PAID,DISPUTE,0.5997,Hinglish,misclassified
+"Pakka pay kiya hai, screenshot hai",ALREADY_PAID,LIKELY_PAY,0.6029,Hindi,misclassified
+Acha rBI mein complaint kar chuka hun 💰???,HIGH_RISK,ALREADY_PAID,0.95,Hindi,misclassified
+i made the payment by end of month,ALREADY_PAID,LIKELY_PAY,0.8774,English,misclassified
+Arey bank statement e clear ache paymt,ALREADY_PAID,DISPUTE,0.4414,Bengali,misclassified
+Yaar due date Er Age-i koRe dIyEChilem 🙂,ALREADY_PAID,NEEDS_REMINDER,0.5148,Bengali,misclassified
+Listen pArTIal 5th ko kiya tHa aur BaakI 5tH ko,ALREADY_PAID,DISPUTE,0.3376,Hindi,misclassified
+Amar dik theke transaction successful,ALREADY_PAID,DISPUTE,0.7762,Bengali,misclassified
+MUJHE 4 DIN AUR CHAHIYE BAS yaar,LIKELY_PAY,LIKELY_PAY,0.4121,Hindi,low_confidence
+Eta josuli,HIGH_RISK,HIGH_RISK,0.3906,Bengali,low_confidence
+Mujhe 5 din aur chahiye bas ok?,LIKELY_PAY,LIKELY_PAY,0.415,Hindi,low_confidence
+Arey i'll handle it my way!!,HIGH_RISK,HIGH_RISK,0.3795,Hinglish,low_confidence
+lEt Me sEe na?,VAGUE,VAGUE,0.4883,English,low_confidence
+Basically whatevER,VAGUE,VAGUE,0.439,English,low_confidence
+Arey tHik acHE,VAGUE,VAGUE,0.4667,Bengali,low_confidence
+Numbers don't add up yaar thanks,DISPUTE,DISPUTE,0.4672,Hinglish,low_confidence
+AMI SHEI LOK NA JAKE KHUJCHO boss,HIGH_RISK,HIGH_RISK,0.4804,Bengali,low_confidence
+Something like that hi hai,VAGUE,VAGUE,0.4693,Hinglish,low_confidence
+Dekho give me 2 days to sort this 👍,NEEDS_REMINDER,NEEDS_REMINDER,0.4873,Hinglish,low_confidence
+"Actually don't worry yaar, karke dunga thanks",LIKELY_PAY,LIKELY_PAY,0.4944,Hinglish,low_confidence

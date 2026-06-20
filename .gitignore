@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Model files (large formats only — small .pkl and .json are committed)
+*.pt
+*.bin
+*.safetensors
+*.onnx
+mlruns/
+
+# Audio files
+*.wav
+*.mp3
+*.flac
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project-specific
+traces/logs/
+tmp/
+
+# Large files
+*.tar.gz
+*.zip
