@@ -1,0 +1,2280 @@
+text,label,language,split
+Apna kaam karo ...,HIGH_RISK,Hindi,train
+"Honestly ekhon taka taka nei, agle shoptahe porjonto wait koro boss",LIKELY_PAY,Bengali,train
+Listen statement pawa jabe?!!,NEEDS_REMINDER,Bengali,train
+"Boss bro let me arrange, 3 din mein tak done",LIKELY_PAY,Hinglish,train
+Baad mein shayad,VAGUE,Hindi,train
+Can't promise promise anything,VAGUE,English,train
+manager manager se baat karao mujhe 🙂,DISPUTE,Hindi,train
+"etA onYo onYo karO Loan, AMAr na",DISPUTE,Bengali,train
+Yaar eMI ka paisa alag set hai,LIKELY_PAY,Hinglish,train
+Arey my lawyer will handle this,HIGH_RISK,English,train
+I wasn't aware it was overdue ok?!!,NEEDS_REMINDER,English,train
+Bolte parbo na shotti,VAGUE,Bengali,train
+"Haan jani, ek shoptahe e korbo ok?",LIKELY_PAY,Bengali,train
+"Basically my balance should be zero, I completed all payments 😢",DISPUTE,English,train
+"Basically account number dao, ekhon transfer kori!!",LIKELY_PAY,Bengali,train
+Kichu debar nei amar yaar???,HIGH_RISK,Bengali,train
+Bas thoda sa wait karo,LIKELY_PAY,Hindi,train
+Bhebhe dekhbo yaar,VAGUE,Bengali,train
+Haan pata hi nahi chala late ho gaya boss!!,NEEDS_REMINDER,Hindi,train
+Hey ekhono unpaid keno?,DISPUTE,Bengali,train
+Listen 20th ka transaction check karo,DISPUTE,Hindi,train
+Dekhi asap,VAGUE,Bengali,train
+Sochunga iske baare mein boss,VAGUE,Hindi,train
+Hey pAYMENT pAYMENT HO JAYEGA BY WEDNESDAY,LIKELY_PAY,Hinglish,train
+Haan you people have no shame,HIGH_RISK,English,train
+"Promise korchi, kaal e!!",LIKELY_PAY,Bengali,train
+Haan caN't say rIght NoW!!,VAGUE,English,train
+Bhai notification nahi aaya,NEEDS_REMINDER,Hinglish,train
+"Madam bhule gechilam, ekhon korchi 🤷",LIKELY_PAY,Bengali,train
+"last month ko payment kiya tha, credit nahi hua",DISPUTE,Hindi,train
+Ok so yOU GUYS ARE SCAMMERS!!,HIGH_RISK,Hinglish,train
+PROMISE KORTE KORTE PARBO NA yaar,VAGUE,Bengali,train
+I don't agree with the outstanding amount,DISPUTE,English,train
+Acha miGht be Able to plz,VAGUE,English,train
+Let's see what happens,VAGUE,English,train
+"Half abhi de deta hun, baaki Shukravaar tak",LIKELY_PAY,Hindi,train
+"I accept the due amount, will pay by end of month",LIKELY_PAY,English,train
+I'LL PAY THE FULL AMOUNT WITHIN A WEEK,LIKELY_PAY,English,train
+I don't know asap,VAGUE,English,train
+Ok so statement mil sakta hai thanks,NEEDS_REMINDER,Hindi,train
+I don't know know yaar,VAGUE,Hinglish,train
+Calculation mein kuch gadbad hai,DISPUTE,Hindi,train
+Sochne do mujhe,VAGUE,Hinglish,train
+Bhai ye amnt galat hai 😢???,DISPUTE,Hinglish,train
+Ok so amake notification asheni,NEEDS_REMINDER,Bengali,train
+Payment ka account number kya hai boss,NEEDS_REMINDER,Hindi,train
+"Don't worry worry yaar, karke dunga",LIKELY_PAY,Hinglish,train
+Dekha jak kichu hoy ki na,VAGUE,Bengali,train
+Payment Payment kata tha lekin pending dikha raha hai,DISPUTE,Hindi,train
+Madam taka pathacchi ektu pore,LIKELY_PAY,Bengali,train
+Dude Dude fINAL ANSWER: NO PAYMENT,HIGH_RISK,Hinglish,train
+"Dude paying today itself, plz wait???",LIKELY_PAY,English,train
+Amount verify verify karna hai mujhe,NEEDS_REMINDER,Hinglish,train
+Social media te expose korbo,HIGH_RISK,Bengali,train
+Acha bill ta ta abar pathao,NEEDS_REMINDER,Bengali,train
+Apna Apna time waste kar rahe ho,HIGH_RISK,Hindi,train
+Actually dEKHTE HAIN BHAI,VAGUE,Hinglish,train
+I promise to pay by Monday for sure,LIKELY_PAY,English,train
+Foreclosure amount is incorrect,DISPUTE,Hinglish,train
+NO COMMENT COMMENT BHAI,VAGUE,Hinglish,train
+Payment ho jayega by Tuesday,LIKELY_PAY,Hinglish,train
+Uncertain,VAGUE,English,train
+Tomar company fraud plz,HIGH_RISK,Bengali,train
+AMOUNT WO NAHI HAI JO SIGN KIYA THA thanks,DISPUTE,Hindi,train
+Dekho sHARE LOAN AGREEMENT COPY PLEASE,DISPUTE,Hinglish,train
+It depends yaar,VAGUE,Hinglish,train
+Which loan ki baat ho rahi hai bro!!,NEEDS_REMINDER,Hinglish,train
+Any Grace peRiod peRiod aVailaBle?,NEEDS_REMINDER,Hinglish,train
+"UPI pathao, ekhon e kori boss",LIKELY_PAY,Bengali,train
+Dekho i Need to verifY thIs WiTh mY baNK yaar,DISPUTE,English,train
+Actually Actually dui din dao sort korar jonno,NEEDS_REMINDER,Bengali,train
+last month ka transaction check karo,DISPUTE,Hindi,train
+"Haan I know, will pay within a week",LIKELY_PAY,Hinglish,train
+"Arey ek aur chance do, 3 din mein guaranteed 💰",LIKELY_PAY,Hinglish,train
+Suno case koro jodi shahos thake 💰,HIGH_RISK,Bengali,train
+Suno check the 20th transaction!!,DISPUTE,English,train
+decide karne mein time do yaar,VAGUE,Hindi,train
+Bhebhe dekhbo ok?,VAGUE,Bengali,train
+"Abhi paisa nahi nahi hai, ek hafte mein tak pakka",LIKELY_PAY,Hindi,train
+Not sure sure 💰,VAGUE,English,train
+My bank shows successful payment,DISPUTE,English,train
+Basically my payment payment on 15th was not credited???,DISPUTE,English,train
+Suno tumhari company seedhe logon ko pareshan karti hai thanks!!,HIGH_RISK,Hindi,train
+WHO KNOWS!!,VAGUE,English,train
+Tomar agent last time onno amount bolechhilo,DISPUTE,Bengali,train
+Basically let's see kya hota hai,VAGUE,Hinglish,train
+Boss pORE BOLBO AMI,NEEDS_REMINDER,Bengali,train
+Aro ekta call ashle report korbo,HIGH_RISK,Bengali,train
+Basically Basically blocking this number right now,HIGH_RISK,Hinglish,train
+Boss bas ektu wait koro!!,LIKELY_PAY,Bengali,train
+try karunga???,VAGUE,Hinglish,train
+Finances check check karke batata hun,NEEDS_REMINDER,Hindi,train
+Dude toder lojja nei,HIGH_RISK,Bengali,train
+"Thoda aur time do, ek hafte mein tak de dunga",LIKELY_PAY,Hindi,train
+Account number kya hai for paymnt asap,NEEDS_REMINDER,Hinglish,train
+Tumhara system galat data dikha raha hai,DISPUTE,Hindi,train
+Actually auto-debit on chhilo na plz,NEEDS_REMINDER,Bengali,train
+Can I pay in two parts? First part next week,LIKELY_PAY,English,train
+"ektu somoy dao, kaal diye debo",LIKELY_PAY,Bengali,train
+"Account number do, abhi transfer karta hun",LIKELY_PAY,Hindi,train
+Statement pawa pawa jabe????,NEEDS_REMINDER,Bengali,train
+"government e chinchi chinchi lokjon, shambhale",HIGH_RISK,Bengali,train
+Dekho aaj raater raater moddhe hoye jabe,LIKELY_PAY,Bengali,train
+Didn't know know it was overdue yaar bro!!,NEEDS_REMINDER,Hinglish,train
+EXACTLY KITNA HAI 😡,NEEDS_REMINDER,Hinglish,train
+Arey fIr karungA tuMhare Naam Pe ...,HIGH_RISK,Hindi,train
+"Ok so so uPI ID share karo, abhi bhejta hun",LIKELY_PAY,Hinglish,train
+"Mujhe apne rights pata hain, dhamki dena band karo",HIGH_RISK,Hindi,train
+Banking ombudsman er kache jabo,HIGH_RISK,Bengali,train
+Maybe shayad 🙏???,VAGUE,Hinglish,train
+Time chahiye merko,VAGUE,Hinglish,train
+"Main serious hun, month end tak tak pakka",LIKELY_PAY,Hindi,train
+Basically which loan ki baat ho rahi hai?!!,NEEDS_REMINDER,Hinglish,train
+"Haan Haan ok fine, take the payment this weekend",LIKELY_PAY,English,train
+bhABte HOBe!!,VAGUE,Bengali,train
+Look my LAwyeR wiLl hANdle thiS???,HIGH_RISK,English,train
+"Kabhi nahi dunga, deal with it",HIGH_RISK,Hindi,train
+Koshish karunga jaldi se jaldi,LIKELY_PAY,Hindi,train
+I don't know what to say,VAGUE,English,train
+Boss situation check karna padega 🙏🙏,VAGUE,Hinglish,train
+"Bhule gechilam, ekhon korchi",LIKELY_PAY,Bengali,train
+manager manager er shathe kotha bolte chai???,DISPUTE,Bengali,train
+Interest rate kyun badla asap???,DISPUTE,Hindi,train
+Numbers don't add up yaar thanks,DISPUTE,Hinglish,train
+AMAR PLAN ACHE SHOMBAR DITE thx!!,LIKELY_PAY,Bengali,train
+Tum log scammer ho,HIGH_RISK,Hindi,train
+You can't touch me bhai,HIGH_RISK,Hinglish,train
+can't can't really say,VAGUE,English,train
+Something is wrong with your calculation,DISPUTE,English,train
+Dekha jabe,VAGUE,Bengali,train
+Bhabbo ei niye,VAGUE,Bengali,train
+Basically prOCessiNG fee Waive honI THi 💰,DISPUTE,Hindi,train
+My payment on 25th was not credited,DISPUTE,English,train
+Get loST thx,HIGH_RISK,English,train
+Bhai mera plan hai Thursday ko clear karna,LIKELY_PAY,Hinglish,train
+Aaj e payment hoye jabe,LIKELY_PAY,Bengali,train
+Haan i need to verify this with my bank na?,DISPUTE,English,train
+Actually amount verify karna hai mujhe,NEEDS_REMINDER,Hinglish,train
+Ekhon theke amar lawyer er shathe kotha bolo,HIGH_RISK,Bengali,train
+Dekha Dekha jak kichu hoy ki na,VAGUE,Bengali,train
+"Statement chahiye detailed, tab tak kuch nahi dunga",DISPUTE,Hindi,train
+i'll clear the dues by end of month bro,LIKELY_PAY,English,train
+Acha promise nahi kar sakta,VAGUE,Hindi,train
+Actually onno priorities ache???,VAGUE,Bengali,train
+Outstanding amount se agree nahi hun main,DISPUTE,Hindi,train
+Formal complaint korchi,DISPUTE,Bengali,train
+can't promise kuch bhi 💰!!,VAGUE,Hinglish,train
+Honestly kuch bhi nahi dena hai mujhe,HIGH_RISK,Hindi,train
+Well tHE tHE AMOUNT DOESN'T MATCH WHAT I SIGNED FOR,DISPUTE,English,train
+lEt Me sEe na?,VAGUE,English,train
+"Ye fraud hai, police mein jaaunga",HIGH_RISK,Hindi,train
+My lawyer will handle this,HIGH_RISK,English,train
+Bhai dooR ho JAO,HIGH_RISK,Hindi,train
+"My friend will lend me, I'll pay this weekend",LIKELY_PAY,English,train
+"Amount ready hai, bas transfer karna hai",LIKELY_PAY,Hinglish,train
+I'll get back to you,NEEDS_REMINDER,Hinglish,train
+Kal payment kar dunga,LIKELY_PAY,Hindi,train
+Will clear the pending amount before Sunday.!!,LIKELY_PAY,English,train
+Bhai statement mil sakta hai?,NEEDS_REMINDER,Hindi,train
+I'm working on it,VAGUE,English,train
+"I accept the amount, will pay this weekend ok?",LIKELY_PAY,Hinglish,train
+I have nothing to pay with,HIGH_RISK,English,train
+Listen iS THERE THERE A GRACE PERIOD????,NEEDS_REMINDER,English,train
+"Dude i changed changed my number, didn't get reminders",NEEDS_REMINDER,English,train
+Full amount de dunga in 2 days,LIKELY_PAY,Hinglish,train
+Honestly my payment is scheduled for Saturday!!,LIKELY_PAY,English,train
+"I know people in government, be careful",HIGH_RISK,English,train
+"Look i'll take care of it, don't keep calling 👍",NEEDS_REMINDER,English,train
+Salary ashle tukni korbo,LIKELY_PAY,Bengali,train
+I'LL CONSIDER CONSIDER IT sir,VAGUE,English,train
+"I changed my number, didn't get reminders",NEEDS_REMINDER,English,train
+will clear the pending amnt before thursday thanks!!,LIKELY_PAY,English,train
+PEHLE PEHLE WIFE SE BAAT KARNA PADEGA!!,NEEDS_REMINDER,Hindi,train
+"Bhai mera mera bonus aaya hai, paying today 🙏🙏",LIKELY_PAY,Hinglish,train
+MY PAYMENT IS SCHEDULED FOR MONDAY,LIKELY_PAY,English,train
+Consumer court jaaunga tumhare khilaf thanks,HIGH_RISK,Hindi,train
+Well hoyto hoye jabe 😭,VAGUE,Bengali,train
+"Look haan haan bhai, is weekend tak kar dunga",LIKELY_PAY,Hindi,train
+Ye vasuli hai,HIGH_RISK,Hindi,train
+Jibon mushkil cholche,VAGUE,Bengali,train
+"Eta onyo karo loan, amar na",DISPUTE,Bengali,train
+Aakhri baar bol raha hun tumhe thanks,HIGH_RISK,Hindi,train
+Final answer: no payment,HIGH_RISK,Hinglish,train
+Who knows yaar sir,VAGUE,Hinglish,train
+"haan i know, will paY by eNd oF mOntH",LIKELY_PAY,Hinglish,train
+Madam i don't agree with outstanding amount,DISPUTE,Hinglish,train
+i'll coNsider it soChunga plz!!,VAGUE,Hinglish,train
+Get lost yaar bro,HIGH_RISK,Hinglish,train
+Dude issues issues ache 👍,VAGUE,Bengali,train
+Grace period ache ki?,NEEDS_REMINDER,Bengali,train
+Half now baaki this weekend,LIKELY_PAY,Hinglish,train
+Not sure honestly,VAGUE,Hinglish,train
+Ok so online payment kore dii ekhon,LIKELY_PAY,Bengali,train
+Sochne do ok?,VAGUE,Hindi,train
+Situation is complicated,VAGUE,English,train
+"Listen ek din aur please, pakka dunga",LIKELY_PAY,Hindi,train
+"Well yE kiSi aur Ka lOaN hAi, mera nahi plz",DISPUTE,Hindi,train
+Hey really can't say bro,VAGUE,Hinglish,train
+Sir whICh loan ARE we talkIng abOUt 👍,NEEDS_REMINDER,English,train
+we'll fiGure fiGure iT oUt,VAGUE,English,train
+Haan ki korbo bujhte parchi na,VAGUE,Bengali,train
+"Busy chhilam, dekhbo",NEEDS_REMINDER,Bengali,train
+Interest rate keno bodlano holo?,DISPUTE,Bengali,train
+Actually maybe later sometime,VAGUE,Hinglish,train
+I have issues,VAGUE,English,train
+Bill dobara bhej do,NEEDS_REMINDER,Hindi,train
+Boss i will do NEFT Shukravaar tak mein,LIKELY_PAY,Hinglish,train
+Listen you're wasting your time,HIGH_RISK,English,train
+You harass innocent log bro!!,HIGH_RISK,Hinglish,train
+Let mE pAy half Now and rest thIs WeeKeND!!,LIKELY_PAY,English,train
+Hey iSSUES ACHE,VAGUE,Bengali,train
+Pata hi nahi chala late ho gaya,NEEDS_REMINDER,Hindi,train
+"Arey keep calling, see what happens!!",HIGH_RISK,English,train
+My co-applicant already paid this,DISPUTE,English,train
+Boss how do I set up auto-pay?,NEEDS_REMINDER,English,train
+Jo kar rahe ho illegal hai thx!!,HIGH_RISK,Hindi,train
+Bhai fir FilE kARuNgA tuM pe,HIGH_RISK,Hinglish,train
+Dekho iSSues Hain MERe,VAGUE,Hinglish,train
+Bill dubara bhejo please,NEEDS_REMINDER,Hinglish,train
+Interest rate kyun badla?,DISPUTE,Hindi,train
+Arey bill dubara bhejo please,NEEDS_REMINDER,Hinglish,train
+Reputation noshto kore debo tomar,HIGH_RISK,Bengali,train
+"Sach mein bhool bhool gaya tha, sorry",NEEDS_REMINDER,Hindi,train
+Poora Poora taka ekbare diye debo,LIKELY_PAY,Bengali,train
+Abhi nahi bata sakta,VAGUE,Hindi,train
+"Basically i NeED an escalatION, This amount Is DiSputed!!",DISPUTE,English,train
+I'll pay the full amount by Friday!!,LIKELY_PAY,English,train
+Sir kitne din overdue hai boss,NEEDS_REMINDER,Hindi,train
+Arey time chahiye merko,VAGUE,Hinglish,train
+Mera lawyer dekhega ye sab,HIGH_RISK,Hindi,train
+Arey send details again please ...,NEEDS_REMINDER,Hinglish,train
+"I ACCEPT THE DUE AMOUNT, WILL PAY IN 3 DAYS",LIKELY_PAY,English,train
+Dekhte Dekhte hain kya hota hai !!,VAGUE,Hindi,train
+"Call korte thako, dekhe neo ki hoy",HIGH_RISK,Bengali,train
+Maine in in terms pe agree nahi kiya tha asap,DISPUTE,Hindi,train
+See tum logon se baat khatam 🤷,HIGH_RISK,Hindi,train
+Suno payment ho jayega by Monday,LIKELY_PAY,Hinglish,train
+Media te jabo sir,HIGH_RISK,Bengali,train
+Will do NEFT tomorrow,LIKELY_PAY,English,train
+"Honestly already tAlkEd To banK, WilL cOme ThiS WeeKend",LIKELY_PAY,Hinglish,train
+Boss maine ye loan nahi liya hai,DISPUTE,Hinglish,train
+Yaar theek hai ok thx!!,VAGUE,Hinglish,train
+"Do whatever you want, I'm not paying",HIGH_RISK,English,train
+Boss aMAR KACHE KICHU NEI DEBAR 😭,HIGH_RISK,Bengali,train
+Dude Dude mind your own business,HIGH_RISK,English,train
+Dekho ke jane,VAGUE,Bengali,train
+Pashtabe amake call kore,HIGH_RISK,Bengali,train
+Ek-dui ghontar moddhe hoye jabe,LIKELY_PAY,Bengali,train
+1st er transaction check koro,DISPUTE,Bengali,train
+Toder shathe kotha shesh,HIGH_RISK,Bengali,train
+20th er transaction check koro,DISPUTE,Bengali,train
+"ek aur cHance Do, ek Hafte mein gUARAnteed asap",LIKELY_PAY,Hinglish,train
+not sure 🙂,VAGUE,English,train
+"Dude diye debo, chinta koro na",LIKELY_PAY,Bengali,train
+Handle karunga jaldi,NEEDS_REMINDER,Hinglish,train
+Mushkil hai situation,VAGUE,Hindi,train
+"I am not avoiding payment, I will pay in 3 days",LIKELY_PAY,English,train
+"AMI SERIOUS, MASH SHESHE PORJONTO PAKKA",LIKELY_PAY,Bengali,train
+"Go ahead and sue me, I don't care",HIGH_RISK,English,train
+"salary ashbe shombar, tarpor e diye debo 🙏🙏!!",LIKELY_PAY,Bengali,train
+Haan uncertain,VAGUE,English,train
+Look amI ei calL rEcoRd kOrchi yaar!!,HIGH_RISK,Bengali,train
+Why is this still showing as unpaid?,DISPUTE,English,train
+"Boss jo karna hai karo, mujhe darr nahi 😢",HIGH_RISK,Hindi,train
+"Madam haan haan karunga, agle hafte tak pakka",LIKELY_PAY,Hinglish,train
+"Haan tHANKS FOR LETTING ME KNOW, CHECKING NOW yaar",NEEDS_REMINDER,Hinglish,train
+Kya bolun pata nahi,VAGUE,Hinglish,train
+Haan kya bolun samajh nahi aa raha???,VAGUE,Hindi,train
+Ye Ye amount galat hai 💰!!,DISPUTE,Hindi,train
+Can you email me the details?,NEEDS_REMINDER,English,train
+Aakhri baar bol raha hun tumhe,HIGH_RISK,Hindi,train
+"Bhai salary nahi aayi abhi, 3 din mein mein pakka kar dunga",LIKELY_PAY,Hinglish,train
+Hey hard to say honestly,VAGUE,Hinglish,train
+Oh bhool gaya tha,NEEDS_REMINDER,Hindi,train
+Ok so i'll consider it 👍,VAGUE,English,train
+Auto-debit on chhilo chhilo na?,NEEDS_REMINDER,Bengali,train
+I am raising a formal complaint,DISPUTE,English,train
+"Consider it done, paying by end of month 🙏",LIKELY_PAY,Hinglish,train
+Arey dekhte hain kya hota hai,VAGUE,Hindi,train
+payment fix ache shonibar,LIKELY_PAY,Bengali,train
+Why are there hidden charges?,DISPUTE,English,train
+Mera auto-debit on tha na?,NEEDS_REMINDER,Hinglish,train
+Ok so agle shoptahe mone koriyo,NEEDS_REMINDER,Bengali,train
+Haan not right now bhai,VAGUE,Hinglish,train
+Ye add up nahi ho raha,DISPUTE,Hindi,train
+Basically sAMAJHNA PADEGA 🙏🙏!!,VAGUE,Hindi,train
+This is illegal what you're doing,HIGH_RISK,English,train
+Ok so i refuse to pay and that's final 😢,HIGH_RISK,English,train
+Bhai samajhna padega!!,VAGUE,Hindi,train
+The amount will be credited in 2 days!!,LIKELY_PAY,English,train
+Dude fir korbo tomar name,HIGH_RISK,Bengali,train
+"Dekho number change korechi, reminder asheni!!",NEEDS_REMINDER,Bengali,train
+"Eta fraud, police e jabo",HIGH_RISK,Bengali,train
+"maiN payment kaRunGA, teNsIoN Mat lo thx???",LIKELY_PAY,Hindi,train
+Haan Haan bhebhe dekhbo,VAGUE,Bengali,train
+"I ACCEPT THE AMOUNT, WILL PAY WITHIN A WEEK!!",LIKELY_PAY,Hinglish,train
+"ok fine, take the payment tomorrow",LIKELY_PAY,English,train
+Don't call me again or I'll file a complaint,HIGH_RISK,English,train
+Processing fee waive howar kotha chhilo,DISPUTE,Bengali,train
+Acha how to set up auto-pay?,NEEDS_REMINDER,Hinglish,train
+"Basically i changed banks recently, need to update",NEEDS_REMINDER,English,train
+I have other priorities asap,VAGUE,English,train
+Honestly cHECK KORE JANABO 💰,NEEDS_REMINDER,Bengali,train
+Ek aur call aaya to report karunga,HIGH_RISK,Hindi,train
+YOU CAN'T DO DO ANYTHING TO ME 🙂,HIGH_RISK,English,train
+"Sir i AM NOT AVOIDING PAYMENT, I WILL PAY WITHIN A WEEK thx",LIKELY_PAY,English,train
+"haan theek hai, de deta hun yaar!!",LIKELY_PAY,Hindi,train
+Arey why was the interest rate changed ok?,DISPUTE,English,train
+"Haan thik ache, diye dii",LIKELY_PAY,Bengali,train
+"Well check your records, I don't owe this much !!",DISPUTE,English,train
+Arey ye tumhari tumhari galti hai billing mein!!,DISPUTE,Hindi,train
+Haalat kharab hain,VAGUE,Hindi,train
+Payment link bhejo please,NEEDS_REMINDER,Hinglish,train
+How to set up auto-pay?,NEEDS_REMINDER,Hinglish,train
+Well i'll consider it,VAGUE,English,train
+Suno situation check karna padega,VAGUE,Hinglish,train
+Written proof dao koto taka baki,DISPUTE,Bengali,train
+Outstanding kothay check check korbo?!!,NEEDS_REMINDER,Bengali,train
+Yeah probably bro,VAGUE,Hinglish,train
+"I've already spoken to my bank, transfer will come this weekend",LIKELY_PAY,English,train
+Yaar loan agreement copy share koro,DISPUTE,Bengali,train
+Loan agreement e onno terms ache,DISPUTE,Bengali,train
+Transfer kore debo agle shoptahe,LIKELY_PAY,Bengali,train
+See neXT week yaad dilanA Please thanks,NEEDS_REMINDER,Hinglish,train
+Ok so i didn't realize it was already late!!,NEEDS_REMINDER,English,train
+dekhte hain!!,VAGUE,Hindi,train
+Tum logon ko sharam nahi thanks,HIGH_RISK,Hinglish,train
+Actually tODER SHATHE KOTHA SHESH,HIGH_RISK,Bengali,train
+Basically mushkil obostha,VAGUE,Bengali,train
+Give me 2 days to sort this,NEEDS_REMINDER,Hinglish,train
+"Well this is someone else's loan, not mine 😡",DISPUTE,English,train
+Dekho no comment 💰,VAGUE,Bengali,train
+"Bhai salary ashbe Robibar, tarpor e diye debo",LIKELY_PAY,Bengali,train
+Yaar will clear clear the pending amount before Tuesday!!,LIKELY_PAY,English,train
+"PhonePe se paid already, recheck please",DISPUTE,Hinglish,train
+Yaar salarY aatE Hi tURaNt kaRUngA 👍,LIKELY_PAY,Hindi,train
+Ekhon commit commit korte parbo na,VAGUE,Bengali,train
+Banking ombudsman ke paas jaaunga,HIGH_RISK,Hindi,train
+Hey tora shob scammer,HIGH_RISK,Bengali,train
+"I already paid this EMI, check karo",DISPUTE,Hinglish,train
+"Hey let me pay in installments, first one this weekend",LIKELY_PAY,Hinglish,train
+Mushkil hai situation ...,VAGUE,Hindi,train
+Honestly Honestly the amount will be credited next week,LIKELY_PAY,English,train
+I was promised a different interest rate,DISPUTE,English,train
+DEKHE NII 🙏,VAGUE,Bengali,train
+Sir pAYMENT FIX HAI SOMVAAR KO 😢,LIKELY_PAY,Hindi,train
+issues hain 🙏🙏,VAGUE,Hindi,train
+Pore janabo 🙂,VAGUE,Bengali,train
+Maine ye loan nahi liya,DISPUTE,Hindi,train
+Well ye kaun si EMI hai?,NEEDS_REMINDER,Hindi,train
+Abhi commit nahi kar sakta,VAGUE,Hindi,train
+Actually not right now!!,VAGUE,English,train
+Bhai i have nothing to give,HIGH_RISK,Hinglish,train
+Was there an SMS? I didn't see it,NEEDS_REMINDER,English,train
+Dekho cOmPLicaTEd hAi,VAGUE,Hindi,train
+WHICH LOAN ARE WE TALKING ABOUT 🙏🙏!!,NEEDS_REMINDER,English,train
+Will do do NEFT by Friday,LIKELY_PAY,English,train
+Actually loan agreement copy share koro,DISPUTE,Bengali,train
+"De dunga, chinta mat karo thanks",LIKELY_PAY,Hindi,train
+Sir check kore janabo,NEEDS_REMINDER,Bengali,train
+Look written written proof do kitna banta hai,DISPUTE,Hindi,train
+The loan agreement says different terms,DISPUTE,English,train
+Honestly yeah maybe,VAGUE,English,train
+"bonus aaya hai, abhi de deta hun asap!!",LIKELY_PAY,Hindi,train
+Consumer court e jabo tomar biruddhe,HIGH_RISK,Bengali,train
+Will do NEFT by end of month,LIKELY_PAY,English,train
+Send Send me a complete breakdown of charges 😭,DISPUTE,English,train
+Bhai ye amount galat hai,DISPUTE,Hinglish,train
+Eta tomar billing er bhul,DISPUTE,Bengali,train
+Agle shoptahe mone koriyo,NEEDS_REMINDER,Bengali,train
+SMS aaya tha kya? Nahi dekha,NEEDS_REMINDER,Hindi,train
+Actually i am am raising a formal complaint,DISPUTE,English,train
+Boss i have nothing to give,HIGH_RISK,Hinglish,train
+Honestly is there a grace period?,NEEDS_REMINDER,English,train
+other priorities priorities hain abhi!!,VAGUE,Hinglish,train
+Where do I pay? What's the link?,NEEDS_REMINDER,English,train
+"Boss ne salary hold ki thi, ab aayi, de dunga",LIKELY_PAY,Hinglish,train
+My payment is scheduled for Friday,LIKELY_PAY,English,train
+Kaun sa loan hai bro,NEEDS_REMINDER,Hindi,train
+Look 1st ko payment kiya but not credited !!,DISPUTE,Hinglish,train
+Mera patience mat check karo,HIGH_RISK,Hindi,train
+Honestly kaUn JaaNe bro,VAGUE,Hindi,train
+Bhai cAN YOU SHARE UPI? I WILL PAY NOW 😭,LIKELY_PAY,English,train
+Never contact me again,HIGH_RISK,Hinglish,train
+Actually yOU yOU harass INnoCent log,HIGH_RISK,Hinglish,train
+Ye tumhari galti hai billing mein,DISPUTE,Hindi,train
+I HAVE HAVE ISSUES,VAGUE,English,train
+Dekho maybe,VAGUE,English,train
+Can you send the bill again plz,NEEDS_REMINDER,English,train
+Might kar paunga thx,VAGUE,Hinglish,train
+Ok so wrong person ko call kar rahe ho,HIGH_RISK,Hinglish,train
+I need to verify the amount,NEEDS_REMINDER,English,train
+Toder lojja lojja nei 🙏,HIGH_RISK,Bengali,train
+Loan agreement copy copy share koro,DISPUTE,Bengali,train
+I promise to pay by Wednesday for sure,LIKELY_PAY,English,train
+Poora paisa ek saath de dunga,LIKELY_PAY,Hindi,train
+Basically i'm thinking about it abhi,VAGUE,Hinglish,train
+The penalty charges are too high,DISPUTE,English,train
+"Dekho eta onyo karo loan, amar na",DISPUTE,Bengali,train
+"AMI SERIOUS, MASH MASH SHESHE PORJONTO PAKKA thanks",LIKELY_PAY,Bengali,train
+Boss tumhari company fraud hai,HIGH_RISK,Hindi,train
+fir KORbo TomAr naMe ...,HIGH_RISK,Bengali,train
+"Bujhechi, kichu ekta korbo",NEEDS_REMINDER,Bengali,train
+Tum logon ko sharam nahi,HIGH_RISK,Hinglish,train
+"Dui bhage dite pari, prothom ta tin din e",LIKELY_PAY,Bengali,train
+Madam aur options sochne do,VAGUE,Hindi,train
+Auto-debit on tha na?,NEEDS_REMINDER,Hindi,train
+abhi nahi thx,VAGUE,Hindi,train
+Cheshta korbo taratari 😢!!,LIKELY_PAY,Bengali,train
+Let me figuRe thiS out boss,NEEDS_REMINDER,Hinglish,train
+Basically bolte parbo na shotti,VAGUE,Bengali,train
+Bhabte dao!!,VAGUE,Bengali,train
+Honestly eMI ka paisa alag rakha hai,LIKELY_PAY,Hindi,train
+"EMI amount ready hai, bhej raha hun",LIKELY_PAY,Hindi,train
+Details ta abar pathao,NEEDS_REMINDER,Bengali,train
+Boss my lawyer will handle this 🤷,HIGH_RISK,English,train
+Sochunga ...,VAGUE,Hindi,train
+Will get back to you later,VAGUE,Hinglish,train
+Promise korte korte parbo na,VAGUE,Bengali,train
+late fee kitni kitni lagegi?,NEEDS_REMINDER,Hindi,train
+Theek hai!!,VAGUE,Hindi,train
+full AmOunT de DuNgA thIs Weekend 🙏🙏,LIKELY_PAY,Hinglish,train
+Madam send details again please,NEEDS_REMINDER,Hinglish,train
+Amount ota na jeta sign kora hoyechhilo,DISPUTE,Bengali,train
+Haan weekend e dekhchi???,NEEDS_REMINDER,Bengali,train
+Acha jiBOn mUsHKIl cholCHe 😢???,VAGUE,Bengali,train
+Jo kar rahe ho illegal hai,HIGH_RISK,Hindi,train
+I DON'T KNOW sir,VAGUE,English,train
+Acha ami ei loan niini,DISPUTE,Bengali,train
+"Ok fine, take the payment in 2 days",LIKELY_PAY,English,train
+Arey how much is it exactly?,NEEDS_REMINDER,English,train
+Don't test me,HIGH_RISK,Hinglish,train
+"I promise bhai, 3 din mein tak",LIKELY_PAY,Hinglish,train
+"Ami cheshta korchi, tin din e e",LIKELY_PAY,Bengali,train
+Dude this is your billing mistake,DISPUTE,Hinglish,train
+"Let me do partial now, rest later",LIKELY_PAY,Hinglish,train
+"money is ready, will transfer tomorrow thx",LIKELY_PAY,English,train
+i have nothing to give sir,HIGH_RISK,Hinglish,train
+Hey what's the penalty if I pay late plz,NEEDS_REMINDER,English,train
+"already talked to bank, will come within a week",LIKELY_PAY,Hinglish,train
+Remind me later please,NEEDS_REMINDER,Hinglish,train
+I'm blocking this number,HIGH_RISK,English,train
+Wrong person ko call kar rahe ho,HIGH_RISK,Hinglish,train
+"Receipt ache amar kache, pathabo?",DISPUTE,Bengali,train
+Ye additional charges kisne authorize kiye?,DISPUTE,Hindi,train
+Actually hIDDEN CHARGES KENO ok?,DISPUTE,Bengali,train
+"Bhai i got my bonus, paying tomorrow",LIKELY_PAY,English,train
+Haan shayad,VAGUE,Hindi,train
+Boss pichli calls miss ho gayi sorry 🙏🙏,NEEDS_REMINDER,Hindi,train
+Dekho let's see kya hota hai,VAGUE,Hinglish,train
+YoUr YoUr cOMpANy IS a FrAuD,HIGH_RISK,English,train
+Media mein jaaunga,HIGH_RISK,Hindi,train
+"Salary ashbe Mongolbar, tarpor e diye debo",LIKELY_PAY,Bengali,train
+Bhai tOMAR COMPANY FRAUD,HIGH_RISK,Bengali,train
+Madam oUTStanDInG KotHay ChEcK korBo?,NEEDS_REMINDER,Bengali,train
+"Suno let me pay in installments, first one next week",LIKELY_PAY,Hinglish,train
+"Sorry bhai, missed earlier calls",NEEDS_REMINDER,Hinglish,train
+Never Never contact me again,HIGH_RISK,Hinglish,train
+Listen you can't do anything to me,HIGH_RISK,English,train
+Sochna padega mujhe,VAGUE,Hinglish,train
+Loan agreement copy share karo,DISPUTE,Hindi,train
+Tumhari company fraud hai,HIGH_RISK,Hindi,train
+Hey nijer time noshto korcho!!,HIGH_RISK,Bengali,train
+Listen ami ei LOaN niInI,DISPUTE,Bengali,train
+"Traveling tha, just came back",NEEDS_REMINDER,Hinglish,train
+Madam i thought auto-debit was on???,NEEDS_REMINDER,English,train
+Transaction initiated already,LIKELY_PAY,English,train
+Stop calling me bhai,HIGH_RISK,Hinglish,train
+Well interest calculation galat hai 🤷,DISPUTE,Hindi,train
+"I changed banks recently, need to update",NEEDS_REMINDER,English,train
+Sir aMAR LAWYER DEKHBE!!,HIGH_RISK,Bengali,train
+"Boss travel pe tha, abhi aaya hun",NEEDS_REMINDER,Hindi,train
+"Thoda aur time do, Shukravaar tak tak de dunga",LIKELY_PAY,Hindi,train
+"my friend will lend me, i'll pay in 3 days",LIKELY_PAY,English,train
+"Diye debo, dhairyo dhoro plz???",LIKELY_PAY,Bengali,train
+RBI te complaint kore diyechi,HIGH_RISK,Bengali,train
+Dekho pata pata hi nahi chala late ho gaya 😭,NEEDS_REMINDER,Hindi,train
+MERA MERA AUTO-DEBIT ON THA NA 👍,NEEDS_REMINDER,Hinglish,train
+Full amt de dunga this weekend thx!!,LIKELY_PAY,Hinglish,train
+Acha hmm,VAGUE,Hindi,train
+"My friend will lend me, I'll pay next week",LIKELY_PAY,English,train
+Promise nahi kar sakta 🙂!!,VAGUE,Hindi,train
+Age bou er shathe kotha bolte hobe,NEEDS_REMINDER,Bengali,train
+Late fee kitni lagegi?,NEEDS_REMINDER,Hindi,train
+Dude you have overcharged me,DISPUTE,Hinglish,train
+I just need 15 more days,LIKELY_PAY,English,train
+Don't ever contact me again,HIGH_RISK,English,train
+Arey aaj raater moddhe hoye jabe,LIKELY_PAY,Bengali,train
+How much is it exactly?,NEEDS_REMINDER,English,train
+Well last time bol raha hun,HIGH_RISK,Hinglish,train
+I'll pay the full amount in 2 days,LIKELY_PAY,English,train
+Dekho nahI dUNga Aur yE fInal haI 🙏🙏???,HIGH_RISK,Hindi,train
+It's not that simple yaar,VAGUE,English,train
+Eta kon EMI?,NEEDS_REMINDER,Bengali,train
+"i will definitely pay, just give me till monday 💰",LIKELY_PAY,English,train
+Media mein jaunga jaunga with proof!!,HIGH_RISK,Hinglish,train
+Sir dEKHTE HAIN,VAGUE,Hindi,train
+FIR file karunga tum pe boss,HIGH_RISK,Hinglish,train
+"Actually Actually ek aur chance do, shukravaar tak guaranteed",LIKELY_PAY,Hinglish,train
+I dispute this charge,DISPUTE,English,train
+"Sir was busy, will look into it.",NEEDS_REMINDER,Hinglish,train
+onek hoyeche tomar harassment 🙏🙏???,HIGH_RISK,Bengali,train
+Check last month transaction please,DISPUTE,Hinglish,train
+Actually kitna hai exactly?,NEEDS_REMINDER,Hindi,train
+Basically i'll consider consider it,VAGUE,English,train
+Actually next week yaad dilana please thanks,NEEDS_REMINDER,Hinglish,train
+Amar account audit koro,DISPUTE,Bengali,train
+Well i closed this loan last year,DISPUTE,English,train
+Well theek hai,VAGUE,Hindi,train
+outstanding amount e agree na ami thanks,DISPUTE,Bengali,train
+"I forgot forgot sorry, will do it now!!",LIKELY_PAY,Hinglish,train
+"Age clarification dao, tarpor payment",DISPUTE,Bengali,train
+Actually i have have nothing to give !!,HIGH_RISK,Hinglish,train
+Dekhte hain !!!!,VAGUE,Hindi,train
+Actually onek hoyeche tomar harassment???,HIGH_RISK,Bengali,train
+Kuch Kuch kar raha hun,VAGUE,Hindi,train
+Yaar bank se verify karna padega mujhe 🙏🙏,DISPUTE,Hindi,train
+Bhai i have issues,VAGUE,English,train
+Dekho i'll destroy your ReputatiOn,HIGH_RISK,English,train
+Amar Amar plan ache Shukrobar dite,LIKELY_PAY,Bengali,train
+"Honestly bro let me arrange, 2 din mein tak done",LIKELY_PAY,Hinglish,train
+I'm thinking about it abhi,VAGUE,Hinglish,train
+Dekho i don't owe anything and won't pay!!,HIGH_RISK,English,train
+Suno tum log scammer ho,HIGH_RISK,Hindi,train
+Amount verify karna hai mujhe,NEEDS_REMINDER,Hinglish,train
+Your company is totally fraud,HIGH_RISK,Hinglish,train
+Bhai samajh leta hun main,NEEDS_REMINDER,Hindi,train
+Dude i'LL CONSIDER IT SOCHUNGA 🙂,VAGUE,Hinglish,train
+"i'Ve kept the Money aSidE, wiLL pAy within a week.",LIKELY_PAY,English,train
+sms eshEcHHiLo eshEcHHiLo kI? dEKhini To 😭,NEEDS_REMINDER,Bengali,train
+Complete Complete breakdown of charges bhejo,DISPUTE,Hinglish,train
+Actually i've been overcharged,DISPUTE,English,train
+Pura taka diye debo agle shoptahe,LIKELY_PAY,Bengali,train
+"Hey ami serious, ei weekend porjonto pakka 🙏🙏",LIKELY_PAY,Bengali,train
+"Actually i FORGOT SORRY, WILL DO IT NOW sir",LIKELY_PAY,Hinglish,train
+Can you share UPI? I will pay now,LIKELY_PAY,English,train
+Yaar i THINK KOI MISTAKE HAI,DISPUTE,Hinglish,train
+Bill dubara bhejo please yaar,NEEDS_REMINDER,Hinglish,train
+"ami serious, agle shoptahe porjonto pakka bro",LIKELY_PAY,Bengali,train
+Kya bolun samajh nahi aa raha,VAGUE,Hindi,train
+Is there a grace period sir,NEEDS_REMINDER,English,train
+TimE CHaI aMakE 😢!!,VAGUE,Bengali,train
+Dekho outstanding kahan check karun?,NEEDS_REMINDER,Hindi,train
+iSsuES ACHe 😡,VAGUE,Bengali,train
+Life tough hai abhi,VAGUE,Hinglish,train
+You harass innocent log,HIGH_RISK,Hinglish,train
+Acha Acha i'm working on it,VAGUE,English,train
+Ke jane!!,VAGUE,Bengali,train
+Hey maine ye loan nahi liya hai !!,DISPUTE,Hinglish,train
+Try karunga,VAGUE,Hinglish,train
+YOUR COMPANY IS A FRAUD boss,HIGH_RISK,English,train
+"Number change kiya, didn't get reminders",NEEDS_REMINDER,Hinglish,train
+"Sorry for delay, paying in 2 days definitely!!",LIKELY_PAY,English,train
+Tomar company company bhalo lokeder harrass kore 🙏🙏,HIGH_RISK,Bengali,train
+Complete breakdown of charges bhejo,DISPUTE,Hinglish,train
+Overcharge kiya hai mujhe,DISPUTE,Hindi,train
+"Haan did prepayment, prepayment, not showing in system",DISPUTE,Hinglish,train
+MeRA plaN hAi mangaLVaar ko dene Ka,LIKELY_PAY,Hindi,train
+Ager call gulo miss hoye geche sorry,NEEDS_REMINDER,Bengali,train
+Listen i'll try,VAGUE,English,train
+Arey you're wasting your time,HIGH_RISK,English,train
+Abhi tight hai but 2 din mein tak karunga!!,LIKELY_PAY,Hinglish,train
+Dekha jabe???,VAGUE,Bengali,train
+Well dekha jabe,VAGUE,Bengali,train
+Dude hoyto hoye jabe thx,VAGUE,Bengali,train
+Boss onno priorities ache,VAGUE,Bengali,train
+"Actually apne records check karo, itna nahi banta",DISPUTE,Hindi,train
+Tum logon ko sharam nahi aati,HIGH_RISK,Hindi,train
+Ok so kAHAN PAY KARNA HAI? LINK BHEJO,NEEDS_REMINDER,Hindi,train
+Abhi can't say,VAGUE,Hinglish,train
+Actually ei Loan GoTo boChOr bonD korA hoyEChhilO,DISPUTE,Bengali,train
+Yaar abhi jawab nahi de sakta,VAGUE,Hindi,train
+Hey something like that,VAGUE,English,train
+Sochunga 😡,VAGUE,Hindi,train
+Number block kar raha hun,HIGH_RISK,Hindi,train
+Basically maybe later,VAGUE,English,train
+EMAIL KARO DETAILS PLEASE ok????,NEEDS_REMINDER,Hinglish,train
+See dOOR HO JAO???,HIGH_RISK,Hindi,train
+"I'm arranging the money, will pay in 3 days",LIKELY_PAY,English,train
+"Acha mAIN ZIMMEDAR HUN, PAYMENT KARUNGA 🙂!!",LIKELY_PAY,Hindi,train
+"Tomar records check koro, eto hoy na",DISPUTE,Bengali,train
+Sir nUmber BlOCk kOrchi 😡,HIGH_RISK,Bengali,train
+"Haan bhai, Shukravaar Shukravaar tak tak kar dunga",LIKELY_PAY,Hindi,train
+Can you Email me THe detaiLs yaar!!,NEEDS_REMINDER,English,train
+Haan this is not my loan yaar 🙂!!,DISPUTE,Hinglish,train
+Ok so i don't agree with outstanding amount 😢,DISPUTE,Hinglish,train
+"Boss amI pAyment koRBo, teNsIon nio na yaar",LIKELY_PAY,Bengali,train
+Already due? I thought next month hai,NEEDS_REMINDER,Hinglish,train
+Kal payment kar dunga plz,LIKELY_PAY,Hindi,train
+Yaar i PROMISE TO PAY BY FRIDAY FOR SURE,LIKELY_PAY,English,train
+Not sure !!,VAGUE,English,train
+Madam why hidden charges bhai?,DISPUTE,Hinglish,train
+Already complained to RBI about you guys,HIGH_RISK,Hinglish,train
+Dekho send me the details again plz thx,NEEDS_REMINDER,English,train
+Ok so depend karta hai???,VAGUE,Hindi,train
+Boss i'll get back to you,NEEDS_REMINDER,Hinglish,train
+Ok so shayad,VAGUE,Hindi,train
+Dekho wilL GeT bAcK To yoU LateR ok?,VAGUE,Hinglish,train
+Time chahiye mujhe,VAGUE,Hindi,train
+Depend kore,VAGUE,Bengali,train
+"Paying today itself, please wait",LIKELY_PAY,English,train
+Dude baad mein yaad dilana please,NEEDS_REMINDER,Hindi,train
+Look cAN'T COMMIT ABHI 🤷,VAGUE,Hinglish,train
+"Do hisson mein de sakta hun, pehla kal",LIKELY_PAY,Hindi,train
+"5th ko payment kiya tha, credit nahi hua",DISPUTE,Hindi,train
+Jani na,VAGUE,Bengali,train
+Hey poSsibLY???,VAGUE,English,train
+"Dekho account number dao, ekhon transfer kori boss",LIKELY_PAY,Bengali,train
+Acha ho sakta sakta hai,VAGUE,Hindi,train
+Basically the amount will be credited by Friday 🙂,LIKELY_PAY,English,train
+Well let me know the exact amt due,NEEDS_REMINDER,English,train
+Which EMI is this for asap,NEEDS_REMINDER,Hinglish,train
+Amount mein mismatch mismatch hai!!,DISPUTE,Hinglish,train
+Haan kuch aisa hi,VAGUE,Hindi,train
+Actually never contact me again.,HIGH_RISK,Hinglish,train
+Number block block korchi 🙏🙏,HIGH_RISK,Bengali,train
+Poora taka ekbare ekbare diye debo,LIKELY_PAY,Bengali,train
+Dekho nEft kar kar DungA aglE HAFTe,LIKELY_PAY,Hindi,train
+"Promise korchi, tin din e e yaar",LIKELY_PAY,Bengali,train
+Sochunga iske baare mein,VAGUE,Hindi,train
+Yaar wOrKiNG oN it Hun,VAGUE,Hinglish,train
+Hard to say honestly,VAGUE,Hinglish,train
+Dude i'll ruin your company reputation!!,HIGH_RISK,Hinglish,train
+"Ami serious, ei weekend porjonto pakka",LIKELY_PAY,Bengali,train
+Maine apne side se arrangement kar liya hai,LIKELY_PAY,Hindi,train
+Listen i'LL LOOK INTO IT thanks!!,VAGUE,English,train
+Actually taratari handle korbo!!,NEEDS_REMINDER,Bengali,train
+Basically media te jabo,HIGH_RISK,Bengali,train
+Madam this is pure extortion hai ye boss???,HIGH_RISK,Hinglish,train
+I need time,VAGUE,English,train
+Kichu ekta korchi,VAGUE,Bengali,train
+Dekho i nEeD TIMe,VAGUE,English,train
+Maybe ho jayega,VAGUE,Hinglish,train
+OnE OnE morE Call = fIr,HIGH_RISK,Hinglish,train
+salry aate hi turant karunga ok?,LIKELY_PAY,Hindi,train
+Wife se puchna padega pehle,NEEDS_REMINDER,Hinglish,train
+Well auto-debit auto-debit on chhilo na?,NEEDS_REMINDER,Bengali,train
+Can't promise kuch bhi,VAGUE,Hinglish,train
+Listen lIFE IS TOUGH RIGHT NOW!!,VAGUE,English,train
+I'll clear the dues within a week,LIKELY_PAY,English,train
+Kaal call koro ei byapare,NEEDS_REMINDER,Bengali,train
+Listen i wasn't aware it was overdue,NEEDS_REMINDER,English,train
+"Just waiting for my salary to hit, then paying immediately",LIKELY_PAY,English,train
+"Ek aur chance do, 2 din mein guaranteed!!",LIKELY_PAY,Hinglish,train
+Dekho ami ei call record korchi asap,HIGH_RISK,Bengali,train
+"I'm arranging the money, will pay tomorrow",LIKELY_PAY,English,train
+Honestly consumer court jaaunga against you!!,HIGH_RISK,Hinglish,train
+Boss kaun jaane jaane,VAGUE,Hindi,train
+Jotokkhon calculation thik na korbe totokkhon debo na,DISPUTE,Bengali,train
+"Bhai de dunga, chinta mat karo",LIKELY_PAY,Hindi,train
+Something like that hi hai,VAGUE,Hinglish,train
+"Bhai I have arranged already, doing NEFT",LIKELY_PAY,Hinglish,train
+"Look receipt ache amar kache, pathabo boss",DISPUTE,Bengali,train
+Thik ache sir,VAGUE,Bengali,train
+Pehle wife se baat karna padega,NEEDS_REMINDER,Hindi,train
+"Ja korte chao koro, dar nei amar",HIGH_RISK,Bengali,train
+"Let me do do partial now, rest later.???",LIKELY_PAY,Hinglish,train
+Basically Basically i dispute this charge,DISPUTE,English,train
+Acha hMM OK,VAGUE,Hinglish,train
+Yaar batana mushkil mushkil hai 🙏🙏,VAGUE,Hindi,train
+"Basically ok bhai, I'll pay by end of month 🙏🙏",LIKELY_PAY,Hinglish,train
+Stop calling me,HIGH_RISK,English,train
+"Listen late fee valid na, time e pay korechi!!",DISPUTE,Bengali,train
+Basically cheshta korbo,VAGUE,Bengali,train
+Onno priorities ache,VAGUE,Bengali,train
+See tumhari dhamkiyan kaam nahi karti mujh pe plz,HIGH_RISK,Hindi,train
+Ok so hmm !!,VAGUE,English,train
+"Apne records check karo, itna nahi banta",DISPUTE,Hindi,train
+"UPI ID share karo, abhi bhejta hun",LIKELY_PAY,Hinglish,train
+Arey i'll handle it my way!!,HIGH_RISK,Hinglish,train
+See weekend e dekhchi???,NEEDS_REMINDER,Bengali,train
+"i'vE alREaDy sPoken To My bank, traNsfeR wilL comE tomorrow 👍",LIKELY_PAY,English,train
+Look leave me alone ya legal action lunga 🤷,HIGH_RISK,Hinglish,train
+"Haan I know, will pay by Friday",LIKELY_PAY,Hinglish,train
+EMI taka alag rekhechi boss,LIKELY_PAY,Bengali,train
+Your agent said different amount last time,DISPUTE,Hinglish,train
+Ok so check check the 15th transaction ...,DISPUTE,English,train
+i thought thought auto-debit was on,NEEDS_REMINDER,English,train
+Apna kaam karo 💰???,HIGH_RISK,Hindi,train
+"Ok I understand, paying this weekend",LIKELY_PAY,English,train
+Honestly hmm,VAGUE,Bengali,train
+Stop calling me???,HIGH_RISK,English,train
+"HAAN BHAI, EK HAFTE MEIN TAK KAR DUNGA",LIKELY_PAY,Hindi,train
+bAnK SE SE verIFy kArNa paDega mUjHE???,DISPUTE,Hindi,train
+"Haan Haan bhai, agle shoptahe er moddhe kore debo!!",LIKELY_PAY,Bengali,train
+itna simple nahi hai yaar,VAGUE,Hindi,train
+I I never agreed to these terms yaar,DISPUTE,Hinglish,train
+Will think think about it 💰,VAGUE,English,train
+"Suno ok noted, check karta hun",NEEDS_REMINDER,Hindi,train
+"Boss escalation chai, amnt disputed 😡",DISPUTE,Bengali,train
+Suno i need time,VAGUE,English,train
+Yaar grace period milta hai kya?,NEEDS_REMINDER,Hindi,train
+Bhai bill dobara bhej do bro,NEEDS_REMINDER,Hindi,train
+possIBly !!,VAGUE,English,train
+Yaar situation dekHTe hobe,VAGUE,Bengali,train
+Dude Dude i don't AgRee wITH tHE outstanding amount,DISPUTE,English,train
+Ekhon Ekhon commit korte parbo na yaar,VAGUE,Bengali,train
+Kichu Kichu debar nei amar,HIGH_RISK,Bengali,train
+Madam it's not that simple yaar 💰,VAGUE,Hinglish,train
+yeah probably 🤷!!,VAGUE,Hinglish,train
+Dekhunga main,VAGUE,Hindi,train
+Sir complicated byapar byapar,VAGUE,Bengali,train
+Nijer time noshto korcho,HIGH_RISK,Bengali,train
+I thought auto-debit was on thanks???,NEEDS_REMINDER,English,train
+We'll figure it out,VAGUE,English,train
+Bujhte hobe yaar,VAGUE,Bengali,train
+Well aaj raater moddhe hoye jabe,LIKELY_PAY,Bengali,train
+Boss penalty charges too much hai,DISPUTE,Hinglish,train
+NEFT kar dunga month end tak 🙏,LIKELY_PAY,Hindi,train
+Basically interest rate keno bodlano holo?,DISPUTE,Bengali,train
+Pehle balance check karna padega boss???,NEEDS_REMINDER,Hinglish,train
+Well taka pathacchi ektu pore,LIKELY_PAY,Bengali,train
+Look this this is a billing error on your end thanks,DISPUTE,English,train
+I'll try,VAGUE,English,train
+Honestly dekhunga main,VAGUE,Hindi,train
+Koshish Koshish karunga within 15 days asap,LIKELY_PAY,Hinglish,train
+"UPI ID SHARE SHARE KARO, ABHI BHEJTA HUN???",LIKELY_PAY,Hinglish,train
+Ami ei call record korchi asap,HIGH_RISK,Bengali,train
+Acha jani na???,VAGUE,Bengali,train
+Bhai time e diye debo plz,LIKELY_PAY,Bengali,train
+Nahi dunga aur ye final hai,HIGH_RISK,Hindi,train
+No comment na?,VAGUE,Bengali,train
+Actually tUM LOGON KO SHARAM NAHI AATI,HIGH_RISK,Hindi,train
+"Ami arrange korchi, ek shoptahe hoye jabe",LIKELY_PAY,Bengali,train
+Shayad,VAGUE,Hindi,train
+"Arey ok bhai, I'll pay tomorrow!!",LIKELY_PAY,Hinglish,train
+Madam oNE MORE CALL = FIR 💰,HIGH_RISK,Hinglish,train
+Basically lagta hai koi mistake hai!!,DISPUTE,Hindi,train
+I'll look into into it!!,VAGUE,English,train
+Finance check kore janabo,NEEDS_REMINDER,Bengali,train
+Oh bhule gechilam plz,NEEDS_REMINDER,Bengali,train
+Bhebhe dekhchi,VAGUE,Bengali,train
+Transaction start kar diya hai,LIKELY_PAY,Hindi,train
+Korte parbo hoyto hoyto,VAGUE,Bengali,train
+Kichu ekta !!,VAGUE,Bengali,train
+Suno oh yaar forgot about this one!!,NEEDS_REMINDER,Hinglish,train
+"Actually bhule gechilam, ekhon korchi",LIKELY_PAY,Bengali,train
+Dekho give me 2 days to sort this 👍,NEEDS_REMINDER,Hinglish,train
+Dekho ja bhi,VAGUE,Bengali,train
+Sir let me me check my situation 🙂,VAGUE,English,train
+See dECIDE KORTE KORTE TIME DAO,VAGUE,Bengali,train
+Hey figure out ho jayega,VAGUE,Hinglish,train
+I'll handle it my way ...,HIGH_RISK,Hinglish,train
+"UPI pathao, ekhon e kori",LIKELY_PAY,Bengali,train
+Madam main ye call record kar rAha hun 🤷,HIGH_RISK,Hindi,train
+Not sure sir,VAGUE,English,train
+"Bro tension mat le, I'll clear it within a week",LIKELY_PAY,Hinglish,train
+Madam can I get a statement 💰,NEEDS_REMINDER,English,train
+"Ekhon taka nei, dui din e porjonto wait koro",LIKELY_PAY,Bengali,train
+Honestly jALDI HANDLE KARUNGA,NEEDS_REMINDER,Hindi,train
+Listen this is your billing mistake,DISPUTE,Hinglish,train
+I've been overcharged,DISPUTE,English,train
+Dude i've already complained to rbi about you 💰,HIGH_RISK,English,train
+Bhai aur priorities hain,VAGUE,Hindi,train
+Boss email pe details bhej do,NEEDS_REMINDER,Hindi,train
+Koto taka taka exactly?,NEEDS_REMINDER,Bengali,train
+Dekho you'll regret calling me,HIGH_RISK,English,train
+CHESHTA KORCHI NIJER DIK THEKE thanks,VAGUE,Bengali,train
+Check 20th transaction please,DISPUTE,Hinglish,train
+Suno get lost 🙏,HIGH_RISK,English,train
+Bhebhe dekhbo asap,VAGUE,Bengali,train
+"Ok noted, will check",NEEDS_REMINDER,Hinglish,train
+Bilkul karunga payment,LIKELY_PAY,Hindi,train
+"MY FRIEND WILL LEND ME, I'LL PAY BY FRIDAY???",LIKELY_PAY,English,train
+"Hey ok understood, I'll do something about it ...",NEEDS_REMINDER,English,train
+Jaldi handle karunga,NEEDS_REMINDER,Hindi,train
+Well sochunga iske baare mein yaar,VAGUE,Hindi,train
+No comment bhai???,VAGUE,Hinglish,train
+"Sorry for delay, paying this weekend definitely",LIKELY_PAY,English,train
+Payment kata hoyechhilo kintu pending dekhacche,DISPUTE,Bengali,train
+Social media te expose korbo asap,HIGH_RISK,Bengali,train
+Ami ei ei charge dispute korchi plz,DISPUTE,Bengali,train
+"Haan taka arrange hocche, ek shoptahe diye debo",LIKELY_PAY,Bengali,train
+Sir i'll clear the dues by friday,LIKELY_PAY,English,train
+Honestly cAN YOU SEND THE BILL AGAIN bro???,NEEDS_REMINDER,English,train
+Email e details pathao,NEEDS_REMINDER,Bengali,train
+It's complicated hai,VAGUE,Hinglish,train
+Honestly i'Ll cOnSiDer It???,VAGUE,English,train
+"Haan theek hai, de deta hun",LIKELY_PAY,Hindi,train
+Sir no comment???,VAGUE,Bengali,train
+"Listen mAIN ZIMMEDAR HUN, PAYMENT KARUNGA",LIKELY_PAY,Hindi,train
+Look number block kar raha hun 🙏,HIGH_RISK,Hindi,train
+Final answer: answer: no payment,HIGH_RISK,Hinglish,train
+Details fir se bhejo,NEEDS_REMINDER,Hindi,train
+Main baad mein batata hun,NEEDS_REMINDER,Hindi,train
+"You will receive payment this weekend, guaranteed 😢",LIKELY_PAY,English,train
+Basically fir fir fiLe KarUnga TUm pe,HIGH_RISK,Hinglish,train
+You people are scammers asap,HIGH_RISK,English,train
+Actually leAVe Me AlOne Or i'lL taKe lEgal actiOn 🤷,HIGH_RISK,English,train
+Well this amount is wrong,DISPUTE,English,train
+Abhi answer nahi hai mere paas,VAGUE,Hinglish,train
+Let me get back to you on this thanks,NEEDS_REMINDER,English,train
+Arey bhebhe dekhchi.,VAGUE,Bengali,train
+Payment fix hai Shukravaar ko 🙂,LIKELY_PAY,Hindi,train
+Sir depend karta hai 🙏,VAGUE,Hindi,train
+One more call = FIR,HIGH_RISK,Hinglish,train
+Meri side se confirmed hai payment,LIKELY_PAY,Hinglish,train
+I'll I'll clear the dues by end of month !!???,LIKELY_PAY,English,train
+Amount mein discrepancy hai,DISPUTE,Hindi,train
+Listen bhai time e diye debo,LIKELY_PAY,Bengali,train
+"ok i understand, paying by end of month 🙏",LIKELY_PAY,English,train
+Agle Agle hafte yaad dilana fir se!!,NEEDS_REMINDER,Hindi,train
+Amake chhere dao nahole legal action nebo,HIGH_RISK,Bengali,train
+Arey soch raha hun,VAGUE,Hindi,train
+"Promise korchi, dui din e e 😡",LIKELY_PAY,Bengali,train
+might be able to 😡???,VAGUE,English,train
+Hey lET Me CheCK my BalaNce and paY by end of monTh,LIKELY_PAY,English,train
+"I paid through PhonePe, check again???",DISPUTE,English,train
+bhai mera plan hai monday ko clear karna,LIKELY_PAY,Hinglish,train
+"let me pay in installments, first one by friday",LIKELY_PAY,Hinglish,train
+abhi can't say bro,VAGUE,Hinglish,train
+Hmm ok???,VAGUE,Hinglish,train
+Send me the details again please,NEEDS_REMINDER,English,train
+Bujhe nii ami???,NEEDS_REMINDER,Bengali,train
+Dekhe nii!!,VAGUE,Bengali,train
+Boss samajh leta hun main,NEEDS_REMINDER,Hindi,train
+Kuch kar raha hun,VAGUE,Hindi,train
+"Well dui bhage dite pari, prothom ta ei weekend",LIKELY_PAY,Bengali,train
+FORECLOSURE AMOUNT AMOUNT IS INCORRECT 😡!!,DISPUTE,Hinglish,train
+Arey Arey oUTSTANDING KAHAN CHECK KARUN 🤷,NEEDS_REMINDER,Hinglish,train
+bhai time e diye debo na?,LIKELY_PAY,Bengali,train
+Ho sakta hai 😭!!,VAGUE,Hindi,train
+Get lost yaar,HIGH_RISK,Hinglish,train
+Dekhte hain kuch hota hai asap,VAGUE,Hindi,train
+I will do NEFT kal mein,LIKELY_PAY,Hinglish,train
+Bhai pore bolbo ami,NEEDS_REMINDER,Bengali,train
+Boss abhi prOcess MeIN hai pAYmeNT!!,LIKELY_PAY,Hindi,train
+Ki korbo bujhte parchi na,VAGUE,Bengali,train
+Acha i'll look into it dekhta hun 😢,VAGUE,Hinglish,train
+"Main bhool gaya tha, abhi karta hun",LIKELY_PAY,Hindi,train
+Your company harasses innocent people,HIGH_RISK,English,train
+"Boss Boss consider it done, paying by end of month ok?",LIKELY_PAY,English,train
+Bhai i'll consider it 🤷,VAGUE,English,train
+Well aUTO-DEBIT ON CHHILO NA?!!,NEEDS_REMINDER,Bengali,train
+Suno onNO pRioritIes aChe asap,VAGUE,Bengali,train
+Company bondho koriye debo tomar thanks,HIGH_RISK,Bengali,train
+Payment fix hai Ravivaar ko!!,LIKELY_PAY,Hindi,train
+Dude really can't say bro,VAGUE,Hinglish,train
+Ok so let me check my situation,VAGUE,English,train
+Ok so so dekhunga main,VAGUE,Hindi,train
+Mera account audit karo,DISPUTE,Hindi,train
+Salary aate hi turant karunga,LIKELY_PAY,Hindi,train
+Basically lATE FEE KITNI LAGEGI?,NEEDS_REMINDER,Hindi,train
+"I'm never going to pay, deal with it",HIGH_RISK,English,train
+Ok so media mein jaunga with proof,HIGH_RISK,Hinglish,train
+Foreclosure amount galat hai,DISPUTE,Hindi,train
+I will pay by Saturday,LIKELY_PAY,English,train
+Haan bhai mera plan hai thursday ko clear karna yaar,LIKELY_PAY,Hinglish,train
+I'll go to the media about this thanks???,HIGH_RISK,English,train
+Late pay karne pe kitni penalty?,NEEDS_REMINDER,Hinglish,train
+Yaar consumer court jaaunga against you asap,HIGH_RISK,Hinglish,train
+"Sue me if you want, I don't care",HIGH_RISK,Hinglish,train
+"Samajh gaya, kuch karunga thanks???",NEEDS_REMINDER,Hindi,train
+Suno i i don't know,VAGUE,English,train
+Listen leave me alone ya legal action lunga,HIGH_RISK,Hinglish,train
+Maybe!!,VAGUE,English,train
+RBI te complaint kore diyechi thanks,HIGH_RISK,Bengali,train
+"Honestly statement chahiye detailed, tab tak kuch nahi dunga",DISPUTE,Hindi,train
+Acha blocking this number right now boss,HIGH_RISK,Hinglish,train
+Well i'LL HANDLE IT SOON,NEEDS_REMINDER,English,train
+Honestly can I get a statement,NEEDS_REMINDER,English,train
+Ami ei terms e agree korini na?!!,DISPUTE,Bengali,train
+Agle hafte yaad dilana fir se,NEEDS_REMINDER,Hindi,train
+Can't commit right now,VAGUE,English,train
+Actually amar account audit koro,DISPUTE,Bengali,train
+"Haan mujhe pata hai, agle hafte kar dunga sir",LIKELY_PAY,Hindi,train
+Check karke batata hun,NEEDS_REMINDER,Hindi,train
+"ekdin ekdin aro please, pakka debo",LIKELY_PAY,Bengali,train
+I want written proof of the amount owed,DISPUTE,English,train
+Exact due amount bolo,NEEDS_REMINDER,Bengali,train
+Due date kab thi yaar,NEEDS_REMINDER,Hindi,train
+Acha Acha late pay karne pe kitni penalty?,NEEDS_REMINDER,Hinglish,train
+I'll destroy your reputation,HIGH_RISK,English,train
+Finances check karke bataunga,NEEDS_REMINDER,Hinglish,train
+Age bank balance check korte hobe,NEEDS_REMINDER,Bengali,train
+"Honestly bonus peyechi, ekhon e dei sir",LIKELY_PAY,Bengali,train
+WILL CLEAR THE THE PENDING AMOUNT BEFORE THURSDAY,LIKELY_PAY,English,train
+Bank se verify karna padega mujhe,DISPUTE,Hindi,train
+it's comPlicatEd hai na?,VAGUE,Hinglish,train
+Ye add up nahi ho raha ...,DISPUTE,Hindi,train
+Well theek hai ok plz,VAGUE,Hinglish,train
+My payment was deducted but you're showing pending,DISPUTE,English,train
+Eto simple na,VAGUE,Bengali,train
+How many days days overdue is it?,NEEDS_REMINDER,English,train
+Boss harassment er jonno report korbo tomake asap,HIGH_RISK,Bengali,train
+Acha pore janabo,VAGUE,Bengali,train
+Madam batana mushkil hai sir,VAGUE,Hindi,train
+Arey remind me later plz 👍,NEEDS_REMINDER,Hinglish,train
+"Don't Don't worry yaar, karke dunga",LIKELY_PAY,Hinglish,train
+Ye loan pichle saal band kiya tha,DISPUTE,Hindi,train
+"Honestly ami neft diye pay korechi, abar check koro 🙏🙏",DISPUTE,Bengali,train
+Sochunga asap!!,VAGUE,Hindi,train
+amount meiN mismatch haI asap,DISPUTE,Hinglish,train
+Haan mAYBE!!,VAGUE,English,train
+Last time bol raha hun,HIGH_RISK,Hinglish,train
+Toder lojja nei,HIGH_RISK,Bengali,train
+Madam i DoN't owe AnyThiNG AnD wOn't paY,HIGH_RISK,English,train
+"Amar balance zero howar kotha, shob pay korechi",DISPUTE,Bengali,train
+"Yes I know, will transfer in 3 days",LIKELY_PAY,English,train
+Aaj e paymt hoye jabe yaar!!,LIKELY_PAY,Bengali,train
+Bhai bas thoda sa wait karo 😢!!,LIKELY_PAY,Hindi,train
+"This is fraud, I'm going to the police",HIGH_RISK,English,train
+Basically how to set up auto-pay?!!,NEEDS_REMINDER,Hinglish,train
+File a case if you dare,HIGH_RISK,English,train
+I'll review my finances and get back,NEEDS_REMINDER,English,train
+Hey agle shoptahe mone koriyo???,NEEDS_REMINDER,Bengali,train
+Dubara contact contact mat karna,HIGH_RISK,Hindi,train
+I'll look look into it yaar!!,VAGUE,English,train
+I'm trying apni taraf se,VAGUE,Hinglish,train
+Honestly pEHLE WIFE SE BAAT KARNA PADEGA asap,NEEDS_REMINDER,Hindi,train
+Can't promise anything,VAGUE,English,train
+Can I pay in two parts? First part this weekend,LIKELY_PAY,English,train
+Finances Finances check karke batata hun 😢,NEEDS_REMINDER,Hindi,train
+Yaar how how many days overdue is it?,NEEDS_REMINDER,English,train
+You can't do anything to me,HIGH_RISK,English,train
+"Honestly bhai I have arranged already, doing NEFT",LIKELY_PAY,Hinglish,train
+complicated hai yaar,VAGUE,Hindi,train
+"DETAILED STATEMENT DO, DO, TAB TAK NAHI DUNGA yaar",DISPUTE,Hinglish,train
+amar Lawyer dEkhbe plz,HIGH_RISK,Bengali,train
+Amar bank successful payment dekhacche,DISPUTE,Bengali,train
+I will do NEFT 2 din mein mein,LIKELY_PAY,Hinglish,train
+please ShARE the lOaN AgrEement copY thanks???,DISPUTE,English,train
+"Ek aur chance do, month end tak guaranteed",LIKELY_PAY,Hinglish,train
+"Honestly apne records check karo, itna nahi banta",DISPUTE,Hindi,train
+Hey don't ever contact me again???,HIGH_RISK,English,train
+Well ke jane???,VAGUE,Bengali,train
+"Honestly 25th e payment korechilem, credit hoyni",DISPUTE,Bengali,train
+Suno porE bOlbo ami,NEEDS_REMINDER,Bengali,train
+Look ok Let me figure tHis oUt,NEEDS_REMINDER,English,train
+"Actually main bhool gaya tha, abhi karta hun",LIKELY_PAY,Hindi,train
+Leave me alone or I'll take legal action,HIGH_RISK,English,train
+Honestly i'll consider it sochunga 😡,VAGUE,Hinglish,train
+Koto din overdue hoyeche?,NEEDS_REMINDER,Bengali,train
+Listen uncertain hun main,VAGUE,Hinglish,train
+"Ok noted, let me check",NEEDS_REMINDER,English,train
+Your agent told me a different amount last time,DISPUTE,English,train
+Boss ager ager call gulo miss hoye geche sorry,NEEDS_REMINDER,Bengali,train
+Pore hoyto,VAGUE,Bengali,train
+Situation dekhni padegi,VAGUE,Hindi,train
+Yaar i have have no obligation to pay this ok,HIGH_RISK,English,train
+"Ok fine, take the payment by Friday",LIKELY_PAY,English,train
+Oh yaar forgot about this one,NEEDS_REMINDER,Hinglish,train
+I will pay by Friday sir,LIKELY_PAY,English,train
+"Taka arrange hocche, dui din e diye debo.!!",LIKELY_PAY,Bengali,train
+Tomar company bhalo lokeder harrass kore,HIGH_RISK,Bengali,train
+Dude sochunga thx,VAGUE,Hindi,train
+Check kore janabo,NEEDS_REMINDER,Bengali,train
+Bhebhe dekhchi boss,VAGUE,Bengali,train
+Arey ami ei call record korchi 💰,HIGH_RISK,Bengali,train
+Will clear the pending amount before Wednesday,LIKELY_PAY,English,train
+Hoyto hoye jabe,VAGUE,Bengali,train
+Listen possibly,VAGUE,English,train
+Madam social media te expose korbo,HIGH_RISK,Bengali,train
+"Ok noted, let me check sir",NEEDS_REMINDER,English,train
+Amar side theke arrangement hoye geche,LIKELY_PAY,Bengali,train
+Arey main tumhari company band karwa dunga boss,HIGH_RISK,Hinglish,train
+Actually debo na ar eta final,HIGH_RISK,Bengali,train
+My payment is scheduled for Wednesday,LIKELY_PAY,English,train
+Exact amount bata bata do,NEEDS_REMINDER,Hinglish,train
+Honestly obostha kharap 🤷,VAGUE,Bengali,train
+Bhai can you you send the bill again?,NEEDS_REMINDER,English,train
+Dekho my payment is scheduled for Friday,LIKELY_PAY,English,train
+Ekhon na thx???,VAGUE,Bengali,train
+Basically i can do partial payment today,LIKELY_PAY,English,train
+Ei amount bhul ache,DISPUTE,Bengali,train
+Dude can yoU yoU eMail me tHe detailS 🙏🙏,NEEDS_REMINDER,English,train
+"Taka arrange hocche, mash sheshe diye debo",LIKELY_PAY,Bengali,train
+Dekho maine ye loan nahi liya hai,DISPUTE,Hinglish,train
+Promise korte parbo na,VAGUE,Bengali,train
+Yaar i'll handle this my way ...,HIGH_RISK,English,train
+Get lost yaar thanks,HIGH_RISK,Hinglish,train
+Look i THINK THERE'S BEEN A MISTAKE 🙏,DISPUTE,English,train
+Ok so i'm i'm going to the banking ombudsman,HIGH_RISK,English,train
+Payment fix hai Budhvaar ko,LIKELY_PAY,Hindi,train
+I'll get get back to you,NEEDS_REMINDER,Hinglish,train
+Basically Basically ami ei charge dispute korchi 💰,DISPUTE,Bengali,train
+Hey pore hoyto,VAGUE,Bengali,train
+"processing hai bhai, bhai, thoda wait",LIKELY_PAY,Hinglish,train
+DepENd Kore???,VAGUE,Bengali,train
+I don't have an answer right now,VAGUE,English,train
+Amount e discrepancy ache,DISPUTE,Bengali,train
+"Honestly contact my bank, the issue is on your side ...",DISPUTE,English,train
+Time waste mat karo apna,HIGH_RISK,Hinglish,train
+Yaar haalat kharab hain,VAGUE,Hindi,train
+Arey bhai time e diye debo 😢,LIKELY_PAY,Bengali,train
+"Acha uPI uPI pathao, ekhon e kori???",LIKELY_PAY,Bengali,train
+Kono obligation nei amar eta debar,HIGH_RISK,Bengali,train
+"Well statement statement chahiye detailed, tab tak kuch nahi dunga",DISPUTE,Hindi,train
+Yaar mAIN TUMHARI COMPANY BAND KARWA DUNGA !!,HIGH_RISK,Hinglish,train
+Dekho eKhon ProCeSs e achE payment thx,LIKELY_PAY,Bengali,train
+Mind your business business bro,HIGH_RISK,Hinglish,train
+Haan muShkIl oBOstha,VAGUE,Bengali,train
+Poora taka taka ekbare diye debo 💰!!,LIKELY_PAY,Bengali,train
+Let me figure this out 👍,NEEDS_REMINDER,Hinglish,train
+I'll ruin your company reputation,HIGH_RISK,Hinglish,train
+"Haan i will definitely pay, just give me till Thursday",LIKELY_PAY,English,train
+See cAN'T PROMISE ANYTHING,VAGUE,English,train
+Ami jantam na overdue hoyeche,NEEDS_REMINDER,Bengali,train
+"Well bhai I have arranged already, doing NEFT boss!!",LIKELY_PAY,Hinglish,train
+"Karunga, baar baar call mat karo",NEEDS_REMINDER,Hindi,train
+Why are there hidden charges yaar,DISPUTE,English,train
+YE VASULI HAI boss,HIGH_RISK,Hindi,train
+ARO EKTA CALL CALL ASHLE REPORT KORBO???,HIGH_RISK,Bengali,train
+1st ka transaction check karo,DISPUTE,Hindi,train
+Basically how many days overdue is it thanks,NEEDS_REMINDER,English,train
+"Boss ja khoushi koro, ami debo na",HIGH_RISK,Bengali,train
+Let me dekh leta hun,VAGUE,Hinglish,train
+Situation Situation dekhte hobe,VAGUE,Bengali,train
+Aur options sochne do sir,VAGUE,Hindi,train
+Well i think notification miss ho gayi???,NEEDS_REMINDER,Hinglish,train
+Hard to say,VAGUE,English,train
+Hey due date kab thi asap,NEEDS_REMINDER,Hindi,train
+I'll try ok????,VAGUE,English,train
+Don't test my patience,HIGH_RISK,English,train
+Ekhon na ok?,VAGUE,Bengali,train
+Maine ye loan nahi liya hai???,DISPUTE,Hinglish,train
+"I'm serious about this, will pay tomorrow",LIKELY_PAY,Hinglish,train
+"Main kabhi mana nahi kiya, payment karunga",LIKELY_PAY,Hindi,train
+Mera plan hai Guruvaar ko dene ka,LIKELY_PAY,Hindi,train
+Your harassment is enough,HIGH_RISK,Hinglish,train
+Taratari handle korbo,NEEDS_REMINDER,Bengali,train
+Agreement mein different terms the yaar???,DISPUTE,Hinglish,train
+"Busy tha, dekh lunga plz",NEEDS_REMINDER,Hindi,train
+"Understood, will do something about it 😢",NEEDS_REMINDER,Hinglish,train
+Listen can't promise promise kuch bhi,VAGUE,Hinglish,train
+Interest calculation is wrong,DISPUTE,Hinglish,train
+Can't say right now thx,VAGUE,English,train
+"Sir bro let me arrange, is weekend tak done",LIKELY_PAY,Hinglish,train
+"Sir diye debo, debo, dhairyo dhoro",LIKELY_PAY,Bengali,train
+"I'll take care of it, don't keep calling",NEEDS_REMINDER,English,train
+dekha jabe 😡,VAGUE,Bengali,train
+Dekho social media pe viral karunga!!,HIGH_RISK,Hinglish,train
+Pata nahi 🤷,VAGUE,Hindi,train
+Suno Suno apNE TArIke se HandLE KarungA,HIGH_RISK,Hindi,train
+Didn't know it was overdue yaar,NEEDS_REMINDER,Hinglish,train
+Bujhe nii ami,NEEDS_REMINDER,Bengali,train
+"Ami kokhono mana korini, payment korbo",LIKELY_PAY,Bengali,train
+Look tumhari dhamkiyan kaam nahi karti mujh pe asap,HIGH_RISK,Hindi,train
+who knows 💰,VAGUE,English,train
+Sir pehle balance check karna padega,NEEDS_REMINDER,Hinglish,train
+bank bank theke verify korte hobe amake 🙏🙏,DISPUTE,Bengali,train
+Honestly thiS Is ILlEgal What yoU're doing,HIGH_RISK,English,train
+"Main koshish kar raha hun, Shukravaar tak tak",LIKELY_PAY,Hindi,train
+Dure jao,HIGH_RISK,Bengali,train
+Arey deKha jak ki Hoy sir???,VAGUE,Bengali,train
+Grace period milta hai kya?,NEEDS_REMINDER,Hindi,train
+Ekhon commit korte parbo na,VAGUE,Bengali,train
+I need clarification before paying,DISPUTE,English,train
+Look aMAR PATIENCE TEST KORO NA,HIGH_RISK,Bengali,train
+"I'm not running away, will pay this weekend",LIKELY_PAY,Hinglish,train
+let me pay half now and rest by friday,LIKELY_PAY,English,train
+"Boss bank change kiya recently, update karna hai !!",NEEDS_REMINDER,Hindi,train
+Figure out out ho jayega,VAGUE,Hinglish,train
+Dekha jak ki hoy,VAGUE,Bengali,train
+"Ekhon taka nei, ei weekend porjonto wait koro!!",LIKELY_PAY,Bengali,train
+See aGe Bank BAlaNcE CHeCk KORTe hobe 💰???,NEEDS_REMINDER,Bengali,train
+FIR korbo tomar name,HIGH_RISK,Bengali,train
+Yaar get lost yaar sir,HIGH_RISK,Hinglish,train
+Sir i'm trying my best thanks???,VAGUE,English,train
+Madam maine apne side se arrangement kar liya hai 🙏,LIKELY_PAY,Hindi,train
+"Number change kiya tha, reminder nahi aaya",NEEDS_REMINDER,Hindi,train
+One more more call = FIR???,HIGH_RISK,Hinglish,train
+Bhai abar contact koro na,HIGH_RISK,Bengali,train
+Might be able to bro,VAGUE,English,train
+Exact Exact due amt bolo???,NEEDS_REMINDER,Bengali,train
+Mind your business bro,HIGH_RISK,Hinglish,train
+Maybe sir,VAGUE,English,train
+What you're doing is illegal bhai,HIGH_RISK,Hinglish,train
+let me see 😢,VAGUE,English,train
+"Ami arrange korchi, korchi, mash sheshe hoye jabe",LIKELY_PAY,Bengali,train
+The amount doesn't match what I signed for,DISPUTE,English,train
+Arey pehle bank balance check karna padega 😢,NEEDS_REMINDER,Hindi,train
+Apna time waste kar rahe ho,HIGH_RISK,Hindi,train
+Abhi tak unpaid kyun hai boss,DISPUTE,Hindi,train
+Haan dekhe nii,VAGUE,Bengali,train
+"Haan jani, tin din e e korbo",LIKELY_PAY,Bengali,train
+"UPI bhej do, abhi kar deta hun",LIKELY_PAY,Hindi,train
+Yaar koi obligation nahi hai mera ye dene ka 👍,HIGH_RISK,Hindi,train
+I'm disputing this charge,DISPUTE,Hinglish,train
+"Work mein busy, will sort soon thanks",NEEDS_REMINDER,Hinglish,train
+Basically this is the last time I'm telling you,HIGH_RISK,English,train
+Batana mushkil hai plz!!,VAGUE,Hindi,train
+Email pe details bhej do asap,NEEDS_REMINDER,Hindi,train
+Jo bhi,VAGUE,Hindi,train
+Hey email e details pathao,NEEDS_REMINDER,Bengali,train
+"Kaam mein busy hun, jaldi karunga",NEEDS_REMINDER,Hindi,train
+"Promise korchi, mash sheshe e 💰???",LIKELY_PAY,Bengali,train
+Will get back to you!!,VAGUE,English,train
+neft kar dunGa ShukRavAar tak,LIKELY_PAY,Hindi,train
+"Government mein jaanta hun logon ko, sambhal ke",HIGH_RISK,Hindi,train
+Boss yeah probably???,VAGUE,Hinglish,train
+CHECK THE 20TH TRANSACTION,DISPUTE,English,train
+My bank shows payment successful,DISPUTE,Hinglish,train
+Hote pare,VAGUE,Bengali,train
+Give me 4 more days please,LIKELY_PAY,Hinglish,train
+Hey why was the interest rate changed 🙏,DISPUTE,English,train
+Penalty Penalty charges onek beshi sir,DISPUTE,Bengali,train
+"AMI ARRANGE KORCHI, TIN DIN E HOYE JABE",LIKELY_PAY,Bengali,train
+"Abhi Abhi paisa nahi hai, Shukravaar tak tak pakka???",LIKELY_PAY,Hindi,train
+Yaar ekhon uttor dite parbo na,VAGUE,Bengali,train
+ABHI CAN'T SAY???,VAGUE,Hinglish,train
+Nijer time noshto noshto korcho,HIGH_RISK,Bengali,train
+Kothai pay korte hobe? Link dao,NEEDS_REMINDER,Bengali,train
+Try karunga bro,VAGUE,Hinglish,train
+No comment bhai,VAGUE,Hinglish,train
+Hey finances check karke batata hun 👍,NEEDS_REMINDER,Hindi,train
+"Yaar kaje busy, jholdi korbo plz",NEEDS_REMINDER,Bengali,train
+FIR file karunga tum pe,HIGH_RISK,Hinglish,train
+Done talking to you people???,HIGH_RISK,Hinglish,train
+Soch raha hun,VAGUE,Hindi,train
+Hey sochunga,VAGUE,Hindi,train
+Interest calculation bhul ache,DISPUTE,Bengali,train
+Basically i'm disputing this charge,DISPUTE,Hinglish,train
+"Ami arrange korchi, Shukrobar er moddhe hoye jabe",LIKELY_PAY,Bengali,train
+Maybe later!!,VAGUE,English,train
+"Honestly case koro, amar kichu jai ashe na ...",HIGH_RISK,Bengali,train
+Oh I forgot about this,NEEDS_REMINDER,English,train
+Boss kaal payment kore debo,LIKELY_PAY,Bengali,train
+"Yaar yOU WILL RECEIVE PAYMENT WITHIN A WEEK, GUARANTEED!!",LIKELY_PAY,English,train
+Madam thik ache,VAGUE,Bengali,train
+Whatever jo bhi bro!!,VAGUE,Hinglish,train
+"Dekho Dekho busy tha, dekh lunga!!",NEEDS_REMINDER,Hindi,train
+Amake call kora bondho koro,HIGH_RISK,Bengali,train
+"Basically number change korechi, reminder asheni",NEEDS_REMINDER,Bengali,train
+maybe later 😢,VAGUE,English,train
+Actually how many days overdue hai,NEEDS_REMINDER,Hinglish,train
+Sochna padega na?,VAGUE,Hindi,train
+Hey porSHUDinO porSHUDinO porjonTO PakKA diye DEbO!!,LIKELY_PAY,Bengali,train
+"Promise korchi, Shukrobar er moddhe e",LIKELY_PAY,Bengali,train
+"Madam ye kisi aur ka loan hai, mera nahi",DISPUTE,Hindi,train
+Maybe,VAGUE,English,train
+why interest rate change hua bro,DISPUTE,Hinglish,train
+Look eta tomar billing er bhul,DISPUTE,Bengali,train
+Sir aAJ Shaam TAk transfer kAR DUNga 🙂???,LIKELY_PAY,Hindi,train
+Dekho let me know the exact amnt due 👍???,NEEDS_REMINDER,English,train
+"Thoda time chahiye, but I will pay for sure",LIKELY_PAY,Hinglish,train
+abHi abHi DUe ho gaya? mUJHe laga NexT MONth haI plz,NEEDS_REMINDER,Hindi,train
+Jani na asap!!,VAGUE,Bengali,train
+last time bol raha hun na?,HIGH_RISK,Hinglish,train
+UNCERTAIN sir,VAGUE,English,train
+Listen eto simple na,VAGUE,Bengali,train
+Look jibon mushkil cholche,VAGUE,Bengali,train
+I will pay by Friday???,LIKELY_PAY,English,train
+sochne do 😢,VAGUE,Hindi,train
+Aaj raat tak ho jayega,LIKELY_PAY,Hindi,train
+Depend karta hai,VAGUE,Hindi,train
+Look ami ei loan niini???,DISPUTE,Bengali,train
+"Paytm se paid already, recheck please",DISPUTE,Hinglish,train
+payment will be done by friday,LIKELY_PAY,English,train
+"Ok I understand, paying by Friday",LIKELY_PAY,English,train
+Listen send details again please,NEEDS_REMINDER,Hinglish,train
+Things Things are difficult bahut,VAGUE,Hinglish,train
+"Well sorry I was busy, will look into it!!",NEEDS_REMINDER,English,train
+Check 15th transaction pls,DISPUTE,Hinglish,train
+kaun jaane???,VAGUE,Hindi,train
+See taratari handle korbo,NEEDS_REMINDER,Bengali,train
+Hey sAMAjH letA hun Main,NEEDS_REMINDER,Hindi,train
+Mujhe 10 din aur chahiye bas,LIKELY_PAY,Hindi,train
+"Travel pe tha, abhi aaya hun",NEEDS_REMINDER,Hindi,train
+I'll report you for harassment bro!!,HIGH_RISK,Hinglish,train
+Suno it depends yaar!!,VAGUE,Hinglish,train
+Basically yE ADD UP NAHI HO RAHA,DISPUTE,Hindi,train
+Payment confirmed for Tuesday,LIKELY_PAY,English,train
+I'll look into it,VAGUE,English,train
+Dekhunga main 😢!!,VAGUE,Hindi,train
+"My balance should be zero, I completed all payments",DISPUTE,English,train
+It's not that simple,VAGUE,English,train
+See will think about it 👍,VAGUE,English,train
+Well paChtAoGe mujHe cAlL KArKe bro,HIGH_RISK,Hindi,train
+Suno uncertain hun main,VAGUE,Hinglish,train
+Email pe details bhej do plz!!,NEEDS_REMINDER,Hindi,train
+"Don't Don't worry, payment is on the way 😡",LIKELY_PAY,English,train
+The amt amt doesn't match what I signed for,DISPUTE,English,train
+Ami ei EMI already diyechi,DISPUTE,Bengali,train
+Honestly charges er complete breakdown pathao 🙂???,DISPUTE,Bengali,train
+I'll pay the full amount next week,LIKELY_PAY,English,train
+Honestly statement pawa jabe?,NEEDS_REMINDER,Bengali,train
+Dekho payment fix hai Guruvaar ko,LIKELY_PAY,Hindi,train
+Madam can't say right now,VAGUE,English,train
+"already talked to bank, will come next week",LIKELY_PAY,Hinglish,train
+Bill dubara bhejo bhejo please,NEEDS_REMINDER,Hinglish,train
+Pore bolbo ami ami ...,NEEDS_REMINDER,Bengali,train
+Oh bhule gechilam gechilam,NEEDS_REMINDER,Bengali,train
+Actually emi KA paisA alag rAKhA haI,LIKELY_PAY,Hindi,train
+"Dekho stateMeNt chahiYe chahiYe DEtAILEd, tab tAK kucH nahi dunga???",DISPUTE,Hindi,train
+Honestly tumhara system galat data dikha raha hai thanks,DISPUTE,Hindi,train
+"Ami responsible, payment korbo",LIKELY_PAY,Bengali,train
+Social media pe expose karunga,HIGH_RISK,Hindi,train
+Need To figurE out kArUNga ...???,VAGUE,Hinglish,train
+"HAAN HAAN KARUNGA, AGLE HAFTE TAK PAKKA 🙂",LIKELY_PAY,Hinglish,train
+Ke jane???,VAGUE,Bengali,train
+Salary er wait ache bas,LIKELY_PAY,Bengali,train
+Working on it hun 😢!!,VAGUE,Hinglish,train
+Processing fee waive honi thi,DISPUTE,Hindi,train
+It's complicated,VAGUE,English,train
+Tum log log scammer ho,HIGH_RISK,Hindi,train
+Case koro jodi jodi shahos thake,HIGH_RISK,Bengali,train
+Basically my bank shows payment successful,DISPUTE,Hinglish,train
+Which EMI is this for?,NEEDS_REMINDER,English,train
+Listen sOcIal mEdIa pe expOSe kaRunga???,HIGH_RISK,Hindi,train
+"Bhai promise karta hun, 2 din mein tak",LIKELY_PAY,Hindi,train
+i refuse to to pay until you fix the calculation yaar,DISPUTE,English,train
+Arey duE datE kaB thi 🤷,NEEDS_REMINDER,Hindi,train
+"Did prepayment, not showing in system",DISPUTE,Hinglish,train
+dubara contact mat karna boss,HIGH_RISK,Hindi,train
+"Adha ekhon, baki ta Shukrobar er moddhe",LIKELY_PAY,Bengali,train
+"Haan haan karunga, 3 din mein tak pakka",LIKELY_PAY,Hinglish,train
+"Basically already talked to bank, will come within a week???",LIKELY_PAY,Hinglish,train
+See penalty charges charges too much hai,DISPUTE,Hinglish,train
+This doesn't add up asap,DISPUTE,English,train
+"Haan my ca handles this, let me ask him plz",NEEDS_REMINDER,Hinglish,train
+Case Case koro jodi shahos thake,HIGH_RISK,Bengali,train
+Ok so manager se baat karao mujhe 👍,DISPUTE,Hindi,train
+Call me tomorrow about this thanks,NEEDS_REMINDER,Hinglish,train
+Maine in terms pe agree nahi kiya tha,DISPUTE,Hindi,train
+Notification miss hoye geche mone hoy,NEEDS_REMINDER,Bengali,train
+SMS SMS aaya tha kya? Nahi dekha!!,NEEDS_REMINDER,Hindi,train
+Actually sochna padega mujhe,VAGUE,Hinglish,train
+Mera auto-debit on tha na bro,NEEDS_REMINDER,Hinglish,train
+25th ka transaction check karo 😭,DISPUTE,Hindi,train
+Maybe later sometime,VAGUE,Hinglish,train
+Amount verify karna padega,NEEDS_REMINDER,Hindi,train
+Hidden charges keno yaar,DISPUTE,Bengali,train
+Abhi jawab nahi de sakta,VAGUE,Hindi,train
+Sir aAj RaAtER ModDHe hoye JabE???,LIKELY_PAY,Bengali,train
+How many days overdue hai?,NEEDS_REMINDER,Hinglish,train
+Statement milega kya?,NEEDS_REMINDER,Hinglish,train
+"Call korte korte thako, dekhe neo ki hoy",HIGH_RISK,Bengali,train
+I lost track of the dates,NEEDS_REMINDER,English,train
+Look decide korte time dao,VAGUE,Bengali,train
+Yaar sure na,VAGUE,Bengali,train
+Yaar ki korbo bujhte parchi na asap!!,VAGUE,Bengali,train
+Next week yaad dilana plss???,NEEDS_REMINDER,Hinglish,train
+Your threats don't work on me,HIGH_RISK,English,train
+"Government e chinchi lokjon, shambhale",HIGH_RISK,Bengali,train
+Bhai abhi jawab nahi de sakta bro,VAGUE,Hindi,train
+"Do hisson mein de sakta hun, pehla 3 din mein???",LIKELY_PAY,Hindi,train
+"Basically sorry bhai, missed earlier calls thx",NEEDS_REMINDER,Hinglish,train
+Yaar no cOmmENT,VAGUE,Bengali,train
+Bhai patA naHI 🙂,VAGUE,Hindi,train
+Acha Acha fIR file karunga tum pe,HIGH_RISK,Hinglish,train
+"Suno ok fine, take the payment within a week",LIKELY_PAY,English,train
+"Boss government e chinchi lokjon, shambhale 😭???",HIGH_RISK,Bengali,train
+"Bhai salary nahi nahi aayi abhi, 2 din mein mein pakka kar dunga yaar",LIKELY_PAY,Hinglish,train
+Honestly ek-dui ghontar moddhe hoye jabe,LIKELY_PAY,Bengali,train
+Mushkil hai hai situation,VAGUE,Hindi,train
+Outstanding Outstanding kahan check karun?,NEEDS_REMINDER,Hinglish,train
+Amake Amake call kora bondho koro 👍,HIGH_RISK,Bengali,train
+"ami serious, kaal porjonto pakka!!",LIKELY_PAY,Bengali,train
+"I got money from friend, paying now",LIKELY_PAY,Hinglish,train
+Ekhon e due hoye geche? Ami bhebechilam porer mash,NEEDS_REMINDER,Bengali,train
+Honestly case karo agar himmat hai 😡,HIGH_RISK,Hindi,train
+"I promise bhai, agle hafte tak thx",LIKELY_PAY,Hinglish,train
+"Work Work mein busy, will sort soon !!!!",NEEDS_REMINDER,Hinglish,train
+Listen mERA LAWYER LAWYER DEKHEGA YE SAB,HIGH_RISK,Hindi,train
+Actually maybe later???,VAGUE,English,train
+Bhai Bhai your system shows wrong data !!,DISPUTE,English,train
+Actually dEKHA JABE,VAGUE,Bengali,train
+Actually overChArGE kiya hAi mujhE???,DISPUTE,Hindi,train
+Amar lawyer dekhbe,HIGH_RISK,Bengali,train
+Ho sakta hai,VAGUE,Hindi,train
+See can't really say asap,VAGUE,English,train
+I DON'T AGREE WITH OUTSTANDING AMOUNT yaar,DISPUTE,Hinglish,train
+AMAKE OVERCHARGE KORA HOYECHE thanks,DISPUTE,Bengali,train
+Let me know the exact amount due,NEEDS_REMINDER,English,train
+Sochunga !!,VAGUE,Hindi,train
+Your system shows wrong data,DISPUTE,English,train
+"See oK NOTED, LET ME CHECK",NEEDS_REMINDER,English,train
+Haan abhi commit nahi kar sakta,VAGUE,Hindi,train
+"Actually payment guaranteed, just 2 more days",LIKELY_PAY,Hinglish,train
+sAlArY Er WaIt AChE baS boss,LIKELY_PAY,Bengali,train
+boLte paRbO nA ShotTi thx,VAGUE,Bengali,train
+Hey 15th ko payment kiya but not credited,DISPUTE,Hinglish,train
+Pura amount de dunga is weekend,LIKELY_PAY,Hindi,train
+Yaar i'll make sure your company is shut down ok,HIGH_RISK,English,train
+Madam let's see what happens,VAGUE,English,train
+Madam i didn't realize it was already late???,NEEDS_REMINDER,English,train
+Theek hai,VAGUE,Hindi,train
+Madam iT'S NOT THAT SIMPLE,VAGUE,English,train
+Yaar dekhi,VAGUE,Bengali,train
+Hidden charges kyun hain?,DISPUTE,Hindi,train
+Look nijer time noshto korcho 🙏,HIGH_RISK,Bengali,train
+Let me get back to you on this,NEEDS_REMINDER,English,train
+"I accept the due amount, will pay tomorrow",LIKELY_PAY,English,train
+Hey Hey baad mein bataunga,VAGUE,Hindi,train
+I'm not sure what to do,VAGUE,English,train
+"OK NOTED, CHECK CHECK KARTA HUN ...",NEEDS_REMINDER,Hindi,train
+Cheshta korbo,VAGUE,Bengali,train
+Suno bilkul karunga payment,LIKELY_PAY,Hindi,train
+"Ekdin aro please, please, pakka debo",LIKELY_PAY,Bengali,train
+Amar bank successful successful payment dekhacche plz,DISPUTE,Bengali,train
+"Main kar raha hun arrange, kal tak ho jayega",LIKELY_PAY,Hindi,train
+Basically bhai notification nahi aaya 🙂,NEEDS_REMINDER,Hinglish,train
+Next week yaad dilana please,NEEDS_REMINDER,Hinglish,train
+"Acha thoda aur time do, ek hafte mein tak de dunga asap",LIKELY_PAY,Hindi,train
+Acha depend kore,VAGUE,Bengali,train
+Ok???,VAGUE,English,train
+Let me pay half now and rest in 3 days,LIKELY_PAY,English,train
+"Honestly I just forgot, sorry",NEEDS_REMINDER,English,train
+Case karo if you dare plz,HIGH_RISK,Hinglish,train
+Honestly hOW TO SET UP AUTO-PAY 🙂???,NEEDS_REMINDER,Hinglish,train
+Case karo agar himmat hai thanks,HIGH_RISK,Hindi,train
+Listen mera patience mat check karo 💰,HIGH_RISK,Hindi,train
+Agle shoptahe mone mone koriyo,NEEDS_REMINDER,Bengali,train
+Koshish karunga within 5 days,LIKELY_PAY,Hinglish,train
+Yaar promise korte parbo na,VAGUE,Bengali,train
+Mera plan hai Budhvaar ko dene ka,LIKELY_PAY,Hindi,train
+Amar account audit koro na?!!,DISPUTE,Bengali,train
+"Hey give me one more day, will pay for sure bro",LIKELY_PAY,English,train
+"Half abhi de deta hun, baaki kal",LIKELY_PAY,Hindi,train
+Media mein jaunga with proof,HIGH_RISK,Hinglish,train
+Will think about it definitely,VAGUE,Hinglish,train
+Sir ekhon na,VAGUE,Bengali,train
+Maybe shayad thx,VAGUE,Hinglish,train
+Bhai time chahiye merko thx???,VAGUE,Hinglish,train
+Situation dekhte hobe ...,VAGUE,Bengali,train
+Look it's not that simple yaar ok????,VAGUE,Hinglish,train
+Manager er shathe kotha bolte chai,DISPUTE,Bengali,train
+Ekhon bolte bolte parbo na!!,VAGUE,Bengali,train
+Online payment payment kore dii ekhon,LIKELY_PAY,Bengali,train
+I closed this loan last year,DISPUTE,English,train
+"Salary credited nahi hui, but jaise hi aaye payment done",LIKELY_PAY,Hinglish,train
+Haan bill ta abar pathao,NEEDS_REMINDER,Bengali,train
+Amount ota na jeta sign kora hoyechhilo boss!!,DISPUTE,Bengali,train
+Dubara call kiya to complaint karunga,HIGH_RISK,Hindi,train
+"I paid through Paytm, check again 👍",DISPUTE,English,train
+Honestly i need to talk to my spouse first,NEEDS_REMINDER,English,train
+"Hey haaN jAni, kaal e kOrBo",LIKELY_PAY,Bengali,train
+Look abhi nahi bro,VAGUE,Hindi,train
+Statement mil sakta hai?,NEEDS_REMINDER,Hindi,train
+Ok so time chahiye mujhe 🙂,VAGUE,Hindi,train
+"I've kept the money aside, will pay next week",LIKELY_PAY,English,train
+Dekho life is tough right now,VAGUE,English,train
+Basically dekHa dekHa jAk ki HOy 😭,VAGUE,Bengali,train
+We'll see,VAGUE,English,train
+Actually ye additional charges kisne authorize kiye?!!,DISPUTE,Hindi,train
+Case koro jodi shahos thake,HIGH_RISK,Bengali,train
+Situation complicated hai,VAGUE,Hinglish,train
+Acha kichu ekta 👍!!,VAGUE,Bengali,train
+"I am serious about paying, give me 3 days",LIKELY_PAY,English,train
+"need escalation, disputing disputing the amount 🙂",DISPUTE,Hinglish,train
+"Look half abhi de deta hun, baaki kal 🙏",LIKELY_PAY,Hindi,train
+"Well yes i know, will transfer in 2 days 👍",LIKELY_PAY,English,train
+Basically dekhte hain hain kya hota hai,VAGUE,Hindi,train
+Well tomar agent last time onno amount bolechhilo sir,DISPUTE,Bengali,train
+ye amount galat hai boss,DISPUTE,Hindi,train
+Payment er account number ki?,NEEDS_REMINDER,Bengali,train
+bhebhe dekhbo???,VAGUE,Bengali,train
+Amake aro 3 din dao sir,LIKELY_PAY,Bengali,train
+I think notification notification miss ho gayi 😭,NEEDS_REMINDER,Hinglish,train
+"Main zimmedar hun, definitely paying",LIKELY_PAY,Hinglish,train
+Yaar sorry missed your earlier calls ok?,NEEDS_REMINDER,English,train
+Acha auto-debit on tha na?!!,NEEDS_REMINDER,Hindi,train
+Haan i'll look into it,VAGUE,English,train
+Transaction shuru kore diyechi,LIKELY_PAY,Bengali,train
+"Hey detailed detailed statement chai, noyto kichu debo na",DISPUTE,Bengali,train
+Amake notification asheni,NEEDS_REMINDER,Bengali,train
+Possibly 😡,VAGUE,English,train
+"Escalation chai, amount disputed",DISPUTE,Bengali,train
+There's a discrepancy discrepancy in the amt 😡???,DISPUTE,English,train
+Pore janabo,VAGUE,Bengali,train
+Ok so grace period ache ki 😡,NEEDS_REMINDER,Bengali,train
+"Yaar eta fraud, police e jabo plz",HIGH_RISK,Bengali,train
+processing fee waive waive howar kotha chhilo thanks,DISPUTE,Bengali,train
+Remind me once more next week please,NEEDS_REMINDER,English,train
+Not right now bhai,VAGUE,Hinglish,train
+Apna kaam karo,HIGH_RISK,Hindi,train
+Well i think I missed the notification!!,NEEDS_REMINDER,English,train
+"Suno government mein mein contacts hain mere, careful",HIGH_RISK,Hinglish,train
+Reputation Reputation noshto kore debo tomar,HIGH_RISK,Bengali,train
+Salary aate hi immediately karunga,LIKELY_PAY,Hinglish,train
+"Check your records, I don't owe this much",DISPUTE,English,train
+"Payment hoye jabe, guarantee dichhi",LIKELY_PAY,Bengali,train
+EMI ka paisa alag rakha hai,LIKELY_PAY,Hindi,train
+I'll check and let you know,NEEDS_REMINDER,English,train
+Ok so abhi tak unpaid kyun hai?,DISPUTE,Hindi,train
+I'll handle this my way,HIGH_RISK,English,train
+Ekhon uttor dite dite parbo na yaar???,VAGUE,Bengali,train
+Yaar jo kAR rAHE ho ILlEGal hai,HIGH_RISK,Hindi,train
+Well ek ek aur call aaya to report karunga bro,HIGH_RISK,Hindi,train
+Whatever!!,VAGUE,English,train
+Dekhunga main???,VAGUE,Hindi,train
+I promise to pay by Friday for sure 🙂,LIKELY_PAY,English,train
+Dekhi!!,VAGUE,Bengali,train
+Acha mera lawyer dekhega ye sab yaar,HIGH_RISK,Hindi,train
+Auto-pay kibhabe set korte hoy?,NEEDS_REMINDER,Bengali,train
+No obligation hai mera bro,HIGH_RISK,Hinglish,train
+"haan jani, shukrobar er moddhe e korbo",LIKELY_PAY,Bengali,train
+Bhai ami ei terms e agree korini 👍,DISPUTE,Bengali,train
+Dure jao ...???,HIGH_RISK,Bengali,train
+1st ko payment kiya but not credited,DISPUTE,Hinglish,train
+Why interest rate change hua?,DISPUTE,Hinglish,train
+Ok so next week yaad dilana please,NEEDS_REMINDER,Hinglish,train
+Could be,VAGUE,English,train
+Manager se baat karao mujhe,DISPUTE,Hindi,train
+"Maine Google Pay se pay kiya, check karo",DISPUTE,Hindi,train
+Ok so koshish karunga jaldi se jaldi,LIKELY_PAY,Hindi,train
+"EKTU SOMOY DAO, MASH SHESHE DIYE DEBO",LIKELY_PAY,Bengali,train
+Bola mushkil,VAGUE,Bengali,train
+Dekho salary ashle tukni korbo yaar,LIKELY_PAY,Bengali,train
+BATANA MUSHKIL HAI HAI 😢,VAGUE,Hindi,train
+aaJ aaJ eveninG Ko pAYmeNT kar DEta huN plz,LIKELY_PAY,Hinglish,train
+The foreclosure amount is wrong,DISPUTE,English,train
+Hmm ok,VAGUE,Hinglish,train
+"Abhi paisa nahi hai, Shukravaar tak tak pakka",LIKELY_PAY,Hindi,train
+Ye vasuli hai hai,HIGH_RISK,Hindi,train
+Bhabte hobe,VAGUE,Bengali,train
+"My accountant handles this, let me ask",NEEDS_REMINDER,English,train
+"Basically records dekho, itna nahi banta mera",DISPUTE,Hinglish,train
+Basically maine in terms pe agree nahi kiya tha,DISPUTE,Hindi,train
+Case karo if you dare,HIGH_RISK,Hinglish,train
+Boss kuch aisa hi,VAGUE,Hindi,train
+Ok so hARASSMENT hARASSMENT ER JONNO REPORT KORBO TOMAKE!!,HIGH_RISK,Bengali,train
+You people people have no shame 🙏🙏,HIGH_RISK,English,train
+I need a detailed statement before I pay anything,DISPUTE,English,train
+"Already talked to bank, will come by end of month",LIKELY_PAY,Hinglish,train
+I don't know,VAGUE,English,train
+Dekh leta hun plz,VAGUE,Hindi,train
+Harassment er jonno report korbo tomake,HIGH_RISK,Bengali,train
+No comment,VAGUE,English,train
+Actually rBI te complaint kore diyechi 👍,HIGH_RISK,Bengali,train
+"Look i have the receipt, want to see boss",DISPUTE,Hinglish,train
+Haan trnsfr initiate initiate kar diya hai already,LIKELY_PAY,Hinglish,train
+"Well main main bhool gaya tha, abhi karta hun!!",LIKELY_PAY,Hindi,train
+decide karne mein mein time do 😡,VAGUE,Hindi,train
+"ektu somoy somoy dao, kaal diye debo",LIKELY_PAY,Bengali,train
+Salary er er wait ache bas!!,LIKELY_PAY,Bengali,train
+Dekho dEBO NA AR ETA FINAL,HIGH_RISK,Bengali,train
+Honestly Honestly what's the account number for payment?,NEEDS_REMINDER,English,train
+Suno Suno dure jao,HIGH_RISK,Bengali,train
+Madam not sure honestly,VAGUE,Hinglish,train
+Mera lawyer dekhega dekhega ye sab,HIGH_RISK,Hindi,train
+Ok so i think there's been a mistake boss,DISPUTE,English,train
+Basically ok,VAGUE,English,train
+Onno priorities ache 😡!!,VAGUE,Bengali,train
+Kar paunga shayad,VAGUE,Hindi,train
+"Ok noted, check korchi",NEEDS_REMINDER,Bengali,train
+"Your side pe issue hai, contact my bank",DISPUTE,Hinglish,train
+Bill ta abar pathao,NEEDS_REMINDER,Bengali,train
+I'm blocking this number thanks,HIGH_RISK,English,train
+Jani na asap???,VAGUE,Bengali,train
+Notification miss ho gayi lagta hai,NEEDS_REMINDER,Hindi,train
+Basically transfer initiate kar diya hai already,LIKELY_PAY,Hinglish,train
+maine ye ye loan nahi liya hai,DISPUTE,Hinglish,train
+Consumer court jaaunga tumhare khilaf,HIGH_RISK,Hindi,train
+Suno pata nahi,VAGUE,Hindi,train
+Suno ye additional charges kisne authorize kiye 😢,DISPUTE,Hindi,train
+Media te jabo yaar,HIGH_RISK,Bengali,train
+"Let me check balance, is weekend mein done 👍???",LIKELY_PAY,Hinglish,train
+Basically i think koi mistake hai ...,DISPUTE,Hinglish,train
+"Janano r jonno dhonnobad, check korbo",NEEDS_REMINDER,Bengali,train
+"Bhai Bhai paisa arrange ho gaya, aaj transfer",LIKELY_PAY,Hinglish,train
+"kabhi nahi dunga, dunga, deal with it!!",HIGH_RISK,Hindi,train
+"Promise korchi, agle shoptahe e",LIKELY_PAY,Bengali,train
+Honestly aaj raat tak ho jayega,LIKELY_PAY,Hindi,train
+I don't owe anything and won't pay,HIGH_RISK,English,train
+Soch raha hun???,VAGUE,Hindi,train
+AMAR AMAR LAWYER DEKHBE 😭,HIGH_RISK,Bengali,train
+"Arey i'VE ALREADY SPOKEN TO MY BANK, TRANSFER WILL COME IN 3 DAYS",LIKELY_PAY,English,train
+I already paid this EMI,DISPUTE,English,train
+Need to figure things out asap,VAGUE,English,train
+Acha rBI mein complaint kar chuka hun 💰???,HIGH_RISK,Hindi,train
+Hey bill dubara bhejo please sir,NEEDS_REMINDER,Hinglish,train
+"THODA AUR TIME DO, 2 DIN MEIN TAK DE DUNGA",LIKELY_PAY,Hindi,train
+Talk to my lawyer from now on,HIGH_RISK,English,train
+I think I missed the notification,NEEDS_REMINDER,English,train
+"Madam let Me cheCk bAlancE, 2 dIn MeiN mein DonE",LIKELY_PAY,Hinglish,train
+I NEED TIME!!,VAGUE,English,train
+"Haan I know, will pay in 3 days",LIKELY_PAY,Hinglish,train
+"Listen travel pe tha, abhi aaya hun 👍",NEEDS_REMINDER,Hindi,train
+You'll regret calling calling me.!!,HIGH_RISK,English,train
+"Ye kisi aur ka loan hai, mera nahi",DISPUTE,Hindi,train
+"Haan thik ache, diye dii thanks",LIKELY_PAY,Bengali,train
+Suno pore hoyto,VAGUE,Bengali,train
+See sochne do mujhe,VAGUE,Hinglish,train
+Dude mind your own business,HIGH_RISK,English,train
+Hey pAymeNt katA thA lEKIN PENding dikhA rAha Hai 👍!!,DISPUTE,Hindi,train
+Boss kya bolun samajh nahi aa raha !!,VAGUE,Hindi,train
+Loan agreement e onno terms ache boss!!,DISPUTE,Bengali,train
+Arey nahi dunga aur ye final hai 🙂,HIGH_RISK,Hindi,train
+Well might be able to,VAGUE,English,train
+Samajh nahi aa raha what to do,VAGUE,Hinglish,train
+Bhai payment link bhejo please 😡,NEEDS_REMINDER,Hinglish,train
+Ok so can i pAy iN twO pArts? first part tOmORRow 😡,LIKELY_PAY,English,train
+Amar co-applicant pay kore diyeche,DISPUTE,Bengali,train
+Ami ei loan niini,DISPUTE,Bengali,train
+"ADHA EKHON, BAKI TA AGLE SHOPTAHE",LIKELY_PAY,Bengali,train
+Bhai email e details pathao,NEEDS_REMINDER,Bengali,train
+"Honestly haan bhai, Shukravaar tak tak kar dunga",LIKELY_PAY,Hindi,train
+"Diye debo, dhairyo dhoro",LIKELY_PAY,Bengali,train
+I'll make sure your company is shut down,HIGH_RISK,English,train
+Social media pe pe expose karunga sir,HIGH_RISK,Hindi,train
+obostha kharap yaar,VAGUE,Bengali,train
+Ami ei EMI already diyechi boss,DISPUTE,Bengali,train
+Haan sochne do,VAGUE,Hindi,train
+Dude never contact me again 🙏,HIGH_RISK,Hinglish,train
+Bhai time pe de dunga,LIKELY_PAY,Hindi,train
+"cheque se paid already, recheck please na?",DISPUTE,Hinglish,train
+Listen case karo agar himmat hai,HIGH_RISK,Hindi,train
+"Don't worry, payment is on the way",LIKELY_PAY,English,train
+25th er transaction check koro yaar,DISPUTE,Bengali,train
+"Sach mein bhool gaya tha, sorry",NEEDS_REMINDER,Hindi,train
+Bhai nijer moto handle korbo.,HIGH_RISK,Bengali,train
+Actually i'll go to consumer court against you,HIGH_RISK,English,train
+"Thanks for telling me, I'll check",NEEDS_REMINDER,English,train
+Hard to say!!,VAGUE,English,train
+"Listen Listen ja khoushi koro, ami debo na",HIGH_RISK,Bengali,train
+Honestly abHI ansWer nahi hAI meRe paas,VAGUE,Hinglish,train
+I am raising a formal complaint thx!!,DISPUTE,English,train
+Listen bHAI TIME TIME PE DE DUNGA,LIKELY_PAY,Hindi,train
+Well you people are scammers,HIGH_RISK,English,train
+Samajh leta hun hun main,NEEDS_REMINDER,Hindi,train
+Yaar why is this still showing as unpaid?!!,DISPUTE,English,train
+SMS eshechhilo ki? Dekhini to,NEEDS_REMINDER,Bengali,train
+Arey notification nahi aaya mujhe,NEEDS_REMINDER,Hindi,train
+DON'T TEST TEST ME!!,HIGH_RISK,Hinglish,train
+Calculation mein something wrong hai,DISPUTE,Hinglish,train
+See aUR optioNS SOchne Do,VAGUE,Hindi,train
+"Actually this is fraud, I'm going to the police",HIGH_RISK,English,train
+Eta kon EMI EMI 🤷,NEEDS_REMINDER,Bengali,train
+"Try whatever you want, I'm not scared",HIGH_RISK,English,train
+Actually i never took this loan,DISPUTE,English,train
+Hmm!!,VAGUE,English,train
+Actually which EMI is this for?,NEEDS_REMINDER,Hinglish,train
+Can I get a statement?,NEEDS_REMINDER,English,train
+Maine ye loan loan nahi liya hai asap,DISPUTE,Hinglish,train
+Aaj bikale transfr kore debo plz,LIKELY_PAY,Bengali,train
+"Late fee valid nahi hai, time pe pay kiya tha",DISPUTE,Hindi,train
+Look i thought auto-debit was on 👍,NEEDS_REMINDER,English,train
+Acha i'll file an fir against you yaar,HIGH_RISK,English,train
+"THIS IS FRAUD, FRAUD, I'M GOING TO THE POLICE???",HIGH_RISK,English,train
+Your threats don't work on me thanks,HIGH_RISK,English,train
+Bhai ye vasuli hai,HIGH_RISK,Hindi,train
+Well mere co-applicant ne pay kar diya hai boss,DISPUTE,Hindi,train
+"Late fee wrong hai, I paid on time",DISPUTE,Hinglish,train
+Haan agle shoptahe mone koriyo,NEEDS_REMINDER,Bengali,train
+Check kore janabo???,NEEDS_REMINDER,Bengali,train
+"Acha ami bank transfer diye pay korechi, abar check koro",DISPUTE,Bengali,train
+Dekho yOUR HARASSMENT IS ENOUGH na?,HIGH_RISK,Hinglish,train
+Dekho Dekho shayad ho jaye,VAGUE,Hindi,train
+Abhi due ho gaya? Mujhe laga next month hai,NEEDS_REMINDER,Hindi,train
+"Records dekho, itna nahi banta mera",DISPUTE,Hinglish,train
+kaun jaane 👍,VAGUE,Hindi,train
+Try karunga na?!!,VAGUE,Hinglish,train
+Tum logon se baat khatam,HIGH_RISK,Hindi,train
+"Actually kARUNGA HANDLE, STOP CALLING REPEATEDLY",NEEDS_REMINDER,Hinglish,train
+Bhai might be able to,VAGUE,English,train
+"abhi paisa nahi hai, is weekend tak pakka 🙏🙏",LIKELY_PAY,Hindi,train
+Company bondho koriye debo tomar,HIGH_RISK,Bengali,train
+I'll consider it sochunga,VAGUE,Hinglish,train
+Pore janabo sir,VAGUE,Bengali,train
+KAUN JAANE!!,VAGUE,Hindi,train
+Company band karwa dunga tumhari,HIGH_RISK,Hindi,train
+Dekho Dekho poora paisa ek saath de dunga asap,LIKELY_PAY,Hindi,train
+"Dekho i know my rights, stop this ...",HIGH_RISK,Hinglish,train
+Suno media te jabo thanks,HIGH_RISK,Bengali,train
+"Dekho 15Th E paymEnT KorechiLem, cRedit hOyNi",DISPUTE,Bengali,train
+"Jo karna hai karo, main nahi dunga",HIGH_RISK,Hindi,train
+Honestly notification miss hoye geche mone hoy,NEEDS_REMINDER,Bengali,train
+"Let me pay in installments, first one tomorrow",LIKELY_PAY,Hinglish,train
+Pehle bank balance check karna padega,NEEDS_REMINDER,Hindi,train
+Not right now,VAGUE,English,train
+"Ami cheshta korchi, ek shoptahe e!!",LIKELY_PAY,Bengali,train
+"Money is ready, will transfer next week",LIKELY_PAY,English,train
+Acha last year this loan was closed???,DISPUTE,Hinglish,train
+Kitna hai exactly?,NEEDS_REMINDER,Hindi,train
+Bhai salary er wait ache bas,LIKELY_PAY,Bengali,train
+This amount is wrong,DISPUTE,English,train
+"Yaar payment hoye jabe, guarantee dichhi 😭",LIKELY_PAY,Bengali,train
+Abhi process mein hai payment,LIKELY_PAY,Hindi,train
+Situation dekhte hobe,VAGUE,Bengali,train
+Listen Listen i'm trying apni taraf se,VAGUE,Hinglish,train
+Well onno option bhabte dao.???,VAGUE,Bengali,train
+Written proof do amount ka,DISPUTE,Hinglish,train
+"Account Account number do, abhi transfer karta hun",LIKELY_PAY,Hindi,train
+Payment ka account number kya hai?,NEEDS_REMINDER,Hindi,train
+Where can I check my outstanding?,NEEDS_REMINDER,English,train
+"Prepayment kiya tha, reflect nahi ho raha",DISPUTE,Hindi,train
+Media te jabo,HIGH_RISK,Bengali,train
+Bhai i'll clear the dues tomorrow,LIKELY_PAY,English,train
+Why was the interest rate changed plz!!,DISPUTE,English,train
+Pata nahi 👍,VAGUE,Hindi,train
+Arey eta kon EMI?,NEEDS_REMINDER,Bengali,train
+ANY GRACE PERIOD AVAILABLE bro,NEEDS_REMINDER,Hinglish,train
+Situation is complicated bro!!,VAGUE,English,train
+Actually grace period ache ki,NEEDS_REMINDER,Bengali,train
+Dekho email karo details please,NEEDS_REMINDER,Hinglish,train
+"Yes I know, will transfer by end of month",LIKELY_PAY,English,train
+Dude might be able to,VAGUE,English,train
+"Look honestly forgot, my bad",NEEDS_REMINDER,Hinglish,train
+don't don't ever contact me again,HIGH_RISK,English,train
+"Government Government mein jaanta hun logon ko, sambhal ke",HIGH_RISK,Hindi,train
+"Abhi paisa nahi hai, agle hafte tak pakka",LIKELY_PAY,Hindi,train
+"Arey paisa arrange ho gaya, aaj transfer !!",LIKELY_PAY,Hinglish,train
+Ekhono unpaid keno?,DISPUTE,Bengali,train
+THEEK THEEK HAI plz,VAGUE,Hindi,train
+I'll consider it ok?,VAGUE,English,train
+LATE LATE FEE KOTO LAGBE,NEEDS_REMINDER,Bengali,train
+Actually dekh LetA huN,VAGUE,Hindi,train
+Listen i need time,VAGUE,English,train
+"Well i am not avoiding payment, I will pay this weekend???",LIKELY_PAY,English,train
+It's not that simple thanks,VAGUE,English,train
+Theek hai ok plz!!,VAGUE,Hinglish,train
+"De raha hun, patience rakho",LIKELY_PAY,Hindi,train
+Nahi bata sakta sach mein,VAGUE,Hindi,train
+Boss korte parbo hoyto,VAGUE,Bengali,train
+Amount mein mismatch hai,DISPUTE,Hinglish,train
+"Work mein busy, busy, will sort soon",NEEDS_REMINDER,Hinglish,train
+The interest calculation is incorrect,DISPUTE,English,train
+See my co-applicant co-applicant already paid this 👍,DISPUTE,English,train
+Let me me check and I'll tell you 🙏!!,NEEDS_REMINDER,Hinglish,train
+Your system shows wrong data thanks,DISPUTE,English,train
+"Acha let me pay in installments, first one in 3 days!!",LIKELY_PAY,Hinglish,train
+Let me check my balance and pay next week,LIKELY_PAY,English,train
+"Ok bhai, I'll pay tomorrow",LIKELY_PAY,Hinglish,train
+RBI mein complaint kar chuka hun,HIGH_RISK,Hindi,train
+Yaar mushkil obostha,VAGUE,Bengali,train
+Weekend mein dekhta hun,NEEDS_REMINDER,Hindi,train
+Bhai i'll look into it dekhta hun,VAGUE,Hinglish,train
+Mere Mere co-applicant ne pay kar diya hai yaar,DISPUTE,Hindi,train
+Haan who authorized ye extra charges?!!,DISPUTE,Hinglish,train
+Arey hmM,VAGUE,Hindi,train
+Penalty charges onek beshi,DISPUTE,Bengali,train
+Honestly will get back to you,VAGUE,English,train
+"Money is is ready, will transfer by end of month yaar",LIKELY_PAY,English,train
+Dekho amount mein mismatch hai,DISPUTE,Hinglish,train
+Ok so cheshta korchi nijer dik theke,VAGUE,Bengali,train
+Case karo if you dare ok?!!,HIGH_RISK,Hinglish,train
+Filing formal complaint about this,DISPUTE,Hinglish,train
+"Ekhon taka nei, kaal porjonto wait koro boss",LIKELY_PAY,Bengali,train
+"Basically yaaR 3 din auR de Do, PakkA paymeNT",LIKELY_PAY,Hinglish,train
+"I am ready to pay, please share account details",LIKELY_PAY,English,train
+Media te jabo???,HIGH_RISK,Bengali,train
+Hey get lost,HIGH_RISK,English,train
+Basically hoyto,VAGUE,Bengali,train
+"Work mein busy, will sort soon",NEEDS_REMINDER,Hinglish,train
+I'll pay the the full amnt within a week 👍,LIKELY_PAY,English,train
+"Kaje busy, busy, jholdi korbo",NEEDS_REMINDER,Bengali,train
+"I've kept the money aside, will pay by end of month",LIKELY_PAY,English,train
+i'm thinking thinking about it abhi???,VAGUE,Hinglish,train
+"Give me one more day, will pay for sure",LIKELY_PAY,English,train
+Dekha jak jak kichu hoy ki na na?,VAGUE,Bengali,train
+Haan agreement mein different terms the asap,DISPUTE,Hinglish,train
+"You will receive payment tomorrow, guaranteed",LIKELY_PAY,English,train
+Is it already due? I thought it was next month,NEEDS_REMINDER,English,train
+Madam jo bhi,VAGUE,Hindi,train
+"De dunga, chinta mat karo",LIKELY_PAY,Hindi,train
+"Sorry for delay, paying within a week definitely",LIKELY_PAY,English,train
+Weekend mein dekhta hun thx!!,NEEDS_REMINDER,Hindi,train
+Well exactly kitna hai 😢,NEEDS_REMINDER,Hinglish,train
+I refuse to pay and that's final,HIGH_RISK,English,train
+Suno situation complicated hai,VAGUE,Hinglish,train
+"Ok Bhai, i'lL pay BY Friday",LIKELY_PAY,Hinglish,train
+One more call and complaint file karunga,HIGH_RISK,Hinglish,train
+Dekho my bank shows payment successful???,DISPUTE,Hinglish,train
+i neeD To VErIfY wITh my BanK 😭,DISPUTE,Hinglish,train
+Actually amnt bhej raha hun thodi der mein,LIKELY_PAY,Hindi,train
+Loan agreement mein alag terms hain,DISPUTE,Hindi,train
+Bhai manager se baat karao mujhe,DISPUTE,Hindi,train
+Well bas thodA sa waIT kArO 😡,LIKELY_PAY,Hindi,train
+"I remember now, let me pay quickly",LIKELY_PAY,English,train
+Dekhunga main yaar,VAGUE,Hindi,train
+Kuch kar raha hun???,VAGUE,Hindi,train
+"See ami phonEpe diYe paY kORechi, abAr CHecK koro",DISPUTE,Bengali,train
+AAJ HI PAYMENT HO JAYEGA bro!!,LIKELY_PAY,Hindi,train
+"Ek aur chance chance do, is weekend guaranteed",LIKELY_PAY,Hinglish,train
+Honestly uncertain hun main 👍,VAGUE,Hinglish,train
+I'm thinking about it,VAGUE,English,train
+wHY hIdden hIdden chaRges bHaI?,DISPUTE,Hinglish,train
+Suno Suno maine ye loan nahi liya,DISPUTE,Hindi,train
+"Paisa arrange ho gaya, aaj transfer",LIKELY_PAY,Hinglish,train
+"Basically salry aa jayegi Ravivaar ko, uske baad turant 😭???",LIKELY_PAY,Hindi,train
+"Prepayment korechilem, reflect hochhe na",DISPUTE,Bengali,train
+"Honestly do hisson mein de sakta hun, pehla is weekend",LIKELY_PAY,Hindi,train
+"Boss number change kiya, didn't get reminders thanks",NEEDS_REMINDER,Hinglish,train
+Sochna padega,VAGUE,Hindi,train
+Suno dui dIn dao sORt koRar jonno!!,NEEDS_REMINDER,Bengali,train
+Case karo agar himmat hai,HIGH_RISK,Hindi,train
+"Thoda aur time do, agle hafte tak de dunga ...",LIKELY_PAY,Hindi,train
+Amake onno interest rate promise kora hoyechhilo,DISPUTE,Bengali,train
+"Basically taka ready, transfer korchi!!",LIKELY_PAY,Bengali,train
+Exactly kitna hai?,NEEDS_REMINDER,Hinglish,train
+I want to speak to manager,DISPUTE,Hinglish,train
+I've already already complained to RBI about you,HIGH_RISK,English,train
+case karo if you dare boss,HIGH_RISK,Hinglish,train
+Samajh nahi aa raha kya karun,VAGUE,Hindi,train
+Dekho samajhna padega,VAGUE,Hindi,train
+Arey send send Me thE detAilS again PLeaSE thanks,NEEDS_REMINDER,English,train
+MUJHE 4 DIN AUR CHAHIYE BAS yaar,LIKELY_PAY,Hindi,train
+Ok so meri side se confirmed hai payment,LIKELY_PAY,Hinglish,train
+"Never ever paying, that's it asap",HIGH_RISK,Hinglish,train
+"Listen do whatever you want, I'm not paying",HIGH_RISK,English,train
+Well cOnSuMeR CouRt E jabo toMar biRUDdhe 💰???,HIGH_RISK,Bengali,train
+Eta tomar billing er bhul ...!!,DISPUTE,Bengali,train
+Look things are difficult,VAGUE,English,train
+NOT SURE HONESTLY boss,VAGUE,Hinglish,train
+Bhebhe dekhbo boss,VAGUE,Bengali,train
+I'll consider it,VAGUE,English,train
+Hey pAYMENT FIX ACHE MONGOLBAR,LIKELY_PAY,Bengali,train
+Haan depends 😢 😢,VAGUE,English,train
+need need to figure things out,VAGUE,English,train
+"Basically bank change kiya recently, update karna hai",NEEDS_REMINDER,Hindi,train
+Arey tHik acHE,VAGUE,Bengali,train
+Last year this loan was closed,DISPUTE,Hinglish,train
+Time Time chahiye merko!!,VAGUE,Hinglish,train
+Look dekhte hain kya hota hai 🙂,VAGUE,Hindi,train
+Kitne din overdue hai?,NEEDS_REMINDER,Hindi,train
+Whatever jo bhi,VAGUE,Hinglish,train
+Payment cut hua but showing pending,DISPUTE,Hinglish,train
+Madam maybe later sometime,VAGUE,Hinglish,train
+Actually wORKING ON IT HUN,VAGUE,Hinglish,train
+Ok I'll look into it this weekend,NEEDS_REMINDER,English,train
+"Look this is someone else's loan, not mine 🙏",DISPUTE,English,train
+"Did prepaymt, not showing in system asap",DISPUTE,Hinglish,train
+Which loan are we talking about?,NEEDS_REMINDER,English,train
+"UPI se paid already, recheck please",DISPUTE,Hinglish,train
+See dON'T TEst my pAtiencE,HIGH_RISK,English,train
+Honestly kOI COMMENT NAHI,VAGUE,Hindi,train
+"Yaar 4 din aur de do, pakka payment",LIKELY_PAY,Hinglish,train
+Arey jaldi handle karunga,NEEDS_REMINDER,Hindi,train
+Boss this amnt is wrong bro,DISPUTE,English,train
+Listen kaal call koro ei byapare,NEEDS_REMINDER,Bengali,train
+Koi comment nahi,VAGUE,Hindi,train
+Actually this is a billing error on your end 🤷,DISPUTE,English,train
+"Boss eta onyo karo loan, amar na ...!!",DISPUTE,Bengali,train
+Sir abhi nahi bata sakta,VAGUE,Hindi,train
+Dekho koto taka exactly?,NEEDS_REMINDER,Bengali,train
+will clear clear the pending amnt before thursday 👍,LIKELY_PAY,English,train
+See grace period ache ki?,NEEDS_REMINDER,Bengali,train
+Suno ye kauN si Emi hai?!!,NEEDS_REMINDER,Hindi,train
+"Eta onyo karo loan, amar na boss",DISPUTE,Bengali,train
+"Well Well thoda time chahiye, but I will pay for sure",LIKELY_PAY,Hinglish,train
+Sir my bank shows successful payment bro,DISPUTE,English,train
+Tomar system bhul data dekhacche,DISPUTE,Bengali,train
+"Thoda time chahiye, chahiye, but I will pay for sure",LIKELY_PAY,Hinglish,train
+Bhai main baad mein batata hun 🙏🙏,NEEDS_REMINDER,Hindi,train
+Boss bILL TA ABAR PATHAO,NEEDS_REMINDER,Bengali,train
+Sir tUm lOgOn lOgOn kO ShArAm Nahi!!,HIGH_RISK,Hinglish,train
+Listen when was the due date again?,NEEDS_REMINDER,English,train
+Yaar email e details pathao thanks,NEEDS_REMINDER,Bengali,train
+Eta add up hochhe na bro???,DISPUTE,Bengali,train
+Yaar it's complicated hai,VAGUE,Hinglish,train
+Dekh leta hun asap,VAGUE,Hindi,train
+Madam eMI ka paisa alag set hai,LIKELY_PAY,Hinglish,train
+"I don't owe anything, stop this",HIGH_RISK,Hinglish,train
+"Bujhechi, kichu ekta ekta korbo",NEEDS_REMINDER,Bengali,train
+Don't test my patience yaar,HIGH_RISK,English,train
+"Amar bank e contact koro, issue tomar dik e",DISPUTE,Bengali,train
+Dubara contact mat karna,HIGH_RISK,Hindi,train
+Reputation noshto noshto kore debo tomar,HIGH_RISK,Bengali,train
+"Dekho promise korchi, dui din e e",LIKELY_PAY,Bengali,train
+Aaj shaam tak transfer kar dunga,LIKELY_PAY,Hindi,train
+Dekho sochunga sochunga iske baare mein???,VAGUE,Hindi,train
+"Honestly i accept the due amount, will pay by Friday 🙏🙏???",LIKELY_PAY,English,train
+Salary Salary aate hi turant karunga 🤷,LIKELY_PAY,Hindi,train
+Dekho kyA Bolun samajH nAhI aA rAHa yaar,VAGUE,Hindi,train
+"Listen maine maine cheque se pay kiya, check karo!!",DISPUTE,Hindi,train
+Sir i lost track of the dates 😡,NEEDS_REMINDER,English,train
+Pura amount de dunga Shukravaar tak,LIKELY_PAY,Hindi,train
+Honestly tuM mera kuch NahI KAr saktE 🤷,HIGH_RISK,Hindi,train
+See oh I forgot about this 🙂???,NEEDS_REMINDER,English,train
+MIGHT KAR PAUNGA bro,VAGUE,Hinglish,train
+Look i've i've already complained to RBI about you,HIGH_RISK,English,train
+"Account number dao, ekhon transfer kori",LIKELY_PAY,Bengali,train
+"Listen eta fraud, fraud, police e jabo",HIGH_RISK,Bengali,train
+Jab tak calculation fix nahi karoge tab tak nahi dunga,DISPUTE,Hindi,train
+Actually email pe details bhej do,NEEDS_REMINDER,Hindi,train
+Ekhon process e ache payment,LIKELY_PAY,Bengali,train
+Madam depend karta hai 🙏,VAGUE,Hindi,train
+"Dude consider it done, paying next week",LIKELY_PAY,Hinglish,train
+Haan ekhon ekhon na 🙏!!,VAGUE,Bengali,train
+Boss jibon mushkil cholche!!,VAGUE,Bengali,train
+Kal call kar kar lena is baare mein thanks,NEEDS_REMINDER,Hindi,train
+"Honestly ami Arrange KoRcHi, Tin dIN E HoyE JabE",LIKELY_PAY,Bengali,train
+Call me tomorrow about this,NEEDS_REMINDER,Hinglish,train
+"Korbo, bar bar call koro na thanks!!",NEEDS_REMINDER,Bengali,train
+Boss i think notification miss ho gayi 🙏,NEEDS_REMINDER,Hinglish,train
+LIFE TOUGH TOUGH HAI ABHI 😡,VAGUE,Hinglish,train
+Sir nOT RIGHT NOW BHAI ok,VAGUE,Hinglish,train
+"Look yOU WILL RECEIVE PAYMENT NEXT WEEK, GUARANTEED yaar",LIKELY_PAY,English,train
+"Thanks for letting me know, checking now",NEEDS_REMINDER,Hinglish,train
+Madam aaj hi payment ho jayega,LIKELY_PAY,Hindi,train
+Suno ke jane 🙏🙏,VAGUE,Bengali,train
+Koshish karunga,VAGUE,Hindi,train
+See let me check my situation!!,VAGUE,English,train
+shAYaD 😭,VAGUE,Hindi,train
+Listen mAINE YE EMI ALREADY PAY KI HAI,DISPUTE,Hindi,train
+Hey i hAVe iSsueS!!,VAGUE,English,train
+koshish karunga karunga within 2 days plz,LIKELY_PAY,Hinglish,train
+doN'T tesT me bro,HIGH_RISK,Hinglish,train
+"Late fee wrong wrong hai, I paid on time",DISPUTE,Hinglish,train
+Look ye add up nahi ho raha!!,DISPUTE,Hindi,train
+Number block korchi,HIGH_RISK,Bengali,train
+don't test test me boss,HIGH_RISK,Hinglish,train
+Can you remind me later?,NEEDS_REMINDER,English,train
+Yaar Yaar koto taka exactly?,NEEDS_REMINDER,Bengali,train
+tora shob scammer plz,HIGH_RISK,Bengali,train
+"I accept the due amount, will pay this weekend",LIKELY_PAY,English,train
+Due date kab thi?,NEEDS_REMINDER,Hindi,train
+Ok so i'm not sure what to do,VAGUE,English,train
+Pura amount amount de dunga month end tak,LIKELY_PAY,Hindi,train
+Enough of your harassment,HIGH_RISK,English,train
+Give me a couple of days to sort this out,NEEDS_REMINDER,English,train
+Payment kata tha lekin pending dikha raha hai,DISPUTE,Hindi,train
+hmm sir,VAGUE,Bengali,train
+I have to think,VAGUE,English,train
+Boss mAIN BAAD MEIN BATATA HUN,NEEDS_REMINDER,Hindi,train
+"Amar rights jana ache, dhamki dewa bondho koro",HIGH_RISK,Bengali,train
+Situation dekhni padegi yaar,VAGUE,Hindi,train
+Boss eta add up hochhe na !!,DISPUTE,Bengali,train
+Pata nahi,VAGUE,Hindi,train
+Honestly bhai mera plan hai Sunday ko clear karna,LIKELY_PAY,Hinglish,train
+Dude ami ei loan niini,DISPUTE,Bengali,train
+Eta add up up hochhe na !!,DISPUTE,Bengali,train
+Bhai payment ho ho jayega by Tuesday!!,LIKELY_PAY,Hinglish,train
+Dude social media media pe viral karunga thanks!!,HIGH_RISK,Hinglish,train
+number number block korchi,HIGH_RISK,Bengali,train
+Hey mera mera account audit karo,DISPUTE,Hindi,train
+Nijer moto handle korbo,HIGH_RISK,Bengali,train
+"Ami payment korbo, tension nio na thanks",LIKELY_PAY,Bengali,train
+Will pay before end of this month,LIKELY_PAY,English,train
+Well kITNE DIN OVERDUE HAI,NEEDS_REMINDER,Hindi,train
+Baad mein yaad dilana please,NEEDS_REMINDER,Hindi,train
+complicated byapar 🙏🙏???,VAGUE,Bengali,train
+I will do NEFT agle hafte mein,LIKELY_PAY,Hinglish,train
+Haan social media te expose korbo thx,HIGH_RISK,Bengali,train
+let me check my balance and pay in 2 days,LIKELY_PAY,English,train
+Suno maybe later sometime,VAGUE,Hinglish,train
+I need to verify this with my bank,DISPUTE,English,train
+"Bhai I have arranged already, doing NEFT thanks",LIKELY_PAY,Hinglish,train
+Done talking to you people 😡,HIGH_RISK,Hinglish,train
+Let me see,VAGUE,English,train
+I want a detailed audit of my account,DISPUTE,English,train
+I'll look into it dekhta hun,VAGUE,Hinglish,train
+Kuch aisa hi,VAGUE,Hindi,train
+Bhai account number kya hai for payment yaar,NEEDS_REMINDER,Hinglish,train
+Can I I pay in two parts? First part by Friday yaar,LIKELY_PAY,English,train
+Kichu ekta,VAGUE,Bengali,train
+"Haan main koshish kar raha hun, agle hafte tak",LIKELY_PAY,Hindi,train
+Might kar paunga,VAGUE,Hinglish,train
+Dekho tumhari company fraud hai,HIGH_RISK,Hindi,train
+"i'm serious about this, will pay this weekend",LIKELY_PAY,Hinglish,train
+"Payment ho jayega, guarantee deta hun",LIKELY_PAY,Hindi,train
+"I've kept the money aside, will pay tomorrow na?!!",LIKELY_PAY,English,train
+"I had forgotten, but I will pay now",LIKELY_PAY,English,train
+"I'm not running away, will pay by Friday",LIKELY_PAY,Hinglish,train
+"Let me check balance, is weekend mein done asap",LIKELY_PAY,Hinglish,train
+Ok plz,VAGUE,English,train
+Try karunga plz!!,VAGUE,Hinglish,train
+"Haan ok noted, check korchi",NEEDS_REMINDER,Bengali,train
+Dekhe nii thx,VAGUE,Bengali,train
+Sir Sir kar paunga shayad???,VAGUE,Hindi,train
+Maybe ho jayega???,VAGUE,Hinglish,train
+KICHU KICHU EKTA 🙂,VAGUE,Bengali,train
+Sorry missed your earlier calls,NEEDS_REMINDER,English,train
+Madam need to figure things out!!,VAGUE,English,train
+"Main payment payment karunga, tension mat lo",LIKELY_PAY,Hindi,train
+"Batane ke liye shukriya, check karunga",NEEDS_REMINDER,Hindi,train
+See interest rate kyun badla,DISPUTE,Hindi,train
+Nahi dunga aur ye final hai thanks,HIGH_RISK,Hindi,train
+You will regret this,HIGH_RISK,Hinglish,train
+I'll handle it soon,NEEDS_REMINDER,English,train
+Madam koshish karunga,VAGUE,Hindi,train
+Payment cut hua hua but showing pending ...,DISPUTE,Hinglish,train
+I'm blocking this number asap,HIGH_RISK,English,train
+"Look eta fraud, police e jabo 👍",HIGH_RISK,Bengali,train
+Ok so i waS PROmised A DIFfeReNT intEResT rate 🤷,DISPUTE,English,train
+Boss i don't know yaar!!,VAGUE,Hinglish,train
+Dekho eMI ka paisa alag set hai,LIKELY_PAY,Hinglish,train
+"Sir bonus peyechi, ekhon e dei asap",LIKELY_PAY,Bengali,train
+The The amount will be credited this weekend,LIKELY_PAY,English,train
+Amake overcharge kora hoyeche,DISPUTE,Bengali,train
+Listen exact due amount bolo,NEEDS_REMINDER,Bengali,train
+Suno hidden charges keno?,DISPUTE,Bengali,train
+Interest Interest calculation is wrong 😭,DISPUTE,Hinglish,train
+What's the penalty if I pay late?,NEEDS_REMINDER,English,train
+Ke jane 🙂,VAGUE,Bengali,train
+"Listen karunga handle, stop calling repeatedly bro",NEEDS_REMINDER,Hinglish,train
+Dekho mushkil obostha yaar,VAGUE,Bengali,train
+Look i need to verify with my bank,DISPUTE,Hinglish,train
+Koshish Koshish karunga within 2 days,LIKELY_PAY,Hinglish,train
+kya bolun bolun samajh nahi aa raha 👍???,VAGUE,Hindi,train
+"Look i promise bhai, Shukravaar tak tak.",LIKELY_PAY,Hinglish,train
+Situation dekhni dekhni padegi,VAGUE,Hindi,train
+Actually sms aaya tha kya? nahi dekha,NEEDS_REMINDER,Hinglish,train
+SEND DETAILS AGAIN PLEASE boss,NEEDS_REMINDER,Hinglish,train
+Aaj raater moddhe hoye jabe,LIKELY_PAY,Bengali,train
+Ok so fIR file karunga tum pe,HIGH_RISK,Hinglish,train
+Who authorized ye extra charges?,DISPUTE,Hinglish,train
+Honestly don't test my patience,HIGH_RISK,English,train
+"Haan bhai, ei weekend er moddhe kore debo",LIKELY_PAY,Bengali,train
+Door ho jao sir,HIGH_RISK,Hindi,train
+uncertain hun main plz,VAGUE,Hinglish,train
+Arey ei loan goto bochor bond kora hoyechhilo???,DISPUTE,Bengali,train
+"ABHI PAISA NAHI HAI, MONTH END TAK TAK PAKKA 🙂",LIKELY_PAY,Hindi,train
+I'm trying my best,VAGUE,English,train
+"Haan i will definitely pay, just give me till Wednesday",LIKELY_PAY,English,train
+Bhai tIME WASTE MAT KARO APNA,HIGH_RISK,Hinglish,train
+"Late fee valid na, time e pay korechi",DISPUTE,Bengali,train
+Basically the interest calculation is incorrect,DISPUTE,English,train
+Honestly kono obligation nei amar eta debar,HIGH_RISK,Bengali,train
+hOw MANY dayS oVerDUe hai ...,NEEDS_REMINDER,Hinglish,train
+payment fix hai mangalvaar ko,LIKELY_PAY,Hindi,train
+"Ek din aur plz, pakka dunga",LIKELY_PAY,Hindi,train
+"Dude ok noted, will check na?",NEEDS_REMINDER,Hinglish,train
+Co-applicant already paid this asap,DISPUTE,Hinglish,train
+"Madam Madam amar CA dekhe ei shob, take jigges kori",NEEDS_REMINDER,Bengali,train
+I have other priorities,VAGUE,English,train
+Hard Hard to say honestly,VAGUE,Hinglish,train
+Aur priorities hain,VAGUE,Hindi,train
+Actually this is your billing mistake,DISPUTE,Hinglish,train
+not sure???,VAGUE,English,train
+Last Last time bol raha hun,HIGH_RISK,Hinglish,train
+"Ami NEFT diye pay korechi, abar check koro",DISPUTE,Bengali,train
+My lawyer will deal with this,HIGH_RISK,Hinglish,train
+Need to figure out karunga,VAGUE,Hinglish,train
+Ekhon uttor dite parbo na,VAGUE,Bengali,train
+Will think about it,VAGUE,English,train
+"Haan jani, ei weekend e korbo",LIKELY_PAY,Bengali,train
+I never agreed to these terms,DISPUTE,English,train
+Basically whIch loaN are we TAlkiNG about 👍,NEEDS_REMINDER,English,train
+Listen lost track of dates yaar,NEEDS_REMINDER,Hinglish,train
+Send Send details again please???,NEEDS_REMINDER,Hinglish,train
+THeek hai 🙏🙏 🙏🙏,VAGUE,Hindi,train
+Bhai weekend e dekhchi,NEEDS_REMINDER,Bengali,train
+"Madam aBHi paisA NahI HAi, Ek hafte Mein taK pakkA",LIKELY_PAY,Hindi,train
+Formal Formal complaint kar raha hun,DISPUTE,Hindi,train
+Ok so issues ache!!,VAGUE,Bengali,train
+Hey oh oh bhool gaya tha,NEEDS_REMINDER,Hindi,train
+Life is tough right now,VAGUE,English,train
+"Receipt hai mere paas, bhejun?",DISPUTE,Hindi,train
+Ok let me figure this out,NEEDS_REMINDER,English,train
+Email pe details bhej do,NEEDS_REMINDER,Hindi,train
+"Ok so clarification do pehle, phir payment 🤷",DISPUTE,Hinglish,train
+bolte bolte parbo na shotti,VAGUE,Bengali,train
+will do neft next week thanks!!,LIKELY_PAY,English,train
+Suno samajhna padega padega,VAGUE,Hindi,train
+Boss 25TH ER TRANSACTION CHECK KORO,DISPUTE,Bengali,train
+There's a discrepancy in the amount,DISPUTE,English,train
+See joTokkhon calCuLation calCuLation thiK NA korbE totokKHon debo nA,DISPUTE,Bengali,train
+Madam file a case if you dare yaar,HIGH_RISK,English,train
+Bhai ye amt galat hai 🤷,DISPUTE,Hinglish,train
+"i'm not running away, will pay in 3 days 💰!!",LIKELY_PAY,Hinglish,train
+debo debo na ar eta final thanks,HIGH_RISK,Bengali,train
+I think koi mistake hai,DISPUTE,Hinglish,train
+Arey amar account audit koro!!,DISPUTE,Bengali,train
+I will expose your company on social media,HIGH_RISK,English,train
+I I don't know thanks,VAGUE,English,train
+Amake aro 7 din dao 😢,LIKELY_PAY,Bengali,train
+I'll report you for harassment,HIGH_RISK,English,train
+I'm I'm going to the banking ombudsman 🙏,HIGH_RISK,English,train
+"Consider it done, paying within a week",LIKELY_PAY,English,train
+Look ekhon na,VAGUE,Bengali,train
+Honestly pura amount de dunga 3 din mein,LIKELY_PAY,Hindi,train
+Basically lost track of dates yaar,NEEDS_REMINDER,Hinglish,train
+Main ye charge dispute karta hun,DISPUTE,Hindi,train
+Well nijer moto handle korbo,HIGH_RISK,Bengali,train
+"Boss dUI dUI BHAGE DITE PARI, PROTHOM TA MASH SHESHE",LIKELY_PAY,Bengali,train
+detAils ta AbAr pathaO yaar,NEEDS_REMINDER,Bengali,train
+Sir late late pay karne pe kitni penalty?!!,NEEDS_REMINDER,Hinglish,train
+Get Get lost yaar.,HIGH_RISK,Hinglish,train
+Eta kon EMI ok?,NEEDS_REMINDER,Bengali,train
+Uncertain hun main,VAGUE,Hinglish,train
+"Do whatever, not paying",HIGH_RISK,Hinglish,train
+"Haan jani, agle agle shoptahe e korbo",LIKELY_PAY,Bengali,train
+"Contact my bank, the issue is on your side",DISPUTE,English,train
+"Need escalation, disputing the amount",DISPUTE,Hinglish,train
+Main tumhari company band karwa dunga,HIGH_RISK,Hinglish,train
+Arey time chai amake,VAGUE,Bengali,train
+"Ok i uNDersTand, PAYInG nexT weeK 😭",LIKELY_PAY,English,train
+"Ok so jo karna hai karo, main nahi dunga 😭",HIGH_RISK,Hindi,train
+"Ja khoushi koro, ami debo na",HIGH_RISK,Bengali,train
+Situation check karna padega,VAGUE,Hinglish,train
+Mere paas kuch nahi hai dene ko,HIGH_RISK,Hindi,train
+"Just processing the payment, will be done in an hour",LIKELY_PAY,English,train
+Different interest rate promise kiya tha mujhe,DISPUTE,Hinglish,train
+Penalty charges bahut zyada hain,DISPUTE,Hindi,train
+Look salaRY asHLe TUknI korBo,LIKELY_PAY,Bengali,train
+Realize hi nahi hua it was late,NEEDS_REMINDER,Hinglish,train
+Don't test me 🙏🙏,HIGH_RISK,Hinglish,train
+Let's see kya hota hai,VAGUE,Hinglish,train
+"banK CHanGe CHanGe koReChI receNtLy, UpdaTe korte hoBE???",NEEDS_REMINDER,Bengali,train
+EMI taka alag rekhechi,LIKELY_PAY,Bengali,train
+Ok so complicated byapar,VAGUE,Bengali,train
+Shesh bar bolchi tomake,HIGH_RISK,Bengali,train
+"ADHA EKHON, BAKI TA MASH SHESHE???",LIKELY_PAY,Bengali,train
+Madam processing fee waive honi thi,DISPUTE,Hinglish,train
+Kaal payment kore debo,LIKELY_PAY,Bengali,train
+Yaar Yaar dUI DIN DAO SORT KORAR JONNO 👍,NEEDS_REMINDER,Bengali,train
+Boss might be able to,VAGUE,English,train
+"account details details do, abhi karta hun",LIKELY_PAY,Hinglish,train
+This is pure extortion hai ye,HIGH_RISK,Hinglish,train
+"Yaar Yaar i am not avoiding payment, i will pay tomorrow ...???",LIKELY_PAY,English,train
+"Sir yes I know, will transfer in 2 days!!",LIKELY_PAY,English,train
+Basically nijer kaj koro,HIGH_RISK,Bengali,train
+Complicated Complicated byapar bro,VAGUE,Bengali,train
+"Haan bhai, month end tak tak kar dunga",LIKELY_PAY,Hindi,train
+Koto taka exactly?,NEEDS_REMINDER,Bengali,train
+Hey i'll consider it 😡,VAGUE,English,train
+Due date date kokhon chhilo?!!,NEEDS_REMINDER,Bengali,train
+Ok so hoyto hoye jabe,VAGUE,Bengali,train
+Listen aMAR PATIENCE TEST KORO NA,HIGH_RISK,Bengali,train
+I am transferring today evening,LIKELY_PAY,English,train
+Zindagi mushkil chal rahi hai,VAGUE,Hindi,train
+Due date kokhon chhilo?,NEEDS_REMINDER,Bengali,train
+"Fine, I will pay. How much exactly?",LIKELY_PAY,English,train
+Madam i have nothing to give,HIGH_RISK,Hinglish,train
+Sir oNE MORE CALL = FIR na?,HIGH_RISK,Hinglish,train
+Email e details pathao plz!!,NEEDS_REMINDER,Bengali,train
+"Do hisson mein de sakta hun, pehla ek hafte mein",LIKELY_PAY,Hindi,train
+Acha toder shathe kotha shesh,HIGH_RISK,Bengali,train
+HOYTO HOYE JABE !!,VAGUE,Bengali,train
+Social media pe viral karunga,HIGH_RISK,Hinglish,train
+Ok so tumhari company fraud hai,HIGH_RISK,Hindi,train
+Amount verify korte hobe,NEEDS_REMINDER,Bengali,train
+Acha my payment on 1st was not credited,DISPUTE,English,train
+Hey bola mushkil,VAGUE,Bengali,train
+Transaction initiated initiated already 🙏🙏,LIKELY_PAY,English,train
+Basically whatevER,VAGUE,English,train
+I'm not sure sure what to do,VAGUE,English,train
+Payment will be done within a week,LIKELY_PAY,English,train
+Mujhe 5 din aur chahiye bas ok?,LIKELY_PAY,Hindi,train
+Haan Haan tum logon se baat khatam,HIGH_RISK,Hindi,train
+Listen bill dobara bhej do,NEEDS_REMINDER,Hindi,train
+"Sir i've already spoken to my bank, transfer will come in 2 days bro",LIKELY_PAY,English,train
+Yaar samajh nahi aa raha what to do 😡,VAGUE,Hinglish,train
+Boss late late pay karne pe kitni penalty?,NEEDS_REMINDER,Hinglish,train
+"Look ja khoushi koro, ami debo na",HIGH_RISK,Bengali,train
+Well lEAVE ME ALONE OR I'LL TAKE LEGAL ACTION ...???,HIGH_RISK,English,train
+AMOUNT JO SIGN SIGN KIYA THA WO NAHI HAI na?,DISPUTE,Hinglish,train
+"Honestly haan jani, mash sheshe e korbo",LIKELY_PAY,Bengali,train
+mY paYment ON lasT montH WAs noT CreDitEd,DISPUTE,English,train
+Possibly na,VAGUE,English,train
+Dude calculation calculation mein something wrong hai 🙏,DISPUTE,Hinglish,train
+Debo na ar eta final ok?,HIGH_RISK,Bengali,train
+Suno i'm trying trying apni taraf se 😢???,VAGUE,Hinglish,train
+Payment fix ache Brihoshpotibar,LIKELY_PAY,Bengali,train
+Actually ek-do ghante mein ho jayega,LIKELY_PAY,Hindi,train
+Kuch aisa hi yaar,VAGUE,Hindi,train
+I dispute this charge bro,DISPUTE,English,train
+i need time 😡,VAGUE,English,train
+Bhai bas ekTU waIt korO,LIKELY_PAY,Bengali,train
+Sir bANKING OMBUDSMAN SE BAAT KARUNGA 👍???,HIGH_RISK,Hinglish,train
+It's It's complicated hai.,VAGUE,Hinglish,train
+Listen itna simple nahi hai,VAGUE,Hindi,train
+"Dekho receipt ache amar kache, pathabo",DISPUTE,Bengali,train
+Bujhtei parlam na je late hoye geche,NEEDS_REMINDER,Bengali,train
+"See ek aur chance do, kal guaranteed 🙏🙏",LIKELY_PAY,Hinglish,train
+Listen why hidden charges bhai thanks!!,DISPUTE,Hinglish,train
+Boss it depends yaar,VAGUE,Hinglish,train
+Things are difficult,VAGUE,English,train
+Abar contact koro na na?,HIGH_RISK,Bengali,train
+Suno toder shathe kotha shesh 😢,HIGH_RISK,Bengali,train
+Basically can I get a statement !!,NEEDS_REMINDER,English,train
+"20TH KO PAYMENT KIYA THA, CREDIT NAHI HUA plz",DISPUTE,Hindi,train
+Dekho i never never agreed to these terms yaar 💰,DISPUTE,Hinglish,train
+Aaj hi payment ho jayega,LIKELY_PAY,Hindi,train
+"Bhai ami kokhono mana korini, payment korbo!!",LIKELY_PAY,Bengali,train
+"Bonus Bonus aaya hai, abhi de deta hun",LIKELY_PAY,Hindi,train
+Basically dUBARA CONTACT MAT KARNA!!,HIGH_RISK,Hindi,train
+Nishchoi payment korbo,LIKELY_PAY,Bengali,train
+Listen any grace period available?,NEEDS_REMINDER,Hinglish,train
+I don't know 🙏🙏,VAGUE,English,train
+Boss abar contact koro na sir,HIGH_RISK,Bengali,train
+KAAL PAYMENT KORE DEBO plz!!,LIKELY_PAY,Bengali,train
+Send details again please,NEEDS_REMINDER,Hinglish,train
+Listen might kar paunga!!,VAGUE,Hinglish,train
+Dekhi,VAGUE,Bengali,train
+Suno statement mil sakta hai?,NEEDS_REMINDER,Hindi,train
+Honestly give me 10 more days please!!,LIKELY_PAY,Hinglish,train
+Pura amnt de dunga kal,LIKELY_PAY,Hindi,train
+PACHTAOGE MUJHE CALL KARKE bro!!,HIGH_RISK,Hindi,train
+Bujhte hobe,VAGUE,Bengali,train
+I'll I'll look into it bro,VAGUE,English,train
+You will regret this thanks,HIGH_RISK,Hinglish,train
+Banking ombudsman se baat karunga,HIGH_RISK,Hinglish,train
+One more call and I'm reporting you,HIGH_RISK,English,train
+Aaj bikale transfer kore debo,LIKELY_PAY,Bengali,train
+Bhai let me know the exact amnt due,NEEDS_REMINDER,English,train
+Exact due amount batao,NEEDS_REMINDER,Hindi,train
+hidden charges charges kyun hain?,DISPUTE,Hindi,train
+Payment confirmed for Wednesday,LIKELY_PAY,English,train
+Yaar exact due amount bolo,NEEDS_REMINDER,Bengali,train
+I'm going to the banking ombudsman,HIGH_RISK,English,train
+amake overcharge overcharge kora hoyeche 😡,DISPUTE,Bengali,train
+hidden charges kyun hain plz,DISPUTE,Hindi,train
+AMI SHEI LOK NA JAKE KHUJCHO boss,HIGH_RISK,Bengali,train
+Recording this call FYI,HIGH_RISK,Hinglish,train
+"Sir my friend will lend me, I'll pay by end of month",LIKELY_PAY,English,train
+Complicated byapar,VAGUE,Bengali,train
+Koshish karunga within 3 days plz,LIKELY_PAY,Hinglish,train
+"Keep calling, see what happens",HIGH_RISK,English,train
+Listen mY baNk shOWs sUcCessFUl Payment 😭,DISPUTE,English,train
+Actually let me figure this out,NEEDS_REMINDER,Hinglish,train
+Apna kaam karo sir,HIGH_RISK,Hindi,train
+Abhi nahi 🙏,VAGUE,Hindi,train
+"Jo karna hai karo, mujhe darr nahi",HIGH_RISK,Hindi,train
+Actually wHEN WAS THE DUE DATE AGAIN?,NEEDS_REMINDER,English,train
+"Ekdin aro please, pakka debo",LIKELY_PAY,Bengali,train
+Hoyto,VAGUE,Bengali,train
+Hidden charges keno?,DISPUTE,Bengali,train
+Get lost,HIGH_RISK,English,train
+Promise Promise korte parbo na,VAGUE,Bengali,train
+Auto-debit on chhilo na plz,NEEDS_REMINDER,Bengali,train
+Abhi tak unpaid kyun hai?,DISPUTE,Hindi,train
+Hard to say honestly boss,VAGUE,Hinglish,train
+Bhai i think there's been a mistake 💰,DISPUTE,English,train
+Maybe shayad boss,VAGUE,Hinglish,train
+Why was the interest rate changed?,DISPUTE,English,train
+"Salary coming on 15th, will pay immediately after",LIKELY_PAY,English,train
+Amount wo nahi hai jo sign kiya tha,DISPUTE,Hindi,train
+Pore bolbo ami,NEEDS_REMINDER,Bengali,train
+"Ok understood, I'll do something about it",NEEDS_REMINDER,English,train
+"Main zimmedar hun, payment karunga",LIKELY_PAY,Hindi,train
+Basically aMOUNT MEIN MISMATCH HAI,DISPUTE,Hinglish,train
+Abhi answer answer nahi hai mere paas 😢,VAGUE,Hinglish,train
+How many days overdue is it bro,NEEDS_REMINDER,English,train
+who knows yaar,VAGUE,English,train
+Madam mera auto-debit on tha na?!!,NEEDS_REMINDER,Hinglish,train
+ye add UP NahI HO RAHa thanks???,DISPUTE,Hindi,train
+Leave me alone ya legal action lunga,HIGH_RISK,Hinglish,train
+Let me check my situation,VAGUE,English,train
+Haan check the 10th transaction,DISPUTE,English,train
+Basically i didn't realize it was already late,NEEDS_REMINDER,English,train
+Penalty charges too much hai,DISPUTE,Hinglish,train
+"Dekho bhai paise rakh diye hain, just need to transfer plz",LIKELY_PAY,Hinglish,train
+Maybe shayad,VAGUE,Hinglish,train
+"bro tensiOn Mat le, i'll cLEAR it in 3 Days",LIKELY_PAY,Hinglish,train
+Actually whatever jo bhi,VAGUE,Hinglish,train
+"Paisa arrange ho raha hai, kal mein de dunga",LIKELY_PAY,Hindi,train
+Sir any grace period available,NEEDS_REMINDER,Hinglish,train
+"Actually don't worry yaar, karke dunga thanks",LIKELY_PAY,Hinglish,train
+Dekhte hain kya hota hai,VAGUE,Hindi,train
+Debo na ar eta final,HIGH_RISK,Bengali,train
+i never took this loan plz,DISPUTE,English,train
+Let me pay half now and rest by end of month,LIKELY_PAY,English,train
+Mera plan hai Shukravaar ko dene ka,LIKELY_PAY,Hindi,train
+You'll regret calling me,HIGH_RISK,English,train
+"Sir aMI PAYTM DIYE PAY KORECHI, ABAR CHECK KORO",DISPUTE,Bengali,train
+Tomar company fraud,HIGH_RISK,Bengali,train
+Basically Basically korte parbo hoyto,VAGUE,Bengali,train
+"Actually de dunga, chinta mat karo",LIKELY_PAY,Hindi,train
+"Bank change kiya recently, update karna hai",NEEDS_REMINDER,Hindi,train
+Arey ekhon commit korte parbo na,VAGUE,Bengali,train
+See aUR PRIORITIES PRIORITIES HAIN,VAGUE,Hindi,train
+Check the 1st transaction,DISPUTE,English,train
+Honestly yOu peOple are scammeRs boss,HIGH_RISK,English,train
+"Basically 20th ko payment kiya tha, credit nahi hua",DISPUTE,Hindi,train
+Issues ache,VAGUE,Bengali,train
+Basically Basically your system data is wrong bhai 😢!!,DISPUTE,Hinglish,train
+Suno i'll make sure your company is shut down 😢,HIGH_RISK,English,train
+Dude eKHON COMMIT KORTE PARBO NA,VAGUE,Bengali,train
+Listen tUMHARE AGENT NE ALAG AMOUNT BATAYA THA LAST TIME na?!!,DISPUTE,Hindi,train
+Honestly aaj e payment hoye jabe,LIKELY_PAY,Bengali,train
+Basically you harass innocent log,HIGH_RISK,Hinglish,train
+15th ka transAcTioN cHECk karo sir,DISPUTE,Hindi,train
+"I know my rights, stop this",HIGH_RISK,Hinglish,train
+Basically maybE ho jAYega!!,VAGUE,Hinglish,train
+Numbers don't add up yaar,DISPUTE,Hinglish,train
+"Ektu somoy dao, agle shoptahe diye debo",LIKELY_PAY,Bengali,train
+"tHodA aur TIme DO, monTh end tak taK DE DuNga",LIKELY_PAY,Hindi,train
+Listen gRACE PERIOD MILTA HAI KYA?,NEEDS_REMINDER,Hindi,train
+Actually Actually tomar company bhalo lokeder harrass kore yaar,HIGH_RISK,Bengali,train
+I wasn't aware it was overdue,NEEDS_REMINDER,English,train
+Can't commit abhi,VAGUE,Hinglish,train
+Honestly foreclosure amount bhul 🙂,DISPUTE,Bengali,train
+"Honestly i don't owe anything, stop this!!",HIGH_RISK,Hinglish,train
+Dekho time chahiye mujhe,VAGUE,Hindi,train
+Suno will get back to you later,VAGUE,Hinglish,train
+Ei loan goto bochor bond kora hoyechhilo,DISPUTE,Bengali,train
+Suno numbers don't add up yaar,DISPUTE,Hinglish,train
+Boss let me get back to you on this???,NEEDS_REMINDER,English,train
+This is extortion,HIGH_RISK,English,train
+Payment confirmed for Friday,LIKELY_PAY,English,train
+bill bill ta abar pathao,NEEDS_REMINDER,Bengali,train
+"Listen bhai salry nahi aayi abhi, Shukravaar tak mein pakka kar dunga",LIKELY_PAY,Hinglish,train
+Amake aro 5 din dao,LIKELY_PAY,Bengali,train
+"Ok fine, take the payment next week",LIKELY_PAY,English,train
+"kaam mein mein busy hun, jaldi karunga???",NEEDS_REMINDER,Hindi,train
+i'll try???,VAGUE,English,train
+I have nothing to pay with yaar!!,HIGH_RISK,English,train
+Yaar bahut hua tumhara harassment,HIGH_RISK,Hindi,train
+Haan mujhe calL kArNA bAnd kAro!!,HIGH_RISK,Hindi,train
+Listen penalty charges bahut zyada hain 😡,DISPUTE,Hindi,train
+"Korbo, bar bar call koro na",NEEDS_REMINDER,Bengali,train
+Basically debo na ar eta final,HIGH_RISK,Bengali,train
+Might be able to,VAGUE,English,train
+"do hisson mein mein de sakta hun, pehla shukravaar tak!!",LIKELY_PAY,Hindi,train
+Yaar things are difficult???,VAGUE,English,train
+Bank theke verify korte hobe amake,DISPUTE,Bengali,train
+"Bank change korechi recently, update korte hobe",NEEDS_REMINDER,Bengali,train
+"moNeY Is reaDy, wilL TrANsfer bY end of MoNth asap!!",LIKELY_PAY,English,train
+Suno details ta abar pathao,NEEDS_REMINDER,Bengali,train
+outstanding kothay kothay check korbo????,NEEDS_REMINDER,Bengali,train
+Weekend mein mein dekhta hun,NEEDS_REMINDER,Hindi,train
+"Promise korchi, tin din e e!!",LIKELY_PAY,Bengali,train
+Bhai Bhai ekhono unpaid keno?,DISPUTE,Bengali,train
+Listen dubara call kiya to complaint karunga 😢,HIGH_RISK,Hindi,train
+Listen situation dekhni padegi,VAGUE,Hindi,train
+I'll clear the dues next week,LIKELY_PAY,English,train
+Baad mein bataunga,VAGUE,Hindi,train
+Boss tiMe wasTe wasTe mat kAro ApNa,HIGH_RISK,Hinglish,train
+Actually mera plan hai Shukravaar ko dene ka,LIKELY_PAY,Hindi,train
+Auto-pay kaise set karna hai?,NEEDS_REMINDER,Hindi,train
+Dekh leta hun,VAGUE,Hindi,train
+"Dude salary aa jayegi Shukravaar ko, uske baad turant",LIKELY_PAY,Hindi,train
+My bank shows successful paymnt thanks???,DISPUTE,English,train
+Bujhe nii ami thx,NEEDS_REMINDER,Bengali,train
+Dekho let me check my situation???,VAGUE,English,train
+Abhi tight hai but ek hafte mein tak karunga,LIKELY_PAY,Hinglish,train
+Hard to say 👍???,VAGUE,English,train
+"I will definitely pay, just give me till Saturday",LIKELY_PAY,English,train
+Full amount de dunga by Friday,LIKELY_PAY,Hinglish,train
+Bhai maybe later na?,VAGUE,English,train
+Madam company band karwa dunga tumhari???,HIGH_RISK,Hindi,train
+This doesn't add add up,DISPUTE,English,train
+Hey ami ei loan niini,DISPUTE,Bengali,train
+"Dekho jA Korte ChaO koro, DAr Nei AmAr",HIGH_RISK,Bengali,train
+Pata nahi???,VAGUE,Hindi,train
+Sir Sir sochna padega mujhe!!,VAGUE,Hinglish,train
+Who authorized these additional charges?,DISPUTE,English,train
+Listen tum tum mera kuch nahi kar sakte ...,HIGH_RISK,Hindi,train
+"EKHON TAKA NEI, SHUKROBAR ER MODDHE PORJONTO WAIT KORO",LIKELY_PAY,Bengali,train
+Let's see kya hota hai boss,VAGUE,Hinglish,train
+You guys are scammers,HIGH_RISK,Hinglish,train
+Boss i've already complained to rbi about you 😢,HIGH_RISK,English,train
+Hard to to say honestly!!,VAGUE,Hinglish,train
+door ho jao.???,HIGH_RISK,Hindi,train
+"leT me Pay in insTallments, first one In 2 dayS",LIKELY_PAY,Hinglish,train
+"bhai salary nahi nahi aayi abhi, ek hafte mein mein pakka kar dunga",LIKELY_PAY,Hinglish,train
+Sir i think i missed the notification boss!!,NEEDS_REMINDER,English,train
+"Listen i got my bonus, paying in 2 days",LIKELY_PAY,English,train
+Sir toder lojja nei,HIGH_RISK,Bengali,train
+"Account details do, abhi karta hun",LIKELY_PAY,Hinglish,train
+Ok so pOsSIbly Ho SaktA HaI 🙏🙏,VAGUE,Hinglish,train
+Basically ami ei loan niini,DISPUTE,Bengali,train
+Account number kya hai for payment?,NEEDS_REMINDER,Hinglish,train
+Dates ka track track nahi raha!!,NEEDS_REMINDER,Hindi,train
+Porshudino porjonto pakka diye debo,LIKELY_PAY,Bengali,train
+I never took took this loan !!!!,DISPUTE,English,train
+Acha hidden charges kyun hain?,DISPUTE,Hindi,train
+Tomar dhamki kaje ashe na amar upor,HIGH_RISK,Bengali,train
+"Don't worry yaar, karke dunga",LIKELY_PAY,Hinglish,train
+Acha managEr se bAaT KarAo mUjHe ok????,DISPUTE,Hindi,train
+See cHECK KARKE BATATA HUN 💰!!,NEEDS_REMINDER,Hindi,train
+Bhai baad mein bataunga,VAGUE,Hindi,train
+"You will receive payment in 3 days, guaranteed 🙂",LIKELY_PAY,English,train
+Bhai ye kaun si EMI hai?,NEEDS_REMINDER,Hindi,train
+Samajhna padega thx,VAGUE,Hindi,train
+Details fir se bhejo asap,NEEDS_REMINDER,Hindi,train
+Dude Dude it's not that simple yaar bro,VAGUE,Hinglish,train
+Which loan ki baat ho rahi hai?,NEEDS_REMINDER,Hinglish,train
+Any grace period available?,NEEDS_REMINDER,Hinglish,train
+I don't agree with outstanding amount thx,DISPUTE,Hinglish,train
+Look when was the due date again,NEEDS_REMINDER,English,train
+Your system data is wrong bhai,DISPUTE,Hinglish,train
+Where do do I pay? What's the link 🙏,NEEDS_REMINDER,English,train
+"Busy tha, dekh lunga",NEEDS_REMINDER,Hindi,train
+"No problem, I will arrange the money",LIKELY_PAY,English,train
+which emi is this for thx!!,NEEDS_REMINDER,English,train
+"Ek din aur please, pakka dunga",LIKELY_PAY,Hindi,train
+pata nahi!!,VAGUE,Hindi,train
+"Bonus aaya hai, abhi de deta hun",LIKELY_PAY,Hindi,train
+Tum mera kuch nahi kar sakte,HIGH_RISK,Hindi,train
+"half abhi de deta hun, baaki ek hafte mein",LIKELY_PAY,Hindi,train
+Amount bhej raha hun thodi der mein,LIKELY_PAY,Hindi,train
+Listen this is not my loan yaar,DISPUTE,Hinglish,train
+Hey not sure sure yaar,VAGUE,English,train
+Ok so social media te expose korbo 💰!!,HIGH_RISK,Bengali,train
+Overcharge kiya kiya hai mujhe,DISPUTE,Hindi,train
+"Paise ready hain, transfer kar raha hun",LIKELY_PAY,Hindi,train
+Suno let me know the exact amount due 🙂,NEEDS_REMINDER,English,train
+Actually half now baAki by fRidaY,LIKELY_PAY,Hinglish,train
+Aage se mere lawyer se baat karo,HIGH_RISK,Hindi,train
+I have no obligation to pay this,HIGH_RISK,English,train
+Kon loan er kotha bolcho?,NEEDS_REMINDER,Bengali,train
+"Arey Arey account details do, abhi karta hun thx",LIKELY_PAY,Hinglish,train
+Poora taka ekbare diye debo,LIKELY_PAY,Bengali,train
+Zindagi mushkil mushkil chal rahi hai,VAGUE,Hindi,train

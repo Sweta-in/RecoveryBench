@@ -106,11 +106,10 @@ class TestModelInference:
         assert pred_labels[0] in CLASSES, f"Invalid class: {pred_labels[0]}"
 
     def test_predict_returns_probabilities(self, model):
-        """Raw model has 5 classes (ALREADY_PAID is keyword override, not in ML model)."""
+        """Raw model has 6 classes (ALREADY_PAID is now in ML model, Phase B)."""
         texts = ["I will pay tomorrow"]
         proba = model.predict_proba(texts)
-        ml_classes = [c for c in CLASSES if c != "ALREADY_PAID"]
-        assert proba.shape == (1, len(ml_classes)), f"Expected shape (1, {len(ml_classes)}), got {proba.shape}"
+        assert proba.shape == (1, len(CLASSES)), f"Expected shape (1, {len(CLASSES)}), got {proba.shape}"
         assert abs(proba.sum() - 1.0) < 0.01, f"Probabilities don't sum to 1: {proba.sum()}"
 
     def test_predict_empty_string(self, model, label_encoder):

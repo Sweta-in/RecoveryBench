@@ -311,4 +311,30 @@ Per reviewer direction:
 - The `*` origin policy is appropriate for local development and demo environments
 - For any public deployment, restrict `allow_origins` to the specific frontend domain
 
+---
 
+## PARTIAL_PAYMENT Keyword Override — Hardening (2026-09-05)
+
+### Context
+The PARTIAL_PAYMENT keyword override was added to `predict.py` as part of the Vox Phase B pipeline integration. The ML classifier has no PARTIAL_PAYMENT class — this keyword layer is the only mechanism for routing partial-payment offers to the settlement-proposal engine.
+
+### Bug found during testing
+Running `test_partial_payment.py` (10 cases) revealed 2 failures:
+
+| Case | Input | Expected | Got | Root Cause |
+|------|-------|----------|-----|------------|
+| PP-01 | "I can pay 6,000 now. Rest, I can pay after" | PARTIAL_PAYMENT | ALREADY_PAID | Keyword `"rest i can pay"` doesn't match `"rest, i can pay"` (comma after "Rest") |
+| PP-EDGE-01 | "I already paid half" | PARTIAL_PAYMENT | ALREADY_PAID | Keyword `"pay half"` doesn't match `"paid half"` (past tense) |
+
+### Fix
+Added 5 keyword variants to `_PARTIAL_PAYMENT_KEYWORDS`:
+- `"paid half"`, `"paid part"` — past-tense variants
+- `"rest, i can pay"` — comma-separated variant
+- `"i can pay after"`, `"can pay after"` — standalone post-payment patterns
+
+### Verification
+- `test_partial_payment.py` — 10/10 PASS (was 8/10 before fix)
+- `pytest tests/ -v` — 237/237 PASS (no regressions across the entire suite)
+
+### Known limitation
+The keyword list is inherently incomplete for all possible phrasings. The fix addresses the specific patterns observed in testing. Future edge cases may require additional variants.

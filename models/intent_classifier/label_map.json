@@ -1,7 +1,8 @@
 {
-  "0": "DISPUTE",
-  "1": "HIGH_RISK",
-  "2": "LIKELY_PAY",
-  "3": "NEEDS_REMINDER",
-  "4": "VAGUE"
+  "0": "ALREADY_PAID",
+  "1": "DISPUTE",
+  "2": "HIGH_RISK",
+  "3": "LIKELY_PAY",
+  "4": "NEEDS_REMINDER",
+  "5": "VAGUE"
 }

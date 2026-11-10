@@ -1,0 +1,643 @@
+text,label,language
+"I cleared the EMI yesterday through UPI, txn ID 987654321.",ALREADY_PAID,English
+"Maine kal hi bank transfer se loan ka paisa bhej diya, UTR 1234567890.",ALREADY_PAID,English
+"bhai, payment already done hai, auto‑debit on the 5th, receipt 5555.",ALREADY_PAID,English
+"Ami tomake taka diyechi last week via NEFT, ref no 112233.",ALREADY_PAID,English
+"Paid this morning via cash deposit, slip number C1234.",ALREADY_PAID,English
+"My EMI was auto‑deducted on the 12th, please verify the bank statement.",ALREADY_PAID,English
+"I made the full settlement two days ago, transaction reference ABCD1234.",ALREADY_PAID,English
+"maine aaj subah UPI se 10k transfer kar diya, txn 777777.",ALREADY_PAID,English
+"bhai, 15th ko auto‑debit ho gaya, receipt no 9999, check it.",ALREADY_PAID,English
+"I paid the installment on the 5th of this month using NEFT, UTR 555555.",ALREADY_PAID,English
+"Ami ager shoptaho te cash deposit diyechi, deposit slip 777.",ALREADY_PAID,English
+"Paid via bank’s mobile app yesterday, ref ID LMN456.",ALREADY_PAID,English
+"Maine 20k cash deposit kiya kal, receipt number D4567.",ALREADY_PAID,English
+"My loan EMI was auto‑debited on the 3rd, transaction ID 333333.",ALREADY_PAID,English
+"I settled the amount on Sunday through UPI, transaction number 888888.",ALREADY_PAID,English
+"bhai, 2 din pehle NEFT se payment bhej diya, UTR 999888777.",ALREADY_PAID,English
+"Ami 3 din age NEFT diyechi, reference 4444.",ALREADY_PAID,English
+"Paid the due today at 10 am via bank transfer, ref 1122.",ALREADY_PAID,English
+"Maine aaj subah auto‑debit se EMI pay kar li, receipt 1010.",ALREADY_PAID,English
+"My installment was cleared on the 20th of June, UTR 202020.",ALREADY_PAID,English
+"I transferred the money via UPI on the 1st, txn ID 111222333.",ALREADY_PAID,English
+"bhai, cash deposit ka slip number 5555 kal hi submit kiya hai.",ALREADY_PAID,English
+"Ami 5 din age cash diyechi, receipt no 8888.",ALREADY_PAID,English
+"I used NEFT on Friday, UTR 777666555, please confirm receipt.",ALREADY_PAID,English
+"Maine kal raat ko bank transfer se payment kiya, transaction ID 999000.",ALREADY_PAID,English
+"My EMI auto‑deduction happened on the 7th, reference 7777.",ALREADY_PAID,English
+"Paid the loan amount this morning through UPI, UTR 123123.",ALREADY_PAID,English
+"bhai, 2 din pehle auto‑debit ho gaya, receipt 2222, check.",ALREADY_PAID,English
+"Ami 10 din age NEFT diyechi, transaction ID 5555.",ALREADY_PAID,English
+"I deposited cash at branch on the 4th, slip no C004.",ALREADY_PAID,English
+"Maine aaj subah NEFT se 15k transfer kar diya, UTR 321321.",ALREADY_PAID,English
+"My payment was auto‑debited on the 9th of this month, receipt 9990.",ALREADY_PAID,English
+"Paid via UPI on the 6th, transaction reference UP12345.",ALREADY_PAID,English
+"bhai, payment already ho gaya hai, cash deposit slip 7777.",ALREADY_PAID,English
+"Ami kal cash diyechi, receipt no 6666, please update.",ALREADY_PAID,English
+"Paid via UPI yesterday, TXN12345.",ALREADY_PAID,English
+maine kal UPI se payment kar diya.,ALREADY_PAID,English
+"bhai, payment already done hai.",ALREADY_PAID,English
+ami kal taka deposit korechi.,ALREADY_PAID,English
+"I transferred the EMI on the 5th through NEFT, UTR 9876543210.",ALREADY_PAID,English
+"pichle hafte NEFT se loan ki rakam bhej di thi, receipt no 1122.",ALREADY_PAID,English
+"Maine aaj subah auto-debit se EMI clear kar di, reference ABC123.",ALREADY_PAID,English
+"ami 2 din age bank transfer diye loan chukayechi, ref no 5566.",ALREADY_PAID,English
+"Please verify, I made a cash deposit at your branch on Monday, receipt number RD-2023-0456, and the amount matches my outstanding loan.",ALREADY_PAID,English
+"Maine aaj subah cash deposit kiya hai, receipt number 7890, aapke system mein update kar dein, loan ka balance zero hona chahiye.",ALREADY_PAID,English
+"Bhai, kal raat ko UPI se 10,000 rupees ka payment bheja tha, transaction ID TXN20260813, abhi tak status pending dikha raha hai.",ALREADY_PAID,English
+"Ami 5th tarikhe NEFT diye 15 hazar taka payment korechi, UTR 1234ABCD, kripya account update korun.",ALREADY_PAID,English
+"EMI auto-debited on 5th, check it.",ALREADY_PAID,English
+EMI aaj hi auto-deduct ho gayi.,ALREADY_PAID,English
+auto-debit se payment ho chuka hai.,ALREADY_PAID,English
+auto-deduct hoyeche.,ALREADY_PAID,English
+"I paid the installment yesterday via bank transfer, reference ID BT-20260812.",ALREADY_PAID,English
+"Maine kal hi bank transfer se payment bheja, reference ID BTR5678.",ALREADY_PAID,English
+"Kal NEFT se payment ho gaya, UTR number 99887766, check karo.",ALREADY_PAID,English
+"Kal NEFT diye payment korechi, UTR 88776655, dekhen.",ALREADY_PAID,English
+"I have the receipt of my payment made on the 3rd of this month through UPI, transaction ID 556677, please reflect it in my account.",ALREADY_PAID,English
+"Maine is mahine ki 3 tareekh ko UPI se payment kiya tha, transaction ID 334455, abhi tak balance show nahi ho raha.",ALREADY_PAID,English
+"Bhai, aaj subah se hi payment ho chuka hai, maine UPI se 12k bheja, txn id 112233, aapke portal pe dikha nahi raha.",ALREADY_PAID,English
+"Ami 2 din age UPI diye 8 hajar taka payment korechi, transaction id 445566, portal e dekhte pachchi na.",ALREADY_PAID,English
+"Paid cash on 4th, receipt 9988.",ALREADY_PAID,English
+cash se payment 4th ko kiya.,ALREADY_PAID,English
+cash deposit 4th ko ho gaya.,ALREADY_PAID,English
+cash deposit 4 tarikh e.,ALREADY_PAID,English
+My EMI was auto-deducted on the 10th of August; transaction reference AUTO10AUG.,ALREADY_PAID,English
+"10 August ko auto-debit se EMI clear ho gayi, reference AUTO10AUG.",ALREADY_PAID,English
+"10 August ko auto-debit se payment ho gaya, reference AUTO10AUG.",ALREADY_PAID,English
+"I have a screenshot of the UPI payment I made two days ago, transaction ID UPI20260811, please update my loan balance accordingly.",ALREADY_PAID,English
+"Maine do din pehle UPI se payment ki screenshot li hai, transaction ID UPI20260811, kripya mere loan ka balance update karein.",ALREADY_PAID,English
+"Bhai, do din pehle UPI se payment ki screenshot bhej di thi, txn id UPI20260811, abhi tak pending dikha raha hai.",ALREADY_PAID,English
+"Paid via UPI this morning, TXN ID 987654321, check your portal.",ALREADY_PAID,English
+"Maine kal hi NEFT se payment kar diya, UTR 1122334455.",ALREADY_PAID,English
+"bhai, auto-debit on the 5th cleared, receipt #A12345.",ALREADY_PAID,English
+"I transferred the EMI two days ago through bank transfer, ref no. BT-20230813.",ALREADY_PAID,English
+"ami already taka deposit korechi, transaction ID 556677, dekho.",ALREADY_PAID,English
+"Payment was made yesterday via cash deposit, slip no. CD-2023-07.",ALREADY_PAID,English
+"My loan installment auto-deducted on the 3rd, please verify the deduction.",ALREADY_PAID,English
+"I sent the amount on the 5th using UPI, UPI Ref 778899.",ALREADY_PAID,English
+"Maine aaj subah payment kar diya, receipt 998877.",ALREADY_PAID,English
+"bhai, NEFT ka paisa aaj aa gaya hai, UTR 44332211.",ALREADY_PAID,English
+"I cleared the outstanding amount last week via IMPS, transaction ID IMPS1234.",ALREADY_PAID,English
+"ami last week e NEFT diyechi, ref 665544.",ALREADY_PAID,English
+"The EMI was auto-deducted on the 10th, check the bank statement.",ALREADY_PAID,English
+"Paid the loan installment yesterday through cash, receipt number CASH-2023-09.",ALREADY_PAID,English
+"Maine do din pehle UPI se payment complete kar liya, txn 33445566.",ALREADY_PAID,English
+"bhai, payment ho chuka hai, bank reference BR-20230807.",ALREADY_PAID,English
+"I made a NEFT transfer on the 5th, UTR number 8899001122.",ALREADY_PAID,English
+"emi auto-deducted today, transaction ID AUTO20230813.",ALREADY_PAID,English
+"Maine aaj raat ko cash deposit kiya, slip 777888.",ALREADY_PAID,English
+"ami payment korchi kal, transaction ID 123abc, dekho.",ALREADY_PAID,English
+"The amount was transferred via NEFT on the 2nd, reference NO-20230802.",ALREADY_PAID,English
+"Paid the EMI via UPI yesterday, UPI ID pay12345.",ALREADY_PAID,English
+Maine aaj se pehle hi auto-debit se payment ho gaya.,ALREADY_PAID,English
+"bhai, cash deposit receipt number 555666, payment done.",ALREADY_PAID,English
+"I completed the loan payment two days ago with a bank transfer, confirmation #BT9876.",ALREADY_PAID,English
+"ami ekhane taka diyechi, transaction 998877, check koren.",ALREADY_PAID,English
+"My EMI was auto-deducted on the 12th, receipt ID EMIAUTO12.",ALREADY_PAID,English
+"Paid via NEFT on the 4th, UTR 22334455, please update.",ALREADY_PAID,English
+"Maine kal hi UPI se paisa bhej diya, transaction 112244.",ALREADY_PAID,English
+"bhai, payment already done, auto-debit on 6th, receipt #D6.",ALREADY_PAID,English
+"I sent the installment this morning through cash, slip number CS-20230813.",ALREADY_PAID,English
+"ami already payment korechi, UTR 66778899.",ALREADY_PAID,English
+"My loan EMI auto-deducted on the 9th, check the bank ledger.",ALREADY_PAID,English
+"Maine last week NEFT se payment complete kar diya, reference 334455.",ALREADY_PAID,English
+"bhai, payment ho gaya, UPI transaction ID 77881122, check karo.",ALREADY_PAID,English
+Paid yesterday via UPI txn12345,ALREADY_PAID,English
+"Maine kal bank transfer se payment kar diya, UTR 9876543210, receipt 1122",ALREADY_PAID,English
+"bhai, my auto-debit processed on the 5th of this month, reference ID REF20230813, I even got a SMS confirming the EMI was cleared, so please update your records",ALREADY_PAID,English
+"ami to 2 din age cash deposit diyechi, slip no 556677, bank said cleared",ALREADY_PAID,English
+"I am confused because I transferred the loan amount on the 5th via NEFT, transaction ID NEFT56789, and the bank statement shows it cleared, yet the portal still shows outstanding balance",ALREADY_PAID,English
+"Maine kal hi UPI se 10k transfer kar diya, txn id 1234567890.",ALREADY_PAID,Hindi
+"Payment already done, NEFT on 5th, UTR: N00112233.",ALREADY_PAID,Hindi
+"Bhai, aaj subah auto-debit se EMI settle ho gayi hai.",ALREADY_PAID,Hindi
+Maine cash deposit karke receipt no. R-98765 aaj bank mein lagayi hai.,ALREADY_PAID,Hindi
+"Ami already 2 din age taka diyechi, transaction ID: 556677.",ALREADY_PAID,Hindi
+"Mujhe lagta hai aapne check nahi kiya, maine 15th ko bank transfer se 5k bheja tha.",ALREADY_PAID,Hindi
+"Payment ho chuki hai, aapke portal pe UTR 9876543210 show hona chahiye.",ALREADY_PAID,Hindi
+"Bhai, EMI auto-deducted on 3rd March, aap confirm karo.",ALREADY_PAID,Hindi
+"Maine last week NEFT ke through poora due amount clear kar diya, reference no. REF-2023-09.",ALREADY_PAID,Hindi
+"Kal raat ko UPI se 2,500 rupees bhej diya, transaction ID 11223344.",ALREADY_PAID,Hindi
+"Ami 5 din age payment pathaise, receipt number 7788.",ALREADY_PAID,Hindi
+Maine aaj subah cash deposit slip #C-4455 ke saath payment kiya.,ALREADY_PAID,Hindi
+"EMI auto-debited on 5th, amount deducted, please verify.",ALREADY_PAID,Hindi
+"Maine 2 din pehle bank ke net banking se full EMI transfer kar di, UTR: BKN123456.",ALREADY_PAID,Hindi
+"bhai, payment already done hai, aapke records update karo.",ALREADY_PAID,Hindi
+"Maine aapke app se UPI se 8k payment ki, txn id 99887766, aaj.",ALREADY_PAID,Hindi
+"Ami 3 din age taka diyechi, receipt no. 3344.",ALREADY_PAID,Hindi
+"Kal NEFT se 12,000 rupees bheje the, reference 2023NEFT09.",ALREADY_PAID,Hindi
+"Mujhe lagta hai system glitch hai, maine 4th ko auto-debit se EMI pay ki.",ALREADY_PAID,Hindi
+"Payment already made on 1st of this month via bank transfer, UTR 555444333.",ALREADY_PAID,Hindi
+"Maine cash se deposit kiya, slip number D-2211, aaj subah.",ALREADY_PAID,Hindi
+"Bhai, aaj raat ko UPI se 6,500 transfer ho gaya, txn id 77665544.",ALREADY_PAID,Hindi
+"Ami already payment diya, transaction ID: 889900.",ALREADY_PAID,Hindi
+"Maine 2 weeks pehle NEFT ke through poora loan amount settle kar diya, bank reference LR-2023-07, aur uska screenshot aapko email se bhej diya tha, kripya verify karein.",ALREADY_PAID,Hindi
+"EMI auto-deducted on 10th, amount deducted, receipt pending but payment done.",ALREADY_PAID,Hindi
+"Maine aaj morning mein UPI se 3k bhej diya, transaction ID 332211.",ALREADY_PAID,Hindi
+"Kal cash deposit karke receipt #R-3322 li, payment ho chuki hai.",ALREADY_PAID,Hindi
+"Ami payment already korchi, UTR 66778899.",ALREADY_PAID,Hindi
+"Maine 5th May ko auto-debit se EMI clear kar li, aap confirm karo.",ALREADY_PAID,Hindi
+"Payment already done via NEFT on 12th, UTR: NTR-121212.",ALREADY_PAID,Hindi
+"Maine 2 din pehle UPI se full due amount transfer kar diya, transaction id 44332211.",ALREADY_PAID,Hindi
+"Bhai, cash deposit slip no. C-7788 aaj bank me submit kiya.",ALREADY_PAID,Hindi
+"Ami 4 din age taka diyechi, receipt number 5566, check karo.",ALREADY_PAID,Hindi
+"Maine aaj subah auto-debit se EMI deduct ho gayi, aapke portal me update hona chahiye.",ALREADY_PAID,Hindi
+"Payment already cleared on 7th via bank transfer, reference ID BT-777777, aur maine uska transaction receipt PDF bhi aapke portal ke documents section me upload kar diya hai, please check.",ALREADY_PAID,Hindi
+maine kal subah UPI se 9876543210 transaction ID ke saath payment kar diya,ALREADY_PAID,Hindi
+"payment already done, auto-debit ne 5th ko EMI cut kar di, receipt no. 556677",ALREADY_PAID,Hindi
+"Maine 2 din pehle NEFT se Rs.10,000 bheja, UTR 123456789012, bank reference bhi mil gaya",ALREADY_PAID,Hindi
+"bhai, cash deposit karke slip number 998877 ko aaj submit kar diya",ALREADY_PAID,Hindi
+"EMI auto-deduct ho chuki hai, aaj subah hi bank se confirmation aaya",ALREADY_PAID,Hindi
+"ami toh kal bank transfer diyechi, transaction ID 11223344, dekho",ALREADY_PAID,Hindi
+"Maine last week hi cash se full amount jama kar diya, receipt number 445566",ALREADY_PAID,Hindi
+"payment ho chuka hai, UPI id xyz@oks, transaction 777888999, check karo",ALREADY_PAID,Hindi
+"Maine kal raat ko NEFT se Rs.5,000 bheja, UTR 9988776655, abhi tak pending kyun?",ALREADY_PAID,Hindi
+"bhai, mere auto-debit se 15th ko EMI deduct ho gayi, receipt 332211",ALREADY_PAID,Hindi
+"I already cleared the loan on the 5th via bank transfer, UTR 0011223344",ALREADY_PAID,Hindi
+"Maine aaj subah hi cash deposit slip 554433 ko bank mein daala, receipt mil gaya",ALREADY_PAID,Hindi
+"payment already made, UPI transaction 44332211, reference ID 8899",ALREADY_PAID,Hindi
+"ami abar tak payment diyechi, transaction ID 667788, bank e confirm koro",ALREADY_PAID,Hindi
+"Maine kal hi NEFT se poora balance transfer kiya, UTR 5566778899, please update",ALREADY_PAID,Hindi
+"auto-debit se aaj 5th ko Rs.2,500 ka EMI cut gaya, receipt no. 123123",ALREADY_PAID,Hindi
+"Maine 2 din pehle cash se Rs.8,000 deposit kiya, slip no. 778899",ALREADY_PAID,Hindi
+"payment already done via UPI, transaction ID 99880077, bank ne confirm kiya",ALREADY_PAID,Hindi
+"bhai, NEFT se last week hi payment kar diya, UTR 3344556677, aap check karo",ALREADY_PAID,Hindi
+"Maine aaj subah hi auto-debit se EMI deduct kar li, receipt 44556677",ALREADY_PAID,Hindi
+"ami ekti cash deposit diyechi kal, receipt number 221133, dekhen",ALREADY_PAID,Hindi
+"payment ho chuka hai, UPI reference abc123, transaction ID 665544",ALREADY_PAID,Hindi
+"Maine 5th ko bank transfer se Rs.12,000 bheja, UTR 1122556677, receipt attached",ALREADY_PAID,Hindi
+"auto-debit se 3 din pehle hi EMI cut ho gayi, bank statement me dikh rahi hai",ALREADY_PAID,Hindi
+"bhai, cash deposit slip 990011 ko kal jama kiya, receipt number 667788",ALREADY_PAID,Hindi
+"I already paid yesterday via NEFT, transaction ID 7788990011, bank reference XYZ",ALREADY_PAID,Hindi
+"Maine aaj subah hi UPI se Rs.3,500 transfer kiya, transaction 22334455, receipt mil gaya",ALREADY_PAID,Hindi
+"payment already done, cash deposit on 4th, slip no. 443322, please verify",ALREADY_PAID,Hindi
+"ami to kal bank e transfer diyechi, UTR 5544332211, receipt number 8899",ALREADY_PAID,Hindi
+"Maine last week hi auto-debit se EMI clear ki, receipt no. 55667788, bank confirm kara",ALREADY_PAID,Hindi
+"payment ho chuka hai, UPI ID xyz@upi, transaction 88990077, receipt attached",ALREADY_PAID,Hindi
+"bhai, NEFT se 2 din pehle Rs.6,000 bheja, UTR 6677881122, abhi tak update kyu nahi?",ALREADY_PAID,Hindi
+"Maine kal cash deposit slip 332211 ko bank mein daala, receipt number 998877, aap check karo",ALREADY_PAID,Hindi
+"auto-debit ne aaj 5th ko Rs.1,200 ka EMI deduct kiya, receipt 778800, sab set hai",ALREADY_PAID,Hindi
+"Maine kal subah UPI se 5000 rupaye transfer kar diye, txn ID 987654321.",ALREADY_PAID,Hindi
+"bhai, aaj shaam tak mera auto-debit ho gaya tha, EMI 2nd May ke liye.",ALREADY_PAID,Hindi
+"Payment already done on 5th, NEFT UTR 1122334455, check your portal.",ALREADY_PAID,Hindi
+Maine pichle hafte cash deposit karke receipt number 4567 le liya tha.,ALREADY_PAID,Hindi
+"emi auto-deducted on 3rd, bank reference XYZ123, abhi tak pending kyu dikh raha hai?",ALREADY_PAID,Hindi
+"Maine aaj subah bank transfer se 7500 bhej diya, reference no. BT9876.",ALREADY_PAID,Hindi
+"ami ekhane taka diye disi, transaction ID 778899, dekho.",ALREADY_PAID,Hindi
+"Mujhe lagta hai payment already cleared hai, aapke records mein check karo.",ALREADY_PAID,Hindi
+"Kal raat ko UPI se payment kiya, UTR 5566778899, receipt ab tak mil nahi rahi.",ALREADY_PAID,Hindi
+"Maine 2 din pehle cash deposit kiya, slip no. 3210 aapke branch se liya tha.",ALREADY_PAID,Hindi
+"bhai, mera EMI auto-deduct ho gaya tha 10th July ko, abhi tak pending dikh raha hai.",ALREADY_PAID,Hindi
+"I transferred via NEFT on Monday, transaction ID 998877, please update.",ALREADY_PAID,Hindi
+"Maine aaj morning mein UPI se 3000 bheje, txn 44332211, confirm karo.",ALREADY_PAID,Hindi
+"Payment already made on 5th June, receipt no. R12345, kindly verify.",ALREADY_PAID,Hindi
+"Maine last week bank se NEFT kiya, UTR 667788, a",ALREADY_PAID,Hindi
+"Cash deposit ho gaya, receipt 1122.",ALREADY_PAID,Hindi
+"Maine kal UPI se payment kar diya, txn ID 987654.",ALREADY_PAID,Hindi
+"Bhai, mera EMI auto-debit 5th ko ho gaya, UTR 12345ABC, check karo.",ALREADY_PAID,Hindi
+"Maine last week NEFT ke through 15000 rupees bheje the, bank reference XYZ123, aaj tak koi update nahi aaya, please verify.",ALREADY_PAID,Hindi
+"Maine aaj subah bank transfer se 10k send kiya, UTR 9876XYZ, receipt number R555, aapke portal par abhi tak reflected nahi dikh raha, please check urgently.",ALREADY_PAID,Hindi
+"ami kal UPI diye 5000 taka pay korechi, txn id 1234567890",ALREADY_PAID,Bengali
+"ami kal theke auto-debit e EMI 2000 taka pay hoise, reference no REF20230901",ALREADY_PAID,Bengali
+"ami kal cash deposit kore branch e diyechi, receipt no RCV00123",ALREADY_PAID,Bengali
+"ami kal NEFT diye 7500 taka transfer korechi, UTR 9876543210",ALREADY_PAID,Bengali
+"ami kal theke auto-deducted EMI 1500 taka hoise, 5th tarik e",ALREADY_PAID,Bengali
+"ami ajker sokale bank transfer kore 3000 taka pathiyechi, transaction ID BTR12345",ALREADY_PAID,Bengali
+"ami ager soptaho cash deposit diye 6000 taka deposit korechi, slip no SLIP5678",ALREADY_PAID,Bengali
+"ami kal theke UPI payment 4200 taka korechi, UPI ref UPI20230813",ALREADY_PAID,Bengali
+"ami kal theke auto-debit e EMI 2500 taka choleche, bank ref BR20230813",ALREADY_PAID,Bengali
+"ami 2 din age NEFT diye 8000 taka transfer korechi, UTR 1122334455",ALREADY_PAID,Bengali
+"ami 2 din age auto-deducted EMI 1800 taka hoise, reference no REF20230811",ALREADY_PAID,Bengali
+"ami 3 din age cash deposit kore 3500 taka diyechi, receipt no RCPT3456",ALREADY_PAID,Bengali
+"ami 3 din age UPI diye 4200 taka pay korechi, txn id UPI987654",ALREADY_PAID,Bengali
+"ami 5 tarik e auto-debit e EMI 2100 taka choleche, bank ref BR2105",ALREADY_PAID,Bengali
+"ami 5 tarik e NEFT diye 5600 taka transfer korechi, UTR 5566778899",ALREADY_PAID,Bengali
+"ami ajker doporer 2ta te cash deposit diye 4100 taka diyechi, slip no SLIP7890",ALREADY_PAID,Bengali
+"ami ajke sokale UPI te 2500 taka pay korechi, UPI id upi12345",ALREADY_PAID,Bengali
+"ami ajke amader auto-debit e EMI 1900 taka choleche, reference no REF20230813",ALREADY_PAID,Bengali
+"ami kal theke auto-debit e 3000 taka EMI hoise, bank ref BR3000",ALREADY_PAID,Bengali
+"ami kal NEFT diye 6500 taka transfer korechi, UTR 3344556677",ALREADY_PAID,Bengali
+"ami kal cash deposit diye 4700 taka diyechi, receipt no RCV9876",ALREADY_PAID,Bengali
+"ami kal UPI te 3800 taka pay korechi, txn id 777888999",ALREADY_PAID,Bengali
+"ami kal auto-deducted EMI 2200 taka choleche, 6th tarik e, reference no REF2200",ALREADY_PAID,Bengali
+"ami 2 din age bank transfer diye 5400 taka pathiyechi, transaction ID BT20230811",ALREADY_PAID,Bengali
+"ami 2 din age cash deposit diye 2900 taka diyechi, slip no SLIP1122",ALREADY_PAID,Bengali
+"ami 2 din age UPI te 3100 taka pay korechi, UPI ref UPI3110",ALREADY_PAID,Bengali
+"ami 3 din age auto-debit e EMI 2600 taka choleche, bank ref BR2600",ALREADY_PAID,Bengali
+"ami 3 din age NEFT diye 7200 taka transfer korechi, UTR 9988776655",ALREADY_PAID,Bengali
+"ami 4 din age cash deposit diye 4300 taka diyechi, receipt no RCPT4433",ALREADY_PAID,Bengali
+"ami 4 din age UPI te 1500 taka pay korechi, txn id UPI1500",ALREADY_PAID,Bengali
+"ami 6 din age bank transfer kore 5900 taka pathiyechi, transaction ID BT5900",ALREADY_PAID,Bengali
+"ami 6 din age cash deposit diye 3600 taka diyechi, slip no SLIP6600",ALREADY_PAID,Bengali
+"ami 7 din age UPI te 4200 taka pay korechi, UPI ref UPI4200",ALREADY_PAID,Bengali
+"ami 7 din age auto-debit e EMI 2300 taka hoise, bank ref BR2300",ALREADY_PAID,Bengali
+"ami kalke din 5ta te UPI diye payment korechi, TRX987654",ALREADY_PAID,Bengali
+"ami 2 din age cash deposit kore bank e, receipt no 112233",ALREADY_PAID,Bengali
+"ami kal raatre NEFT madhome taka pathiyechi, UTR123456789",ALREADY_PAID,Bengali
+"ami aajke subha theke auto-debit er maddhome EMI chalaise, reference 5566",ALREADY_PAID,Bengali
+"ami kal theke payment hoise, transaction ID: TXN001122",ALREADY_PAID,Bengali
+"ami 5th tarikhe bank transfer korechi, confirmation no 7788",ALREADY_PAID,Bengali
+"ami aaj raat 10ta te UPI se payment diyechi, UTR987654321",ALREADY_PAID,Bengali
+"ami kal theke already payment complete, receipt no 334455",ALREADY_PAID,Bengali
+"ami 2 din age auto EMI deduct hoise, bank ref 998877",ALREADY_PAID,Bengali
+"ami kalke subha 9ta te NEFT diye loan settle korechi, TRX445566",ALREADY_PAID,Bengali
+"ami aaj cash deposit koreche, slip no 2211, check korun",ALREADY_PAID,Bengali
+"ami 3 din age UPI payment pathaisi, UTR555666777",ALREADY_PAID,Bengali
+"ami kal raatre auto-debit er madhome payment hoise, reference 1122",ALREADY_PAID,Bengali
+"ami 5th tarikhe NEFT diye payment korechi, transaction ID TXN332211",ALREADY_PAID,Bengali
+"ami aaj subha theke cash deposit diyeche, receipt no 4433",ALREADY_PAID,Bengali
+"ami kal 6ta te UPI payment pathaisi, TRX889900",ALREADY_PAID,Bengali
+"ami last week bank transfer korechi, UTR111222333",ALREADY_PAID,Bengali
+"ami aaj 8ta te auto EMI deduct hoise, ref 6677",ALREADY_PAID,Bengali
+"ami 2 din age cash deposit koreche, receipt no 7788, check korun",ALREADY_PAID,Bengali
+ami kalke raat 11ta te NE,ALREADY_PAID,Bengali
+"ami kalke subha 7ta te UPI se payment korechi, TXN554433",ALREADY_PAID,Bengali
+"ami aajke cash deposit diyeche, slip no 9900, bank confirm koren",ALREADY_PAID,Bengali
+"ami 5th tarikhe auto-debit er maddhome EMI pay korechi, ref 5566",ALREADY_PAID,Bengali
+"ami kal 4ta te NEFT diye payment pathaisi, UTR777888999",ALREADY_PAID,Bengali
+"ami 2 din age UPI payment diyechi, transaction ID TXN123123",ALREADY_PAID,Bengali
+"ami aajke subha theke cash deposit koreche, receipt no 3322",ALREADY_PAID,Bengali
+"ami kal 9ta te auto EMI deduct hoise, bank ref 4433",ALREADY_PAID,Bengali
+"ami last week UPI diye loan payment korechi, TRX667788",ALREADY_PAID,Bengali
+"ami 5th tarikhe cash deposit koreche, slip no 5555",ALREADY_PAID,Bengali
+"ami kalke raat 10ta te NEFT payment pathaisi, UTR999000111",ALREADY_PAID,Bengali
+"ami aaj 7ta te auto-debit er maddhome EMI chalaise, ref 8899",ALREADY_PAID,Bengali
+"ami 2 din age cash deposit koreche, receipt no 2211, please verify",ALREADY_PAID,Bengali
+"ami kalke subha 8ta te UPI payment diyechi, TXN777666",ALREADY_PAID,Bengali
+"ami aajke NEFT diye payment korchi, transaction ID 334455",ALREADY_PAID,Bengali
+"ami 5th tarikhe auto EMI deduct hoise, reference 1122",ALREADY_PAID,Bengali
+"ami kal 3ta te cash deposit koreche, slip no 6677, confirm korun",ALREADY_PAID,Bengali
+"ami last week UPI payment diyechi, UTR222333444.",ALREADY_PAID,Bengali
+"ami kalke UPI diye payment korechi, transaction ID TXN987654321",ALREADY_PAID,Bengali
+"ami kal 5 tarikhe cash deposit kore disi, receipt no 112233",ALREADY_PAID,Bengali
+ami 2 din age auto-debit diye EMI chole gese,ALREADY_PAID,Bengali
+"ami aajke bank transfer diye 10k taka pathiye disi, NEFT ref 987654",ALREADY_PAID,Bengali
+"ami ager shoptaho NEFT diye payment korlam, UTR 1234567890",ALREADY_PAID,Bengali
+"ami kal subah auto-EMI deduct hoise, kindly verify",ALREADY_PAID,Bengali
+"ami kalke bank er net banking diye payment korechi, ref no B12345",ALREADY_PAID,Bengali
+ami ager diner 5 tarikhe UPI te 5k taka transfer kore disi,ALREADY_PAID,Bengali
+"ami kal raat e cash deposit korechi, slip number 556677",ALREADY_PAID,Bengali
+"ami kalke auto-debit e EMI chole gese, transaction ID AUTO5678",ALREADY_PAID,Bengali
+"ami aajke UPI payment korechi, UPI ID user@upi, txn 889900",ALREADY_PAID,Bengali
+"ami 2 din age NEFT diye payment korechi, bank ref 445566",ALREADY_PAID,Bengali
+"ami kalke payment kore disi, receipt no R123456789, dekhun",ALREADY_PAID,Bengali
+"ami aajke auto EMI deduct hoye gese, bank reference 778899",ALREADY_PAID,Bengali
+"ami kal 3 tarikh e cash deposit korechi, slip no 334455",ALREADY_PAID,Bengali
+"ami kalke UPI te 7k taka transfer kore disi, UTR 987321",ALREADY_PAID,Bengali
+"ami ager shoptaho auto-debit e payment hoye gese, check koren",ALREADY_PAID,Bengali
+"ami kal morning e NEFT diye 12k taka pathiye disi, transaction ID N12345",ALREADY_PAID,Bengali
+"ami aajke bank branch e cash deposit korechi, receipt 998877",ALREADY_PAID,Bengali
+"ami kalke payment kore disi, transaction id TXN555666, confirm korun",ALREADY_PAID,Bengali
+"ami 2 din age auto EMI deduct hoye gese, account number 1234567890",ALREADY_PAID,Bengali
+"ami ager din UPI te payment korlam, UTR 112358, dekhen",ALREADY_PAID,Bengali
+"ami kal 5 tarikhe bank transfer diye 15k taka pathiye disi, ref no BT9876",ALREADY_PAID,Bengali
+"ami aajke cash deposit korechi, slip no 221133, receipt ache",ALREADY_PAID,Bengali
+"ami 2 din age NEFT diye payment korechi, UTR 66778899",ALREADY_PAID,Bengali
+"ami aajke UPI payment kore disi, txn id 777888, confirm koren",ALREADY_PAID,Bengali
+"ami kalke bank e cash deposit korechi, receipt number 4455, dekhun",ALREADY_PAID,Bengali
+"ami ager shoptaho auto EMI deduct hoise, account details thik ache",ALREADY_PAID,Bengali
+"ami kal 5 tarikhe UPI te payment korlam, transaction ID UPI5566",ALREADY_PAID,Bengali
+"ami 2 din age bank transfer diye 8k taka pathiye disi, ref no BT1122",ALREADY_PAID,Bengali
+"ami aajke cash deposit kore disi, slip number 778899, receipt confirm",ALREADY_PAID,Bengali
+"ami ager diner 5 tarikhe NEFT diye payment korlam, UTR 33445566",ALREADY_PAID,Bengali
+"ami kal subah UPI payment kore disi, txn id 999000, kindly verify",ALREADY_PAID,Bengali
+"ami aajke auto EMI deduct hoye gese, bank reference 556677, dekhun",ALREADY_PAID,Bengali
+"ami 2 din age cash deposit korechi, slip no 332211, receipt ache",ALREADY_PAID,Bengali
+Ami kal UPI diye payment disi,ALREADY_PAID,Bengali
+"Ami 2 din age NEFT diye 50000 taka transfer korechi, txn ID 987654321",ALREADY_PAID,Bengali
+"Ami ekti cash deposit korechi bank er branch e, receipt number 112233, aajke sokale, ebong amar account e auto-debit hoye chilo, tai check korun",ALREADY_PAID,Bengali
+"Ami pichoner soptaho te bank transfer diye 25000 taka pathiyechi, UTR 1234567890, on the 5th, please verify",ALREADY_PAID,Bengali
+"Bhai, ami kal theke payment korechi UPI theke, transaction ID TXN001122, ebong amar EMI auto-deducted hoye 5th tarikh e, tai amar credit update koren",ALREADY_PAID,Bengali
+"Maine kal UPI se 5k transfer kar diya, txn ID 987654321.",ALREADY_PAID,Hinglish
+"Payment auto-debited on 5th, check your portal, reference 2023EMI05.",ALREADY_PAID,Hinglish
+"Bhai, cash deposit kiya kal raat ko branch mein, receipt no. 1122.",ALREADY_PAID,Hinglish
+"I paid the EMI yesterday via NEFT, UTR 1234567890, please verify.",ALREADY_PAID,Hinglish
+"Ami to kal taka diye diyechi, transaction ID 55566, bank e confirm koro.",ALREADY_PAID,Hinglish
+"Mujhe lagta hai payment ho chuka hai, bank transfer last week, ref #BRN001.",ALREADY_PAID,Hinglish
+"My loan installment was auto-deducted this morning, check the March 3rd transaction.",ALREADY_PAID,Hinglish
+"Maine aaj subah UPI se 2k bhej diya, transaction reference 777888.",ALREADY_PAID,Hinglish
+"Payment kar diya 2 din pehle, NEFT se, receipt number 3344, kindly update.",ALREADY_PAID,Hinglish
+"Bhai, EMI already cleared on 5th May, UTR 0987654321, check your records.",ALREADY_PAID,Hinglish
+"Ami ekhane cash deposit korechi, receipt 7788, please mark as paid.",ALREADY_PAID,Hinglish
+"I did the payment via bank transfer on the 5th, transaction ID 102030, why still pending?",ALREADY_PAID,Hinglish
+"Maine last week auto-debit se poora EMI settle kar diya, bank ref 5566.",ALREADY_PAID,Hinglish
+"Payment done yesterday, UPI, txn ID: 445566, kindly stop the reminder.",ALREADY_PAID,Hinglish
+"Bhai, cash deposit kiya aaj, receipt no. 9999, please verify.",ALREADY_PAID,Hinglish
+"My EMI was auto-deducted on the 5th of this month, reference 2023-05-05.",ALREADY_PAID,Hinglish
+"Maine 3 din pehle NEFT se payment bheja, UTR 1122334455, confirm karein.",ALREADY_PAID,Hinglish
+"Ami 2 din age taka pathiye diyechi, transaction ID 77799, check koren.",ALREADY_PAID,Hinglish
+"Payment already made via UPI this morning, txn 888777, please update account.",ALREADY_PAID,Hinglish
+"Mujhe lagta hai aapko system glitch hai, maine 5th ko auto-debit se pay kiya.",ALREADY_PAID,Hinglish
+"I deposited cash on 4th March, receipt #3210, please reflect it.",ALREADY_PAID,Hinglish
+"Maine kal bank transfer kiya, reference number BT1234, abhi tak pending dikh raha hai.",ALREADY_PAID,Hinglish
+"Bhai, EMI auto-debited last week, transaction ID 555111, confirm karo.",ALREADY_PAID,Hinglish
+"I already paid the installment on the 5th, UTR 66778899, kindly stop the notice.",ALREADY_PAID,Hinglish
+"Maine aaj subah NEFT se payment bhej diya, receipt 4455, please check.",ALREADY_PAID,Hinglish
+"Ami ei month er loan er taka diye disi, transaction id 99900, confirm koren.",ALREADY_PAID,Hinglish
+"Payment made via auto-debit on 5th, bank reference AUTO5678, should be reflected.",ALREADY_PAID,Hinglish
+"Maine kal cash deposit kiya, receipt no. 2200, abhi tak mark nahi hua.",ALREADY_PAID,Hinglish
+"I transferred the EMI yesterday through NEFT, UTR 33445566, please verify.",ALREADY_PAID,Hinglish
+"Bhai, payment already done via UPI, txn 112211, check your dashboard.",ALREADY_PAID,Hinglish
+"Mujhe lagta hai aapne payment miss kar diya, maine 2 din pehle auto-debit se pay kiya.",ALREADY_PAID,Hinglish
+"I have the receipt number 7788 for cash deposit made on the 5th, kindly update.",ALREADY_PAID,Hinglish
+"Ami payment kore disi, receipt number 55544, bank e confirm koro.",ALREADY_PAID,Hinglish
+"Maine 5th May ko auto EMI deducted, reference 20230505, abhi tak reminder aa raha hai.",ALREADY_PAID,Hinglish
+"Payment was sent via bank transfer on 5th, transaction ID 101112, please close the case.",ALREADY_PAID,Hinglish
+"Maine kal subah UPI se 5k transfer kar diya, UTR 1234567890, please verify",ALREADY_PAID,Hinglish
+"My EMI auto-deducted on the 5th, reference ID EM12345, so account is cleared",ALREADY_PAID,Hinglish
+"Bhai, aaj raat cash deposit kiya branch me, receipt no R98765, abhi tak pending kyun?",ALREADY_PAID,Hinglish
+"I paid the loan via NEFT on 2nd March, transaction ID TXN001122, should reflect now",ALREADY_PAID,Hinglish
+"Mujhe lagta hai payment ho chuka hai, aaj morning auto-debit se 2,500 Rs ka deduction hua",ALREADY_PAID,Hinglish
+"ami ekhane 7 din age bank transfer diyechi, reference number BK20231005, dekhben?",ALREADY_PAID,Hinglish
+"I transferred the amount yesterday through IMPS, UTR 987654321, please update the ledger",ALREADY_PAID,Hinglish
+"Bhai, kal raat ko cheque se 10k deposit kiya, cheque no 4567, abhi tak pending lag raha hai",ALREADY_PAID,Hinglish
+"Maine last week UPI se exact EMI amount bhej diya, transaction ID 1122334455, confirm kar do",ALREADY_PAID,Hinglish
+"My payment was processed on the 5th via auto-debit, receipt ID AUTO5678, account should be zero",ALREADY_PAID,Hinglish
+"Aaj subah bank se NEFT kiya, amount 8,000, reference no N1234, abhi tak mark nahi hua",ALREADY_PAID,Hinglish
+"Maine aaj hi cash deposit kiya, slip number C20230813, please clear my dues",ALREADY_PAID,Hinglish
+"EMI already auto-deducted yesterday, transaction code EMIAUT456, no outstanding balance",ALREADY_PAID,Hinglish
+"I used Google Pay this morning, UTR GP987654321, loan amount cleared, kindly check",ALREADY_PAID,Hinglish
+"Bhai, kal se hi payment kar raha hoon, aaj tak 3 installments auto-pay ho gaye, sab clear",ALREADY_PAID,Hinglish
+"Ami payment diyechi 3 din age, transaction ID BNK0033, account update koren",ALREADY_PAID,Hinglish
+"Maine 15th ko bank transfer kiya, UTR 555666777, ab tak due show ho raha hai",ALREADY_PAID,Hinglish
+"My EMI was deducted on 4th August via debit card, reference #DEBIT8899, please verify",ALREADY_PAID,Hinglish
+"Bhai, aaj subah cash deposit kiya 12k, receipt no 7777, abhi tak pending kyun?",ALREADY_PAID,Hinglish
+"I already settled the loan on 1st Aug using UPI, txn id UPI001122, please close the account",ALREADY_PAID,Hinglish
+"Maine 2 din pehle NEFT se full amount bhej diya, transaction id NTF20230811, confirm karo",ALREADY_PAID,Hinglish
+"My auto-payment on the 5th went through, reference code AUTO2023-05, balance should be zero",ALREADY_PAID,Hinglish
+"Ami ekdin age mobile banking diyechi, reference MB123, please update my loan status",ALREADY_PAID,Hinglish
+"Maine aaj raat ko cash se 5,500 Rs deposit kiya, slip no S555, abhi tak reflect nahi hua",ALREADY_PAID,Hinglish
+"I paid the pending EMI this morning via PhonePe, UTR PP998877, should be cleared now",ALREADY_PAID,Hinglish
+"Bhai, kal se hi NEFT se payment ho gaya, UTR 111222333, abhi tak pending dikh raha hai",ALREADY_PAID,Hinglish
+"Maine pichle hafte auto-debit se EMI clear kar di, reference No AD2023W1, account zero hona chahiye",ALREADY_PAID,Hinglish
+"My loan was settled on 3rd Aug through bank transfer, transaction ID BT123456, please confirm",ALREADY_PAID,Hinglish
+"Ami 4 din age cash deposit diyechi, receipt no C4D, account update koren",ALREADY_PAID,Hinglish
+"Maine aaj subah UPI se 7,200 Rs transfer kiya, UTR UPI20230813A, abhi tak pending hai",ALREADY_PAID,Hinglish
+"I already paid the full outstanding on 30th July via NEFT, reference ID NEFT3070, check my statement",ALREADY_PAID,Hinglish
+"Bhai, auto EMI deduction aaj morning hi ho gaya, transaction id AUTO0910, ab koi due nahi",ALREADY_PAID,Hinglish
+"Maine kal raat ko cheque deposit kiya, cheque number 7890, amount 9,000, ab tak pending lag raha hai",ALREADY_PAID,Hinglish
+"My payment through Paytm was successful yesterday, UTR PTM123456, please mark the loan as cleared",ALREADY_PAID,Hinglish
+"Ami 2 din age bank e cash diyechi, slip 20230811, account balance zero hobe, confirm koren",ALREADY_PAID,Hinglish
+"Maine UPI se 5k bheja, txn 98765, sab settled",ALREADY_PAID,Hinglish
+"Payment auto-debited today, ref AD123, no dues left",ALREADY_PAID,Hinglish
+"Cash deposit done, slip 4567, please update",ALREADY_PAID,Hinglish
+"NEFT kiya 2 din pehle, UTR 1122, account cleared",ALREADY_PAID,Hinglish
+"Cheque se payment ho gaya, cheque no 321, confirm kar lo",ALREADY_PAID,Hinglish
+"Maine kal subah UPI se ₹10,000 transfer kar diya, txn ID 9876543210.",ALREADY_PAID,Hinglish
+"Bhai, aaj raat ko auto-debit se EMI clear ho gayi, receipt no. R12345.",ALREADY_PAID,Hinglish
+"Mere account se 5th May ko NEFT ke through ₹15,500 bheja tha, UTR 1122334455, please verify.",ALREADY_PAID,Hinglish
+"Payment ho gaya, cash deposit yesterday, slip no. C5678, aap check kar lo.",ALREADY_PAID,Hinglish
+"Maine pichle hafte bank transfer se full loan amount pay kar diya, reference 7788.",ALREADY_PAID,Hinglish
+"emi auto-deducted on the 5th, bank shows transaction 00112233, confirm kar dijiye.",ALREADY_PAID,Hinglish
+"Bhai, kal hi maine UPI se ₹5,200 bheja tha, transaction ID 555666777, aapko milna chahiye.",ALREADY_PAID,Hinglish
+"Ami to tomar taka diye diyechi, 2 din age online banking diye, ref 998877.",ALREADY_PAID,Hinglish
+"Maine aaj subah hi NEFT se ₹8,000 bheja, UTR 44332211, receipt attached hai.",ALREADY_PAID,Hinglish
+"Payment done via cash at branch on 3rd March, slip no. S3456, please update.",ALREADY_PAID,Hinglish
+"Maine already auto-debit set kiya hai, har mahine 10th ko ₹12,500 deduct ho jata hai.",ALREADY_PAID,Hinglish
+"Payment ho gaya, UPI txn 123123123.",ALREADY_PAID,Hinglish
+"Mujhe lagta hai maine kal raat ko EMI settle kar di, bank statement me 05-08-2026 entry dikh rahi hai.",ALREADY_PAID,Hinglish
+"Ami to agey payment kore felse, transaction ID 777888999, receipt number R777.",ALREADY_PAID,Hinglish
+"Maine aaj 9 AM ko NEFT ke through ₹20,000 transfer kiya, UTR 66778899, aapke records me hona chahiye.",ALREADY_PAID,Hinglish
+"Bhai, auto-debit se 5th ko payment ho chuka hai, koi pending nahi hai.",ALREADY_PAID,Hinglish
+"Maine kal cash deposit kiya, bank ne receipt number D12345 diya, aap please isko acknowledge karen.",ALREADY_PAID,Hinglish
+"I already paid my EMI on 2nd September via UPI, txn ID 90909090, check your portal.",ALREADY_PAID,Hinglish
+"Mere account se last week NEFT se ₹30,000 bheja gaya, UTR 555444333, aapke side pe confirm ho?",ALREADY_PAID,Hinglish
+"Bhai, payment already processed, auto-debit on 1st of this month, reference 0011.",ALREADY_PAID,Hinglish
+"Maine aaj subah hi cash se ₹7,500 deposit kiya, receipt number C8901, aapke system me update karen.",ALREADY_PAID,Hinglish
+"emi already cleared, bank statement shows transaction 2026-08-13 10:15, UTR 11221122.",ALREADY_PAID,Hinglish
+"Maine kal raat ko UPI se full loan amount pay kar diya, transaction ID 777000111, ab aapke side se confirm karein.",ALREADY_PAID,Hinglish
+"Ami tomake payment diyeche, 3 din age online transfer, ref no 445566.",ALREADY_PAID,Hinglish
+"Bhai, NEFT se 5th August ko ₹9,999 bheja tha, UTR 99887766, aap check karo.",ALREADY_PAID,Hinglish
+"Maine auto-debit set kiya hua hai, har mahine 15th ko payment ho jata hai, is mahine bhi ho chuka hai.",ALREADY_PAID,Hinglish
+"Payment already done via cash on 12th July, slip no. C3210, please reflect.",ALREADY_PAID,Hinglish
+"Maine aaj hi UPI se ₹2,500 transfer kiya, txn ID 222333444, receipt attached hai.",ALREADY_PAID,Hinglish
+"Bhai, last week cash deposit kiya tha, receipt number D5555, ab tak pending dikha raha hai.",ALREADY_PAID,Hinglish
+"emi already paid on the 5th, bank reference 0099, no further action required.",ALREADY_PAID,Hinglish
+"Maine kal NEFT se ₹13,400 bheja, UTR 77665544, aapke portal me update nahi dikh raha, pls check.",ALREADY_PAID,Hinglish
+"Ami to agey payment kore felse, transaction ID 123abc, receipt no R321.",ALREADY_PAID,Hinglish
+"Maine aaj subah auto-debit se EMI clear ki, transaction ID 555777999, please confirm.",ALREADY_PAID,Hinglish
+"Bhai, payment already cleared, cash deposit on 10th Aug, slip no. C7777, aapke records me reflect karein.",ALREADY_PAID,Hinglish
+"Maine 2 din pehle UPI se ₹6,000 bheja, txn 888999000, aapke side pe ab tak dikh nahi raha, verify karen.",ALREADY_PAID,Hinglish
+"Payment hoise, txn 777888.",ALREADY_PAID,Hinglish
+Maine kal UPI se pay kiya,ALREADY_PAID,Hinglish
+"Bhai, aaj subah auto-debit se EMI nikal gayi, UTR 12345678, check karo",ALREADY_PAID,Hinglish
+"Maine last week NEFT se Rs.15,000 transfer kiya, reference no. REF20230915, aur bank ke statement me bhi dikh raha hai, isliye aapke records update kar dein",ALREADY_PAID,Hinglish
+"Ami 5th tarikh cash deposit diyechi, receipt number 98765, dekhe nite parben?",ALREADY_PAID,Hinglish
+"Payment yesterday, transaction ID TXN001122, check karo",ALREADY_PAID,Hinglish
+I will transfer the amount by tomorrow evening,LIKELY_PAY,English
+Kal subah tak paisa bhej dunga,LIKELY_PAY,English
+"I’m planning to settle this week, just need to clear my account first",LIKELY_PAY,English
+Agle Monday tak payment confirm kar dunga,LIKELY_PAY,English
+I’ll pay as soon as my salary is credited on the 5th,LIKELY_PAY,English
+"This weekend I’ll make the transfer, hold on",LIKELY_PAY,English
+I’ll transfer the money first thing tomorrow morning,LIKELY_PAY,English
+"Kal subah tak payment kar dunga, bas thoda time chahiye",LIKELY_PAY,English
+"I’m planning to settle the balance by next weekend, promise",LIKELY_PAY,English
+"Mujhe thoda cash aane tak rukna padega, phir pay kar dunga",LIKELY_PAY,English
+Will clear the dues as soon as my salary is credited on the 5th,LIKELY_PAY,English
+Kal subah paisa transfer kar dunga,LIKELY_PAY,Hindi
+"Kal raat ko online payment kar dungi, aapko notification milega",LIKELY_PAY,Hindi
+"Mujhe kal tak payment clear kar dena hai, yaad rakhna",LIKELY_PAY,Hindi
+"Aaj shaam tak paise transfer kar dunga, aapko notification mil jayega",LIKELY_PAY,Hindi
+"Kal din mein payment kar dunga, aapke account mein aana chahiye",LIKELY_PAY,Hindi
+"Raat ko hi payment complete kar dunga, aapko turant update mil jayega",LIKELY_PAY,Hindi
+kal main payment kar dunga,LIKELY_PAY,Hindi
+"agle hafte tak paisa bhej dunga, pakka",LIKELY_PAY,Hindi
+main aaj raat mein transfer kar dunga,LIKELY_PAY,Hindi
+agle Monday ko amount settle kar lenge,LIKELY_PAY,Hindi
+aapko paise mil jayenge kal subah,LIKELY_PAY,Hindi
+"ami agami kal payment dibo, tai chinta korbenna",LIKELY_PAY,Bengali
+ami ektu din er moddhe paisa transfer korbo,LIKELY_PAY,Bengali
+"ami shokal e payment korbo, aajke nai",LIKELY_PAY,Bengali
+"agami soptaho te baki rakam dekhbo, tarpor dibo",LIKELY_PAY,Bengali
+"tomar request peyechi, kal theke payment start korbo",LIKELY_PAY,Bengali
+next week er moddhe pura taka diye dibo,LIKELY_PAY,Bengali
+ami agami kal raat e taka dibo,LIKELY_PAY,Bengali
+next week er modhye payment kore debo,LIKELY_PAY,Bengali
+shobuj din e ami paisa transfer korbo,LIKELY_PAY,Bengali
+"tumi ekto wait kor, ami ek masher moddhe payment korbo",LIKELY_PAY,Bengali
+ami ekhon theke ek minute er moddhe transaction kore dibo,LIKELY_PAY,Bengali
+"Kal subah payment kar dunga, thoda busy hoon",LIKELY_PAY,Hinglish
+Is hafte ke end tak paise bhej dunga,LIKELY_PAY,Hinglish
+Main agle Monday ko transfer kar dunga,LIKELY_PAY,Hinglish
+"Jaldi hi paisa bhej dunga, bas abhi account clear karna hai",LIKELY_PAY,Hinglish
+"Payment abhi pending hai, kal hi send karunga",LIKELY_PAY,Hinglish
+"Abhi thoda cash shortage hai, do din mein bhej dunga",LIKELY_PAY,Hinglish
+"Kal main payment kar dunga, bas thoda time do",LIKELY_PAY,Hinglish
+"Maine aaj raat tak settle kar lenge, aap thoda patience rakho",LIKELY_PAY,Hinglish
+"Next week ke end tak amount transfer kar denge, promise",LIKELY_PAY,Hinglish
+"Mujhe abhi fund arrange karna hai, par kal tak bhej dunga",LIKELY_PAY,Hinglish
+"Weekend tak sab clear ho jayega, wait kar lo",LIKELY_PAY,Hinglish
+The invoice shows extra charges that I never agreed to,DISPUTE,English
+"I never took this loan, please check your records",DISPUTE,English
+"This amount is wrong, you have double‑counted my previous payment",DISPUTE,English
+"Aap jo amount claim kar rahe ho wo galat hai, receipt dekho",DISPUTE,English
+"Ami ekhane kono taka owe kori na, bhul kore dekhtechen",DISPUTE,English
+The statement lists a fee that I was promised would be waived,DISPUTE,English
+This invoice shows an extra charge I never agreed to,DISPUTE,English
+"Maine kabhi yeh loan liya hi nahi, aapki mistake lag rahi hai",DISPUTE,English
+"Your statement is wrong, the amount listed is higher than what I owe",DISPUTE,English
+"Ei amount ta bhul ache, ami to ekta choto sum matro owe kori",DISPUTE,English
+"You’re billing me for services I never received, please correct it",DISPUTE,English
+"Mujhe laga aapne galat amount add kiya hai, dobara check karo",DISPUTE,Hindi
+"Yeh loan ka paperwork theek nahi hai, aap galat claim kar rahe ho",DISPUTE,Hindi
+"Aapke record mein jo amount dikh raha hai woh galat hai, mujhe refund chahiye",DISPUTE,Hindi
+"Yeh interest calculation galat hai, mujhe aapke numbers se sahmat hona mushkil hai",DISPUTE,Hindi
+"Aapka statement galat hai, maine itna paisa nahi liya tha",DISPUTE,Hindi
+"Yeh charge mere liye unfair hai, aap galat amount charge kar rahe ho",DISPUTE,Hindi
+"yeh jo aap charge kar rahe ho, woh galat hai",DISPUTE,Hindi
+"maine kabhi aapka loan nahi liya, check karo",DISPUTE,Hindi
+"aapka interest rate bahut zyada hai, dispute karna chahta hun",DISPUTE,Hindi
+"aapki invoice mein extra charges hain, correct karo",DISPUTE,Hindi
+yeh amount mere agreement se match nahi karta,DISPUTE,Hindi
+"ei amount ta bhul, amar kache eitar kono record nei",DISPUTE,Bengali
+"tumi je 10k charge korcho seta thik na, check korba?",DISPUTE,Bengali
+"ami kono loan nie ni, ei bill ta fake mone hochhe",DISPUTE,Bengali
+"ei interest rate ta onno rokom, amar agreement er shathe mile na",DISPUTE,Bengali
+tumi jeta mention korcho seta amar invoice er sathe mile na,DISPUTE,Bengali
+"ei charge ta extra, ami kono service receive kori nai",DISPUTE,Bengali
+"ei amount ta bhul, amar kache eto taka nai",DISPUTE,Bengali
+"ami kono loan nie ni, eita kono charge na",DISPUTE,Bengali
+tumi je extra charge korcho seta thik na,DISPUTE,Bengali
+"invoice er manushik bhul ache, poriskar kore dekho",DISPUTE,Bengali
+"ami jodi paisa dite hoto, amader contract e likha nai",DISPUTE,Bengali
+"Yeh jo amount hai, galat hai, mujhe 5k extra charge kiya gaya",DISPUTE,Hinglish
+"Invoice mein jo figure hai, woh mere records se match nahi karta",DISPUTE,Hinglish
+"Yeh interest rate bahut high hai, aap check karo",DISPUTE,Hinglish
+"Payment request wrong hai, maine itna nahi liya",DISPUTE,Hinglish
+"Mujhe lagta hai aapka calculation galat hai, please verify",DISPUTE,Hinglish
+"Yeh jo aapne charge kiya hai woh galat hai, maine itna loan nahi liya",DISPUTE,Hinglish
+"Mujhe lagta hai aapka interest rate extra hai, check karo",DISPUTE,Hinglish
+"Bill mein duplicate entry hai, ek ko hata do",DISPUTE,Hinglish
+"Maine jo amount bola tha wo 10k tha, aap 12k charge kar rahe ho",DISPUTE,Hinglish
+"Yeh fees mujhe samajh nahi aayi, kya aap explain kar sakte ho?",DISPUTE,Hinglish
+"I paid 2000 last week, but I still see 1500 pending",NEEDS_REMINDER,English
+"Maine 3000 transfer kiye the, abhi bhi 700 baaki hai",NEEDS_REMINDER,English
+"I sent the partial amount yesterday, can you confirm the balance?",NEEDS_REMINDER,English
+"Ami 5000 taka diyechi, ekhono 2000 taka baki ache",NEEDS_REMINDER,English
+"My payment of $150 was processed, but the portal still shows an outstanding balance",NEEDS_REMINDER,English
+"I gave you half the amount on Monday, please update the record",NEEDS_REMINDER,English
+"Maine 2000 rupees already bhej diya, abhi bhi 1500 pending hai",NEEDS_REMINDER,English
+"I paid half of the amount last week, the rest is still outstanding",NEEDS_REMINDER,English
+"5000 paid, but the system still shows a balance of 3000",NEEDS_REMINDER,English
+"Ami 3000 taka diyechi, baki 2000 taka thakche",NEEDS_REMINDER,English
+"I transferred 1000 today, but my account still shows the full amount due",NEEDS_REMINDER,English
+"Maine 5000 Rs aapke account mein bheje the, lekin 2000 abhi bhi pending hai",NEEDS_REMINDER,Hindi
+"Maine pehle hi 2500 Rs transfer kar diye hain, baaki amount due hai",NEEDS_REMINDER,Hindi
+"Maine 4000 Rs aapke account mein bheje, lekin aapke system mein 1500 hi dikha raha hai",NEEDS_REMINDER,Hindi
+"Maine pehle hi 3500 Rs ki payment kar di, abhi bhi 1500 Rs pending dikh raha hai",NEEDS_REMINDER,Hindi
+"Maine 2000 Rs ki payment ki thi, lekin aapka software 5000 Rs dikha raha hai",NEEDS_REMINDER,Hindi
+"Maine 6000 Rs pay kar diye, lekin aapke record mein sirf 3000 hi dikha hai",NEEDS_REMINDER,Hindi
+"maine 5000 transfer kiya tha, lekin 2000 abhi tak pending hai",NEEDS_REMINDER,Hindi
+"maine 3000 abhi tak nahi bheja, please remind karein",NEEDS_REMINDER,Hindi
+"aapka reminder mil raha hai, maine 1000 pay kiya, baki 4000 due hai",NEEDS_REMINDER,Hindi
+"payment processing mein delay hai, 2500 abhi pending hai",NEEDS_REMINDER,Hindi
+"maine partial payment kiya, 1500 baaki bacha hai",NEEDS_REMINDER,Hindi
+"ami 5000 taka diyechi, kintu 3000 taka ekhono baki",NEEDS_REMINDER,Bengali
+"payment process hocche, kintu system e show kortese na",NEEDS_REMINDER,Bengali
+"amader bank e transaction pending ache, tai ekhon confirm korte parbo na",NEEDS_REMINDER,Bengali
+"amra 2000 taka diyechi, baki 1500 taka chole ashte hobe",NEEDS_REMINDER,Bengali
+"ami partial payment korechi, baki amount kobe diba bolben?",NEEDS_REMINDER,Bengali
+"payment confirm hoyni, amar account e show kortese na",NEEDS_REMINDER,Bengali
+"ami 3000 taka transfer korechi, baki 4000 ta kobe debo?",NEEDS_REMINDER,Bengali
+"ami already 7000 taka diyechi, 1000 taka missing",NEEDS_REMINDER,Bengali
+"payment ta pending, kintu ami already 2000 taka diyechi",NEEDS_REMINDER,Bengali
+"bank e transaction confirm hoise na, 1500 taka pending",NEEDS_REMINDER,Bengali
+"Main 3000 pay kar chuka hoon, remaining 2000 abhi due hai",NEEDS_REMINDER,Hinglish
+"Payment pending hai, bank processing mein delay ho raha hai",NEEDS_REMINDER,Hinglish
+"Kal maine 5000 transfer kiya tha, lekin aapko abhi tak receipt nahi mili",NEEDS_REMINDER,Hinglish
+"Maine aapko partial amount bhej diya, baaki baad mein aayega",NEEDS_REMINDER,Hinglish
+"Bank se confirmation abhi tak nahi aaya, please check",NEEDS_REMINDER,Hinglish
+"Paise to bhej diye, lekin transaction pending dikha raha hai",NEEDS_REMINDER,Hinglish
+"Maine 5000 pay kiya, lekin 3000 abhi bhi pending hai",NEEDS_REMINDER,Hinglish
+"Aapke records mein 2000 missing dikh raha hai, maine pehle hi bhej diya tha",NEEDS_REMINDER,Hinglish
+"Pichle hafte 10k transfer kiya tha, abhi tak receipt nahi aayi",NEEDS_REMINDER,Hinglish
+"Mere paas receipt hai, par aapke side pe 1500 baaki dikha raha hai",NEEDS_REMINDER,Hinglish
+"Main ne partial payment kar di, baaki balance clear karna hai",NEEDS_REMINDER,Hinglish
+"Payment is processing, should reflect soon",VAGUE,English
+"My brother might have sent the money, not 100% sure",VAGUE,English
+"I think the transaction went through, but I haven't seen confirmation yet",VAGUE,English
+"Lagta hai paisa bhej diya hai, abhi tak confirm nahi hua",VAGUE,English
+"Ami bhabchi payment ta pathiyechi, kintu dekhi nai",VAGUE,English
+"The bank said it could take a few days, so I’m waiting",VAGUE,English
+"Payment is still processing on my bank’s side, not sure if it went through",VAGUE,English
+"Mujhe lagta hai mere bhai ne payment kar diya hoga, confirm nahi ho paya",VAGUE,English
+"I think the transaction might have cleared, but I haven’t seen a receipt yet",VAGUE,English
+"Ei payment ta processing asey, dekha jaite nai",VAGUE,English
+"Not certain if the money reached you, I saw a pending status today",VAGUE,English
+"Payment abhi processing stage mein lag raha hai, confirm kar lenge jaldi",VAGUE,Hindi
+"Mere bhai ne payment ki thi, shayad aapko abhi tak update nahi mila",VAGUE,Hindi
+"Payment abhi pending hai, system update hone ka intezar kar raha hu",VAGUE,Hindi
+"Mujhe lagta hai payment successful ho gaya, lekin confirmation aayi nahi hai",VAGUE,Hindi
+"Payment processing ka status abhi bhi ""in progress"" hai, mujhe wait karna padega",VAGUE,Hindi
+"Mera bank payment process kar raha hai, shayad aane mein thoda time lagega",VAGUE,Hindi
+"payment abhi processing mein lag raha hai, pata nahi kab clear hoga",VAGUE,Hindi
+shayad mera bhai ne paise bhej diye honge,VAGUE,Hindi
+"mujhe lagta hai ki transaction successful ho gayi hai, confirm nahi hai",VAGUE,Hindi
+"abhi bank ka system down hai, payment ho payega kab pata nahi",VAGUE,Hindi
+"mere account se paisa nikal gaya, par mujhe confirmation nahi mila",VAGUE,Hindi
+"payment process hocche, kintu ami sure na hoyeche",VAGUE,Bengali
+"amar bhai payment diyeche mone hoy, confirm korte parbo na",VAGUE,Bengali
+"kono error asche, payment ta jete pare na",VAGUE,Bengali
+ami jani na transaction successful hoise kina,VAGUE,Bengali
+"tumi jodi dekho, amar payment pending thakte pare",VAGUE,Bengali
+"maybe paisa choleche, kintu notification ashe nai",VAGUE,Bengali
+"payment ta processing e ache, dekhe nibo",VAGUE,Bengali
+"amar bhai payment koreche mone hoy, confirm na",VAGUE,Bengali
+"bank e transaction pending, kobe clear hobe bujhte pari na",VAGUE,Bengali
+"shayad payment ta hoyeche, dekhte pari na",VAGUE,Bengali
+"kono error asche, payment ta abar try korbo",VAGUE,Bengali
+Shayad mere bhai ne payment kar diya hoga,VAGUE,Hinglish
+Mujhe lagta hai ki payment process ho rahi hai,VAGUE,Hinglish
+"Abhi tak confirm nahi hua, shayad abhi aayega",VAGUE,Hinglish
+Main soch raha hoon ki paisa transfer ho gaya ho,VAGUE,Hinglish
+"Payment ka status unclear hai, abhi dekh raha hoon",VAGUE,Hinglish
+"Kabhi kabhi system delay karta hai, shayad aaj hi clear ho jayega",VAGUE,Hinglish
+"Payment processing mein lag raha hai, shayad jaldi ho jayega",VAGUE,Hinglish
+"Mujhe lagta hai mere bhai ne payment kar di hogi, confirm kar lo",VAGUE,Hinglish
+System error ki wajah se paise abhi tak reflect nahi ho rahe,VAGUE,Hinglish
+Mujhe pata nahi abhi tak payment successful hua ya nahi,VAGUE,Hinglish
+"Bank ka transaction pending hai, thoda time do",VAGUE,Hinglish
+"Stop calling me about this, I will not pay another rupee",HIGH_RISK,English
+"I’m done with these threats, no money will be sent",HIGH_RISK,English
+"You’re harassing me, I refuse to pay any more",HIGH_RISK,English
+"Paisa dene ka koi irada nahi hai, band karo",HIGH_RISK,English
+"Ami ar kichu dite chai na, ar phone korben na",HIGH_RISK,English
+"No amount will be paid, leave me alone",HIGH_RISK,English
+"I’m done with this harassment, no more payments from my side",HIGH_RISK,English
+"Don’t bother me again, I refuse to settle this amount",HIGH_RISK,English
+"Ami ar payment dibo na, eita harassing kotha",HIGH_RISK,English
+"You can keep the money, I’m not giving you anything more",HIGH_RISK,English
+"Band karo phone, paisa dene ka koi irada nahi hai mujhe",HIGH_RISK,Hindi
+"Aap bar bar paisa ki baat karte rehna band karo, main kabhi bhi pay nahi karunga",HIGH_RISK,Hindi
+"Mujhe aapke messages se bahut pareshani ho rahi hai, paisa dene ki koi soch nahi hai",HIGH_RISK,Hindi
+"Stop kar yeh calls, aapke liye mere pass ek bhi paisa nahi bacha hai",HIGH_RISK,Hindi
+"Mujhe aapke har call se irritate feel ho raha hai, paisa dene ka koi irada nahi hai",HIGH_RISK,Hindi
+"Phone mat karo, aapke liye paisa dena mere liye impossible hai",HIGH_RISK,Hindi
+"band karo phone, main paisa nahi dunga",HIGH_RISK,Hindi
+"aapke messages se main pareshaan ho raha hoon, payment nahi karunga",HIGH_RISK,Hindi
+"mere upar pressure mat daalo, main ek bhi rupee nahi dunga",HIGH_RISK,Hindi
+"aapki collection team se baat nahi karna chahta, koi payment nahi",HIGH_RISK,Hindi
+"aapke threats se mujhe dar lag raha hai, paisa dene ki koi soch nahi",HIGH_RISK,Hindi
+"stop koren, ami ekta takao dibi na",HIGH_RISK,Bengali
+"ami ar kichu dite ichchhuk na, ei phone ta bondho koren",HIGH_RISK,Bengali
+"taka niye kotha bolar dorkar nai, ami ignore korbo",HIGH_RISK,Bengali
+tomar harassment er jonne ami kono payment dibo na,HIGH_RISK,Bengali
+"ekta kotha bolte chai, ami kono extra paisa dite parbona",HIGH_RISK,Bengali
+"tumi jodi aro pressure dao, ami kisu dite parbona",HIGH_RISK,Bengali
+"tumi jodio phone korcho, ami ekta taka o dibo na",HIGH_RISK,Bengali
+"stop harassment, payment kora lagbe na",HIGH_RISK,Bengali
+"ami ekta paisa o dite ichcha korbo na, chere dao",HIGH_RISK,Bengali
+"tader upor legal action nibo, payment diba na",HIGH_RISK,Bengali
+"tumi jodi payment er kotha bolo, ami ignore korbo",HIGH_RISK,Bengali
+"Band karo yeh calls, main aapko paisa nahi dunga",HIGH_RISK,Hinglish
+"Har roz paise ki baatein mat karo, mujhe koi interest nahi",HIGH_RISK,Hinglish
+"Main ek bhi extra rupee nahi dunga, aapke fraud se pareshan hoon",HIGH_RISK,Hinglish
+"Stop harassment, payment ka koi chance nahi",HIGH_RISK,Hinglish
+"Main aapko kabhi bhi paisa nahi bhejunga, aapko block kar deta hoon",HIGH_RISK,Hinglish
+"Yeh sab nonsense hai, main aapko kuch bhi nahi dunga",HIGH_RISK,Hinglish
+"Band karo phone, paisa nahi dunga, tum log itna chase karte ho",HIGH_RISK,Hinglish
+"Mujhe tumhari har call se tang aa raha hai, abhi se payment nahi karunga",HIGH_RISK,Hinglish
+"Aapki har email se gussa aata hai, main ek bhi rupee dene wala nahi hoon",HIGH_RISK,Hinglish
+"Stop bothering me, legal action le lo agar aapko zarurat hai",HIGH_RISK,Hinglish
+"Mujhe abhi tak koi bhi payment karne ki zarurat nahi dikhti, aap log chhodo",HIGH_RISK,Hinglish

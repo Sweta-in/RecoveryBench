@@ -1,479 +1,407 @@
 {
-  "date": "2026-06-10T11:20:39.541900",
-  "test_size": 601,
-  "accuracy": 0.8303,
-  "macro_f1": 0.7494,
-  "weighted_f1": 0.7663,
-  "mean_latency_ms": 0.0397,
-  "model_size_mb": 0.57,
-  "n_mistakes": 102,
+  "date": "2026-08-14T16:47:09.893868",
+  "test_size": 507,
+  "accuracy": 0.927,
+  "macro_f1": 0.9257,
+  "weighted_f1": 0.9272,
+  "mean_latency_ms": 0.0504,
+  "model_size_mb": 0.79,
+  "n_mistakes": 37,
   "per_class": {
     "LIKELY_PAY": {
-      "precision": 0.7533,
-      "recall": 0.9826,
-      "f1": 0.8528,
-      "support": 115
+      "precision": 0.9368,
+      "recall": 0.957,
+      "f1": 0.9468,
+      "support": 93
     },
     "NEEDS_REMINDER": {
-      "precision": 0.8866,
-      "recall": 0.9348,
-      "f1": 0.9101,
-      "support": 92
+      "precision": 0.9091,
+      "recall": 0.9091,
+      "f1": 0.9091,
+      "support": 77
     },
     "DISPUTE": {
-      "precision": 0.6562,
-      "recall": 0.9882,
-      "f1": 0.7887,
-      "support": 85
+      "precision": 0.8784,
+      "recall": 0.9286,
+      "f1": 0.9028,
+      "support": 70
     },
     "HIGH_RISK": {
-      "precision": 0.9184,
-      "recall": 0.989,
-      "f1": 0.9524,
-      "support": 91
+      "precision": 0.9459,
+      "recall": 0.9459,
+      "f1": 0.9459,
+      "support": 74
     },
     "VAGUE": {
-      "precision": 0.9844,
-      "recall": 1.0,
-      "f1": 0.9921,
-      "support": 126
+      "precision": 0.9794,
+      "recall": 0.9314,
+      "f1": 0.9548,
+      "support": 102
     },
     "ALREADY_PAID": {
-      "precision": 0.0,
-      "recall": 0.0,
-      "f1": 0.0,
-      "support": 92
+      "precision": 0.9,
+      "recall": 0.8901,
+      "f1": 0.895,
+      "support": 91
     }
   },
   "per_language_f1": {
-    "English": 0.7489,
-    "Hindi": 0.744,
-    "Bengali": 0.7405,
-    "Hinglish": 0.7682
+    "English": 0.9353,
+    "Hindi": 0.8799,
+    "Bengali": 0.9531,
+    "Hinglish": 0.9179
   },
   "confusion_matrix": [
     [
-      113,
-      1,
+      89,
       1,
       0,
+      1,
       0,
-      0
+      2
     ],
     [
-      0,
-      86,
+      1,
+      70,
+      1,
       2,
-      3,
-      1,
-      0
+      0,
+      3
+    ],
+    [
+      0,
+      2,
+      65,
+      0,
+      0,
+      3
     ],
     [
       1,
-      0,
-      84,
-      0,
-      0,
-      0
-    ],
-    [
-      0,
-      0,
-      0,
-      90,
       1,
+      0,
+      70,
+      2,
       0
     ],
     [
+      4,
+      2,
       0,
       0,
-      0,
-      0,
-      126,
-      0
+      95,
+      1
     ],
     [
-      36,
-      10,
-      41,
-      5,
       0,
-      0
+      1,
+      8,
+      1,
+      0,
+      81
     ]
   ],
   "top_20_hc_mistakes": [
     {
-      "text": "i made the payment by end of month",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.8774,
-      "language": "English"
-    },
-    {
-      "text": "The amount has already been paid",
+      "text": "15th er credit check koro",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.8158,
+      "confidence": 0.7825,
+      "language": "Bengali"
+    },
+    {
+      "text": "I'll take care of it, don't keep calling",
+      "true_label": "NEEDS_REMINDER",
+      "predicted_label": "HIGH_RISK",
+      "confidence": 0.6829,
       "language": "English"
     },
     {
-      "text": "Actually auTO-debIT sE CoVEr hO gaYi ThI Emi 🙏",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.815,
+      "text": "Honestly kuch bhi nahi dena hai mujhe",
+      "true_label": "HIGH_RISK",
+      "predicted_label": "VAGUE",
+      "confidence": 0.6677,
       "language": "Hindi"
     },
     {
-      "text": "Well pAYMENT WAS ALREADY TRANSFERRED VIA UPI",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.7989,
+      "text": "Look i'll take care of it, don't keep calling 👍",
+      "true_label": "NEEDS_REMINDER",
+      "predicted_label": "HIGH_RISK",
+      "confidence": 0.6435,
       "language": "English"
     },
     {
-      "text": "Amar dik theke transaction successful",
+      "text": "Full amount amount diya tha last month ko!!",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.7762,
-      "language": "Bengali"
+      "confidence": 0.5688,
+      "language": "Hindi"
     },
     {
       "text": "Well check your system, I paid via cheque",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.7642,
+      "confidence": 0.5669,
       "language": "English"
     },
     {
-      "text": "Hey maine paisa already transfer kar diya thanks",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.7179,
-      "language": "Hindi"
-    },
-    {
-      "text": "Check 5th credit, woh mera payment hai",
+      "text": "Actually tHIS WAS PAID AGES AGO, CHECK PROPERLY",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.7151,
-      "language": "Hinglish"
-    },
-    {
-      "text": "Your system is not updated, I paid already",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "DISPUTE",
-      "confidence": 0.7148,
+      "confidence": 0.5626,
       "language": "English"
     },
     {
-      "text": "My side se transaction successful",
+      "text": "Look check please, my paymt was successful???",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.7123,
+      "confidence": 0.4541,
       "language": "Hinglish"
     },
     {
-      "text": "Check last month credit, woh mera payment hai",
+      "text": "Amar dik theke transaction successful",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.6895,
-      "language": "Hinglish"
+      "confidence": 0.4404,
+      "language": "Bengali"
     },
     {
-      "text": "Bhai aUTO-DEBIT 10TH E HOYECHHILO",
-      "true_label": "ALREADY_PAID",
+      "text": "I paid half of the amount last week, the rest is still outstanding",
+      "true_label": "NEEDS_REMINDER",
+      "predicted_label": "DISPUTE",
+      "confidence": 0.4369,
+      "language": "English"
+    },
+    {
+      "text": "Bank se verify karna padega mujhe",
+      "true_label": "DISPUTE",
       "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.6802,
-      "language": "Bengali"
-    },
-    {
-      "text": "Transaction complete ho gaya, your side pe check karo",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "DISPUTE",
-      "confidence": 0.6771,
-      "language": "Hinglish"
-    },
-    {
-      "text": "I paid this off months ago",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "DISPUTE",
-      "confidence": 0.677,
-      "language": "English"
-    },
-    {
-      "text": "bank transfer se bhej diya paisa",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.6744,
+      "confidence": 0.4209,
       "language": "Hindi"
     },
     {
-      "text": "phonepe diye transfer transfer kore diyechi",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.67,
-      "language": "Bengali"
+      "text": "maine partial payment kiya, 1500 baaki bacha hai",
+      "true_label": "NEEDS_REMINDER",
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.4156,
+      "language": "Hindi"
     },
     {
       "text": "Check please, my payment was successful",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.6524,
+      "confidence": 0.4096,
       "language": "Hinglish"
     },
     {
-      "text": "I already paid this last week",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "DISPUTE",
-      "confidence": 0.65,
+      "text": "Check the 1st transaction",
+      "true_label": "DISPUTE",
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.4091,
       "language": "English"
     },
     {
-      "text": "Hey transaction complete complete ho gaya, your side pe check karo",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "DISPUTE",
-      "confidence": 0.6432,
+      "text": "Let me dekh leta hun",
+      "true_label": "VAGUE",
+      "predicted_label": "NEEDS_REMINDER",
+      "confidence": 0.408,
       "language": "Hinglish"
     },
     {
-      "text": "Payment was already transferred via PhonePe",
-      "true_label": "ALREADY_PAID",
+      "text": "Kabhi kabhi system delay karta hai, shayad aaj hi clear ho jayega",
+      "true_label": "VAGUE",
       "predicted_label": "LIKELY_PAY",
-      "confidence": 0.619,
-      "language": "English"
+      "confidence": 0.4014,
+      "language": "Hinglish"
+    },
+    {
+      "text": "Weekend mein dekhta hun thx!!",
+      "true_label": "NEEDS_REMINDER",
+      "predicted_label": "LIKELY_PAY",
+      "confidence": 0.3988,
+      "language": "Hindi"
+    },
+    {
+      "text": "Honestly 25th e payment korechilem, credit hoyni",
+      "true_label": "DISPUTE",
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.3906,
+      "language": "Bengali"
+    },
+    {
+      "text": "Mera bank payment process kar raha hai, shayad aane mein thoda time lagega",
+      "true_label": "VAGUE",
+      "predicted_label": "LIKELY_PAY",
+      "confidence": 0.3469,
+      "language": "Hindi"
+    },
+    {
+      "text": "Basically transfer initiate kar diya hai already",
+      "true_label": "LIKELY_PAY",
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.3434,
+      "language": "Hinglish"
     }
   ],
   "false_positives_sample": [
     {
       "target_class": "LIKELY_PAY",
-      "text": "i made the payment by end of month",
-      "true_label": "ALREADY_PAID",
+      "text": "Kabhi kabhi system delay karta hai, shayad aaj hi clear ho jayega",
+      "true_label": "VAGUE",
       "predicted_label": "LIKELY_PAY",
-      "confidence": 0.8774,
-      "language": "English"
-    },
-    {
-      "target_class": "LIKELY_PAY",
-      "text": "Well pAYMENT WAS ALREADY TRANSFERRED VIA UPI",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.7989,
-      "language": "English"
-    },
-    {
-      "target_class": "LIKELY_PAY",
-      "text": "Hey maine paisa already transfer kar diya thanks",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.7179,
-      "language": "Hindi"
-    },
-    {
-      "target_class": "LIKELY_PAY",
-      "text": "bank transfer se bhej diya paisa",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.6744,
-      "language": "Hindi"
-    },
-    {
-      "target_class": "LIKELY_PAY",
-      "text": "phonepe diye transfer transfer kore diyechi",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.67,
-      "language": "Bengali"
-    },
-    {
-      "target_class": "LIKELY_PAY",
-      "text": "Payment was already transferred via PhonePe",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.619,
-      "language": "English"
-    },
-    {
-      "target_class": "LIKELY_PAY",
-      "text": "NEFT se bhej diya paisa",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.6185,
-      "language": "Hindi"
-    },
-    {
-      "target_class": "LIKELY_PAY",
-      "text": "See proof hai payment ka, bhej dun thx",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.6156,
+      "confidence": 0.4014,
       "language": "Hinglish"
     },
     {
       "target_class": "LIKELY_PAY",
-      "text": "Proof hai payment ka, bhejun sir",
-      "true_label": "ALREADY_PAID",
+      "text": "Weekend mein dekhta hun thx!!",
+      "true_label": "NEEDS_REMINDER",
       "predicted_label": "LIKELY_PAY",
-      "confidence": 0.6065,
+      "confidence": 0.3988,
       "language": "Hindi"
     },
     {
       "target_class": "LIKELY_PAY",
-      "text": "Pakka pay kiya hai, screenshot hai",
-      "true_label": "ALREADY_PAID",
+      "text": "Mera bank payment process kar raha hai, shayad aane mein thoda time lagega",
+      "true_label": "VAGUE",
       "predicted_label": "LIKELY_PAY",
-      "confidence": 0.6029,
+      "confidence": 0.3469,
       "language": "Hindi"
     },
     {
-      "target_class": "NEEDS_REMINDER",
-      "text": "Actually auTO-debIT sE CoVEr hO gaYi ThI Emi 🙏",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.815,
-      "language": "Hindi"
-    },
-    {
-      "target_class": "NEEDS_REMINDER",
-      "text": "Bhai aUTO-DEBIT 10TH E HOYECHHILO",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.6802,
-      "language": "Bengali"
-    },
-    {
-      "target_class": "NEEDS_REMINDER",
-      "text": "EMI account se kat gayi",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.5493,
-      "language": "Hindi"
-    },
-    {
-      "target_class": "NEEDS_REMINDER",
-      "text": "AUTO-DEBIT 25TH 25TH E HOYECHHILO",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.5378,
-      "language": "Bengali"
-    },
-    {
-      "target_class": "NEEDS_REMINDER",
-      "text": "Yaar due date Er Age-i koRe dIyEChilem 🙂",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.5148,
-      "language": "Bengali"
-    },
-    {
-      "target_class": "NEEDS_REMINDER",
-      "text": "Haan emi aCCount Theke Kete gEChE",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.4892,
-      "language": "Bengali"
-    },
-    {
-      "target_class": "NEEDS_REMINDER",
-      "text": "Ok Ok so the EMI was deducted from my account",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.4281,
+      "target_class": "LIKELY_PAY",
+      "text": "No amount will be paid, leave me alone",
+      "true_label": "HIGH_RISK",
+      "predicted_label": "LIKELY_PAY",
+      "confidence": 0.3103,
       "language": "English"
     },
     {
+      "target_class": "LIKELY_PAY",
+      "text": "Payment abhi processing stage mein lag raha hai, confirm kar lenge jaldi",
+      "true_label": "VAGUE",
+      "predicted_label": "LIKELY_PAY",
+      "confidence": 0.3074,
+      "language": "Hindi"
+    },
+    {
+      "target_class": "LIKELY_PAY",
+      "text": "Bank ka transaction pending hai, thoda time do",
+      "true_label": "VAGUE",
+      "predicted_label": "LIKELY_PAY",
+      "confidence": 0.3041,
+      "language": "Hinglish"
+    },
+    {
       "target_class": "NEEDS_REMINDER",
-      "text": "Hoye geche, geche, records update koro 🙏!!",
-      "true_label": "ALREADY_PAID",
+      "text": "Bank se verify karna padega mujhe",
+      "true_label": "DISPUTE",
       "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.3953,
+      "confidence": 0.4209,
+      "language": "Hindi"
+    },
+    {
+      "target_class": "NEEDS_REMINDER",
+      "text": "Let me dekh leta hun",
+      "true_label": "VAGUE",
+      "predicted_label": "NEEDS_REMINDER",
+      "confidence": 0.408,
+      "language": "Hinglish"
+    },
+    {
+      "target_class": "NEEDS_REMINDER",
+      "text": "maybe paisa choleche, kintu notification ashe nai",
+      "true_label": "VAGUE",
+      "predicted_label": "NEEDS_REMINDER",
+      "confidence": 0.3105,
       "language": "Bengali"
     },
     {
       "target_class": "NEEDS_REMINDER",
-      "text": "Haan months pehle pay kiya tha yaar thanks",
-      "true_label": "ALREADY_PAID",
+      "text": "Koshish karunga jaldi se jaldi",
+      "true_label": "LIKELY_PAY",
       "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.3632,
+      "confidence": 0.2804,
+      "language": "Hindi"
+    },
+    {
+      "target_class": "NEEDS_REMINDER",
+      "text": "Payment kata hoyechhilo kintu pending dekhacche",
+      "true_label": "DISPUTE",
+      "predicted_label": "NEEDS_REMINDER",
+      "confidence": 0.2751,
+      "language": "Bengali"
+    },
+    {
+      "target_class": "NEEDS_REMINDER",
+      "text": "Aapki har email se gussa aata hai, main ek bhi rupee dene wala nahi hoon",
+      "true_label": "HIGH_RISK",
+      "predicted_label": "NEEDS_REMINDER",
+      "confidence": 0.2241,
       "language": "Hinglish"
     },
     {
       "target_class": "NEEDS_REMINDER",
-      "text": "Months pehle pay kiya tha yaar",
+      "text": "Pay karke khatam khatam kiya, update karo",
       "true_label": "ALREADY_PAID",
       "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.3159,
-      "language": "Hinglish"
+      "confidence": 0.221,
+      "language": "Hindi"
     },
     {
       "target_class": "DISPUTE",
-      "text": "The amount has already been paid",
+      "text": "15th er credit check koro",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.8158,
-      "language": "English"
+      "confidence": 0.7825,
+      "language": "Bengali"
     },
     {
       "target_class": "DISPUTE",
-      "text": "Amar dik theke transaction successful",
+      "text": "Full amount amount diya tha last month ko!!",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.7762,
-      "language": "Bengali"
+      "confidence": 0.5688,
+      "language": "Hindi"
     },
     {
       "target_class": "DISPUTE",
       "text": "Well check your system, I paid via cheque",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.7642,
+      "confidence": 0.5669,
       "language": "English"
     },
     {
       "target_class": "DISPUTE",
-      "text": "Check 5th credit, woh mera payment hai",
+      "text": "Actually tHIS WAS PAID AGES AGO, CHECK PROPERLY",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.7151,
-      "language": "Hinglish"
-    },
-    {
-      "target_class": "DISPUTE",
-      "text": "Your system is not updated, I paid already",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "DISPUTE",
-      "confidence": 0.7148,
+      "confidence": 0.5626,
       "language": "English"
     },
     {
       "target_class": "DISPUTE",
-      "text": "My side se transaction successful",
+      "text": "Look check please, my paymt was successful???",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.7123,
+      "confidence": 0.4541,
       "language": "Hinglish"
     },
     {
       "target_class": "DISPUTE",
-      "text": "Check last month credit, woh mera payment hai",
+      "text": "Amar dik theke transaction successful",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.6895,
-      "language": "Hinglish"
+      "confidence": 0.4404,
+      "language": "Bengali"
     },
     {
       "target_class": "DISPUTE",
-      "text": "Transaction complete ho gaya, your side pe check karo",
-      "true_label": "ALREADY_PAID",
+      "text": "I paid half of the amount last week, the rest is still outstanding",
+      "true_label": "NEEDS_REMINDER",
       "predicted_label": "DISPUTE",
-      "confidence": 0.6771,
-      "language": "Hinglish"
-    },
-    {
-      "target_class": "DISPUTE",
-      "text": "I paid this off months ago",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "DISPUTE",
-      "confidence": 0.677,
+      "confidence": 0.4369,
       "language": "English"
     },
     {
@@ -481,25 +409,113 @@
       "text": "Check please, my payment was successful",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.6524,
+      "confidence": 0.4096,
       "language": "Hinglish"
+    },
+    {
+      "target_class": "DISPUTE",
+      "text": "Honestly please check, payment was successful",
+      "true_label": "ALREADY_PAID",
+      "predicted_label": "DISPUTE",
+      "confidence": 0.3392,
+      "language": "English"
+    },
+    {
+      "target_class": "HIGH_RISK",
+      "text": "I'll take care of it, don't keep calling",
+      "true_label": "NEEDS_REMINDER",
+      "predicted_label": "HIGH_RISK",
+      "confidence": 0.6829,
+      "language": "English"
+    },
+    {
+      "target_class": "HIGH_RISK",
+      "text": "Look i'll take care of it, don't keep calling 👍",
+      "true_label": "NEEDS_REMINDER",
+      "predicted_label": "HIGH_RISK",
+      "confidence": 0.6435,
+      "language": "English"
+    },
+    {
+      "target_class": "HIGH_RISK",
+      "text": "UTR number hai mere paas",
+      "true_label": "ALREADY_PAID",
+      "predicted_label": "HIGH_RISK",
+      "confidence": 0.2655,
+      "language": "Hindi"
+    },
+    {
+      "target_class": "HIGH_RISK",
+      "text": "agami soptaho te baki rakam dekhbo, tarpor dibo",
+      "true_label": "LIKELY_PAY",
+      "predicted_label": "HIGH_RISK",
+      "confidence": 0.2358,
+      "language": "Bengali"
+    },
+    {
+      "target_class": "VAGUE",
+      "text": "Honestly kuch bhi nahi dena hai mujhe",
+      "true_label": "HIGH_RISK",
+      "predicted_label": "VAGUE",
+      "confidence": 0.6677,
+      "language": "Hindi"
+    },
+    {
+      "target_class": "VAGUE",
+      "text": "Yeh sab nonsense hai, main aapko kuch bhi nahi dunga",
+      "true_label": "HIGH_RISK",
+      "predicted_label": "VAGUE",
+      "confidence": 0.3306,
+      "language": "Hinglish"
+    },
+    {
+      "target_class": "ALREADY_PAID",
+      "text": "maine partial payment kiya, 1500 baaki bacha hai",
+      "true_label": "NEEDS_REMINDER",
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.4156,
+      "language": "Hindi"
+    },
+    {
+      "target_class": "ALREADY_PAID",
+      "text": "Check the 1st transaction",
+      "true_label": "DISPUTE",
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.4091,
+      "language": "English"
     }
   ],
   "false_negatives_sample": [
     {
       "target_class": "LIKELY_PAY",
-      "text": "Transaction shuru kore diyechi",
+      "text": "Basically transfer initiate kar diya hai already",
       "true_label": "LIKELY_PAY",
-      "predicted_label": "DISPUTE",
-      "confidence": 0.4092,
-      "language": "Bengali"
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.3434,
+      "language": "Hinglish"
     },
     {
       "target_class": "LIKELY_PAY",
-      "text": "Cheshta korbo taratari",
+      "text": "Amount ready hai, bas transfer karna hai",
+      "true_label": "LIKELY_PAY",
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.2882,
+      "language": "Hinglish"
+    },
+    {
+      "target_class": "LIKELY_PAY",
+      "text": "Koshish karunga jaldi se jaldi",
       "true_label": "LIKELY_PAY",
       "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.3067,
+      "confidence": 0.2804,
+      "language": "Hindi"
+    },
+    {
+      "target_class": "LIKELY_PAY",
+      "text": "agami soptaho te baki rakam dekhbo, tarpor dibo",
+      "true_label": "LIKELY_PAY",
+      "predicted_label": "HIGH_RISK",
+      "confidence": 0.2358,
       "language": "Bengali"
     },
     {
@@ -507,144 +523,208 @@
       "text": "I'll take care of it, don't keep calling",
       "true_label": "NEEDS_REMINDER",
       "predicted_label": "HIGH_RISK",
-      "confidence": 0.4564,
+      "confidence": 0.6829,
       "language": "English"
     },
     {
       "target_class": "NEEDS_REMINDER",
-      "text": "kaal call koro ei byapare ...!!",
+      "text": "Look i'll take care of it, don't keep calling 👍",
       "true_label": "NEEDS_REMINDER",
       "predicted_label": "HIGH_RISK",
-      "confidence": 0.3563,
-      "language": "Bengali"
+      "confidence": 0.6435,
+      "language": "English"
     },
     {
       "target_class": "NEEDS_REMINDER",
-      "text": "Kaun sa loan hai 🙂",
+      "text": "I paid half of the amount last week, the rest is still outstanding",
       "true_label": "NEEDS_REMINDER",
       "predicted_label": "DISPUTE",
-      "confidence": 0.3475,
+      "confidence": 0.4369,
+      "language": "English"
+    },
+    {
+      "target_class": "NEEDS_REMINDER",
+      "text": "maine partial payment kiya, 1500 baaki bacha hai",
+      "true_label": "NEEDS_REMINDER",
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.4156,
       "language": "Hindi"
     },
     {
       "target_class": "NEEDS_REMINDER",
-      "text": "Mera CA dekhta hai ye sab, usse puchta hun",
+      "text": "Weekend mein dekhta hun thx!!",
       "true_label": "NEEDS_REMINDER",
-      "predicted_label": "VAGUE",
-      "confidence": 0.3299,
+      "predicted_label": "LIKELY_PAY",
+      "confidence": 0.3988,
       "language": "Hindi"
     },
     {
       "target_class": "NEEDS_REMINDER",
-      "text": "Amar CA dekhe ei shob, take jigges kori",
+      "text": "Maine 6000 Rs pay kar diye, lekin aapke record mein sirf 3000 hi dikha hai",
       "true_label": "NEEDS_REMINDER",
-      "predicted_label": "DISPUTE",
-      "confidence": 0.2892,
-      "language": "Bengali"
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.3311,
+      "language": "Hindi"
     },
     {
       "target_class": "NEEDS_REMINDER",
-      "text": "I need to talk to my spouse first",
+      "text": "Mere paas receipt hai, par aapke side pe 1500 baaki dikha raha hai",
       "true_label": "NEEDS_REMINDER",
-      "predicted_label": "HIGH_RISK",
-      "confidence": 0.2642,
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.3126,
+      "language": "Hinglish"
+    },
+    {
+      "target_class": "DISPUTE",
+      "text": "Bank se verify karna padega mujhe",
+      "true_label": "DISPUTE",
+      "predicted_label": "NEEDS_REMINDER",
+      "confidence": 0.4209,
+      "language": "Hindi"
+    },
+    {
+      "target_class": "DISPUTE",
+      "text": "Check the 1st transaction",
+      "true_label": "DISPUTE",
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.4091,
       "language": "English"
     },
     {
       "target_class": "DISPUTE",
-      "text": "Actually i have the payment receipt, shall I share?",
+      "text": "Honestly 25th e payment korechilem, credit hoyni",
       "true_label": "DISPUTE",
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.3906,
+      "language": "Bengali"
+    },
+    {
+      "target_class": "DISPUTE",
+      "text": "Payment Payment kata tha lekin pending dikha raha hai",
+      "true_label": "DISPUTE",
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.3069,
+      "language": "Hindi"
+    },
+    {
+      "target_class": "DISPUTE",
+      "text": "Payment kata hoyechhilo kintu pending dekhacche",
+      "true_label": "DISPUTE",
+      "predicted_label": "NEEDS_REMINDER",
+      "confidence": 0.2751,
+      "language": "Bengali"
+    },
+    {
+      "target_class": "HIGH_RISK",
+      "text": "Honestly kuch bhi nahi dena hai mujhe",
+      "true_label": "HIGH_RISK",
+      "predicted_label": "VAGUE",
+      "confidence": 0.6677,
+      "language": "Hindi"
+    },
+    {
+      "target_class": "HIGH_RISK",
+      "text": "Yeh sab nonsense hai, main aapko kuch bhi nahi dunga",
+      "true_label": "HIGH_RISK",
+      "predicted_label": "VAGUE",
+      "confidence": 0.3306,
+      "language": "Hinglish"
+    },
+    {
+      "target_class": "HIGH_RISK",
+      "text": "No amount will be paid, leave me alone",
+      "true_label": "HIGH_RISK",
       "predicted_label": "LIKELY_PAY",
-      "confidence": 0.4135,
+      "confidence": 0.3103,
       "language": "English"
     },
     {
       "target_class": "HIGH_RISK",
-      "text": "Call karte raho, dekh lena kya hota hai",
+      "text": "Aapki har email se gussa aata hai, main ek bhi rupee dene wala nahi hoon",
       "true_label": "HIGH_RISK",
-      "predicted_label": "VAGUE",
-      "confidence": 0.3789,
-      "language": "Hindi"
-    },
-    {
-      "target_class": "ALREADY_PAID",
-      "text": "i made the payment by end of month",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.8774,
-      "language": "English"
-    },
-    {
-      "target_class": "ALREADY_PAID",
-      "text": "The amount has already been paid",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "DISPUTE",
-      "confidence": 0.8158,
-      "language": "English"
-    },
-    {
-      "target_class": "ALREADY_PAID",
-      "text": "Actually auTO-debIT sE CoVEr hO gaYi ThI Emi 🙏",
-      "true_label": "ALREADY_PAID",
       "predicted_label": "NEEDS_REMINDER",
-      "confidence": 0.815,
+      "confidence": 0.2241,
+      "language": "Hinglish"
+    },
+    {
+      "target_class": "VAGUE",
+      "text": "Let me dekh leta hun",
+      "true_label": "VAGUE",
+      "predicted_label": "NEEDS_REMINDER",
+      "confidence": 0.408,
+      "language": "Hinglish"
+    },
+    {
+      "target_class": "VAGUE",
+      "text": "Kabhi kabhi system delay karta hai, shayad aaj hi clear ho jayega",
+      "true_label": "VAGUE",
+      "predicted_label": "LIKELY_PAY",
+      "confidence": 0.4014,
+      "language": "Hinglish"
+    },
+    {
+      "target_class": "VAGUE",
+      "text": "Mera bank payment process kar raha hai, shayad aane mein thoda time lagega",
+      "true_label": "VAGUE",
+      "predicted_label": "LIKELY_PAY",
+      "confidence": 0.3469,
       "language": "Hindi"
     },
     {
-      "target_class": "ALREADY_PAID",
-      "text": "Well pAYMENT WAS ALREADY TRANSFERRED VIA UPI",
-      "true_label": "ALREADY_PAID",
+      "target_class": "VAGUE",
+      "text": "Shayad mere bhai ne payment kar diya hoga",
+      "true_label": "VAGUE",
+      "predicted_label": "ALREADY_PAID",
+      "confidence": 0.3266,
+      "language": "Hinglish"
+    },
+    {
+      "target_class": "VAGUE",
+      "text": "maybe paisa choleche, kintu notification ashe nai",
+      "true_label": "VAGUE",
+      "predicted_label": "NEEDS_REMINDER",
+      "confidence": 0.3105,
+      "language": "Bengali"
+    },
+    {
+      "target_class": "VAGUE",
+      "text": "Payment abhi processing stage mein lag raha hai, confirm kar lenge jaldi",
+      "true_label": "VAGUE",
       "predicted_label": "LIKELY_PAY",
-      "confidence": 0.7989,
-      "language": "English"
+      "confidence": 0.3074,
+      "language": "Hindi"
+    },
+    {
+      "target_class": "VAGUE",
+      "text": "Bank ka transaction pending hai, thoda time do",
+      "true_label": "VAGUE",
+      "predicted_label": "LIKELY_PAY",
+      "confidence": 0.3041,
+      "language": "Hinglish"
     },
     {
       "target_class": "ALREADY_PAID",
-      "text": "Amar dik theke transaction successful",
+      "text": "15th er credit check koro",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.7762,
+      "confidence": 0.7825,
       "language": "Bengali"
+    },
+    {
+      "target_class": "ALREADY_PAID",
+      "text": "Full amount amount diya tha last month ko!!",
+      "true_label": "ALREADY_PAID",
+      "predicted_label": "DISPUTE",
+      "confidence": 0.5688,
+      "language": "Hindi"
     },
     {
       "target_class": "ALREADY_PAID",
       "text": "Well check your system, I paid via cheque",
       "true_label": "ALREADY_PAID",
       "predicted_label": "DISPUTE",
-      "confidence": 0.7642,
+      "confidence": 0.5669,
       "language": "English"
-    },
-    {
-      "target_class": "ALREADY_PAID",
-      "text": "Hey maine paisa already transfer kar diya thanks",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "LIKELY_PAY",
-      "confidence": 0.7179,
-      "language": "Hindi"
-    },
-    {
-      "target_class": "ALREADY_PAID",
-      "text": "Check 5th credit, woh mera payment hai",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "DISPUTE",
-      "confidence": 0.7151,
-      "language": "Hinglish"
-    },
-    {
-      "target_class": "ALREADY_PAID",
-      "text": "Your system is not updated, I paid already",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "DISPUTE",
-      "confidence": 0.7148,
-      "language": "English"
-    },
-    {
-      "target_class": "ALREADY_PAID",
-      "text": "My side se transaction successful",
-      "true_label": "ALREADY_PAID",
-      "predicted_label": "DISPUTE",
-      "confidence": 0.7123,
-      "language": "Hinglish"
     }
   ]
 }

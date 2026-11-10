@@ -330,7 +330,10 @@ class PromiseParser:
         temporal_days, raw_expr = self._extract_temporal(text_lower)
 
         # Step 5: Dateparser fallback for English dates
-        if temporal_days is None and self._dateparser:
+        # Skip for very short messages (≤2 words) — dateparser falsely parses
+        # "ok" as "October", "hi" as a date, etc.
+        word_count = len(text_clean.split())
+        if temporal_days is None and self._dateparser and word_count > 2:
             dp_days, dp_expr = self._dateparser_fallback(text_clean)
             if dp_days is not None:
                 temporal_days = dp_days

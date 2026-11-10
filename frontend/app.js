@@ -22,78 +22,78 @@ const TRACE_STEP_DELAY_MS = 150;
 // ── DOM References ──────────────────────────────────────────────
 const dom = {
   // Text tab
-  borrowerInput:      () => document.getElementById("borrower-input"),
-  agentInput:         () => document.getElementById("agent-input"),
-  analyzeBtn:         () => document.getElementById("analyze-btn"),
-  evaluatorSelect:    () => document.getElementById("evaluator-select"),
+  borrowerInput: () => document.getElementById("borrower-input"),
+  agentInput: () => document.getElementById("agent-input"),
+  analyzeBtn: () => document.getElementById("analyze-btn"),
+  evaluatorSelect: () => document.getElementById("evaluator-select"),
 
   // Text tab states
-  emptyState:         () => document.getElementById("empty-state"),
-  errorState:         () => document.getElementById("error-state"),
-  errorMessage:       () => document.getElementById("error-message"),
-  resultsContent:     () => document.getElementById("results-content"),
+  emptyState: () => document.getElementById("empty-state"),
+  errorState: () => document.getElementById("error-state"),
+  errorMessage: () => document.getElementById("error-message"),
+  resultsContent: () => document.getElementById("results-content"),
 
   // Trace
-  traceList:          () => document.getElementById("trace-list"),
+  traceList: () => document.getElementById("trace-list"),
 
   // Risk gauge (text tab)
-  riskValue:          () => document.getElementById("risk-value"),
-  riskBand:           () => document.getElementById("risk-band"),
-  riskGaugeFill:      () => document.getElementById("risk-gauge-fill"),
+  riskValue: () => document.getElementById("risk-value"),
+  riskBand: () => document.getElementById("risk-band"),
+  riskGaugeFill: () => document.getElementById("risk-gauge-fill"),
 
   // Intent (text tab)
-  intentValue:        () => document.getElementById("intent-value"),
-  intentConfFill:     () => document.getElementById("intent-confidence-fill"),
-  intentConfLabel:    () => document.getElementById("intent-confidence-label"),
+  intentValue: () => document.getElementById("intent-value"),
+  intentConfFill: () => document.getElementById("intent-confidence-fill"),
+  intentConfLabel: () => document.getElementById("intent-confidence-label"),
 
   // Promise (text tab)
-  promiseValue:       () => document.getElementById("promise-value"),
-  promiseWindow:      () => document.getElementById("promise-window"),
+  promiseValue: () => document.getElementById("promise-value"),
+  promiseWindow: () => document.getElementById("promise-window"),
 
   // Compliance (text tab)
-  complianceStatus:   () => document.getElementById("compliance-status"),
-  complianceList:     () => document.getElementById("compliance-list"),
+  complianceStatus: () => document.getElementById("compliance-status"),
+  complianceList: () => document.getElementById("compliance-list"),
 
   // Eval (text tab)
-  evalBlock:          () => document.getElementById("eval-block"),
-  overallScore:       () => document.getElementById("overall-score"),
-  overallScoreTag:    () => document.getElementById("overall-score-tag"),
-  suggestionText:     () => document.getElementById("suggestion-text"),
+  evalBlock: () => document.getElementById("eval-block"),
+  overallScore: () => document.getElementById("overall-score"),
+  overallScoreTag: () => document.getElementById("overall-score-tag"),
+  suggestionText: () => document.getElementById("suggestion-text"),
 
   // JSON (text tab)
-  jsonOutput:         () => document.getElementById("json-output"),
+  jsonOutput: () => document.getElementById("json-output"),
 
   // Audio tab
-  audioDropZone:      () => document.getElementById("audio-drop-zone"),
-  audioFileInput:     () => document.getElementById("audio-file-input"),
-  audioFileInfo:      () => document.getElementById("audio-file-info"),
-  audioFileName:      () => document.getElementById("audio-file-name"),
-  audioClearBtn:      () => document.getElementById("audio-clear-btn"),
-  audioAnalyzeBtn:    () => document.getElementById("audio-analyze-btn"),
-  audioTranscript:    () => document.getElementById("audio-transcript-block"),
+  audioDropZone: () => document.getElementById("audio-drop-zone"),
+  audioFileInput: () => document.getElementById("audio-file-input"),
+  audioFileInfo: () => document.getElementById("audio-file-info"),
+  audioFileName: () => document.getElementById("audio-file-name"),
+  audioClearBtn: () => document.getElementById("audio-clear-btn"),
+  audioAnalyzeBtn: () => document.getElementById("audio-analyze-btn"),
+  audioTranscript: () => document.getElementById("audio-transcript-block"),
   audioTranscriptContent: () => document.getElementById("audio-transcript-content"),
-  audioEmptyState:    () => document.getElementById("audio-empty-state"),
-  audioErrorState:    () => document.getElementById("audio-error-state"),
-  audioErrorMessage:  () => document.getElementById("audio-error-message"),
-  audioResultsContent:() => document.getElementById("audio-results-content"),
-  audioJsonOutput:    () => document.getElementById("audio-json-output"),
+  audioEmptyState: () => document.getElementById("audio-empty-state"),
+  audioErrorState: () => document.getElementById("audio-error-state"),
+  audioErrorMessage: () => document.getElementById("audio-error-message"),
+  audioResultsContent: () => document.getElementById("audio-results-content"),
+  audioJsonOutput: () => document.getElementById("audio-json-output"),
 
   // Leaderboard tab
-  leaderboardInput:   () => document.getElementById("leaderboard-input"),
-  leaderboardScoreBtn:() => document.getElementById("leaderboard-score-btn"),
-  leaderboardExportBtn:()=> document.getElementById("leaderboard-export-btn"),
-  leaderboardProgress:() => document.getElementById("leaderboard-progress"),
+  leaderboardInput: () => document.getElementById("leaderboard-input"),
+  leaderboardScoreBtn: () => document.getElementById("leaderboard-score-btn"),
+  leaderboardExportBtn: () => document.getElementById("leaderboard-export-btn"),
+  leaderboardProgress: () => document.getElementById("leaderboard-progress"),
   leaderboardProgressFill: () => document.getElementById("leaderboard-progress-fill"),
   leaderboardProgressLabel: () => document.getElementById("leaderboard-progress-label"),
   leaderboardEmptyState: () => document.getElementById("leaderboard-empty-state"),
   leaderboardErrorState: () => document.getElementById("leaderboard-error-state"),
   leaderboardErrorMessage: () => document.getElementById("leaderboard-error-message"),
   leaderboardResults: () => document.getElementById("leaderboard-results"),
-  leaderboardTbody:   () => document.getElementById("leaderboard-tbody"),
-  lbTotalCount:       () => document.getElementById("lb-total-count"),
-  lbAvgScore:         () => document.getElementById("lb-avg-score"),
-  lbBestScore:        () => document.getElementById("lb-best-score"),
-  lbWorstScore:       () => document.getElementById("lb-worst-score"),
+  leaderboardTbody: () => document.getElementById("leaderboard-tbody"),
+  lbTotalCount: () => document.getElementById("lb-total-count"),
+  lbAvgScore: () => document.getElementById("lb-avg-score"),
+  lbBestScore: () => document.getElementById("lb-best-score"),
+  lbWorstScore: () => document.getElementById("lb-worst-score"),
 };
 
 // ── Helpers ─────────────────────────────────────────────────────
@@ -505,8 +505,8 @@ function renderRadarChart(ev) {
     ];
     pillsContainer.innerHTML = dims.map(d =>
       `<span class="radar-score-pill">` +
-        `<span class="pill-label">${d.label}:</span>` +
-        `<span class="pill-value">${d.value.toFixed(1)}</span>` +
+      `<span class="pill-label">${d.label}:</span>` +
+      `<span class="pill-value">${d.value.toFixed(1)}</span>` +
       `</span>`
     ).join("");
   }
