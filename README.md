@@ -52,7 +52,9 @@ RecoveryBench is a six-stage evaluation pipeline for AI agents operating in debt
 ![RecoveryBench Landing Page](docs/screenshots/landing.png)
 
 ### Live Evaluation — Text Analysis
-![Text Analysis with Radar Chart](docs/screenshots/evaluation.png)
+<img width="1918" height="1033" alt="Screenshot 2026-06-20 140944" src="https://github.com/user-attachments/assets/99b7ccb0-0f39-40e8-b03e-44d4bfa0ebae" />
+<img width="1918" height="1031" alt="Screenshot 2026-06-20 140928" src="https://github.com/user-attachments/assets/facce73c-9e70-42ab-972c-7cf1bd6c8b8a" />
+
 
 ### Benchmark Results
 ![RecoveryBench-100 Accuracy Chart](docs/screenshots/benchmark.png)
@@ -144,11 +146,13 @@ uvicorn api.main:app --port 8000
 # API docs at http://localhost:8000/docs
 ```
 
-### Run the Gradio Demo
+### Run the Frontend
 
 ```bash
-python demo/app.py
-# Opens at http://localhost:7860
+# Serve the custom frontend
+cd frontend
+python -m http.server 8080
+# Opens at http://localhost:8080
 ```
 
 ### Docker
@@ -327,11 +331,22 @@ Core pipeline requires zero paid APIs.
 | Agent Evaluation | LLM-as-judge (Groq / Ollama / Claude) |
 | Voice Pipeline | Whisper + pyannote |
 | API | FastAPI + Pydantic |
-| Demo | Gradio |
+| Frontend	Vanilla HTML/CSS/JS (custom, no framework) |
+| Demo (legacy)	Gradio (demo/app.py, still functional) |
 | Testing | pytest |
 | Deployment | Docker + docker-compose |
 
 ---
+
+The frontend is a custom HTML/CSS/JS single-page application that 
+calls the FastAPI backend. No framework required — open 
+`frontend/index.html` directly or serve with any static file server.
+
+| Tab | Description |
+|-----|-------------|
+| **Text Analysis** | Analyze borrower messages — pipeline trace, risk gauge, radar chart |
+| **Audio Analysis** | Upload .wav/.mp3 → Whisper transcription → full analysis |
+| **Agent Leaderboard** | Score multiple conversations, rank by quality, export CSV |
 
 ## License
 
